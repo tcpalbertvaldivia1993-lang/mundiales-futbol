@@ -1,0 +1,47 @@
+{# Cómo va el quiz se guarda en la sesión: cada botón envía un formulario a /quiz/... #}
+{% set total = m.preguntas | length %}
+{# Cada pregunta trae su traducción ("pt", "en") en data/quiz.json; "correcta" es la misma en los tres idiomas #}
+{% set idioma = idioma_elegido() %}
+<section id="quiz" class="seccion">
+  <h2>{{ t("Datos curiosos") }}</h2>
+  <div class="quiz">
+    {% if quiz.indice >= total %}
+      <p class="nota">{{ t("Resultado final") }}</p>
+      <h3>{{ t("Has acertado {n} de {total}", n=quiz.aciertos, total=total) }}</h3>
+      <p class="quiz-mensaje">{{ t("🏆 ¡Pleno! Eres un experto del Mundial." if quiz.aciertos == total else "¿Lo intentas otra vez?") }}</p>
+      <form method="post" action="{{ url_for('quiz_reiniciar', **request.args) }}">
+        <button class="boton" type="submit">{{ t("Reintentar") }}</button>
+      </form>
+    {% else %}
+      {% set actual = m.preguntas[quiz.indice] %}
+      {% set texto_pregunta = actual if idioma == "es" else actual[idioma] %}
+      {% set respondida = quiz.respondida is not none %}
+      <p class="nota">{{ t("Pregunta {n} de {total}", n=quiz.indice + 1, total=total) }}</p>
+      <h3>{{ texto_pregunta.pregunta }}</h3>
+
+      <form class="quiz-opciones" method="post" action="{{ url_for('quiz_responder', **request.args) }}">
+        {% for texto in texto_pregunta.opciones %}
+          {# Una vez respondida: en verde la correcta y, si se falló, en rojo la elegida #}
+          {% set clase = "correcta" if respondida and loop.index0 == actual.correcta
+                         else ("incorrecta" if respondida and loop.index0 == quiz.respondida else "") %}
+          {# Los colores no se oyen: el lector de pantalla dice cuál era la buena y cuál elegiste #}
+          {% set elegida = respondida and loop.index0 == quiz.respondida %}
+          <button class="opcion {{ clase }}" type="submit" name="opcion" value="{{ loop.index0 }}" {% if respondida %}disabled{% endif %}>
+            {{- texto -}}
+            {%- if clase %}<span class="solo-lector"> ({{ t("tu respuesta, ") if elegida }}{{ t(clase) }})</span>{% endif -%}
+          </button>
+        {% endfor %}
+      </form>
+
+      {% if respondida %}
+        <p class="quiz-mensaje">
+          {% if quiz.respondida == actual.correcta %}✅ {{ t("¡Correcto!") }}{% else %}❌ {{ t("No era esa.") }}{% endif %}
+          {{ texto_pregunta.explicacion }}
+        </p>
+        <form method="post" action="{{ url_for('quiz_siguiente', **request.args) }}">
+          <button class="boton" type="submit">{{ t("Siguiente" if quiz.indice < total - 1 else "Ver resultado") }}</button>
+        </form>
+      {% endif %}
+    {% endif %}
+  </div>
+</section>

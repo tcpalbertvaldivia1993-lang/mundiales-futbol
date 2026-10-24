@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros with context %}
+
+{# La página de inicio: datos de todos los Mundiales, de 1930 a 2026, y un enlace a cada uno.
+   Los textos van con t() y los nombres de selecciones con | nombre: cambian con el idioma (textos.py) #}
+{% block titulo %}{{ t("Mundiales de fútbol 1930–2026") }}{% endblock %}
+
+{% block cabecera %}
+  {% set portada_historia = "" %}
+  {% include "cabecera_historia.html" %}
+{% endblock %}
+
+{# "Estados Unidos, México y Canadá": los nombres separados por comas y el último con "y" ("e", "and") #}
+{% macro lista(nombres) -%}
+  {%- set nombres = nombres | map("nombre") | list -%}
+  {{ nombres[:-1] | join(", ") ~ " " ~ t("y") ~ " " ~ nombres[-1] if nombres | length > 1 else nombres[0] }}
+{%- endmacro %}
+
+{% block contenido %}
+  <section id="inicio" class="portada">
+    <p class="antetitulo">{{ t("De Uruguay 1930 a Norteamérica 2026") }}</p>
+    <h1>{{ t("Copa Mundial de la FIFA") }}</h1>
+    <p class="lema">{{ t("Todos los Mundiales, partido a partido y gol a gol.") }}</p>
+    <ul class="cifras">
+      <li><strong>{{ h.mundiales | length }}</strong> {{ t("Mundiales") }}</li>
+      <li><strong>{{ h.partidos | con_puntos }}</strong> {{ t("partidos") }}</li>
+      <li><strong>{{ h.goles | con_puntos }}</strong> {{ t("goles") }}</li>
+      <li><strong>{{ h.titulos | length }}</strong> {{ t("campeones") }}</li>
+    </ul>
+    <a class="boton" href="{{ url_for('inicio', anio=ultimo) }}">{{ t("Ver el Mundial {año}", año=ultimo) }}</a>
+    {# El idioma, a la vista nada más entrar (también está en el pie de todas las páginas) #}
+    {% set id_idioma = "idioma-portada" %}
+    {% include "selector_idioma.html" %}
+  </section>
+
+  <section id="mundiales" class="seccion">
+    <h2>{{ t("Los {n} Mundiales", n=h.mundiales | length) }}</h2>
+    <p class="nota">{{ t("Entre 1938 y 1950 no hubo Mundial, por la Segunda Guerra Mundial.") }}</p>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Los Mundiales, del primero al último") }}</caption>
+        <thead>
+          <tr><th scope="col">{{ t("Año") }}</th><th scope="col">{{ t("Sede") }}</th><th scope="col">{{ t("Campeón") }}</th>
+              <th scope="col">{{ t("Partidos") }}</th><th scope="col">{{ t("Goles") }}</th></tr>
+        </thead>
+        <tbody>
+          {% for f in h.mundiales %}
+            <tr>
+              <th scope="row"><a href="{{ url_for('inicio', anio=f.año) }}">{{ f.año }}</a></th>
+              <td>{{ lista(f.sedes) }}</td>
+              <td><a href="{{ url_for('seleccion', nombre=actual(f.campeon)) }}">{{ f.campeon | nombre }}</a></td>
+              <td>{{ f.partidos }}</td>
+              <td>{{ f.goles }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="campeones" class="seccion">
+    <h2>{{ t("Campeones") }}</h2>
+    <p class="nota">{{ t("Los títulos de Alemania Federal (1954, 1974 y 1990) cuentan para Alemania, como hace la FIFA.") }}</p>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Títulos de cada selección") }}</caption>
+        <thead><tr><th scope="col">{{ t("Selección") }}</th><th scope="col">{{ t("Títulos") }}</th><th scope="col">{{ t("Años") }}</th></tr></thead>
+        <tbody>
+          {# La variable no puede llamarse "t": taparía a la función t() dentro del bucle #}
+          {% for f in h.titulos %}
+            <tr><th scope="row"><a href="{{ url_for('seleccion', nombre=f.nombre) }}">{{ f.nombre | nombre }}</a></th><td><strong>{{ f.titulos }}</strong></td><td>{{ f.años | join(", ") }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="goleadores" class="seccion">
+    <h2>{{ t("Máximos goleadores de la historia") }}</h2>
+    <p class="nota">{{ t("Goles en fases finales de los Mundiales, sin contar los de propia puerta.") }}</p>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Máximos goleadores de todos los Mundiales") }}</caption>
+        <thead>
+          <tr><th scope="col">{{ abreviatura("#", t("Puesto")) }}</th><th scope="col">{{ t("Jugador") }}</th><th scope="col">{{ t("Selección") }}</th>
+              <th scope="col">{{ t("Goles") }}</th><th scope="col">{{ t("Mundiales") }}</th></tr>
+        </thead>
+        <tbody>
+          {% for g in h.goleadores %}
+            <tr>
+              <td>{{ g.puesto }}</td>
+              <th scope="row">{{ g.jugador }}</th>
+              <td><a href="{{ url_for('seleccion', nombre=actual(g.seleccion)) }}">{{ g.seleccion | nombre }}</a></td>
+              <td><strong>{{ g.goles }}</strong></td>
+              <td>{{ g.años | join(", ") }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="goles" class="seccion">
+    <h2>{{ t("¿En qué Mundial hubo más goles?") }}</h2>
+    <div class="tarjeta">
+      <p class="nota">{{ t("Goles por partido en cada Mundial.") }}</p>
+      {{ macros.grafica_goles_por_partido(h.mundiales, "año", "grafica-mundiales", "Goles por partido en cada Mundial",
+                                          "el Mundial", "Mundial", izq=44) }}
+    </div>
+  </section>
+{% endblock %}

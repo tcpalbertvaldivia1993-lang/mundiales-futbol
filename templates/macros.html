@@ -1,0 +1,186 @@
+{# Trozos de HTML que se usan en varias secciones. Se importan con:
+   {% import "macros.html" as macros with context %} #}
+
+{# El nombre de una selección: un enlace que lleva a su camino #}
+{% macro enlace_seleccion(nombre) -%}
+  <a class="enlace-seleccion" href="{{ enlace('camino', seleccion=nombre) }}" title="{{ t('Ver el camino de {seleccion}', seleccion=nombre | nombre) }}">{{ nombre | nombre }}</a>
+{%- endmacro %}
+
+{# abreviatura("PJ", "Partidos jugados") y el filtro | abreviaturas están en app.py:
+   se ve la forma corta y el lector de pantalla lee la larga #}
+
+{# Campos ocultos con lo demás que está elegido, para que un formulario no lo pierda #}
+{% macro ocultos(excepto) -%}
+  {% for clave, valor in request.args.items() if clave != excepto %}
+    <input type="hidden" name="{{ clave }}" value="{{ valor }}">
+  {% endfor %}
+{%- endmacro %}
+
+{# Para las listas de partidos: una línea por equipo que marcó, o nada si fue 0-0 #}
+{% macro goleadores_del_partido(p) -%}
+  {% for equipo in [p.local, p.visitante] %}
+    {% set texto = anotadores_de(p, equipo) %}
+    {# El balón es decoración: el lector de pantalla no tiene que decir "balón de fútbol" en cada línea #}
+    {% if texto %}<br><span class="anotadores"><span aria-hidden="true">⚽</span><span class="solo-lector">{{ t("Goles de") }}</span> {{ equipo | nombre }}: {{ texto | abreviaturas }}</span>{% endif %}
+  {% endfor %}
+{%- endmacro %}
+
+{# La línea del tiempo de un partido: una barra con un punto por gol y la lista de goles.
+   No viene dentro de la página: "Línea del tiempo" es un enlace (?linea=...) y solo se pinta
+   la que se ha pedido. Al pulsarlo otra vez, se cierra. Antes eran <details> con todo dentro,
+   aunque nadie los abriera, y ocupaban más de la mitad de la página #}
+{% macro linea(p, lugar) -%}
+  {% if hay_goles(p) %}
+    {% set id = id_linea(p, lugar) %}
+    {% set abierta = request.args.get("linea") == id %}
+    <div class="linea-tiempo">
+      {# Abrir: ?linea=id. Cerrar: sin ?linea, pero con ?vista=id para que su desplegable siga abierto #}
+      <a class="abrir-linea" id="{{ id }}"
+         href="{{ enlace(id, linea=None, vista=id) if abierta else enlace(id, linea=id, vista=None) }}"
+         aria-expanded="{{ 'true' if abierta else 'false' }}">{{ t("Línea del tiempo") }}</a>
+    {% if abierta %}{{ linea_contenido(p) }}{% endif %}
+    </div>
+  {% endif %}
+{%- endmacro %}
+
+{# Lo de dentro de la línea del tiempo: la leyenda, la barra con un punto por gol y la lista de goles.
+   La usa linea() cuando está abierta, y la página de cada partido (partido.html), donde siempre se ve #}
+{% macro linea_contenido(p) -%}
+  {# "lt" y no "t": una variable llamada t taparía a la función t() de las traducciones #}
+  {% set lt = linea_del_tiempo(p) %}
+  <p class="leyenda-linea">
+    <span class="punto punto-local"></span> {{ p.local | nombre }}
+    <span class="punto punto-visitante"></span> {{ p.visitante | nombre }}
+  </p>
+  <div class="barra" aria-hidden="true">
+    {% for corte in lt.cortes %}<span class="corte" style="left: {{ corte }}%"></span>{% endfor %}
+    {% for f in lt.filas %}<span class="gol-marca {{ 'arriba' if f.para_local else 'abajo' }}" style="left: {{ f.posicion }}%"></span>{% endfor %}
+  </div>
+  <div class="barra-etiquetas" aria-hidden="true"><span>0'</span><span>{{ lt.duracion }}'</span></div>
+  <ol class="cronologia">
+    {% for f in lt.filas %}
+      <li>
+        <span class="minuto">{{ (f.minuto ~ "'") | abreviaturas }}</span>
+        <span class="punto {{ 'punto-local' if f.para_local else 'punto-visitante' }}"></span>
+        <span>{{ f.jugador | abreviaturas }}</span>
+        {# El color del punto dice para quién fue el gol; el lector de pantalla lo tiene que decir con palabras #}
+        <span class="solo-lector">, {{ t("gol para {seleccion}", seleccion=(p.local if f.para_local else p.visitante) | nombre) }},</span>
+        <strong>{{ f.marcador }}</strong>
+      </li>
+    {% endfor %}
+  </ol>
+{%- endmacro %}
+
+{# Un partido dentro de una lista (estadios o grupos) #}
+{% macro partido_en_lista(p, con_ronda, lugar) -%}
+  <li>
+    {{ p.fecha | fecha }} ·
+    {% if con_ronda %}{{ p.ronda | nombre }}<br>{% endif %}
+    {# El partido es un enlace a su propia página: /partido/12 #}
+    <a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a>{{ goleadores_del_partido(p) }}{{ linea(p, lugar) }}
+  </li>
+{%- endmacro %}
+
+{# Gráfica de barras de los goles por tramo de 15 minutos, dibujada en SVG desde aquí (sin JavaScript).
+   Una sola serie: un solo color (el verde de la web, que cambia con el tema), sin leyenda.
+   Solo la barra más alta lleva su número; las demás lo enseñan al pasar el ratón (<title> de SVG).
+   Para quien no ve la gráfica, debajo están los mismos datos en una tabla. #}
+{% macro grafica_goles_por_tramo(tramos) -%}
+  {# Un dibujo estrecho: en el móvil se encoge poco y las letras se leen #}
+  {% set ancho, alto = 340, 200 %}
+  {% set izq, der, arriba, abajo = 26, 4, 22, 24 %}         {# márgenes: números del eje, etiquetas #}
+  {% set alto_util = alto - arriba - abajo %}
+  {% set base = arriba + alto_util %}                     {# la línea de abajo, donde nacen las barras #}
+  {% set banda = (ancho - izq - der) / (tramos | length) %}
+  {% set grueso = 22 %}                                   {# barras finas: el resto de la banda es aire #}
+  {% set maximo = tramos | map(attribute="goles") | max %}
+  {% set tope = ((maximo // 30) + 1) * 30 %}              {# la escala llega al siguiente múltiplo de 30 #}
+  {% set mas_alto = (tramos | selectattr("goles", "equalto", maximo) | first).tramo %}
+  <figure class="grafica">
+    <svg viewBox="0 0 {{ ancho }} {{ alto }}" role="img" aria-labelledby="grafica-titulo grafica-resumen">
+      <title id="grafica-titulo">{{ t("Goles por minuto") }}</title>
+      <desc id="grafica-resumen">{{ t("Gráfica de barras: el tramo con más goles es el del {tramo}, con {goles}. Los datos están en la tabla de debajo.",
+                                     tramo=mas_alto, goles=maximo) }}</desc>
+      {# Líneas de referencia cada 30 goles, muy suaves, con su número a la izquierda #}
+      {% for valor in range(0, tope + 1, 30) %}
+        {% set y = base - valor / tope * alto_util %}
+        <line class="grafica-linea" x1="{{ izq }}" x2="{{ ancho - der }}" y1="{{ y }}" y2="{{ y }}"/>
+        <text class="grafica-texto" x="{{ izq - 6 }}" y="{{ y + 4 }}" text-anchor="end">{{ valor }}</text>
+      {% endfor %}
+      {% for f in tramos %}
+        {% set x = izq + loop.index0 * banda + (banda - grueso) / 2 %}
+        {% set y = base - f.goles / tope * alto_util %}
+        {% set r = [4, base - y] | min %}                    {# punta redondeada, base recta #}
+        <g class="grafica-tramo">
+          <title>{{ f.tramo }}: {{ t("{n} gol" if f.goles == 1 else "{n} goles", n=f.goles) }}</title>
+          {# Zona de toda la banda: el ratón no tiene que acertar en la barra fina #}
+          <rect class="grafica-zona" x="{{ izq + loop.index0 * banda }}" y="{{ arriba }}" width="{{ banda }}" height="{{ alto_util }}"/>
+          <path class="grafica-barra" d="M{{ x }},{{ base }} V{{ y + r }} Q{{ x }},{{ y }} {{ x + r }},{{ y }} H{{ x + grueso - r }} Q{{ x + grueso }},{{ y }} {{ x + grueso }},{{ y + r }} V{{ base }} Z"/>
+          {% if f.goles == maximo %}
+            <text class="grafica-valor" x="{{ x + grueso / 2 }}" y="{{ y - 6 }}" text-anchor="middle">{{ f.goles }}</text>
+          {% endif %}
+          <text class="grafica-texto" x="{{ x + grueso / 2 }}" y="{{ alto - 6 }}" text-anchor="middle">{{ f.tramo }}</text>
+        </g>
+      {% endfor %}
+    </svg>
+    <details class="grafica-datos">
+      <summary>{{ t("Ver los datos en una tabla") }}</summary>
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Goles por minuto") }}</caption>
+        <thead><tr><th scope="col">{{ t("Minutos") }}</th><th scope="col">{{ t("Goles") }}</th></tr></thead>
+        <tbody>
+          {% for f in tramos %}<tr><th scope="row">{{ f.tramo }}{% if loop.last %} ({{ t("prórroga") }}){% endif %}</th><td>{{ f.goles }}</td></tr>{% endfor %}
+        </tbody>
+      </table>
+    </details>
+  </figure>
+{%- endmacro %}
+
+{# Gráfica de los goles por partido de cada fila: las rondas de un Mundial, o los Mundiales.
+   Las barras van tumbadas (horizontales) para que los nombres largos ("Dieciseisavos de final")
+   se lean enteros a su izquierda. Cada barra lleva su número al final; el de la más larga, más marcado.
+   - filas: con "partidos", "goles" y "media", y el nombre en f[clave] ("ronda" o "año")
+   - id: el principio de los id del título y el resumen (tienen que ser distintos en cada gráfica)
+   - que: "la ronda" o "el Mundial", para el resumen que lee el lector de pantalla
+   - columna: el título de la primera columna de la tabla
+   - izq: lo ancho de la zona de los nombres #}
+{% macro grafica_goles_por_partido(filas, clave, id, titulo, que, columna, izq=150) -%}
+  {% set ancho, fila, grueso = 340, 26, 14 %}             {# fila: el alto de cada barra con su aire; grueso: el de la barra #}
+  {% set der, arriba = 50, 4 %}                           {# márgenes: números, arriba #}
+  {% set alto = arriba + fila * (filas | length) + 4 %}
+  {% set largo_util = ancho - izq - der %}
+  {% set maximo = filas | map(attribute="media") | max %}
+  {% set mas_larga = (filas | selectattr("media", "equalto", maximo) | first)[clave] %}
+  <figure class="grafica">
+    <svg viewBox="0 0 {{ ancho }} {{ alto }}" role="img" aria-labelledby="{{ id }}-titulo {{ id }}-resumen">
+      <title id="{{ id }}-titulo">{{ t(titulo) }}</title>
+      <desc id="{{ id }}-resumen">{{ t("Gráfica de barras: {que} con más goles por partido es «{cual}», con {media}. Los datos están en la tabla de debajo.",
+                                       que=t(que), cual=mas_larga | nombre, media=maximo | con_coma) }}</desc>
+      {# La línea de la izquierda, donde nacen las barras #}
+      <line class="grafica-linea" x1="{{ izq }}" x2="{{ izq }}" y1="{{ arriba }}" y2="{{ alto - 4 }}"/>
+      {% for f in filas %}
+        {% set y = arriba + loop.index0 * fila + (fila - grueso) / 2 %}
+        {% set x = izq + f.media / maximo * largo_util %}    {# donde acaba la barra #}
+        {% set r = [4, x - izq] | min %}                     {# punta redondeada, base recta #}
+        <g class="grafica-fila">
+          <title>{{ f[clave] | nombre }}: {{ t("{goles} en {partidos}", goles=t("{n} gol" if f.goles == 1 else "{n} goles", n=f.goles),
+                                                partidos=t("{n} partido" if f.partidos == 1 else "{n} partidos", n=f.partidos)) }}</title>
+          <rect class="grafica-zona" x="0" y="{{ arriba + loop.index0 * fila }}" width="{{ ancho }}" height="{{ fila }}"/>
+          <text class="grafica-texto" x="{{ izq - 8 }}" y="{{ y + grueso / 2 + 4 }}" text-anchor="end">{{ f[clave] | nombre }}</text>
+          <path class="grafica-barra" d="M{{ izq }},{{ y }} H{{ x - r }} Q{{ x }},{{ y }} {{ x }},{{ y + r }} V{{ y + grueso - r }} Q{{ x }},{{ y + grueso }} {{ x - r }},{{ y + grueso }} H{{ izq }} Z"/>
+          <text class="{{ 'grafica-valor' if f.media == maximo else 'grafica-texto' }}" x="{{ x + 6 }}" y="{{ y + grueso / 2 + 4 }}">{{ f.media | con_coma }}</text>
+        </g>
+      {% endfor %}
+    </svg>
+    <details class="grafica-datos">
+      <summary>{{ t("Ver los datos en una tabla") }}</summary>
+      <table class="tabla">
+        <caption class="solo-lector">{{ t(titulo) }}</caption>
+        <thead><tr><th scope="col">{{ t(columna) }}</th><th scope="col">{{ t("Partidos") }}</th><th scope="col">{{ t("Goles") }}</th><th scope="col">{{ t("Por partido") }}</th></tr></thead>
+        <tbody>
+          {% for f in filas %}<tr><th scope="row">{{ f[clave] | nombre }}</th><td>{{ f.partidos }}</td><td>{{ f.goles }}</td><td>{{ f.media | con_coma }}</td></tr>{% endfor %}
+        </tbody>
+      </table>
+    </details>
+  </figure>
+{%- endmacro %}

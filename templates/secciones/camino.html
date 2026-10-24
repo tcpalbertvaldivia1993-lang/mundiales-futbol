@@ -1,0 +1,51 @@
+{% import "macros.html" as macros with context %}
+<section id="camino" class="seccion">
+  <h2>{{ t("El camino de una selección") }}</h2>
+
+  <form class="buscador" method="get" action="{{ url_for('inicio') }}#camino">
+    {{ macros.ocultos(excepto="seleccion") }}
+    <label for="selector-camino" class="etiqueta">{{ t("Elige una selección") }}</label>
+    <div class="buscador-fila">
+      {# El valor de cada opción es el nombre en español (el de los datos); se ve el del idioma elegido #}
+      <select id="selector-camino" name="seleccion">
+        {% for s in m.selecciones %}
+          <option value="{{ s }}" {% if s == camino.seleccion %}selected{% endif %}>{{ s | nombre }}</option>
+        {% endfor %}
+      </select>
+      <button class="boton" type="submit">{{ t("Ver camino") }}</button>
+    </div>
+  </form>
+
+  <p class="camino-final">{{ t(camino.hasta_donde) }}</p>
+  {# Se ve "1.º" y se oye "Primera" (de la selección). En inglés, "1st" y "First" #}
+  <p class="nota">
+    {%- if camino.grupo %}{{ abreviatura(t(camino.puesto ~ ".º"), t(["Primera", "Segunda", "Tercera", "Cuarta"][camino.puesto - 1])) }}
+    {{ t("del grupo {grupo}", grupo=camino.grupo) }} · {% endif %}{{ t("{n} partido jugado" if camino.partidos | length == 1 else "{n} partidos jugados", n=camino.partidos | length) }}</p>
+  <p class="nota">
+    {% if camino.goleadores %}
+      {{ t("Goleadores:") }} {% for g in camino.goleadores %}{{ g.jugador }} ({{ g.goles }}){{ ", " if not loop.last }}{% endfor %}
+    {% else %}
+      {{ t("No marcó ningún gol.") }}
+    {% endif %}
+  </p>
+
+  <ol class="camino">
+    {% for p in camino.partidos %}
+      <li>
+        {# Se ve la letra en un círculo de color; el lector de pantalla lee la palabra entera.
+           La clase (el color) va con la letra en español: marca-V, marca-E, marca-D #}
+        {{ abreviatura(t(p.resultado), t({'V': 'Victoria', 'E': 'Empate', 'D': 'Derrota'}[p.resultado]),
+                              clase="marca marca-" ~ p.resultado) }}
+        <span>
+          <strong>{{ p.ronda | nombre }}</strong> · {{ p.fecha | fecha }} · {{ p.estadio }}<br>
+          <a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a>{{ macros.goleadores_del_partido(p) }}
+        </span>
+      </li>
+    {% endfor %}
+  </ol>
+
+  {# Vuelve a la tarjeta de su grupo. Se quita la búsqueda por si estaba ocultando ese grupo #}
+  {% if camino.grupo %}<a class="boton boton-secundario" href="{{ enlace('grupo-' ~ camino.grupo, buscar=None) }}">{{ t("← Volver a grupos") }}</a>{% endif %}
+  <a class="boton boton-secundario" href="{{ url_for('cara_a_cara', a=camino.seleccion) }}">{{ t("Comparar con otra selección →") }}</a>
+  <a class="boton boton-secundario" href="{{ url_for('seleccion', nombre=actual(camino.seleccion)) }}">{{ t("{seleccion} en todos los Mundiales →", seleccion=actual(camino.seleccion) | nombre) }}</a>
+</section>

@@ -1,0 +1,1800 @@
+{
+ "año": 1990,
+ "sedes": [
+  "Italia"
+ ],
+ "campeon": "Alemania Federal",
+ "inicio": "1990-06-08",
+ "fin": "1990-07-08",
+ "selecciones": 24,
+ "estadios": [
+  {
+   "nombre": "Stadio San Nicola",
+   "ciudad": "Bari",
+   "pais": "Italia",
+   "capacidad": 51000
+  },
+  {
+   "nombre": "Stadio Renato Dall'Ara",
+   "ciudad": "Bolonia",
+   "pais": "Italia",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Stadio Sant'Elia",
+   "ciudad": "Cagliari",
+   "pais": "Italia",
+   "capacidad": 35000
+  },
+  {
+   "nombre": "Stadio Comunale",
+   "ciudad": "Florencia",
+   "pais": "Italia",
+   "capacidad": 39000
+  },
+  {
+   "nombre": "Stadio Luigi Ferraris",
+   "ciudad": "Génova",
+   "pais": "Italia",
+   "capacidad": 37000
+  },
+  {
+   "nombre": "San Siro",
+   "ciudad": "Milán",
+   "pais": "Italia",
+   "capacidad": 75000
+  },
+  {
+   "nombre": "Stadio San Paolo",
+   "ciudad": "Nápoles",
+   "pais": "Italia",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Stadio La Favorita",
+   "ciudad": "Palermo",
+   "pais": "Italia",
+   "capacidad": 33000
+  },
+  {
+   "nombre": "Stadio Olimpico",
+   "ciudad": "Roma",
+   "pais": "Italia",
+   "capacidad": 74000
+  },
+  {
+   "nombre": "Stadio delle Alpi",
+   "ciudad": "Turín",
+   "pais": "Italia",
+   "capacidad": 63000
+  },
+  {
+   "nombre": "Stadio Friuli",
+   "ciudad": "Udine",
+   "pais": "Italia",
+   "capacidad": 36000
+  },
+  {
+   "nombre": "Stadio Marc'Antonio Bentegodi",
+   "ciudad": "Verona",
+   "pais": "Italia",
+   "capacidad": 36000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 4,
+     "gc": 0,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-09",
+     "estadio": "Stadio Olimpico",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-10",
+     "estadio": "Stadio Comunale",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "1990-06-14",
+     "estadio": "Stadio Olimpico",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-15",
+     "estadio": "Stadio Comunale",
+     "local": "Austria",
+     "golesLocal": 0,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-19",
+     "estadio": "Stadio Comunale",
+     "local": "Austria",
+     "golesLocal": 2,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-19",
+     "estadio": "Stadio Olimpico",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Rumania",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-08",
+     "estadio": "San Siro",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Camerún",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-09",
+     "estadio": "Stadio San Nicola",
+     "local": "Unión Soviética",
+     "golesLocal": 0,
+     "visitante": "Rumania",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1990-06-13",
+     "estadio": "Stadio San Paolo",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-14",
+     "estadio": "Stadio San Nicola",
+     "local": "Camerún",
+     "golesLocal": 2,
+     "visitante": "Rumania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-18",
+     "estadio": "Stadio San Paolo",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Rumania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-18",
+     "estadio": "Stadio San Nicola",
+     "local": "Camerún",
+     "golesLocal": 0,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 4
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-10",
+     "estadio": "Stadio delle Alpi",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-11",
+     "estadio": "Stadio Luigi Ferraris",
+     "local": "Costa Rica",
+     "golesLocal": 1,
+     "visitante": "Escocia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-16",
+     "estadio": "Stadio delle Alpi",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Costa Rica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-16",
+     "estadio": "Stadio Luigi Ferraris",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Escocia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1990-06-20",
+     "estadio": "Stadio delle Alpi",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Escocia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-20",
+     "estadio": "Stadio Luigi Ferraris",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Costa Rica",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 10,
+     "gc": 3,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Emiratos Árabes Unidos",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 11,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-09",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Emiratos Árabes Unidos",
+     "golesLocal": 0,
+     "visitante": "Colombia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1990-06-10",
+     "estadio": "San Siro",
+     "local": "Alemania Federal",
+     "golesLocal": 4,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-14",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Yugoslavia",
+     "golesLocal": 1,
+     "visitante": "Colombia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-15",
+     "estadio": "San Siro",
+     "local": "Alemania Federal",
+     "golesLocal": 5,
+     "visitante": "Emiratos Árabes Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-19",
+     "estadio": "San Siro",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Colombia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-19",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Yugoslavia",
+     "golesLocal": 4,
+     "visitante": "Emiratos Árabes Unidos",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 6,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-12",
+     "estadio": "Stadio Marc'Antonio Bentegodi",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-13",
+     "estadio": "Stadio Friuli",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-17",
+     "estadio": "Stadio Marc'Antonio Bentegodi",
+     "local": "Bélgica",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-17",
+     "estadio": "Stadio Friuli",
+     "local": "Corea del Sur",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1990-06-21",
+     "estadio": "Stadio Marc'Antonio Bentegodi",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1990-06-21",
+     "estadio": "Stadio Friuli",
+     "local": "Corea del Sur",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Irlanda",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Egipto",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 1,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1990-06-11",
+     "estadio": "Stadio Sant'Elia",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Irlanda",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-12",
+     "estadio": "Stadio La Favorita",
+     "local": "Países Bajos",
+     "golesLocal": 1,
+     "visitante": "Egipto",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-16",
+     "estadio": "Stadio Sant'Elia",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-17",
+     "estadio": "Stadio La Favorita",
+     "local": "Irlanda",
+     "golesLocal": 0,
+     "visitante": "Egipto",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-21",
+     "estadio": "Stadio Sant'Elia",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Egipto",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-21",
+     "estadio": "Stadio La Favorita",
+     "local": "Irlanda",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1990-06-23",
+     "estadio": "Stadio San Paolo",
+     "local": "Camerún",
+     "golesLocal": 2,
+     "visitante": "Colombia",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "1990-06-23",
+     "estadio": "Stadio San Nicola",
+     "local": "Checoslovaquia",
+     "golesLocal": 4,
+     "visitante": "Costa Rica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-24",
+     "estadio": "Stadio delle Alpi",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-24",
+     "estadio": "San Siro",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Países Bajos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-06-25",
+     "estadio": "Stadio Luigi Ferraris",
+     "local": "Irlanda",
+     "golesLocal": 0,
+     "visitante": "Rumania",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      5,
+      4
+     ]
+    },
+    {
+     "fecha": "1990-06-25",
+     "estadio": "Stadio Olimpico",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1990-06-26",
+     "estadio": "Stadio Marc'Antonio Bentegodi",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "1990-06-26",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 0,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1990-06-30",
+     "estadio": "Stadio Comunale",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      2
+     ]
+    },
+    {
+     "fecha": "1990-06-30",
+     "estadio": "Stadio Olimpico",
+     "local": "Irlanda",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-07-01",
+     "estadio": "San Siro",
+     "local": "Checoslovaquia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1990-07-01",
+     "estadio": "Stadio San Paolo",
+     "local": "Camerún",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 3,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1990-07-03",
+     "estadio": "Stadio San Paolo",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      3
+     ]
+    },
+    {
+     "fecha": "1990-07-04",
+     "estadio": "Stadio delle Alpi",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1990-07-07",
+     "estadio": "Stadio San Nicola",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1990-07-08",
+     "estadio": "Stadio Olimpico",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1990-06-08",
+   "local": "Argentina",
+   "visitante": "Camerún",
+   "jugador": "François Omam-Biyik",
+   "seleccion": "Camerún",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1990-06-09",
+   "local": "Unión Soviética",
+   "visitante": "Rumania",
+   "jugador": "Marius Lăcătuș",
+   "seleccion": "Rumania",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1990-06-09",
+   "local": "Unión Soviética",
+   "visitante": "Rumania",
+   "jugador": "Marius Lăcătuș",
+   "seleccion": "Rumania",
+   "minuto": "55",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-09",
+   "local": "Emiratos Árabes Unidos",
+   "visitante": "Colombia",
+   "jugador": "Bernardo Redín",
+   "seleccion": "Colombia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1990-06-09",
+   "local": "Emiratos Árabes Unidos",
+   "visitante": "Colombia",
+   "jugador": "Carlos Valderrama",
+   "seleccion": "Colombia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1990-06-09",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Tomáš Skuhravý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Michal Bílek",
+   "seleccion": "Checoslovaquia",
+   "minuto": "40",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Ivan Hašek",
+   "seleccion": "Checoslovaquia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Paul Caligiuri",
+   "seleccion": "Estados Unidos",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Tomáš Skuhravý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Estados Unidos",
+   "visitante": "Checoslovaquia",
+   "jugador": "Milan Luhový",
+   "seleccion": "Checoslovaquia",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Tomas Brolin",
+   "seleccion": "Suecia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania Federal",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania Federal",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Davor Jozić",
+   "seleccion": "Yugoslavia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania Federal",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1990-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1990-06-11",
+   "local": "Costa Rica",
+   "visitante": "Escocia",
+   "jugador": "Juan Cayasso",
+   "seleccion": "Costa Rica",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1990-06-11",
+   "local": "Inglaterra",
+   "visitante": "Irlanda",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1990-06-11",
+   "local": "Inglaterra",
+   "visitante": "Irlanda",
+   "jugador": "Kevin Sheedy",
+   "seleccion": "Irlanda",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1990-06-12",
+   "local": "Bélgica",
+   "visitante": "Corea del Sur",
+   "jugador": "Marc Degryse",
+   "seleccion": "Bélgica",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1990-06-12",
+   "local": "Bélgica",
+   "visitante": "Corea del Sur",
+   "jugador": "Michel De Wolf",
+   "seleccion": "Bélgica",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1990-06-12",
+   "local": "Países Bajos",
+   "visitante": "Egipto",
+   "jugador": "Wim Kieft",
+   "seleccion": "Países Bajos",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1990-06-12",
+   "local": "Países Bajos",
+   "visitante": "Egipto",
+   "jugador": "Magdi Abdelghani",
+   "seleccion": "Egipto",
+   "minuto": "83",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-13",
+   "local": "Argentina",
+   "visitante": "Unión Soviética",
+   "jugador": "Pedro Troglio",
+   "seleccion": "Argentina",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1990-06-13",
+   "local": "Argentina",
+   "visitante": "Unión Soviética",
+   "jugador": "Jorge Burruchaga",
+   "seleccion": "Argentina",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1990-06-14",
+   "local": "Camerún",
+   "visitante": "Rumania",
+   "jugador": "Roger Milla",
+   "seleccion": "Camerún",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1990-06-14",
+   "local": "Camerún",
+   "visitante": "Rumania",
+   "jugador": "Roger Milla",
+   "seleccion": "Camerún",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1990-06-14",
+   "local": "Camerún",
+   "visitante": "Rumania",
+   "jugador": "Gabi Balint",
+   "seleccion": "Rumania",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1990-06-14",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Davor Jozić",
+   "seleccion": "Yugoslavia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1990-06-14",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Giuseppe Giannini",
+   "seleccion": "Italia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Michal Bílek",
+   "seleccion": "Checoslovaquia",
+   "minuto": "31",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania Federal",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Khalid Ismaïl",
+   "seleccion": "Emiratos Árabes Unidos",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania Federal",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Uwe Bein",
+   "seleccion": "Alemania Federal",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1990-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1990-06-16",
+   "local": "Brasil",
+   "visitante": "Costa Rica",
+   "jugador": "Müller",
+   "seleccion": "Brasil",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1990-06-16",
+   "local": "Suecia",
+   "visitante": "Escocia",
+   "jugador": "Stuart McCall",
+   "seleccion": "Escocia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1990-06-16",
+   "local": "Suecia",
+   "visitante": "Escocia",
+   "jugador": "Mo Johnston",
+   "seleccion": "Escocia",
+   "minuto": "81",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-16",
+   "local": "Suecia",
+   "visitante": "Escocia",
+   "jugador": "Glenn Strömberg",
+   "seleccion": "Suecia",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Bélgica",
+   "visitante": "Uruguay",
+   "jugador": "Leo Clijsters",
+   "seleccion": "Bélgica",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Bélgica",
+   "visitante": "Uruguay",
+   "jugador": "Enzo Scifo",
+   "seleccion": "Bélgica",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Bélgica",
+   "visitante": "Uruguay",
+   "jugador": "Jan Ceulemans",
+   "seleccion": "Bélgica",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Bélgica",
+   "visitante": "Uruguay",
+   "jugador": "Pablo Bengoechea",
+   "seleccion": "Uruguay",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Corea del Sur",
+   "visitante": "España",
+   "jugador": "Míchel",
+   "seleccion": "España",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Corea del Sur",
+   "visitante": "España",
+   "jugador": "Kwan Hwangbo",
+   "seleccion": "Corea del Sur",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Corea del Sur",
+   "visitante": "España",
+   "jugador": "Míchel",
+   "seleccion": "España",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1990-06-17",
+   "local": "Corea del Sur",
+   "visitante": "España",
+   "jugador": "Míchel",
+   "seleccion": "España",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Argentina",
+   "visitante": "Rumania",
+   "jugador": "Pedro Monzón",
+   "seleccion": "Argentina",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Argentina",
+   "visitante": "Rumania",
+   "jugador": "Gabi Balint",
+   "seleccion": "Rumania",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Camerún",
+   "visitante": "Unión Soviética",
+   "jugador": "Oleh Protasov",
+   "seleccion": "Unión Soviética",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Camerún",
+   "visitante": "Unión Soviética",
+   "jugador": "Andrei Zygmantovich",
+   "seleccion": "Unión Soviética",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Camerún",
+   "visitante": "Unión Soviética",
+   "jugador": "Oleksandr Zavarov",
+   "seleccion": "Unión Soviética",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1990-06-18",
+   "local": "Camerún",
+   "visitante": "Unión Soviética",
+   "jugador": "Igor Dobrovolski",
+   "seleccion": "Unión Soviética",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Alemania Federal",
+   "visitante": "Colombia",
+   "jugador": "Pierre Littbarski",
+   "seleccion": "Alemania Federal",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Alemania Federal",
+   "visitante": "Colombia",
+   "jugador": "Freddy Rincón",
+   "seleccion": "Colombia",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Yugoslavia",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Safet Sušić",
+   "seleccion": "Yugoslavia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Yugoslavia",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Darko Pančev",
+   "seleccion": "Yugoslavia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Yugoslavia",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Ali Thani Jumaa",
+   "seleccion": "Emiratos Árabes Unidos",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Yugoslavia",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Darko Pančev",
+   "seleccion": "Yugoslavia",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Yugoslavia",
+   "visitante": "Emiratos Árabes Unidos",
+   "jugador": "Robert Prosinečki",
+   "seleccion": "Yugoslavia",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Austria",
+   "visitante": "Estados Unidos",
+   "jugador": "Andreas Ogris",
+   "seleccion": "Austria",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Austria",
+   "visitante": "Estados Unidos",
+   "jugador": "Gerhard Rodax",
+   "seleccion": "Austria",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Austria",
+   "visitante": "Estados Unidos",
+   "jugador": "Bruce Murray",
+   "seleccion": "Estados Unidos",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Italia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1990-06-19",
+   "local": "Italia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1990-06-20",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Müller",
+   "seleccion": "Brasil",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1990-06-20",
+   "local": "Suecia",
+   "visitante": "Costa Rica",
+   "jugador": "Johnny Ekström",
+   "seleccion": "Suecia",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1990-06-20",
+   "local": "Suecia",
+   "visitante": "Costa Rica",
+   "jugador": "Róger Flores",
+   "seleccion": "Costa Rica",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1990-06-20",
+   "local": "Suecia",
+   "visitante": "Costa Rica",
+   "jugador": "Hernán Medford",
+   "seleccion": "Costa Rica",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Bélgica",
+   "visitante": "España",
+   "jugador": "Míchel",
+   "seleccion": "España",
+   "minuto": "26",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Bélgica",
+   "visitante": "España",
+   "jugador": "Patrick Vervoort",
+   "seleccion": "Bélgica",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Bélgica",
+   "visitante": "España",
+   "jugador": "Alberto Górriz",
+   "seleccion": "España",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Corea del Sur",
+   "visitante": "Uruguay",
+   "jugador": "Daniel Fonseca",
+   "seleccion": "Uruguay",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Inglaterra",
+   "visitante": "Egipto",
+   "jugador": "Mark Wright",
+   "seleccion": "Inglaterra",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Irlanda",
+   "visitante": "Países Bajos",
+   "jugador": "Ruud Gullit",
+   "seleccion": "Países Bajos",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1990-06-21",
+   "local": "Irlanda",
+   "visitante": "Países Bajos",
+   "jugador": "Niall Quinn",
+   "seleccion": "Irlanda",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Camerún",
+   "visitante": "Colombia",
+   "jugador": "Roger Milla",
+   "seleccion": "Camerún",
+   "minuto": "106"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Camerún",
+   "visitante": "Colombia",
+   "jugador": "Roger Milla",
+   "seleccion": "Camerún",
+   "minuto": "108"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Camerún",
+   "visitante": "Colombia",
+   "jugador": "Bernardo Redín",
+   "seleccion": "Colombia",
+   "minuto": "115"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Checoslovaquia",
+   "visitante": "Costa Rica",
+   "jugador": "Tomáš Skuhravý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Checoslovaquia",
+   "visitante": "Costa Rica",
+   "jugador": "Rónald González Brenes",
+   "seleccion": "Costa Rica",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Checoslovaquia",
+   "visitante": "Costa Rica",
+   "jugador": "Tomáš Skuhravý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Checoslovaquia",
+   "visitante": "Costa Rica",
+   "jugador": "Luboš Kubík",
+   "seleccion": "Checoslovaquia",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1990-06-23",
+   "local": "Checoslovaquia",
+   "visitante": "Costa Rica",
+   "jugador": "Tomáš Skuhravý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1990-06-24",
+   "local": "Brasil",
+   "visitante": "Argentina",
+   "jugador": "Claudio Caniggia",
+   "seleccion": "Argentina",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1990-06-24",
+   "local": "Alemania Federal",
+   "visitante": "Países Bajos",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania Federal",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1990-06-24",
+   "local": "Alemania Federal",
+   "visitante": "Países Bajos",
+   "jugador": "Andreas Brehme",
+   "seleccion": "Alemania Federal",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1990-06-24",
+   "local": "Alemania Federal",
+   "visitante": "Países Bajos",
+   "jugador": "Ronald Koeman",
+   "seleccion": "Países Bajos",
+   "minuto": "89",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-06-25",
+   "local": "Italia",
+   "visitante": "Uruguay",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1990-06-25",
+   "local": "Italia",
+   "visitante": "Uruguay",
+   "jugador": "Aldo Serena",
+   "seleccion": "Italia",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1990-06-26",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Dragan Stojković",
+   "seleccion": "Yugoslavia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1990-06-26",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Julio Salinas",
+   "seleccion": "España",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1990-06-26",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Dragan Stojković",
+   "seleccion": "Yugoslavia",
+   "minuto": "93"
+  },
+  {
+   "fecha": "1990-06-26",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "David Platt",
+   "seleccion": "Inglaterra",
+   "minuto": "119"
+  },
+  {
+   "fecha": "1990-06-30",
+   "local": "Irlanda",
+   "visitante": "Italia",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Checoslovaquia",
+   "visitante": "Alemania Federal",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania Federal",
+   "minuto": "25",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Camerún",
+   "visitante": "Inglaterra",
+   "jugador": "David Platt",
+   "seleccion": "Inglaterra",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Camerún",
+   "visitante": "Inglaterra",
+   "jugador": "Emmanuel Kundé",
+   "seleccion": "Camerún",
+   "minuto": "61",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Camerún",
+   "visitante": "Inglaterra",
+   "jugador": "Eugène Ekéké",
+   "seleccion": "Camerún",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Camerún",
+   "visitante": "Inglaterra",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "83",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-07-01",
+   "local": "Camerún",
+   "visitante": "Inglaterra",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "105",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-07-03",
+   "local": "Argentina",
+   "visitante": "Italia",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1990-07-03",
+   "local": "Argentina",
+   "visitante": "Italia",
+   "jugador": "Claudio Caniggia",
+   "seleccion": "Argentina",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1990-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Andreas Brehme",
+   "seleccion": "Alemania Federal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1990-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1990-07-07",
+   "local": "Italia",
+   "visitante": "Inglaterra",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1990-07-07",
+   "local": "Italia",
+   "visitante": "Inglaterra",
+   "jugador": "David Platt",
+   "seleccion": "Inglaterra",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1990-07-07",
+   "local": "Italia",
+   "visitante": "Inglaterra",
+   "jugador": "Salvatore Schillaci",
+   "seleccion": "Italia",
+   "minuto": "86",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1990-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Argentina",
+   "jugador": "Andreas Brehme",
+   "seleccion": "Alemania Federal",
+   "minuto": "85",
+   "tipo": "penalti"
+  }
+ ]
+}

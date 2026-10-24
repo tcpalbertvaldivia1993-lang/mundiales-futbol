@@ -1,0 +1,37 @@
+{% import "macros.html" as macros with context %}
+<section id="sedes" class="seccion">
+  <h2>{{ t("Sedes y estadios") }}</h2>
+
+  {# Cada filtro es un enlace a la misma página con ?pais=... #}
+  {# Solo si hubo más de un país (2002 y 2026). El valor de ?pais= es el nombre en español (el de los datos) #}
+  {% if m.paises | length > 1 %}
+  <nav class="filtros" aria-label="{{ t('Filtrar estadios por país') }}">
+    {% for valor in [None] + m.paises %}
+      {# "EE. UU." se ve corto, pero el lector de pantalla dice "Estados Unidos" (en inglés, "USA" y "United States") #}
+      {% set texto = t("Todos") if valor is none
+                     else abreviatura(t("EE. UU."), valor | nombre) if valor == "Estados Unidos" else valor | nombre %}
+      <a class="filtro {{ 'activo' if pais == valor }}" href="{{ enlace('sedes', pais=valor) }}"
+         {% if pais == valor %}aria-current="true"{% endif %}>{{ texto }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+  <p class="nota">{{ t("Mostrando {n} de {total} estadios", n=estadios | length, total=m.estadios | length) }}</p>
+
+  <div class="rejilla">
+    {% for e in estadios %}
+      {% set partidos = m.partidos_por_estadio.get(e.nombre, []) %}
+      <article class="tarjeta">
+        <h3>{{ e.nombre }}</h3>
+        <p>{{ e.ciudad | nombre }} · {{ e.pais | nombre }}</p>
+        <p class="capacidad">{{ t("{n} espectadores", n=e.capacidad | con_puntos) }}</p>
+        {# Abierto si dentro está la línea del tiempo que se ha pedido #}
+        <details{% if linea_abierta_en(partidos, "sede") %} open{% endif %}>
+          <summary>{{ t("{n} partido" if partidos | length == 1 else "{n} partidos", n=partidos | length) }}</summary>
+          <ul class="lista-partidos">
+            {% for p in partidos %}{{ macros.partido_en_lista(p, con_ronda=true, lugar="sede") }}{% endfor %}
+          </ul>
+        </details>
+      </article>
+    {% endfor %}
+  </div>
+</section>

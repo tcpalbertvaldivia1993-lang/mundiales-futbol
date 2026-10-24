@@ -1,0 +1,15 @@
+{# Los botones para elegir el idioma, sin JavaScript: cada uno envía el formulario a /idioma, como los del tema.
+   "volver" es la página actual, para regresar a ella. Cada nombre va en su idioma (lang="pt"...), para que
+   el lector de pantalla lo pronuncie bien, y aria-pressed dice cuál está elegido.
+   id_idioma: el id del formulario (en la página de inicio sale dos veces: arriba y en el pie) #}
+{% set elegido = idioma_elegido() %}
+<form id="{{ id_idioma }}" class="tema" method="post" action="{{ url_for('elegir_idioma') }}">
+  <input type="hidden" name="volver" value="{{ request.full_path.rstrip('?') }}">
+  <fieldset>
+    <legend>{{ t("Idioma") }}</legend>
+    {% for codigo, nombre_idioma in idiomas.items() %}
+      <button class="filtro {{ 'activo' if elegido == codigo }}" type="submit" name="idioma" value="{{ codigo }}"
+              lang="{{ codigo }}" aria-pressed="{{ 'true' if elegido == codigo else 'false' }}">{{ nombre_idioma }}</button>
+    {% endfor %}
+  </fieldset>
+</form>

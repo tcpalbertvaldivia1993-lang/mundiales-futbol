@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+{% set tema = tema_elegido() %}
+{# Si se ha elegido un tema a mano, el CSS lo ve en data-tema (y si no, sigue al sistema) #}
+{# lang: el idioma elegido, para que el lector de pantalla lea con la pronunciación correcta #}
+<html lang="{{ idioma_elegido() }}"{% if tema != "auto" %} data-tema="{{ tema }}"{% endif %}>
+{# El Mundial de la página: el de su año, o el último en las páginas que no son de ninguno (la 404) #}
+{% set m = m if m is defined else ultimo_mundial %}
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {# El navegador sabe el tema antes de que llegue el CSS: así no hay un fogonazo del otro color #}
+  <meta name="color-scheme" content="{{ {'claro': 'light', 'oscuro': 'dark'}.get(tema, 'dark light') }}">
+  <title>{% block titulo %}{{ t("Mundial {año}", año=m.año) }}{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ estatico('styles.css') }}">
+  {# El icono de la pestaña. Sin él, el navegador pide /favicon.ico en cada visita y recibe un 404 #}
+  <link rel="icon" href="{{ estatico('favicon.svg') }}" type="image/svg+xml">
+</head>
+<body>
+  {# En la portada, los enlaces del menú son solo "#sedes"... (así no se pierde lo elegido).
+     En otras páginas, como la 404, llevan delante la dirección de la portada: "/#sedes" #}
+  {% set portada = portada | default("") %}
+  {# Lo primero a lo que se llega con la tecla Tab. Está escondido hasta que recibe el foco, y así
+     quien usa el teclado no tiene que pasar por los 9 enlaces de la cabecera en cada página #}
+  <a class="saltar" href="#contenido">{{ t("Saltar al contenido") }}</a>
+
+  <!-- Menú fijo. En móvil, los enlaces se deslizan de lado (sin JavaScript) -->
+  <header class="cabecera">
+    {# El logo y el menú de un Mundial. La página de inicio (todos los Mundiales) pone los suyos #}
+    {% block cabecera %}
+      <a href="{{ portada }}#inicio" class="logo">{{ t("Mundial") }} <span>{{ m.año }}</span></a>
+      <nav class="menu" aria-label="{{ t('Secciones') }}">
+        {# Solo las secciones que tiene ese Mundial (las mismas condiciones que en index.html) #}
+        {% for ancla, nombre, hay in [("inicio", "Inicio", true), ("sedes", "Sedes", true),
+                                      ("selecciones", "Selecciones", m.grupos), ("formato", "Formato", m.año == 2026),
+                                      ("resultados", "Resultados", true), ("camino", "Camino", true),
+                                      ("goleadores", "Goleadores", true), ("quiz", "Quiz", m.preguntas)] %}
+          {% if hay %}<a href="{{ portada }}#{{ ancla }}">{{ t(nombre) }}</a>{% endif %}
+        {% endfor %}
+      </nav>
+    {% endblock %}
+  </header>
+
+  <main id="contenido">
+    {% block contenido %}{% endblock %}
+  </main>
+
+  <footer class="pie">
+    <p>{{ t("Proyecto de práctica hecho con Python y Flask.") }} {{ t("Datos verificados: ver") }} <a href="{{ url_for('fuentes') }}">{{ t("las fuentes") }}</a>.
+      <a href="{{ url_for('raiz') }}">{{ t("Todos los Mundiales") }}</a>.</p>
+
+    {% set id_idioma = "idioma" %}
+    {% include "selector_idioma.html" %}
+
+    {# Elegir el tema sin JavaScript: cada botón envía el formulario a /tema, como el quiz.
+       aria-pressed le dice al lector de pantalla cuál está elegido ("botón Claro, pulsado") #}
+    <form id="tema" class="tema" method="post" action="{{ url_for('elegir_tema') }}">
+      <input type="hidden" name="volver" value="{{ request.full_path.rstrip('?') }}">
+      <fieldset>
+        <legend>{{ t("Tema") }}</legend>
+        {% for valor, nombre in temas.items() %}
+          <button class="filtro {{ 'activo' if tema == valor }}" type="submit" name="tema" value="{{ valor }}"
+                  aria-pressed="{{ 'true' if tema == valor else 'false' }}">{{ t(nombre) }}</button>
+        {% endfor %}
+      </fieldset>
+    </form>
+
+    {# Dentro del pie, y no suelto en <body>: los lectores de pantalla recorren la página por zonas
+       (cabecera, menú, contenido, pie) y lo que queda fuera de ellas es fácil de perder.
+       Como es "position: fixed", se ve en la esquina igual que antes.
+       En un bloque, para que una página corta (la 404) pueda quitarlo #}
+    {% block volver_arriba %}
+      <!-- Aparece al bajar por la página (solo con CSS). "#top" lleva al principio de todo,
+           cabecera incluida (en el móvil la cabecera no es fija y se queda arriba) -->
+      <a href="#top" class="volver-arriba" aria-label="{{ t('Volver arriba') }}" title="{{ t('Volver arriba') }}">↑</a>
+    {% endblock %}
+  </footer>
+</body>
+</html>

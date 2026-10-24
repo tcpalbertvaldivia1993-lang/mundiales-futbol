@@ -1,0 +1,600 @@
+{
+ "selecciones": {
+  "Alemania": {
+   "pt": "Alemanha",
+   "en": "Germany"
+  },
+  "Alemania Federal": {
+   "pt": "Alemanha Ocidental",
+   "en": "West Germany"
+  },
+  "Alemania Oriental": {
+   "pt": "Alemanha Oriental",
+   "en": "East Germany"
+  },
+  "Angola": {
+   "pt": "Angola",
+   "en": "Angola"
+  },
+  "Arabia Saudí": {
+   "pt": "Arábia Saudita",
+   "en": "Saudi Arabia"
+  },
+  "Argelia": {
+   "pt": "Argélia",
+   "en": "Algeria"
+  },
+  "Argentina": {
+   "pt": "Argentina",
+   "en": "Argentina"
+  },
+  "Australia": {
+   "pt": "Austrália",
+   "en": "Australia"
+  },
+  "Austria": {
+   "pt": "Áustria",
+   "en": "Austria"
+  },
+  "Bolivia": {
+   "pt": "Bolívia",
+   "en": "Bolivia"
+  },
+  "Bosnia y Herzegovina": {
+   "pt": "Bósnia e Herzegovina",
+   "en": "Bosnia and Herzegovina"
+  },
+  "Brasil": {
+   "pt": "Brasil",
+   "en": "Brazil"
+  },
+  "Bulgaria": {
+   "pt": "Bulgária",
+   "en": "Bulgaria"
+  },
+  "Bélgica": {
+   "pt": "Bélgica",
+   "en": "Belgium"
+  },
+  "Cabo Verde": {
+   "pt": "Cabo Verde",
+   "en": "Cape Verde"
+  },
+  "Camerún": {
+   "pt": "Camarões",
+   "en": "Cameroon"
+  },
+  "Canadá": {
+   "pt": "Canadá",
+   "en": "Canada"
+  },
+  "Catar": {
+   "pt": "Catar",
+   "en": "Qatar"
+  },
+  "Checoslovaquia": {
+   "pt": "Tchecoslováquia",
+   "en": "Czechoslovakia"
+  },
+  "Chequia": {
+   "pt": "Tchéquia",
+   "en": "Czechia"
+  },
+  "Chile": {
+   "pt": "Chile",
+   "en": "Chile"
+  },
+  "China": {
+   "pt": "China",
+   "en": "China"
+  },
+  "Colombia": {
+   "pt": "Colômbia",
+   "en": "Colombia"
+  },
+  "Corea del Norte": {
+   "pt": "Coreia do Norte",
+   "en": "North Korea"
+  },
+  "Corea del Sur": {
+   "pt": "Coreia do Sul",
+   "en": "South Korea"
+  },
+  "Costa Rica": {
+   "pt": "Costa Rica",
+   "en": "Costa Rica"
+  },
+  "Costa de Marfil": {
+   "pt": "Costa do Marfim",
+   "en": "Ivory Coast"
+  },
+  "Croacia": {
+   "pt": "Croácia",
+   "en": "Croatia"
+  },
+  "Cuba": {
+   "pt": "Cuba",
+   "en": "Cuba"
+  },
+  "Curazao": {
+   "pt": "Curaçao",
+   "en": "Curaçao"
+  },
+  "Dinamarca": {
+   "pt": "Dinamarca",
+   "en": "Denmark"
+  },
+  "Ecuador": {
+   "pt": "Equador",
+   "en": "Ecuador"
+  },
+  "Egipto": {
+   "pt": "Egito",
+   "en": "Egypt"
+  },
+  "El Salvador": {
+   "pt": "El Salvador",
+   "en": "El Salvador"
+  },
+  "Emiratos Árabes Unidos": {
+   "pt": "Emirados Árabes Unidos",
+   "en": "United Arab Emirates"
+  },
+  "Escocia": {
+   "pt": "Escócia",
+   "en": "Scotland"
+  },
+  "Eslovaquia": {
+   "pt": "Eslováquia",
+   "en": "Slovakia"
+  },
+  "Eslovenia": {
+   "pt": "Eslovênia",
+   "en": "Slovenia"
+  },
+  "España": {
+   "pt": "Espanha",
+   "en": "Spain"
+  },
+  "Estados Unidos": {
+   "pt": "Estados Unidos",
+   "en": "United States"
+  },
+  "Francia": {
+   "pt": "França",
+   "en": "France"
+  },
+  "Gales": {
+   "pt": "País de Gales",
+   "en": "Wales"
+  },
+  "Ghana": {
+   "pt": "Gana",
+   "en": "Ghana"
+  },
+  "Grecia": {
+   "pt": "Grécia",
+   "en": "Greece"
+  },
+  "Haití": {
+   "pt": "Haiti",
+   "en": "Haiti"
+  },
+  "Honduras": {
+   "pt": "Honduras",
+   "en": "Honduras"
+  },
+  "Hungría": {
+   "pt": "Hungria",
+   "en": "Hungary"
+  },
+  "Indias Orientales Neerlandesas": {
+   "pt": "Índias Orientais Holandesas",
+   "en": "Dutch East Indies"
+  },
+  "Indonesia": {
+   "pt": "Indonésia",
+   "en": "Indonesia"
+  },
+  "Inglaterra": {
+   "pt": "Inglaterra",
+   "en": "England"
+  },
+  "Irak": {
+   "pt": "Iraque",
+   "en": "Iraq"
+  },
+  "Irlanda": {
+   "pt": "Irlanda",
+   "en": "Republic of Ireland"
+  },
+  "Irlanda del Norte": {
+   "pt": "Irlanda do Norte",
+   "en": "Northern Ireland"
+  },
+  "Irán": {
+   "pt": "Irã",
+   "en": "Iran"
+  },
+  "Islandia": {
+   "pt": "Islândia",
+   "en": "Iceland"
+  },
+  "Israel": {
+   "pt": "Israel",
+   "en": "Israel"
+  },
+  "Italia": {
+   "pt": "Itália",
+   "en": "Italy"
+  },
+  "Jamaica": {
+   "pt": "Jamaica",
+   "en": "Jamaica"
+  },
+  "Japón": {
+   "pt": "Japão",
+   "en": "Japan"
+  },
+  "Jordania": {
+   "pt": "Jordânia",
+   "en": "Jordan"
+  },
+  "Kuwait": {
+   "pt": "Kuwait",
+   "en": "Kuwait"
+  },
+  "Marruecos": {
+   "pt": "Marrocos",
+   "en": "Morocco"
+  },
+  "México": {
+   "pt": "México",
+   "en": "Mexico"
+  },
+  "Nigeria": {
+   "pt": "Nigéria",
+   "en": "Nigeria"
+  },
+  "Noruega": {
+   "pt": "Noruega",
+   "en": "Norway"
+  },
+  "Nueva Zelanda": {
+   "pt": "Nova Zelândia",
+   "en": "New Zealand"
+  },
+  "Panamá": {
+   "pt": "Panamá",
+   "en": "Panama"
+  },
+  "Paraguay": {
+   "pt": "Paraguai",
+   "en": "Paraguay"
+  },
+  "Países Bajos": {
+   "pt": "Países Baixos",
+   "en": "Netherlands"
+  },
+  "Perú": {
+   "pt": "Peru",
+   "en": "Peru"
+  },
+  "Polonia": {
+   "pt": "Polônia",
+   "en": "Poland"
+  },
+  "Portugal": {
+   "pt": "Portugal",
+   "en": "Portugal"
+  },
+  "RD del Congo": {
+   "pt": "RD do Congo",
+   "en": "DR Congo"
+  },
+  "República Checa": {
+   "pt": "República Tcheca",
+   "en": "Czech Republic"
+  },
+  "Rumania": {
+   "pt": "Romênia",
+   "en": "Romania"
+  },
+  "Rusia": {
+   "pt": "Rússia",
+   "en": "Russia"
+  },
+  "Senegal": {
+   "pt": "Senegal",
+   "en": "Senegal"
+  },
+  "Serbia": {
+   "pt": "Sérvia",
+   "en": "Serbia"
+  },
+  "Serbia y Montenegro": {
+   "pt": "Sérvia e Montenegro",
+   "en": "Serbia and Montenegro"
+  },
+  "Sudáfrica": {
+   "pt": "África do Sul",
+   "en": "South Africa"
+  },
+  "Suecia": {
+   "pt": "Suécia",
+   "en": "Sweden"
+  },
+  "Suiza": {
+   "pt": "Suíça",
+   "en": "Switzerland"
+  },
+  "Togo": {
+   "pt": "Togo",
+   "en": "Togo"
+  },
+  "Trinidad y Tobago": {
+   "pt": "Trinidad e Tobago",
+   "en": "Trinidad and Tobago"
+  },
+  "Turquía": {
+   "pt": "Turquia",
+   "en": "Turkey"
+  },
+  "Túnez": {
+   "pt": "Tunísia",
+   "en": "Tunisia"
+  },
+  "Ucrania": {
+   "pt": "Ucrânia",
+   "en": "Ukraine"
+  },
+  "Unión Soviética": {
+   "pt": "União Soviética",
+   "en": "Soviet Union"
+  },
+  "Uruguay": {
+   "pt": "Uruguai",
+   "en": "Uruguay"
+  },
+  "Uzbekistán": {
+   "pt": "Uzbequistão",
+   "en": "Uzbekistan"
+  },
+  "Yugoslavia": {
+   "pt": "Iugoslávia",
+   "en": "Yugoslavia"
+  },
+  "Zaire": {
+   "pt": "Zaire",
+   "en": "Zaire"
+  }
+ },
+ "rondas": {
+  "Fase de grupos": {
+   "pt": "Fase de grupos",
+   "en": "Group stage"
+  },
+  "Segunda fase de grupos": {
+   "pt": "Segunda fase de grupos",
+   "en": "Second group stage"
+  },
+  "Liguilla final": {
+   "pt": "Quadrangular final",
+   "en": "Final round"
+  },
+  "Dieciseisavos de final": {
+   "pt": "Dezesseis-avos de final",
+   "en": "Round of 32"
+  },
+  "Octavos de final": {
+   "pt": "Oitavas de final",
+   "en": "Round of 16"
+  },
+  "Cuartos de final": {
+   "pt": "Quartas de final",
+   "en": "Quarter-finals"
+  },
+  "Semifinales": {
+   "pt": "Semifinais",
+   "en": "Semi-finals"
+  },
+  "Tercer puesto": {
+   "pt": "Disputa do terceiro lugar",
+   "en": "Third-place match"
+  },
+  "Final": {
+   "pt": "Final",
+   "en": "Final"
+  }
+ },
+ "ciudades": {
+  "Bahía de San Francisco": {
+   "pt": "Baía de São Francisco",
+   "en": "San Francisco Bay Area"
+  },
+  "Basilea": {
+   "pt": "Basileia",
+   "en": "Basel"
+  },
+  "Berlín": {
+   "pt": "Berlim",
+   "en": "Berlin"
+  },
+  "Berna": {
+   "pt": "Berna",
+   "en": "Bern"
+  },
+  "Bolonia": {
+   "pt": "Bolonha",
+   "en": "Bologna"
+  },
+  "Brasilia": {
+   "pt": "Brasília",
+   "en": "Brasília"
+  },
+  "Burdeos": {
+   "pt": "Bordeaux",
+   "en": "Bordeaux"
+  },
+  "Ciudad de México": {
+   "pt": "Cidade do México",
+   "en": "Mexico City"
+  },
+  "Ciudad del Cabo": {
+   "pt": "Cidade do Cabo",
+   "en": "Cape Town"
+  },
+  "Colonia": {
+   "pt": "Colônia",
+   "en": "Cologne"
+  },
+  "Ekaterimburgo": {
+   "pt": "Ecaterimburgo",
+   "en": "Yekaterinburg"
+  },
+  "El Havre": {
+   "pt": "Le Havre",
+   "en": "Le Havre"
+  },
+  "Estrasburgo": {
+   "pt": "Estrasburgo",
+   "en": "Strasbourg"
+  },
+  "Filadelfia": {
+   "pt": "Filadélfia",
+   "en": "Philadelphia"
+  },
+  "Florencia": {
+   "pt": "Florença",
+   "en": "Florence"
+  },
+  "Fráncfort": {
+   "pt": "Frankfurt",
+   "en": "Frankfurt"
+  },
+  "Ginebra": {
+   "pt": "Genebra",
+   "en": "Geneva"
+  },
+  "Gotemburgo": {
+   "pt": "Gotemburgo",
+   "en": "Gothenburg"
+  },
+  "Génova": {
+   "pt": "Gênova",
+   "en": "Genoa"
+  },
+  "Hamburgo": {
+   "pt": "Hamburgo",
+   "en": "Hamburg"
+  },
+  "Hannover": {
+   "pt": "Hanôver",
+   "en": "Hanover"
+  },
+  "Johannesburgo": {
+   "pt": "Joanesburgo",
+   "en": "Johannesburg"
+  },
+  "Kaliningrado": {
+   "pt": "Kaliningrado",
+   "en": "Kaliningrad"
+  },
+  "Kazán": {
+   "pt": "Kazan",
+   "en": "Kazan"
+  },
+  "Lausana": {
+   "pt": "Lausanne",
+   "en": "Lausanne"
+  },
+  "Londres": {
+   "pt": "Londres",
+   "en": "London"
+  },
+  "Los Ángeles": {
+   "pt": "Los Angeles",
+   "en": "Los Angeles"
+  },
+  "Marsella": {
+   "pt": "Marselha",
+   "en": "Marseille"
+  },
+  "Milán": {
+   "pt": "Milão",
+   "en": "Milan"
+  },
+  "Moscú": {
+   "pt": "Moscou",
+   "en": "Moscow"
+  },
+  "Múnich": {
+   "pt": "Munique",
+   "en": "Munich"
+  },
+  "Nizhni Nóvgorod": {
+   "pt": "Níjni Novgorod",
+   "en": "Nizhny Novgorod"
+  },
+  "Nueva York / Nueva Jersey": {
+   "pt": "Nova York / Nova Jersey",
+   "en": "New York / New Jersey"
+  },
+  "Nápoles": {
+   "pt": "Nápoles",
+   "en": "Naples"
+  },
+  "Núremberg": {
+   "pt": "Nuremberg",
+   "en": "Nuremberg"
+  },
+  "París": {
+   "pt": "Paris",
+   "en": "Paris"
+  },
+  "Roma": {
+   "pt": "Roma",
+   "en": "Rome"
+  },
+  "Rostov del Don": {
+   "pt": "Rostov do Don",
+   "en": "Rostov-on-Don"
+  },
+  "Río de Janeiro": {
+   "pt": "Rio de Janeiro",
+   "en": "Rio de Janeiro"
+  },
+  "San Petersburgo": {
+   "pt": "São Petersburgo",
+   "en": "Saint Petersburg"
+  },
+  "Sevilla": {
+   "pt": "Sevilha",
+   "en": "Seville"
+  },
+  "Seúl": {
+   "pt": "Seul",
+   "en": "Seoul"
+  },
+  "Turín": {
+   "pt": "Turim",
+   "en": "Turin"
+  },
+  "Valencia": {
+   "pt": "Valência",
+   "en": "Valencia"
+  },
+  "Washington D. C.": {
+   "pt": "Washington, D.C.",
+   "en": "Washington, D.C."
+  },
+  "Zaragoza": {
+   "pt": "Saragoça",
+   "en": "Zaragoza"
+  },
+  "Zúrich": {
+   "pt": "Zurique",
+   "en": "Zürich"
+  }
+ }
+}

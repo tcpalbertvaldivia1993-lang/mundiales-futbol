@@ -1,0 +1,1483 @@
+{
+ "año": 1974,
+ "sedes": [
+  "Alemania Federal"
+ ],
+ "campeon": "Alemania Federal",
+ "inicio": "1974-06-13",
+ "fin": "1974-07-07",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Olympiastadion",
+   "ciudad": "Berlín",
+   "pais": "Alemania",
+   "capacidad": 86000
+  },
+  {
+   "nombre": "Westfalenstadion",
+   "ciudad": "Dortmund",
+   "pais": "Alemania",
+   "capacidad": 65000
+  },
+  {
+   "nombre": "Rheinstadion",
+   "ciudad": "Düsseldorf",
+   "pais": "Alemania",
+   "capacidad": 70000
+  },
+  {
+   "nombre": "Waldstadion",
+   "ciudad": "Fráncfort",
+   "pais": "Alemania",
+   "capacidad": 62000
+  },
+  {
+   "nombre": "Parkstadion",
+   "ciudad": "Gelsenkirchen",
+   "pais": "Alemania",
+   "capacidad": 72000
+  },
+  {
+   "nombre": "Volksparkstadion",
+   "ciudad": "Hamburgo",
+   "pais": "Alemania",
+   "capacidad": 61000
+  },
+  {
+   "nombre": "Niedersachsenstadion",
+   "ciudad": "Hannover",
+   "pais": "Alemania",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Olympiastadion",
+   "ciudad": "Múnich",
+   "pais": "Alemania",
+   "capacidad": 78000
+  },
+  {
+   "nombre": "Neckarstadion",
+   "ciudad": "Stuttgart",
+   "pais": "Alemania",
+   "capacidad": 72000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Oriental",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 1,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 0,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-14",
+     "estadio": "Olympiastadion",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-14",
+     "estadio": "Volksparkstadion",
+     "local": "Alemania Oriental",
+     "golesLocal": 2,
+     "visitante": "Australia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-18",
+     "estadio": "Volksparkstadion",
+     "local": "Australia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1974-06-18",
+     "estadio": "Olympiastadion",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Alemania Oriental",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-22",
+     "estadio": "Olympiastadion",
+     "local": "Australia",
+     "golesLocal": 0,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-22",
+     "estadio": "Volksparkstadion",
+     "local": "Alemania Oriental",
+     "golesLocal": 1,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 10,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Zaire",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 14,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-13",
+     "estadio": "Waldstadion",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-14",
+     "estadio": "Westfalenstadion",
+     "local": "Zaire",
+     "golesLocal": 0,
+     "visitante": "Escocia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-06-18",
+     "estadio": "Waldstadion",
+     "local": "Escocia",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-18",
+     "estadio": "Parkstadion",
+     "local": "Yugoslavia",
+     "golesLocal": 9,
+     "visitante": "Zaire",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-22",
+     "estadio": "Waldstadion",
+     "local": "Escocia",
+     "golesLocal": 1,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-22",
+     "estadio": "Parkstadion",
+     "local": "Zaire",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-15",
+     "estadio": "Rheinstadion",
+     "local": "Suecia",
+     "golesLocal": 0,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-15",
+     "estadio": "Niedersachsenstadion",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-06-19",
+     "estadio": "Niedersachsenstadion",
+     "local": "Bulgaria",
+     "golesLocal": 1,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-19",
+     "estadio": "Westfalenstadion",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-23",
+     "estadio": "Westfalenstadion",
+     "local": "Bulgaria",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "1974-06-23",
+     "estadio": "Rheinstadion",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 12,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Haití",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 14,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-15",
+     "estadio": "Olympiastadion",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Haití",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-15",
+     "estadio": "Neckarstadion",
+     "local": "Polonia",
+     "golesLocal": 3,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-06-19",
+     "estadio": "Neckarstadion",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-19",
+     "estadio": "Olympiastadion",
+     "local": "Haití",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 7
+    },
+    {
+     "fecha": "1974-06-23",
+     "estadio": "Olympiastadion",
+     "local": "Argentina",
+     "golesLocal": 4,
+     "visitante": "Haití",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-23",
+     "estadio": "Neckarstadion",
+     "local": "Polonia",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 8,
+     "gc": 0,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Oriental",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-26",
+     "estadio": "Niedersachsenstadion",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Alemania Oriental",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-26",
+     "estadio": "Parkstadion",
+     "local": "Países Bajos",
+     "golesLocal": 4,
+     "visitante": "Argentina",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1974-06-30",
+     "estadio": "Niedersachsenstadion",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-06-30",
+     "estadio": "Parkstadion",
+     "local": "Alemania Oriental",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-07-03",
+     "estadio": "Parkstadion",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Alemania Oriental",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-07-03",
+     "estadio": "Westfalenstadion",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1974-06-26",
+     "estadio": "Rheinstadion",
+     "local": "Yugoslavia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-06-26",
+     "estadio": "Neckarstadion",
+     "local": "Suecia",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-30",
+     "estadio": "Waldstadion",
+     "local": "Polonia",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-06-30",
+     "estadio": "Rheinstadion",
+     "local": "Alemania Federal",
+     "golesLocal": 4,
+     "visitante": "Suecia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1974-07-03",
+     "estadio": "Waldstadion",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1974-07-03",
+     "estadio": "Rheinstadion",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1974-07-06",
+     "estadio": "Olympiastadion",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1974-07-07",
+     "estadio": "Olympiastadion",
+     "local": "Países Bajos",
+     "golesLocal": 1,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1974-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Paul Breitner",
+   "seleccion": "Alemania Federal",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1974-06-14",
+   "local": "Alemania Oriental",
+   "visitante": "Australia",
+   "jugador": "Colin Curran",
+   "seleccion": "Australia",
+   "minuto": "58",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1974-06-14",
+   "local": "Alemania Oriental",
+   "visitante": "Australia",
+   "jugador": "Joachim Streich",
+   "seleccion": "Alemania Oriental",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1974-06-14",
+   "local": "Zaire",
+   "visitante": "Escocia",
+   "jugador": "Peter Lorimer",
+   "seleccion": "Escocia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1974-06-14",
+   "local": "Zaire",
+   "visitante": "Escocia",
+   "jugador": "Joe Jordan",
+   "seleccion": "Escocia",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Italia",
+   "visitante": "Haití",
+   "jugador": "Emmanuel Sanon",
+   "seleccion": "Haití",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Italia",
+   "visitante": "Haití",
+   "jugador": "Gianni Rivera",
+   "seleccion": "Italia",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Italia",
+   "visitante": "Haití",
+   "jugador": "Romeo Benetti",
+   "seleccion": "Italia",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Italia",
+   "visitante": "Haití",
+   "jugador": "Pietro Anastasi",
+   "seleccion": "Italia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Ramón Heredia",
+   "seleccion": "Argentina",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1974-06-15",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Carlos Babington",
+   "seleccion": "Argentina",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Australia",
+   "visitante": "Alemania Federal",
+   "jugador": "Wolfgang Overath",
+   "seleccion": "Alemania Federal",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Australia",
+   "visitante": "Alemania Federal",
+   "jugador": "Bernhard Cullmann",
+   "seleccion": "Alemania Federal",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Australia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Chile",
+   "visitante": "Alemania Oriental",
+   "jugador": "Martin Hoffmann",
+   "seleccion": "Alemania Oriental",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Chile",
+   "visitante": "Alemania Oriental",
+   "jugador": "Sergio Ahumada",
+   "seleccion": "Chile",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Dušan Bajević",
+   "seleccion": "Yugoslavia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Dragan Džajić",
+   "seleccion": "Yugoslavia",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Ivica Šurjak",
+   "seleccion": "Yugoslavia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Josip Katalinski",
+   "seleccion": "Yugoslavia",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Dušan Bajević",
+   "seleccion": "Yugoslavia",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Vladislav Bogićević",
+   "seleccion": "Yugoslavia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Branko Oblak",
+   "seleccion": "Yugoslavia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Ilija Petković",
+   "seleccion": "Yugoslavia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1974-06-18",
+   "local": "Yugoslavia",
+   "visitante": "Zaire",
+   "jugador": "Dušan Bajević",
+   "seleccion": "Yugoslavia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Bulgaria",
+   "visitante": "Uruguay",
+   "jugador": "Hristo Bonev",
+   "seleccion": "Bulgaria",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Bulgaria",
+   "visitante": "Uruguay",
+   "jugador": "Ricardo Pavoni",
+   "seleccion": "Uruguay",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Argentina",
+   "visitante": "Italia",
+   "jugador": "René Houseman",
+   "seleccion": "Argentina",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Argentina",
+   "visitante": "Italia",
+   "jugador": "Roberto Perfumo",
+   "seleccion": "Argentina",
+   "minuto": "35",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Kazimierz Deyna",
+   "seleccion": "Polonia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Jerzy Gorgoń",
+   "seleccion": "Polonia",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1974-06-19",
+   "local": "Haití",
+   "visitante": "Polonia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Escocia",
+   "visitante": "Yugoslavia",
+   "jugador": "Stanislav Karasi",
+   "seleccion": "Yugoslavia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Escocia",
+   "visitante": "Yugoslavia",
+   "jugador": "Joe Jordan",
+   "seleccion": "Escocia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Zaire",
+   "visitante": "Brasil",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Zaire",
+   "visitante": "Brasil",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Zaire",
+   "visitante": "Brasil",
+   "jugador": "Valdomiro",
+   "seleccion": "Brasil",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1974-06-22",
+   "local": "Alemania Oriental",
+   "visitante": "Alemania Federal",
+   "jugador": "Jürgen Sparwasser",
+   "seleccion": "Alemania Oriental",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Bulgaria",
+   "visitante": "Países Bajos",
+   "jugador": "Johan Neeskens",
+   "seleccion": "Países Bajos",
+   "minuto": "5",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Bulgaria",
+   "visitante": "Países Bajos",
+   "jugador": "Johan Neeskens",
+   "seleccion": "Países Bajos",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Bulgaria",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Bulgaria",
+   "visitante": "Países Bajos",
+   "jugador": "Ruud Krol",
+   "seleccion": "Países Bajos",
+   "minuto": "78",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Bulgaria",
+   "visitante": "Países Bajos",
+   "jugador": "Theo de Jong",
+   "seleccion": "Países Bajos",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Suecia",
+   "visitante": "Uruguay",
+   "jugador": "Ralf Edström",
+   "seleccion": "Suecia",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Suecia",
+   "visitante": "Uruguay",
+   "jugador": "Roland Sandberg",
+   "seleccion": "Suecia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Suecia",
+   "visitante": "Uruguay",
+   "jugador": "Ralf Edström",
+   "seleccion": "Suecia",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Argentina",
+   "visitante": "Haití",
+   "jugador": "Héctor Yazalde",
+   "seleccion": "Argentina",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Argentina",
+   "visitante": "Haití",
+   "jugador": "René Houseman",
+   "seleccion": "Argentina",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Argentina",
+   "visitante": "Haití",
+   "jugador": "Rubén Ayala",
+   "seleccion": "Argentina",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Argentina",
+   "visitante": "Haití",
+   "jugador": "Emmanuel Sanon",
+   "seleccion": "Haití",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Argentina",
+   "visitante": "Haití",
+   "jugador": "Héctor Yazalde",
+   "seleccion": "Argentina",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Polonia",
+   "visitante": "Italia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Polonia",
+   "visitante": "Italia",
+   "jugador": "Kazimierz Deyna",
+   "seleccion": "Polonia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1974-06-23",
+   "local": "Polonia",
+   "visitante": "Italia",
+   "jugador": "Fabio Capello",
+   "seleccion": "Italia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Yugoslavia",
+   "visitante": "Alemania Federal",
+   "jugador": "Paul Breitner",
+   "seleccion": "Alemania Federal",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Yugoslavia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Brasil",
+   "visitante": "Alemania Oriental",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Johan Cruyff",
+   "seleccion": "Países Bajos",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Ruud Krol",
+   "seleccion": "Países Bajos",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Johan Cruyff",
+   "seleccion": "Países Bajos",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1974-06-26",
+   "local": "Suecia",
+   "visitante": "Polonia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Miguel Ángel Brindisi",
+   "seleccion": "Argentina",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Oriental",
+   "visitante": "Países Bajos",
+   "jugador": "Johan Neeskens",
+   "seleccion": "Países Bajos",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Oriental",
+   "visitante": "Países Bajos",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Polonia",
+   "visitante": "Yugoslavia",
+   "jugador": "Kazimierz Deyna",
+   "seleccion": "Polonia",
+   "minuto": "24",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Polonia",
+   "visitante": "Yugoslavia",
+   "jugador": "Stanislav Karasi",
+   "seleccion": "Yugoslavia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Polonia",
+   "visitante": "Yugoslavia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Ralf Edström",
+   "seleccion": "Suecia",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Wolfgang Overath",
+   "seleccion": "Alemania Federal",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Rainer Bonhof",
+   "seleccion": "Alemania Federal",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Roland Sandberg",
+   "seleccion": "Suecia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Jürgen Grabowski",
+   "seleccion": "Alemania Federal",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1974-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Suecia",
+   "jugador": "Uli Hoeneß",
+   "seleccion": "Alemania Federal",
+   "minuto": "89",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Polonia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania Oriental",
+   "jugador": "Joachim Streich",
+   "seleccion": "Alemania Oriental",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania Oriental",
+   "jugador": "René Houseman",
+   "seleccion": "Argentina",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Johan Neeskens",
+   "seleccion": "Países Bajos",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Johan Cruyff",
+   "seleccion": "Países Bajos",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Suecia",
+   "visitante": "Yugoslavia",
+   "jugador": "Ivica Šurjak",
+   "seleccion": "Yugoslavia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Suecia",
+   "visitante": "Yugoslavia",
+   "jugador": "Ralf Edström",
+   "seleccion": "Suecia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1974-07-03",
+   "local": "Suecia",
+   "visitante": "Yugoslavia",
+   "jugador": "Conny Torstensson",
+   "seleccion": "Suecia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1974-07-06",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1974-07-07",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Johan Neeskens",
+   "seleccion": "Países Bajos",
+   "minuto": "2",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-07-07",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Paul Breitner",
+   "seleccion": "Alemania Federal",
+   "minuto": "25",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1974-07-07",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "43"
+  }
+ ]
+}

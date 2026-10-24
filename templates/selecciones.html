@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{# /selecciones: todas las selecciones que han jugado algún Mundial, con un enlace a la página de cada una.
+   Van por orden alfabético en el idioma elegido (lo hace selecciones() en app.py) #}
+{% block titulo %}{{ t("Selecciones") }} · {{ t("Mundiales de fútbol 1930–2026") }}{% endblock %}
+
+{% block cabecera %}
+  {% set portada_historia = url_for("raiz") %}
+  {% include "cabecera_historia.html" %}
+{% endblock %}
+
+{% block contenido %}
+  <section id="selecciones" class="seccion">
+    <h1>{{ t("Las {n} selecciones", n=lista | length) }}</h1>
+    <p class="nota">{{ t("Todas las que han jugado algún Mundial, de 1930 a 2026. Las que cambiaron de nombre van con el de hoy, como hace la FIFA: Alemania Federal está en Alemania, y la Unión Soviética, en Rusia.") }}</p>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Selecciones que han jugado algún Mundial") }}</caption>
+        <thead>
+          <tr><th scope="col">{{ t("Selección") }}</th><th scope="col">{{ t("Mundiales") }}</th><th scope="col">{{ t("Títulos") }}</th>
+              <th scope="col">{{ t("Mejor resultado") }}</th></tr>
+        </thead>
+        <tbody>
+          {% for h in lista %}
+            <tr>
+              <th scope="row"><a href="{{ url_for('seleccion', nombre=h.nombre) }}">{{ h.nombre | nombre }}</a></th>
+              <td>{{ h.participaciones | length }}</td>
+              <td>{{ h.titulos | length or "" }}</td>
+              <td>{{ t(h.mejor) }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+{% endblock %}

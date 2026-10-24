@@ -1,0 +1,794 @@
+{
+ "año": 1934,
+ "sedes": [
+  "Italia"
+ ],
+ "campeon": "Italia",
+ "inicio": "1934-05-27",
+ "fin": "1934-06-10",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Stadio Renato Dall'Ara",
+   "ciudad": "Bolonia",
+   "pais": "Italia",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Stadio Giovanni Berta",
+   "ciudad": "Florencia",
+   "pais": "Italia",
+   "capacidad": 47000
+  },
+  {
+   "nombre": "Stadio Luigi Ferraris",
+   "ciudad": "Génova",
+   "pais": "Italia",
+   "capacidad": 37000
+  },
+  {
+   "nombre": "San Siro",
+   "ciudad": "Milán",
+   "pais": "Italia",
+   "capacidad": 75000
+  },
+  {
+   "nombre": "Stadio Giorgio Ascarelli",
+   "ciudad": "Nápoles",
+   "pais": "Italia",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Stadio Nazionale PNF",
+   "ciudad": "Roma",
+   "pais": "Italia",
+   "capacidad": 47000
+  },
+  {
+   "nombre": "Stadio Littorio",
+   "ciudad": "Trieste",
+   "pais": "Italia",
+   "capacidad": 8000
+  },
+  {
+   "nombre": "Stadio Benito Mussolini",
+   "ciudad": "Turín",
+   "pais": "Italia",
+   "capacidad": 28000
+  }
+ ],
+ "grupos": [],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Benito Mussolini",
+     "local": "Austria",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Littorio",
+     "local": "Checoslovaquia",
+     "golesLocal": 2,
+     "visitante": "Rumania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Giovanni Berta",
+     "local": "Alemania",
+     "golesLocal": 5,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Giorgio Ascarelli",
+     "local": "Hungría",
+     "golesLocal": 4,
+     "visitante": "Egipto",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Nazionale PNF",
+     "local": "Italia",
+     "golesLocal": 7,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Luigi Ferraris",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1934-05-27",
+     "estadio": "San Siro",
+     "local": "Suiza",
+     "golesLocal": 3,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1934-05-31",
+     "estadio": "Stadio Renato Dall'Ara",
+     "local": "Austria",
+     "golesLocal": 2,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-05-31",
+     "estadio": "Stadio Benito Mussolini",
+     "local": "Checoslovaquia",
+     "golesLocal": 3,
+     "visitante": "Suiza",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1934-05-31",
+     "estadio": "San Siro",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-05-31",
+     "estadio": "Stadio Giovanni Berta",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "repetido": true
+    },
+    {
+     "fecha": "1934-06-01",
+     "estadio": "Stadio Giovanni Berta",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 0,
+     "repeticion": true
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1934-06-03",
+     "estadio": "Stadio Nazionale PNF",
+     "local": "Checoslovaquia",
+     "golesLocal": 3,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1934-06-03",
+     "estadio": "San Siro",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1934-06-07",
+     "estadio": "Stadio Giorgio Ascarelli",
+     "local": "Alemania",
+     "golesLocal": 3,
+     "visitante": "Austria",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1934-06-10",
+     "estadio": "Stadio Nazionale PNF",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1934-05-27",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Jean Nicolas",
+   "seleccion": "Francia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Matthias Sindelar",
+   "seleccion": "Austria",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Anton Schall",
+   "seleccion": "Austria",
+   "minuto": "93"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Josef Bican",
+   "seleccion": "Austria",
+   "minuto": "109"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Georges Verriest",
+   "seleccion": "Francia",
+   "minuto": "116",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Checoslovaquia",
+   "visitante": "Rumania",
+   "jugador": "Ștefan Dobay",
+   "seleccion": "Rumania",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Checoslovaquia",
+   "visitante": "Rumania",
+   "jugador": "Antonín Puč",
+   "seleccion": "Checoslovaquia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Checoslovaquia",
+   "visitante": "Rumania",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Stanislaus Kobierski",
+   "seleccion": "Alemania",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Bernard Voorhoof",
+   "seleccion": "Bélgica",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Bernard Voorhoof",
+   "seleccion": "Bélgica",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Otto Siffling",
+   "seleccion": "Alemania",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Edmund Conen",
+   "seleccion": "Alemania",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Edmund Conen",
+   "seleccion": "Alemania",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Edmund Conen",
+   "seleccion": "Alemania",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Pál Teleki",
+   "seleccion": "Hungría",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Géza Toldi",
+   "seleccion": "Hungría",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Abdulrahman Fawzi",
+   "seleccion": "Egipto",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Abdulrahman Fawzi",
+   "seleccion": "Egipto",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Jenő Vincze",
+   "seleccion": "Hungría",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Hungría",
+   "visitante": "Egipto",
+   "jugador": "Géza Toldi",
+   "seleccion": "Hungría",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Angelo Schiavio",
+   "seleccion": "Italia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Raimundo Orsi",
+   "seleccion": "Italia",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Angelo Schiavio",
+   "seleccion": "Italia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Aldo Donelli",
+   "seleccion": "Estados Unidos",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Giovanni Ferrari",
+   "seleccion": "Italia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Angelo Schiavio",
+   "seleccion": "Italia",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Raimundo Orsi",
+   "seleccion": "Italia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Giuseppe Meazza",
+   "seleccion": "Italia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "España",
+   "visitante": "Brasil",
+   "jugador": "José Iraragorri",
+   "seleccion": "España",
+   "minuto": "18",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "España",
+   "visitante": "Brasil",
+   "jugador": "José Iraragorri",
+   "seleccion": "España",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "España",
+   "visitante": "Brasil",
+   "jugador": "Isidro Lángara",
+   "seleccion": "España",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "España",
+   "visitante": "Brasil",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Ernesto Belis",
+   "seleccion": "Argentina",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Sven Jonasson",
+   "seleccion": "Suecia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Alberto Galateo",
+   "seleccion": "Argentina",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Sven Jonasson",
+   "seleccion": "Suecia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Knut Kroon",
+   "seleccion": "Suecia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suiza",
+   "visitante": "Países Bajos",
+   "jugador": "Leopold Kielholz",
+   "seleccion": "Suiza",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suiza",
+   "visitante": "Países Bajos",
+   "jugador": "Kick Smit",
+   "seleccion": "Países Bajos",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suiza",
+   "visitante": "Países Bajos",
+   "jugador": "Leopold Kielholz",
+   "seleccion": "Suiza",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suiza",
+   "visitante": "Países Bajos",
+   "jugador": "André Abegglen",
+   "seleccion": "Suiza",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1934-05-27",
+   "local": "Suiza",
+   "visitante": "Países Bajos",
+   "jugador": "Leen Vente",
+   "seleccion": "Países Bajos",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Austria",
+   "visitante": "Hungría",
+   "jugador": "Johann Horvath",
+   "seleccion": "Austria",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Austria",
+   "visitante": "Hungría",
+   "jugador": "Karl Zischek",
+   "seleccion": "Austria",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Austria",
+   "visitante": "Hungría",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "60",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "Suiza",
+   "jugador": "Leopold Kielholz",
+   "seleccion": "Suiza",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "Suiza",
+   "jugador": "František Svoboda",
+   "seleccion": "Checoslovaquia",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "Suiza",
+   "jugador": "Jiří Sobotka",
+   "seleccion": "Checoslovaquia",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "Suiza",
+   "jugador": "Willy Jäggi",
+   "seleccion": "Suiza",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "Suiza",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Karl Hohmann",
+   "seleccion": "Alemania",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Karl Hohmann",
+   "seleccion": "Alemania",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Gösta Dunker",
+   "seleccion": "Suecia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "Luis Regueiro",
+   "seleccion": "España",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1934-05-31",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "Giovanni Ferrari",
+   "seleccion": "Italia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1934-06-01",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "Giuseppe Meazza",
+   "seleccion": "Italia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1934-06-03",
+   "local": "Checoslovaquia",
+   "visitante": "Alemania",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1934-06-03",
+   "local": "Checoslovaquia",
+   "visitante": "Alemania",
+   "jugador": "Rudolf Noack",
+   "seleccion": "Alemania",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1934-06-03",
+   "local": "Checoslovaquia",
+   "visitante": "Alemania",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1934-06-03",
+   "local": "Checoslovaquia",
+   "visitante": "Alemania",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1934-06-03",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Enrique Guaita",
+   "seleccion": "Italia",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1934-06-07",
+   "local": "Alemania",
+   "visitante": "Austria",
+   "jugador": "Ernst Lehner",
+   "seleccion": "Alemania",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1934-06-07",
+   "local": "Alemania",
+   "visitante": "Austria",
+   "jugador": "Edmund Conen",
+   "seleccion": "Alemania",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1934-06-07",
+   "local": "Alemania",
+   "visitante": "Austria",
+   "jugador": "Johann Horvath",
+   "seleccion": "Austria",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1934-06-07",
+   "local": "Alemania",
+   "visitante": "Austria",
+   "jugador": "Ernst Lehner",
+   "seleccion": "Alemania",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1934-06-07",
+   "local": "Alemania",
+   "visitante": "Austria",
+   "jugador": "Karl Sesta",
+   "seleccion": "Austria",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1934-06-10",
+   "local": "Italia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Antonín Puč",
+   "seleccion": "Checoslovaquia",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1934-06-10",
+   "local": "Italia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Raimundo Orsi",
+   "seleccion": "Italia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1934-06-10",
+   "local": "Italia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Angelo Schiavio",
+   "seleccion": "Italia",
+   "minuto": "95"
+  }
+ ]
+}

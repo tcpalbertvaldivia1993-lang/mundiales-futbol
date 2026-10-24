@@ -1,0 +1,1163 @@
+{
+ "año": 1950,
+ "sedes": [
+  "Brasil"
+ ],
+ "campeon": "Uruguay",
+ "inicio": "1950-06-24",
+ "fin": "1950-07-16",
+ "selecciones": 13,
+ "estadios": [
+  {
+   "nombre": "Estádio Independência",
+   "ciudad": "Belo Horizonte",
+   "pais": "Brasil",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Estádio Vila Capanema",
+   "ciudad": "Curitiba",
+   "pais": "Brasil",
+   "capacidad": 10000
+  },
+  {
+   "nombre": "Estádio dos Eucaliptos",
+   "ciudad": "Porto Alegre",
+   "pais": "Brasil",
+   "capacidad": 20000
+  },
+  {
+   "nombre": "Estádio Ilha do Retiro",
+   "ciudad": "Recife",
+   "pais": "Brasil",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Estádio do Maracanã",
+   "ciudad": "Río de Janeiro",
+   "pais": "Brasil",
+   "capacidad": 200000
+  },
+  {
+   "nombre": "Estádio do Pacaembu",
+   "ciudad": "São Paulo",
+   "pais": "Brasil",
+   "capacidad": 60000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 10,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1950-06-24",
+     "estadio": "Estádio do Maracanã",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-06-25",
+     "estadio": "Estádio Independência",
+     "local": "Yugoslavia",
+     "golesLocal": 3,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-06-28",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-06-28",
+     "estadio": "Estádio dos Eucaliptos",
+     "local": "Yugoslavia",
+     "golesLocal": 4,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1950-07-01",
+     "estadio": "Estádio do Maracanã",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-07-02",
+     "estadio": "Estádio dos Eucaliptos",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 8,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1950-06-25",
+     "estadio": "Estádio do Maracanã",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-06-25",
+     "estadio": "Estádio Vila Capanema",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1950-06-29",
+     "estadio": "Estádio do Maracanã",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-06-29",
+     "estadio": "Estádio Independência",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1950-07-02",
+     "estadio": "Estádio Ilha do Retiro",
+     "local": "Chile",
+     "golesLocal": 5,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-07-02",
+     "estadio": "Estádio do Maracanã",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Suecia",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 2,
+     "g": 0,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1950-06-25",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-06-29",
+     "estadio": "Estádio Vila Capanema",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Paraguay",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-07-02",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 1,
+     "g": 1,
+     "e": 0,
+     "p": 0,
+     "gf": 8,
+     "gc": 0,
+     "puntos": 2,
+     "pasa": true
+    },
+    {
+     "nombre": "Bolivia",
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 0,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1950-07-02",
+     "estadio": "Estádio Independência",
+     "local": "Uruguay",
+     "golesLocal": 8,
+     "visitante": "Bolivia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Liguilla final",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 14,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 11,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 4,
+     "gc": 11,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1950-07-09",
+     "estadio": "Estádio do Maracanã",
+     "local": "Brasil",
+     "golesLocal": 7,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1950-07-09",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-07-13",
+     "estadio": "Estádio do Maracanã",
+     "local": "Brasil",
+     "golesLocal": 6,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1950-07-13",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Uruguay",
+     "golesLocal": 3,
+     "visitante": "Suecia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1950-07-16",
+     "estadio": "Estádio do Pacaembu",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1950-07-16",
+     "estadio": "Estádio do Maracanã",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [],
+ "goles": [
+  {
+   "fecha": "1950-06-24",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1950-06-24",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Jair",
+   "seleccion": "Brasil",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1950-06-24",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Baltazar",
+   "seleccion": "Brasil",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1950-06-24",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Yugoslavia",
+   "visitante": "Suiza",
+   "jugador": "Rajko Mitić",
+   "seleccion": "Yugoslavia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Yugoslavia",
+   "visitante": "Suiza",
+   "jugador": "Kosta Tomašević",
+   "seleccion": "Yugoslavia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Yugoslavia",
+   "visitante": "Suiza",
+   "jugador": "Tihomir Ognjanov",
+   "seleccion": "Yugoslavia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Inglaterra",
+   "visitante": "Chile",
+   "jugador": "Stan Mortensen",
+   "seleccion": "Inglaterra",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Inglaterra",
+   "visitante": "Chile",
+   "jugador": "Wilf Mannion",
+   "seleccion": "Inglaterra",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "España",
+   "visitante": "Estados Unidos",
+   "jugador": "Gino Pariani",
+   "seleccion": "Estados Unidos",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "España",
+   "visitante": "Estados Unidos",
+   "jugador": "Silvestre Igoa",
+   "seleccion": "España",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "España",
+   "visitante": "Estados Unidos",
+   "jugador": "Estanislau Basora",
+   "seleccion": "España",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "España",
+   "visitante": "Estados Unidos",
+   "jugador": "Telmo Zarra",
+   "seleccion": "España",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Suecia",
+   "visitante": "Italia",
+   "jugador": "Riccardo Carapellese",
+   "seleccion": "Italia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Suecia",
+   "visitante": "Italia",
+   "jugador": "Hasse Jeppson",
+   "seleccion": "Suecia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Suecia",
+   "visitante": "Italia",
+   "jugador": "Sune Andersson",
+   "seleccion": "Suecia",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Suecia",
+   "visitante": "Italia",
+   "jugador": "Hasse Jeppson",
+   "seleccion": "Suecia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1950-06-25",
+   "local": "Suecia",
+   "visitante": "Italia",
+   "jugador": "Ermes Muccinelli",
+   "seleccion": "Italia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Alfredo",
+   "seleccion": "Brasil",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Jacques Fatton",
+   "seleccion": "Suiza",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Baltazar",
+   "seleccion": "Brasil",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Jacques Fatton",
+   "seleccion": "Suiza",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Yugoslavia",
+   "visitante": "México",
+   "jugador": "Stjepan Bobek",
+   "seleccion": "Yugoslavia",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Yugoslavia",
+   "visitante": "México",
+   "jugador": "Željko Čajkovski",
+   "seleccion": "Yugoslavia",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Yugoslavia",
+   "visitante": "México",
+   "jugador": "Željko Čajkovski",
+   "seleccion": "Yugoslavia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Yugoslavia",
+   "visitante": "México",
+   "jugador": "Kosta Tomašević",
+   "seleccion": "Yugoslavia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1950-06-28",
+   "local": "Yugoslavia",
+   "visitante": "México",
+   "jugador": "Héctor Ortiz",
+   "seleccion": "México",
+   "minuto": "89",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "España",
+   "visitante": "Chile",
+   "jugador": "Estanislau Basora",
+   "seleccion": "España",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "España",
+   "visitante": "Chile",
+   "jugador": "Telmo Zarra",
+   "seleccion": "España",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "Estados Unidos",
+   "visitante": "Inglaterra",
+   "jugador": "Joe Gaetjens",
+   "seleccion": "Estados Unidos",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "Suecia",
+   "visitante": "Paraguay",
+   "jugador": "Stig Sundqvist",
+   "seleccion": "Suecia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "Suecia",
+   "visitante": "Paraguay",
+   "jugador": "Karl-Erik Palmér",
+   "seleccion": "Suecia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "Suecia",
+   "visitante": "Paraguay",
+   "jugador": "Atilio López",
+   "seleccion": "Paraguay",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1950-06-29",
+   "local": "Suecia",
+   "visitante": "Paraguay",
+   "jugador": "César López Fretes",
+   "seleccion": "Paraguay",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1950-07-01",
+   "local": "Brasil",
+   "visitante": "Yugoslavia",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1950-07-01",
+   "local": "Brasil",
+   "visitante": "Yugoslavia",
+   "jugador": "Zizinho",
+   "seleccion": "Brasil",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "George Robledo",
+   "seleccion": "Chile",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Atilio Cremaschi",
+   "seleccion": "Chile",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Frank Wallace",
+   "seleccion": "Estados Unidos",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Joe Maca",
+   "seleccion": "Estados Unidos",
+   "minuto": "48",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Andrés Prieto",
+   "seleccion": "Chile",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Atilio Cremaschi",
+   "seleccion": "Chile",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Chile",
+   "visitante": "Estados Unidos",
+   "jugador": "Fernando Riera",
+   "seleccion": "Chile",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "España",
+   "visitante": "Inglaterra",
+   "jugador": "Telmo Zarra",
+   "seleccion": "España",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Italia",
+   "visitante": "Paraguay",
+   "jugador": "Riccardo Carapellese",
+   "seleccion": "Italia",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Italia",
+   "visitante": "Paraguay",
+   "jugador": "Egisto Pandolfini",
+   "seleccion": "Italia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Ernesto Vidal",
+   "seleccion": "Uruguay",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Juan Alberto Schiaffino",
+   "seleccion": "Uruguay",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Juan Alberto Schiaffino",
+   "seleccion": "Uruguay",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Julio Pérez",
+   "seleccion": "Uruguay",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Uruguay",
+   "visitante": "Bolivia",
+   "jugador": "Alcides Ghiggia",
+   "seleccion": "Uruguay",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Suiza",
+   "visitante": "México",
+   "jugador": "René Bader",
+   "seleccion": "Suiza",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Suiza",
+   "visitante": "México",
+   "jugador": "Charles Antenen",
+   "seleccion": "Suiza",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1950-07-02",
+   "local": "Suiza",
+   "visitante": "México",
+   "jugador": "Horacio Casarín",
+   "seleccion": "México",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Chico",
+   "seleccion": "Brasil",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Sune Andersson",
+   "seleccion": "Suecia",
+   "minuto": "67",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Maneca",
+   "seleccion": "Brasil",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Chico",
+   "seleccion": "Brasil",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Uruguay",
+   "visitante": "España",
+   "jugador": "Alcides Ghiggia",
+   "seleccion": "Uruguay",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Uruguay",
+   "visitante": "España",
+   "jugador": "Estanislau Basora",
+   "seleccion": "España",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Uruguay",
+   "visitante": "España",
+   "jugador": "Estanislau Basora",
+   "seleccion": "España",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1950-07-09",
+   "local": "Uruguay",
+   "visitante": "España",
+   "jugador": "Obdulio Varela",
+   "seleccion": "Uruguay",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Jair",
+   "seleccion": "Brasil",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Chico",
+   "seleccion": "Brasil",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Chico",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Ademir",
+   "seleccion": "Brasil",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Zizinho",
+   "seleccion": "Brasil",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Silvestre Igoa",
+   "seleccion": "España",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Uruguay",
+   "visitante": "Suecia",
+   "jugador": "Karl-Erik Palmér",
+   "seleccion": "Suecia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Uruguay",
+   "visitante": "Suecia",
+   "jugador": "Alcides Ghiggia",
+   "seleccion": "Uruguay",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Uruguay",
+   "visitante": "Suecia",
+   "jugador": "Stig Sundqvist",
+   "seleccion": "Suecia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Uruguay",
+   "visitante": "Suecia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1950-07-13",
+   "local": "Uruguay",
+   "visitante": "Suecia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Suecia",
+   "visitante": "España",
+   "jugador": "Stig Sundqvist",
+   "seleccion": "Suecia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Suecia",
+   "visitante": "España",
+   "jugador": "Bror Mellberg",
+   "seleccion": "Suecia",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Suecia",
+   "visitante": "España",
+   "jugador": "Karl-Erik Palmér",
+   "seleccion": "Suecia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Suecia",
+   "visitante": "España",
+   "jugador": "Telmo Zarra",
+   "seleccion": "España",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Uruguay",
+   "visitante": "Brasil",
+   "jugador": "Friaça",
+   "seleccion": "Brasil",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Uruguay",
+   "visitante": "Brasil",
+   "jugador": "Juan Alberto Schiaffino",
+   "seleccion": "Uruguay",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1950-07-16",
+   "local": "Uruguay",
+   "visitante": "Brasil",
+   "jugador": "Alcides Ghiggia",
+   "seleccion": "Uruguay",
+   "minuto": "79"
+  }
+ ]
+}

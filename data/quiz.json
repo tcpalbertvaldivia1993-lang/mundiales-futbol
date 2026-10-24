@@ -1,0 +1,312 @@
+[
+  {
+    "pregunta": "¿Cuántas selecciones jugaron el Mundial 2026?",
+    "opciones": [
+      "32",
+      "40",
+      "48",
+      "64"
+    ],
+    "correcta": 2,
+    "explicacion": "Es el primer Mundial con 48 selecciones. Desde 1998 se jugaba con 32.",
+    "pt": {
+      "pregunta": "Quantas seleções jogaram a Copa do Mundo de 2026?",
+      "opciones": [
+        "32",
+        "40",
+        "48",
+        "64"
+      ],
+      "explicacion": "É a primeira Copa com 48 seleções. Desde 1998 eram 32."
+    },
+    "en": {
+      "pregunta": "How many teams played at the 2026 World Cup?",
+      "opciones": [
+        "32",
+        "40",
+        "48",
+        "64"
+      ],
+      "explicacion": "It is the first World Cup with 48 teams. From 1998 there had been 32."
+    }
+  },
+  {
+    "pregunta": "¿Cuántos partidos se jugaron en total?",
+    "opciones": [
+      "64",
+      "80",
+      "96",
+      "104"
+    ],
+    "correcta": 3,
+    "explicacion": "Fueron 104 partidos, 40 más que en Catar 2022.",
+    "pt": {
+      "pregunta": "Quantos jogos foram disputados no total?",
+      "opciones": [
+        "64",
+        "80",
+        "96",
+        "104"
+      ],
+      "explicacion": "Foram 104 jogos, 40 a mais que no Catar 2022."
+    },
+    "en": {
+      "pregunta": "How many matches were played in total?",
+      "opciones": [
+        "64",
+        "80",
+        "96",
+        "104"
+      ],
+      "explicacion": "There were 104 matches, 40 more than at Qatar 2022."
+    }
+  },
+  {
+    "pregunta": "¿Qué estadio acogió el partido inaugural?",
+    "opciones": [
+      "MetLife Stadium",
+      "Estadio Azteca",
+      "BMO Field",
+      "SoFi Stadium"
+    ],
+    "correcta": 1,
+    "explicacion": "México y Sudáfrica abrieron el torneo en el Azteca, el único estadio que ha jugado partidos en tres Mundiales (1970, 1986 y 2026).",
+    "pt": {
+      "pregunta": "Qual estádio recebeu o jogo de abertura?",
+      "opciones": [
+        "MetLife Stadium",
+        "Estádio Azteca",
+        "BMO Field",
+        "SoFi Stadium"
+      ],
+      "explicacion": "México e África do Sul abriram o torneio no Azteca, o único estádio com jogos em três Copas (1970, 1986 e 2026)."
+    },
+    "en": {
+      "pregunta": "Which stadium hosted the opening match?",
+      "opciones": [
+        "MetLife Stadium",
+        "Estadio Azteca",
+        "BMO Field",
+        "SoFi Stadium"
+      ],
+      "explicacion": "Mexico and South Africa opened the tournament at the Azteca, the only stadium to host matches at three World Cups (1970, 1986 and 2026)."
+    }
+  },
+  {
+    "pregunta": "¿Qué ronda nueva apareció con el formato de 48 equipos?",
+    "opciones": [
+      "Dieciseisavos de final",
+      "Repesca de grupos",
+      "Cuartos de final",
+      "Tercer puesto"
+    ],
+    "correcta": 0,
+    "explicacion": "Pasaron 32 equipos a dieciseisavos: los dos primeros de cada grupo y los 8 mejores terceros.",
+    "pt": {
+      "pregunta": "Que fase nova apareceu com o formato de 48 seleções?",
+      "opciones": [
+        "Dezesseis-avos de final",
+        "Repescagem de grupos",
+        "Quartas de final",
+        "Disputa do terceiro lugar"
+      ],
+      "explicacion": "32 seleções passaram aos dezesseis-avos: as duas primeiras de cada grupo e os 8 melhores terceiros."
+    },
+    "en": {
+      "pregunta": "Which new round appeared with the 48-team format?",
+      "opciones": [
+        "Round of 32",
+        "Group play-off",
+        "Quarter-finals",
+        "Third-place match"
+      ],
+      "explicacion": "32 teams went through to the round of 32: the top two of each group and the 8 best third-placed teams."
+    }
+  },
+  {
+    "pregunta": "¿En qué estadio se jugó la final?",
+    "opciones": [
+      "Estadio Azteca",
+      "AT&T Stadium",
+      "MetLife Stadium",
+      "Rose Bowl"
+    ],
+    "correcta": 2,
+    "explicacion": "La final se disputó en el MetLife Stadium, en la zona de Nueva York / Nueva Jersey.",
+    "pt": {
+      "pregunta": "Em qual estádio foi disputada a final?",
+      "opciones": [
+        "Estádio Azteca",
+        "AT&T Stadium",
+        "MetLife Stadium",
+        "Rose Bowl"
+      ],
+      "explicacion": "A final foi disputada no MetLife Stadium, na região de Nova York / Nova Jersey."
+    },
+    "en": {
+      "pregunta": "In which stadium was the final played?",
+      "opciones": [
+        "Estadio Azteca",
+        "AT&T Stadium",
+        "MetLife Stadium",
+        "Rose Bowl"
+      ],
+      "explicacion": "The final was played at MetLife Stadium, in the New York / New Jersey area."
+    }
+  },
+  {
+    "pregunta": "¿Quién ganó el Mundial 2026?",
+    "opciones": [
+      "Argentina",
+      "Francia",
+      "España",
+      "Inglaterra"
+    ],
+    "correcta": 2,
+    "explicacion": "España ganó la final 1-0 a Argentina, en la prórroga.",
+    "pt": {
+      "pregunta": "Quem ganhou a Copa do Mundo de 2026?",
+      "opciones": [
+        "Argentina",
+        "França",
+        "Espanha",
+        "Inglaterra"
+      ],
+      "explicacion": "A Espanha venceu a Argentina por 1 a 0 na final, na prorrogação."
+    },
+    "en": {
+      "pregunta": "Who won the 2026 World Cup?",
+      "opciones": [
+        "Argentina",
+        "France",
+        "Spain",
+        "England"
+      ],
+      "explicacion": "Spain beat Argentina 1-0 in the final, after extra time."
+    }
+  },
+  {
+    "pregunta": "¿Quién ganó la Bota de Oro?",
+    "opciones": [
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Erling Haaland",
+      "Jude Bellingham"
+    ],
+    "correcta": 1,
+    "explicacion": "Kylian Mbappé marcó 10 goles. Le siguió Lionel Messi, con 8.",
+    "pt": {
+      "pregunta": "Quem ganhou a Chuteira de Ouro?",
+      "opciones": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Erling Haaland",
+        "Jude Bellingham"
+      ],
+      "explicacion": "Kylian Mbappé marcou 10 gols. Lionel Messi veio em seguida, com 8."
+    },
+    "en": {
+      "pregunta": "Who won the Golden Boot?",
+      "opciones": [
+        "Lionel Messi",
+        "Kylian Mbappé",
+        "Erling Haaland",
+        "Jude Bellingham"
+      ],
+      "explicacion": "Kylian Mbappé scored 10 goals. Lionel Messi was next, with 8."
+    }
+  },
+  {
+    "pregunta": "¿Qué partido tuvo más goles?",
+    "opciones": [
+      "Alemania 7-1 Curazao",
+      "Canadá 6-0 Catar",
+      "Bélgica 3-2 Senegal",
+      "Francia 4-6 Inglaterra"
+    ],
+    "correcta": 3,
+    "explicacion": "Fue el partido por el tercer puesto: Inglaterra ganó 6-4 a Francia. Diez goles en un solo partido.",
+    "pt": {
+      "pregunta": "Qual jogo teve mais gols?",
+      "opciones": [
+        "Alemanha 7-1 Curaçao",
+        "Canadá 6-0 Catar",
+        "Bélgica 3-2 Senegal",
+        "França 4-6 Inglaterra"
+      ],
+      "explicacion": "Foi a disputa do terceiro lugar: a Inglaterra venceu a França por 6 a 4. Dez gols em um só jogo."
+    },
+    "en": {
+      "pregunta": "Which match had the most goals?",
+      "opciones": [
+        "Germany 7-1 Curaçao",
+        "Canada 6-0 Qatar",
+        "Belgium 3-2 Senegal",
+        "France 4-6 England"
+      ],
+      "explicacion": "It was the third-place match: England beat France 6-4. Ten goals in a single match."
+    }
+  },
+  {
+    "pregunta": "¿En qué tramo de minutos se marcaron más goles?",
+    "opciones": [
+      "1-15",
+      "31-45+",
+      "76-90+",
+      "91-120"
+    ],
+    "correcta": 2,
+    "explicacion": "En el último cuarto de hora, del 76 al 90 con el tiempo añadido, se marcaron 81 de los 308 goles.",
+    "pt": {
+      "pregunta": "Em que intervalo de minutos foram marcados mais gols?",
+      "opciones": [
+        "1-15",
+        "31-45+",
+        "76-90+",
+        "91-120"
+      ],
+      "explicacion": "No último quarto de hora, do 76 ao 90 com os acréscimos, foram marcados 81 dos 308 gols."
+    },
+    "en": {
+      "pregunta": "In which period of the match were the most goals scored?",
+      "opciones": [
+        "1-15",
+        "31-45+",
+        "76-90+",
+        "91-120"
+      ],
+      "explicacion": "In the last quarter of an hour, from 76 to 90 plus stoppage time, 81 of the 308 goals were scored."
+    }
+  },
+  {
+    "pregunta": "¿Cuántos partidos se decidieron en los penaltis?",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "explicacion": "Fueron 4, tres en dieciseisavos y uno en octavos. Suiza y Colombia no marcaron en 120 minutos y Suiza ganó 4-3 en los penaltis.",
+    "pt": {
+      "pregunta": "Quantos jogos foram decididos nos pênaltis?",
+      "opciones": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "explicacion": "Foram 4, três nos dezesseis-avos e um nas oitavas. Suíça e Colômbia não marcaram em 120 minutos, e a Suíça venceu por 4 a 3 nos pênaltis."
+    },
+    "en": {
+      "pregunta": "How many matches were decided on penalties?",
+      "opciones": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "explicacion": "Four: three in the round of 32 and one in the round of 16. Switzerland and Colombia did not score in 120 minutes, and Switzerland won 4-3 on penalties."
+    }
+  }
+]

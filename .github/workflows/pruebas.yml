@@ -1,0 +1,36 @@
+# Ejecuta pruebas/probar_web.py en los servidores de GitHub.
+# Se lanza solo en cada Pull Request y cada vez que algo llega a main.
+name: Pruebas
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  probar-web:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v7
+
+      - name: Instalar Python
+        uses: actions/setup-python@v7
+        with:
+          python-version-file: .python-version   # la misma versión que usa Render
+
+      - name: Instalar Flask, pytest y Playwright
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      # Primero las pruebas rápidas: si fallan, no se pierde tiempo con el navegador
+      # --cov-fail-under=100: también falla si alguna línea o algún "if" se queda sin probar
+      - name: Pruebas de la lógica (pytest)
+        run: python -m pytest -v --cov-fail-under=100
+
+      # Los servidores de GitHub ya traen Google Chrome instalado, con sus librerías del sistema.
+      # Usarlo evita instalar el Chromium de Playwright, que pedía las librerías a apt: un día,
+      # con el servidor de paquetes de Ubuntu lento, ese paso tardó 8 minutos y medio.
+      - name: Pruebas en el navegador (con el Chrome de GitHub)
+        env:
+          CANAL_NAVEGADOR: chrome
+        run: python pruebas/probar_web.py

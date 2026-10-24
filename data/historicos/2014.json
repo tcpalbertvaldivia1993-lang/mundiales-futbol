@@ -1,0 +1,2452 @@
+{
+ "año": 2014,
+ "sedes": [
+  "Brasil"
+ ],
+ "campeon": "Alemania",
+ "inicio": "2014-06-12",
+ "fin": "2014-07-13",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Estádio Mineirão",
+   "ciudad": "Belo Horizonte",
+   "pais": "Brasil",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Estádio Nacional",
+   "ciudad": "Brasilia",
+   "pais": "Brasil",
+   "capacidad": 70000
+  },
+  {
+   "nombre": "Arena Pantanal",
+   "ciudad": "Cuiabá",
+   "pais": "Brasil",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Arena da Baixada",
+   "ciudad": "Curitiba",
+   "pais": "Brasil",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Estádio Castelão",
+   "ciudad": "Fortaleza",
+   "pais": "Brasil",
+   "capacidad": 63000
+  },
+  {
+   "nombre": "Arena da Amazônia",
+   "ciudad": "Manaus",
+   "pais": "Brasil",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Arena das Dunas",
+   "ciudad": "Natal",
+   "pais": "Brasil",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Estádio Beira-Rio",
+   "ciudad": "Porto Alegre",
+   "pais": "Brasil",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Arena Pernambuco",
+   "ciudad": "Recife",
+   "pais": "Brasil",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Estádio do Maracanã",
+   "ciudad": "Río de Janeiro",
+   "pais": "Brasil",
+   "capacidad": 200000
+  },
+  {
+   "nombre": "Arena Fonte Nova",
+   "ciudad": "Salvador",
+   "pais": "Brasil",
+   "capacidad": 52000
+  },
+  {
+   "nombre": "Arena Corinthians",
+   "ciudad": "São Paulo",
+   "pais": "Brasil",
+   "capacidad": 63000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-12",
+     "estadio": "Arena Corinthians",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Croacia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-13",
+     "estadio": "Arena das Dunas",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-17",
+     "estadio": "Estádio Castelão",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-18",
+     "estadio": "Arena da Amazônia",
+     "local": "Camerún",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2014-06-23",
+     "estadio": "Estádio Nacional",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2014-06-23",
+     "estadio": "Arena Pernambuco",
+     "local": "Croacia",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 10,
+     "gc": 3,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 7,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 3,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-13",
+     "estadio": "Arena Fonte Nova",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "2014-06-13",
+     "estadio": "Arena Pantanal",
+     "local": "Chile",
+     "golesLocal": 3,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-18",
+     "estadio": "Estádio Beira-Rio",
+     "local": "Australia",
+     "golesLocal": 2,
+     "visitante": "Países Bajos",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2014-06-18",
+     "estadio": "Estádio do Maracanã",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Chile",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-23",
+     "estadio": "Arena da Baixada",
+     "local": "Australia",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2014-06-23",
+     "estadio": "Arena Corinthians",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 2,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Grecia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Costa de Marfil",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-14",
+     "estadio": "Estádio Mineirão",
+     "local": "Colombia",
+     "golesLocal": 3,
+     "visitante": "Grecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-14",
+     "estadio": "Arena Pernambuco",
+     "local": "Costa de Marfil",
+     "golesLocal": 2,
+     "visitante": "Japón",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-19",
+     "estadio": "Estádio Nacional",
+     "local": "Colombia",
+     "golesLocal": 2,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-19",
+     "estadio": "Arena das Dunas",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Grecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-24",
+     "estadio": "Arena Pantanal",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Colombia",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2014-06-24",
+     "estadio": "Estádio Castelão",
+     "local": "Grecia",
+     "golesLocal": 2,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-14",
+     "estadio": "Estádio Castelão",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Costa Rica",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2014-06-14",
+     "estadio": "Arena da Amazônia",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-19",
+     "estadio": "Arena Corinthians",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-20",
+     "estadio": "Arena Pernambuco",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Costa Rica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-24",
+     "estadio": "Estádio Mineirão",
+     "local": "Costa Rica",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-24",
+     "estadio": "Arena das Dunas",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 6,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Ecuador",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Honduras",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-15",
+     "estadio": "Estádio Nacional",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "Ecuador",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-15",
+     "estadio": "Estádio Beira-Rio",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "Honduras",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-20",
+     "estadio": "Arena Fonte Nova",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "2014-06-20",
+     "estadio": "Arena da Baixada",
+     "local": "Honduras",
+     "golesLocal": 1,
+     "visitante": "Ecuador",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-25",
+     "estadio": "Arena da Amazônia",
+     "local": "Honduras",
+     "golesLocal": 0,
+     "visitante": "Suiza",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2014-06-25",
+     "estadio": "Estádio do Maracanã",
+     "local": "Ecuador",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Bosnia y Herzegovina",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-15",
+     "estadio": "Estádio do Maracanã",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Bosnia y Herzegovina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-16",
+     "estadio": "Arena da Baixada",
+     "local": "Irán",
+     "golesLocal": 0,
+     "visitante": "Nigeria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-21",
+     "estadio": "Estádio Mineirão",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Irán",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-21",
+     "estadio": "Arena Pantanal",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Bosnia y Herzegovina",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-25",
+     "estadio": "Arena Fonte Nova",
+     "local": "Bosnia y Herzegovina",
+     "golesLocal": 3,
+     "visitante": "Irán",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-25",
+     "estadio": "Estádio Beira-Rio",
+     "local": "Nigeria",
+     "golesLocal": 2,
+     "visitante": "Argentina",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 7,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Ghana",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-16",
+     "estadio": "Arena Fonte Nova",
+     "local": "Alemania",
+     "golesLocal": 4,
+     "visitante": "Portugal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-16",
+     "estadio": "Arena das Dunas",
+     "local": "Ghana",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-21",
+     "estadio": "Estádio Castelão",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Ghana",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-22",
+     "estadio": "Arena da Amazônia",
+     "local": "Estados Unidos",
+     "golesLocal": 2,
+     "visitante": "Portugal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2014-06-26",
+     "estadio": "Estádio Nacional",
+     "local": "Portugal",
+     "golesLocal": 2,
+     "visitante": "Ghana",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-26",
+     "estadio": "Arena Pernambuco",
+     "local": "Estados Unidos",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Argelia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Rusia",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2014-06-17",
+     "estadio": "Estádio Mineirão",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "Argelia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-17",
+     "estadio": "Arena Pantanal",
+     "local": "Rusia",
+     "golesLocal": 1,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-22",
+     "estadio": "Estádio do Maracanã",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Rusia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-22",
+     "estadio": "Estádio Beira-Rio",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Argelia",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2014-06-26",
+     "estadio": "Arena da Baixada",
+     "local": "Argelia",
+     "golesLocal": 1,
+     "visitante": "Rusia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-26",
+     "estadio": "Arena Corinthians",
+     "local": "Corea del Sur",
+     "golesLocal": 0,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2014-06-28",
+     "estadio": "Estádio Mineirão",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Chile",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      2
+     ]
+    },
+    {
+     "fecha": "2014-06-28",
+     "estadio": "Estádio do Maracanã",
+     "local": "Colombia",
+     "golesLocal": 2,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-29",
+     "estadio": "Estádio Castelão",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-06-29",
+     "estadio": "Arena Pernambuco",
+     "local": "Costa Rica",
+     "golesLocal": 1,
+     "visitante": "Grecia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      5,
+      3
+     ]
+    },
+    {
+     "fecha": "2014-06-30",
+     "estadio": "Estádio Nacional",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-06-30",
+     "estadio": "Estádio Beira-Rio",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Argelia",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "2014-07-01",
+     "estadio": "Arena Corinthians",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 0,
+     "prorroga": true
+    },
+    {
+     "fecha": "2014-07-01",
+     "estadio": "Arena Fonte Nova",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2014-07-04",
+     "estadio": "Estádio do Maracanã",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-07-04",
+     "estadio": "Estádio Castelão",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Colombia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2014-07-05",
+     "estadio": "Estádio Nacional",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2014-07-05",
+     "estadio": "Arena Fonte Nova",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Costa Rica",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2014-07-08",
+     "estadio": "Estádio Mineirão",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Alemania",
+     "golesVisitante": 7
+    },
+    {
+     "fecha": "2014-07-09",
+     "estadio": "Arena Corinthians",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      2,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2014-07-12",
+     "estadio": "Estádio Nacional",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2014-07-13",
+     "estadio": "Estádio do Maracanã",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 0,
+     "prorroga": true
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2014-06-12",
+   "local": "Brasil",
+   "visitante": "Croacia",
+   "jugador": "Marcelo",
+   "seleccion": "Brasil",
+   "minuto": "12",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2014-06-12",
+   "local": "Brasil",
+   "visitante": "Croacia",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2014-06-12",
+   "local": "Brasil",
+   "visitante": "Croacia",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "71",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-12",
+   "local": "Brasil",
+   "visitante": "Croacia",
+   "jugador": "Oscar",
+   "seleccion": "Brasil",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "México",
+   "visitante": "Camerún",
+   "jugador": "Oribe Peralta",
+   "seleccion": "México",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Xabi Alonso",
+   "seleccion": "España",
+   "minuto": "27",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Stefan de Vrij",
+   "seleccion": "Países Bajos",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "España",
+   "visitante": "Países Bajos",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "Chile",
+   "visitante": "Australia",
+   "jugador": "Alexis Sánchez",
+   "seleccion": "Chile",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "Chile",
+   "visitante": "Australia",
+   "jugador": "Jorge Valdivia",
+   "seleccion": "Chile",
+   "minuto": "14"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "Chile",
+   "visitante": "Australia",
+   "jugador": "Tim Cahill",
+   "seleccion": "Australia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2014-06-13",
+   "local": "Chile",
+   "visitante": "Australia",
+   "jugador": "Jean Beausejour",
+   "seleccion": "Chile",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Colombia",
+   "visitante": "Grecia",
+   "jugador": "Pablo Armero",
+   "seleccion": "Colombia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Colombia",
+   "visitante": "Grecia",
+   "jugador": "Teófilo Gutiérrez",
+   "seleccion": "Colombia",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Colombia",
+   "visitante": "Grecia",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Uruguay",
+   "visitante": "Costa Rica",
+   "jugador": "Edinson Cavani",
+   "seleccion": "Uruguay",
+   "minuto": "24",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Uruguay",
+   "visitante": "Costa Rica",
+   "jugador": "Joel Campbell",
+   "seleccion": "Costa Rica",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Uruguay",
+   "visitante": "Costa Rica",
+   "jugador": "Óscar Duarte",
+   "seleccion": "Costa Rica",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Uruguay",
+   "visitante": "Costa Rica",
+   "jugador": "Marco Ureña",
+   "seleccion": "Costa Rica",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Inglaterra",
+   "visitante": "Italia",
+   "jugador": "Claudio Marchisio",
+   "seleccion": "Italia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Inglaterra",
+   "visitante": "Italia",
+   "jugador": "Daniel Sturridge",
+   "seleccion": "Inglaterra",
+   "minuto": "37"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Inglaterra",
+   "visitante": "Italia",
+   "jugador": "Mario Balotelli",
+   "seleccion": "Italia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Costa de Marfil",
+   "visitante": "Japón",
+   "jugador": "Keisuke Honda",
+   "seleccion": "Japón",
+   "minuto": "16"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Costa de Marfil",
+   "visitante": "Japón",
+   "jugador": "Wilfried Bony",
+   "seleccion": "Costa de Marfil",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2014-06-14",
+   "local": "Costa de Marfil",
+   "visitante": "Japón",
+   "jugador": "Gervinho",
+   "seleccion": "Costa de Marfil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Suiza",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Suiza",
+   "visitante": "Ecuador",
+   "jugador": "Admir Mehmedi",
+   "seleccion": "Suiza",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Suiza",
+   "visitante": "Ecuador",
+   "jugador": "Haris Seferovic",
+   "seleccion": "Suiza",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Francia",
+   "visitante": "Honduras",
+   "jugador": "Karim Benzema",
+   "seleccion": "Francia",
+   "minuto": "45",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Francia",
+   "visitante": "Honduras",
+   "jugador": "Noel Valladares",
+   "seleccion": "Honduras",
+   "minuto": "48",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Francia",
+   "visitante": "Honduras",
+   "jugador": "Karim Benzema",
+   "seleccion": "Francia",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Argentina",
+   "visitante": "Bosnia y Herzegovina",
+   "jugador": "Sead Kolašinac",
+   "seleccion": "Bosnia y Herzegovina",
+   "minuto": "3",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Argentina",
+   "visitante": "Bosnia y Herzegovina",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2014-06-15",
+   "local": "Argentina",
+   "visitante": "Bosnia y Herzegovina",
+   "jugador": "Vedad Ibišević",
+   "seleccion": "Bosnia y Herzegovina",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "12",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Mats Hummels",
+   "seleccion": "Alemania",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "Clint Dempsey",
+   "seleccion": "Estados Unidos",
+   "minuto": "1"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "André Ayew",
+   "seleccion": "Ghana",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2014-06-16",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "John Brooks",
+   "seleccion": "Estados Unidos",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2014-06-17",
+   "local": "Bélgica",
+   "visitante": "Argelia",
+   "jugador": "Sofiane Feghouli",
+   "seleccion": "Argelia",
+   "minuto": "25",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-17",
+   "local": "Bélgica",
+   "visitante": "Argelia",
+   "jugador": "Marouane Fellaini",
+   "seleccion": "Bélgica",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2014-06-17",
+   "local": "Bélgica",
+   "visitante": "Argelia",
+   "jugador": "Dries Mertens",
+   "seleccion": "Bélgica",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2014-06-17",
+   "local": "Rusia",
+   "visitante": "Corea del Sur",
+   "jugador": "Keun-ho Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2014-06-17",
+   "local": "Rusia",
+   "visitante": "Corea del Sur",
+   "jugador": "Aleksandr Kerzhakov",
+   "seleccion": "Rusia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Australia",
+   "visitante": "Países Bajos",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Australia",
+   "visitante": "Países Bajos",
+   "jugador": "Tim Cahill",
+   "seleccion": "Australia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Australia",
+   "visitante": "Países Bajos",
+   "jugador": "Mile Jedinak",
+   "seleccion": "Australia",
+   "minuto": "54",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Australia",
+   "visitante": "Países Bajos",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Australia",
+   "visitante": "Países Bajos",
+   "jugador": "Memphis Depay",
+   "seleccion": "Países Bajos",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "España",
+   "visitante": "Chile",
+   "jugador": "Eduardo Vargas",
+   "seleccion": "Chile",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "España",
+   "visitante": "Chile",
+   "jugador": "Charles Aránguiz",
+   "seleccion": "Chile",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Camerún",
+   "visitante": "Croacia",
+   "jugador": "Ivica Olić",
+   "seleccion": "Croacia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Camerún",
+   "visitante": "Croacia",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Camerún",
+   "visitante": "Croacia",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2014-06-18",
+   "local": "Camerún",
+   "visitante": "Croacia",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Colombia",
+   "visitante": "Costa de Marfil",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Colombia",
+   "visitante": "Costa de Marfil",
+   "jugador": "Juan Fernando Quintero",
+   "seleccion": "Colombia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Colombia",
+   "visitante": "Costa de Marfil",
+   "jugador": "Gervinho",
+   "seleccion": "Costa de Marfil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Wayne Rooney",
+   "seleccion": "Inglaterra",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2014-06-19",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Italia",
+   "visitante": "Costa Rica",
+   "jugador": "Bryan Ruiz",
+   "seleccion": "Costa Rica",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Olivier Giroud",
+   "seleccion": "Francia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Blaise Matuidi",
+   "seleccion": "Francia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Mathieu Valbuena",
+   "seleccion": "Francia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Karim Benzema",
+   "seleccion": "Francia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Moussa Sissoko",
+   "seleccion": "Francia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Blerim Džemaili",
+   "seleccion": "Suiza",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Suiza",
+   "visitante": "Francia",
+   "jugador": "Granit Xhaka",
+   "seleccion": "Suiza",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Honduras",
+   "visitante": "Ecuador",
+   "jugador": "Carlo Costly",
+   "seleccion": "Honduras",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Honduras",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2014-06-20",
+   "local": "Honduras",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Argentina",
+   "visitante": "Irán",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Alemania",
+   "visitante": "Ghana",
+   "jugador": "Mario Götze",
+   "seleccion": "Alemania",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Alemania",
+   "visitante": "Ghana",
+   "jugador": "André Ayew",
+   "seleccion": "Ghana",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Alemania",
+   "visitante": "Ghana",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Alemania",
+   "visitante": "Ghana",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2014-06-21",
+   "local": "Nigeria",
+   "visitante": "Bosnia y Herzegovina",
+   "jugador": "Peter Odemwingie",
+   "seleccion": "Nigeria",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Divock Origi",
+   "seleccion": "Bélgica",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Islam Slimani",
+   "seleccion": "Argelia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Rafik Halliche",
+   "seleccion": "Argelia",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Abdelmoumene Djabou",
+   "seleccion": "Argelia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Heung-min Son",
+   "seleccion": "Corea del Sur",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Yacine Brahimi",
+   "seleccion": "Argelia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Corea del Sur",
+   "visitante": "Argelia",
+   "jugador": "Ja-cheol Koo",
+   "seleccion": "Corea del Sur",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Nani",
+   "seleccion": "Portugal",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Jermaine Jones",
+   "seleccion": "Estados Unidos",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Clint Dempsey",
+   "seleccion": "Estados Unidos",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2014-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Silvestre Varela",
+   "seleccion": "Portugal",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Australia",
+   "visitante": "España",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Australia",
+   "visitante": "España",
+   "jugador": "Fernando Torres",
+   "seleccion": "España",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Australia",
+   "visitante": "España",
+   "jugador": "Juan Mata",
+   "seleccion": "España",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Países Bajos",
+   "visitante": "Chile",
+   "jugador": "Leroy Fer",
+   "seleccion": "Países Bajos",
+   "minuto": "77"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Países Bajos",
+   "visitante": "Chile",
+   "jugador": "Memphis Depay",
+   "seleccion": "Países Bajos",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Joël Matip",
+   "seleccion": "Camerún",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Fred",
+   "seleccion": "Brasil",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Fernandinho",
+   "seleccion": "Brasil",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Croacia",
+   "visitante": "México",
+   "jugador": "Rafael Márquez",
+   "seleccion": "México",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Croacia",
+   "visitante": "México",
+   "jugador": "Andrés Guardado",
+   "seleccion": "México",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Croacia",
+   "visitante": "México",
+   "jugador": "Javier Hernández",
+   "seleccion": "México",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2014-06-23",
+   "local": "Croacia",
+   "visitante": "México",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Italia",
+   "visitante": "Uruguay",
+   "jugador": "Diego Godín",
+   "seleccion": "Uruguay",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Japón",
+   "visitante": "Colombia",
+   "jugador": "Juan Cuadrado",
+   "seleccion": "Colombia",
+   "minuto": "17",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Japón",
+   "visitante": "Colombia",
+   "jugador": "Shinji Okazaki",
+   "seleccion": "Japón",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Japón",
+   "visitante": "Colombia",
+   "jugador": "Jackson Martínez",
+   "seleccion": "Colombia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Japón",
+   "visitante": "Colombia",
+   "jugador": "Jackson Martínez",
+   "seleccion": "Colombia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Japón",
+   "visitante": "Colombia",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Grecia",
+   "visitante": "Costa de Marfil",
+   "jugador": "Andreas Samaris",
+   "seleccion": "Grecia",
+   "minuto": "42"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Grecia",
+   "visitante": "Costa de Marfil",
+   "jugador": "Wilfried Bony",
+   "seleccion": "Costa de Marfil",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2014-06-24",
+   "local": "Grecia",
+   "visitante": "Costa de Marfil",
+   "jugador": "Georgios Samaras",
+   "seleccion": "Grecia",
+   "minuto": "90+3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Bosnia y Herzegovina",
+   "visitante": "Irán",
+   "jugador": "Edin Džeko",
+   "seleccion": "Bosnia y Herzegovina",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Bosnia y Herzegovina",
+   "visitante": "Irán",
+   "jugador": "Miralem Pjanić",
+   "seleccion": "Bosnia y Herzegovina",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Bosnia y Herzegovina",
+   "visitante": "Irán",
+   "jugador": "Reza Ghoochannejhad",
+   "seleccion": "Irán",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Bosnia y Herzegovina",
+   "visitante": "Irán",
+   "jugador": "Avdija Vršajević",
+   "seleccion": "Bosnia y Herzegovina",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "3"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Ahmed Musa",
+   "seleccion": "Nigeria",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Ahmed Musa",
+   "seleccion": "Nigeria",
+   "minuto": "47"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Marcos Rojo",
+   "seleccion": "Argentina",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Honduras",
+   "visitante": "Suiza",
+   "jugador": "Xherdan Shaqiri",
+   "seleccion": "Suiza",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Honduras",
+   "visitante": "Suiza",
+   "jugador": "Xherdan Shaqiri",
+   "seleccion": "Suiza",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2014-06-25",
+   "local": "Honduras",
+   "visitante": "Suiza",
+   "jugador": "Xherdan Shaqiri",
+   "seleccion": "Suiza",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "John Boye",
+   "seleccion": "Ghana",
+   "minuto": "31",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Estados Unidos",
+   "visitante": "Alemania",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Argelia",
+   "visitante": "Rusia",
+   "jugador": "Aleksandr Kokorin",
+   "seleccion": "Rusia",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Argelia",
+   "visitante": "Rusia",
+   "jugador": "Islam Slimani",
+   "seleccion": "Argelia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2014-06-26",
+   "local": "Corea del Sur",
+   "visitante": "Bélgica",
+   "jugador": "Jan Vertonghen",
+   "seleccion": "Bélgica",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2014-06-28",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "David Luiz",
+   "seleccion": "Brasil",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2014-06-28",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Alexis Sánchez",
+   "seleccion": "Chile",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2014-06-28",
+   "local": "Colombia",
+   "visitante": "Uruguay",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2014-06-28",
+   "local": "Colombia",
+   "visitante": "Uruguay",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2014-06-29",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Giovani dos Santos",
+   "seleccion": "México",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2014-06-29",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2014-06-29",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Klaas-Jan Huntelaar",
+   "seleccion": "Países Bajos",
+   "minuto": "90+4",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-06-29",
+   "local": "Costa Rica",
+   "visitante": "Grecia",
+   "jugador": "Bryan Ruiz",
+   "seleccion": "Costa Rica",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2014-06-29",
+   "local": "Costa Rica",
+   "visitante": "Grecia",
+   "jugador": "Sokratis Papastathopoulos",
+   "seleccion": "Grecia",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2014-06-30",
+   "local": "Francia",
+   "visitante": "Nigeria",
+   "jugador": "Paul Pogba",
+   "seleccion": "Francia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2014-06-30",
+   "local": "Francia",
+   "visitante": "Nigeria",
+   "jugador": "Joseph Yobo",
+   "seleccion": "Nigeria",
+   "minuto": "90+2",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2014-06-30",
+   "local": "Alemania",
+   "visitante": "Argelia",
+   "jugador": "André Schürrle",
+   "seleccion": "Alemania",
+   "minuto": "92"
+  },
+  {
+   "fecha": "2014-06-30",
+   "local": "Alemania",
+   "visitante": "Argelia",
+   "jugador": "Mesut Özil",
+   "seleccion": "Alemania",
+   "minuto": "120"
+  },
+  {
+   "fecha": "2014-06-30",
+   "local": "Alemania",
+   "visitante": "Argelia",
+   "jugador": "Abdelmoumene Djabou",
+   "seleccion": "Argelia",
+   "minuto": "120+1"
+  },
+  {
+   "fecha": "2014-07-01",
+   "local": "Argentina",
+   "visitante": "Suiza",
+   "jugador": "Ángel Di María",
+   "seleccion": "Argentina",
+   "minuto": "118"
+  },
+  {
+   "fecha": "2014-07-01",
+   "local": "Bélgica",
+   "visitante": "Estados Unidos",
+   "jugador": "Kevin De Bruyne",
+   "seleccion": "Bélgica",
+   "minuto": "93"
+  },
+  {
+   "fecha": "2014-07-01",
+   "local": "Bélgica",
+   "visitante": "Estados Unidos",
+   "jugador": "Romelu Lukaku",
+   "seleccion": "Bélgica",
+   "minuto": "105"
+  },
+  {
+   "fecha": "2014-07-01",
+   "local": "Bélgica",
+   "visitante": "Estados Unidos",
+   "jugador": "Julian Green",
+   "seleccion": "Estados Unidos",
+   "minuto": "107"
+  },
+  {
+   "fecha": "2014-07-04",
+   "local": "Francia",
+   "visitante": "Alemania",
+   "jugador": "Mats Hummels",
+   "seleccion": "Alemania",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2014-07-04",
+   "local": "Brasil",
+   "visitante": "Colombia",
+   "jugador": "Thiago Silva",
+   "seleccion": "Brasil",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2014-07-04",
+   "local": "Brasil",
+   "visitante": "Colombia",
+   "jugador": "David Luiz",
+   "seleccion": "Brasil",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2014-07-04",
+   "local": "Brasil",
+   "visitante": "Colombia",
+   "jugador": "James Rodríguez",
+   "seleccion": "Colombia",
+   "minuto": "80",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-07-05",
+   "local": "Argentina",
+   "visitante": "Bélgica",
+   "jugador": "Gonzalo Higuaín",
+   "seleccion": "Argentina",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Toni Kroos",
+   "seleccion": "Alemania",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Toni Kroos",
+   "seleccion": "Alemania",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Sami Khedira",
+   "seleccion": "Alemania",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "André Schürrle",
+   "seleccion": "Alemania",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "André Schürrle",
+   "seleccion": "Alemania",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2014-07-08",
+   "local": "Brasil",
+   "visitante": "Alemania",
+   "jugador": "Oscar",
+   "seleccion": "Brasil",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2014-07-12",
+   "local": "Brasil",
+   "visitante": "Países Bajos",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2014-07-12",
+   "local": "Brasil",
+   "visitante": "Países Bajos",
+   "jugador": "Daley Blind",
+   "seleccion": "Países Bajos",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2014-07-12",
+   "local": "Brasil",
+   "visitante": "Países Bajos",
+   "jugador": "Georginio Wijnaldum",
+   "seleccion": "Países Bajos",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2014-07-13",
+   "local": "Alemania",
+   "visitante": "Argentina",
+   "jugador": "Mario Götze",
+   "seleccion": "Alemania",
+   "minuto": "113"
+  }
+ ]
+}

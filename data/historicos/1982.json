@@ -1,0 +1,2209 @@
+{
+ "año": 1982,
+ "sedes": [
+  "España"
+ ],
+ "campeon": "Italia",
+ "inicio": "1982-06-13",
+ "fin": "1982-07-11",
+ "selecciones": 24,
+ "estadios": [
+  {
+   "nombre": "Estadio Riazor",
+   "ciudad": "A Coruña",
+   "pais": "España",
+   "capacidad": 34000
+  },
+  {
+   "nombre": "Estadio José Rico Pérez",
+   "ciudad": "Alicante",
+   "pais": "España",
+   "capacidad": 33000
+  },
+  {
+   "nombre": "Camp Nou",
+   "ciudad": "Barcelona",
+   "pais": "España",
+   "capacidad": 121000
+  },
+  {
+   "nombre": "Estadi de Sarrià",
+   "ciudad": "Barcelona",
+   "pais": "España",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Estadio San Mamés",
+   "ciudad": "Bilbao",
+   "pais": "España",
+   "capacidad": 46000
+  },
+  {
+   "nombre": "Nuevo Estadio",
+   "ciudad": "Elche",
+   "pais": "España",
+   "capacidad": 53000
+  },
+  {
+   "nombre": "Estadio El Molinón",
+   "ciudad": "Gijón",
+   "pais": "España",
+   "capacidad": 45000
+  },
+  {
+   "nombre": "Estadio Santiago Bernabéu",
+   "ciudad": "Madrid",
+   "pais": "España",
+   "capacidad": 90000
+  },
+  {
+   "nombre": "Vicente Calderón",
+   "ciudad": "Madrid",
+   "pais": "España",
+   "capacidad": 66000
+  },
+  {
+   "nombre": "Estadio La Rosaleda",
+   "ciudad": "Málaga",
+   "pais": "España",
+   "capacidad": 45000
+  },
+  {
+   "nombre": "Estadio Carlos Tartiere",
+   "ciudad": "Oviedo",
+   "pais": "España",
+   "capacidad": 24000
+  },
+  {
+   "nombre": "Estadio Benito Villamarín",
+   "ciudad": "Sevilla",
+   "pais": "España",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Estadio Ramón Sánchez Pizjuán",
+   "ciudad": "Sevilla",
+   "pais": "España",
+   "capacidad": 68000
+  },
+  {
+   "nombre": "Estadio Luis Casanova",
+   "ciudad": "Valencia",
+   "pais": "España",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Estadio José Zorrilla",
+   "ciudad": "Valladolid",
+   "pais": "España",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Balaídos",
+   "ciudad": "Vigo",
+   "pais": "España",
+   "capacidad": 33000
+  },
+  {
+   "nombre": "Estadio La Romareda",
+   "ciudad": "Zaragoza",
+   "pais": "España",
+   "capacidad": 42000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 1,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Perú",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-14",
+     "estadio": "Balaídos",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-15",
+     "estadio": "Estadio Riazor",
+     "local": "Perú",
+     "golesLocal": 0,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-18",
+     "estadio": "Balaídos",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Perú",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-19",
+     "estadio": "Estadio Riazor",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-22",
+     "estadio": "Estadio Riazor",
+     "local": "Polonia",
+     "golesLocal": 5,
+     "visitante": "Perú",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-23",
+     "estadio": "Balaídos",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Argelia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 3,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-16",
+     "estadio": "Estadio El Molinón",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Argelia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-06-17",
+     "estadio": "Estadio Carlos Tartiere",
+     "local": "Chile",
+     "golesLocal": 0,
+     "visitante": "Austria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-20",
+     "estadio": "Estadio El Molinón",
+     "local": "Alemania Federal",
+     "golesLocal": 4,
+     "visitante": "Chile",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-21",
+     "estadio": "Estadio Carlos Tartiere",
+     "local": "Argelia",
+     "golesLocal": 0,
+     "visitante": "Austria",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-06-24",
+     "estadio": "Estadio Carlos Tartiere",
+     "local": "Argelia",
+     "golesLocal": 3,
+     "visitante": "Chile",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-06-25",
+     "estadio": "Estadio El Molinón",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 12,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "El Salvador",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 13,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-13",
+     "estadio": "Camp Nou",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-15",
+     "estadio": "Nuevo Estadio",
+     "local": "Hungría",
+     "golesLocal": 10,
+     "visitante": "El Salvador",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-18",
+     "estadio": "Estadio José Rico Pérez",
+     "local": "Argentina",
+     "golesLocal": 4,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-19",
+     "estadio": "Nuevo Estadio",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "El Salvador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-22",
+     "estadio": "Nuevo Estadio",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-23",
+     "estadio": "Estadio José Rico Pérez",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "El Salvador",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Kuwait",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-16",
+     "estadio": "Estadio San Mamés",
+     "local": "Inglaterra",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-17",
+     "estadio": "Estadio José Zorrilla",
+     "local": "Checoslovaquia",
+     "golesLocal": 1,
+     "visitante": "Kuwait",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-20",
+     "estadio": "Estadio San Mamés",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-21",
+     "estadio": "Estadio José Zorrilla",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Kuwait",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-24",
+     "estadio": "Estadio José Zorrilla",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-25",
+     "estadio": "Estadio San Mamés",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Kuwait",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "5",
+   "clasificacion": [
+    {
+     "nombre": "Irlanda del Norte",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Honduras",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-16",
+     "estadio": "Estadio Luis Casanova",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Honduras",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-17",
+     "estadio": "Estadio La Romareda",
+     "local": "Yugoslavia",
+     "golesLocal": 0,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-20",
+     "estadio": "Estadio Luis Casanova",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-21",
+     "estadio": "Estadio La Romareda",
+     "local": "Honduras",
+     "golesLocal": 1,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-24",
+     "estadio": "Estadio La Romareda",
+     "local": "Honduras",
+     "golesLocal": 0,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-25",
+     "estadio": "Estadio Luis Casanova",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "6",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 10,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 8,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Nueva Zelanda",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 12,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-14",
+     "estadio": "Estadio Ramón Sánchez Pizjuán",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-15",
+     "estadio": "Estadio La Rosaleda",
+     "local": "Escocia",
+     "golesLocal": 5,
+     "visitante": "Nueva Zelanda",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-06-18",
+     "estadio": "Estadio Benito Villamarín",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-06-19",
+     "estadio": "Estadio La Rosaleda",
+     "local": "Unión Soviética",
+     "golesLocal": 3,
+     "visitante": "Nueva Zelanda",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-06-22",
+     "estadio": "Estadio La Rosaleda",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Escocia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-06-23",
+     "estadio": "Estadio Benito Villamarín",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Nueva Zelanda",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Polonia",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 3,
+     "gc": 0,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Unión Soviética",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 1,
+     "gc": 0,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 4,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-28",
+     "estadio": "Camp Nou",
+     "local": "Polonia",
+     "golesLocal": 3,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-07-01",
+     "estadio": "Camp Nou",
+     "local": "Bélgica",
+     "golesLocal": 0,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-07-04",
+     "estadio": "Camp Nou",
+     "local": "Unión Soviética",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 2,
+     "g": 0,
+     "e": 2,
+     "p": 0,
+     "gf": 0,
+     "gc": 0,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "España",
+     "pj": 2,
+     "g": 0,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 2,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-29",
+     "estadio": "Estadio Santiago Bernabéu",
+     "local": "Alemania Federal",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1982-07-02",
+     "estadio": "Estadio Santiago Bernabéu",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-07-05",
+     "estadio": "Estadio Santiago Bernabéu",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-29",
+     "estadio": "Estadi de Sarrià",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-07-02",
+     "estadio": "Estadi de Sarrià",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1982-07-05",
+     "estadio": "Estadi de Sarrià",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Austria",
+     "pj": 2,
+     "g": 0,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    },
+    {
+     "nombre": "Irlanda del Norte",
+     "pj": 2,
+     "g": 0,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1982-06-28",
+     "estadio": "Vicente Calderón",
+     "local": "Austria",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1982-07-01",
+     "estadio": "Vicente Calderón",
+     "local": "Austria",
+     "golesLocal": 2,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-07-04",
+     "estadio": "Vicente Calderón",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1982-07-08",
+     "estadio": "Camp Nou",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1982-07-08",
+     "estadio": "Estadio Ramón Sánchez Pizjuán",
+     "local": "Alemania Federal",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 3,
+     "prorroga": true,
+     "penaltis": [
+      5,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1982-07-10",
+     "estadio": "Estadio José Rico Pérez",
+     "local": "Polonia",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1982-07-11",
+     "estadio": "Estadio Santiago Bernabéu",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1982-06-13",
+   "local": "Argentina",
+   "visitante": "Bélgica",
+   "jugador": "Erwin Vandenbergh",
+   "seleccion": "Bélgica",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1982-06-14",
+   "local": "Brasil",
+   "visitante": "Unión Soviética",
+   "jugador": "Andriy Bal",
+   "seleccion": "Unión Soviética",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1982-06-14",
+   "local": "Brasil",
+   "visitante": "Unión Soviética",
+   "jugador": "Sócrates",
+   "seleccion": "Brasil",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-06-14",
+   "local": "Brasil",
+   "visitante": "Unión Soviética",
+   "jugador": "Éder",
+   "seleccion": "Brasil",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "Tibor Nyilasi",
+   "seleccion": "Hungría",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "Gábor Pölöskei",
+   "seleccion": "Hungría",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "László Fazekas",
+   "seleccion": "Hungría",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "József Tóth",
+   "seleccion": "Hungría",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "László Fazekas",
+   "seleccion": "Hungría",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "Luis Ramírez Zapata",
+   "seleccion": "El Salvador",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "László Kiss",
+   "seleccion": "Hungría",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "Lázár Szentes",
+   "seleccion": "Hungría",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "László Kiss",
+   "seleccion": "Hungría",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "László Kiss",
+   "seleccion": "Hungría",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Hungría",
+   "visitante": "El Salvador",
+   "jugador": "Tibor Nyilasi",
+   "seleccion": "Hungría",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Kenny Dalglish",
+   "seleccion": "Escocia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "John Wark",
+   "seleccion": "Escocia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "John Wark",
+   "seleccion": "Escocia",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Steve Sumner",
+   "seleccion": "Nueva Zelanda",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Steve Wooddin",
+   "seleccion": "Nueva Zelanda",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "John Robertson",
+   "seleccion": "Escocia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1982-06-15",
+   "local": "Escocia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Steve Archibald",
+   "seleccion": "Escocia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Alemania Federal",
+   "visitante": "Argelia",
+   "jugador": "Rabah Madjer",
+   "seleccion": "Argelia",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Alemania Federal",
+   "visitante": "Argelia",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Alemania Federal",
+   "visitante": "Argelia",
+   "jugador": "Lakhdar Belloumi",
+   "seleccion": "Argelia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Bryan Robson",
+   "seleccion": "Inglaterra",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Gérard Soler",
+   "seleccion": "Francia",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Bryan Robson",
+   "seleccion": "Inglaterra",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Paul Mariner",
+   "seleccion": "Inglaterra",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "España",
+   "visitante": "Honduras",
+   "jugador": "Héctor Zelaya",
+   "seleccion": "Honduras",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1982-06-16",
+   "local": "España",
+   "visitante": "Honduras",
+   "jugador": "Roberto López Ufarte",
+   "seleccion": "España",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-17",
+   "local": "Chile",
+   "visitante": "Austria",
+   "jugador": "Walter Schachner",
+   "seleccion": "Austria",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1982-06-17",
+   "local": "Checoslovaquia",
+   "visitante": "Kuwait",
+   "jugador": "Antonín Panenka",
+   "seleccion": "Checoslovaquia",
+   "minuto": "21",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-17",
+   "local": "Checoslovaquia",
+   "visitante": "Kuwait",
+   "jugador": "Faisal Al-Dakhil",
+   "seleccion": "Kuwait",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Italia",
+   "visitante": "Perú",
+   "jugador": "Bruno Conti",
+   "seleccion": "Italia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Italia",
+   "visitante": "Perú",
+   "jugador": "Rubén Toribio Díaz",
+   "seleccion": "Perú",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Daniel Bertoni",
+   "seleccion": "Argentina",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Osvaldo Ardiles",
+   "seleccion": "Argentina",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Gábor Pölöskei",
+   "seleccion": "Hungría",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "David Narey",
+   "seleccion": "Escocia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Zico",
+   "seleccion": "Brasil",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Oscar",
+   "seleccion": "Brasil",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Éder",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1982-06-18",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Falcão",
+   "seleccion": "Brasil",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1982-06-19",
+   "local": "Bélgica",
+   "visitante": "El Salvador",
+   "jugador": "Ludo Coeck",
+   "seleccion": "Bélgica",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1982-06-19",
+   "local": "Unión Soviética",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Yuri Gavrilov",
+   "seleccion": "Unión Soviética",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1982-06-19",
+   "local": "Unión Soviética",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Oleh Blokhin",
+   "seleccion": "Unión Soviética",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1982-06-19",
+   "local": "Unión Soviética",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Sergei Baltacha",
+   "seleccion": "Unión Soviética",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Uwe Reinders",
+   "seleccion": "Alemania Federal",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Gustavo Moscoso",
+   "seleccion": "Chile",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Inglaterra",
+   "visitante": "Checoslovaquia",
+   "jugador": "Trevor Francis",
+   "seleccion": "Inglaterra",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "Inglaterra",
+   "visitante": "Checoslovaquia",
+   "jugador": "Jozef Barmoš",
+   "seleccion": "Checoslovaquia",
+   "minuto": "66",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Ivan Gudelj",
+   "seleccion": "Yugoslavia",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Juanito",
+   "seleccion": "España",
+   "minuto": "14",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-20",
+   "local": "España",
+   "visitante": "Yugoslavia",
+   "jugador": "Enrique Saura",
+   "seleccion": "España",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Argelia",
+   "visitante": "Austria",
+   "jugador": "Walter Schachner",
+   "seleccion": "Austria",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Argelia",
+   "visitante": "Austria",
+   "jugador": "Hans Krankl",
+   "seleccion": "Austria",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Francia",
+   "visitante": "Kuwait",
+   "jugador": "Bernard Genghini",
+   "seleccion": "Francia",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Francia",
+   "visitante": "Kuwait",
+   "jugador": "Michel Platini",
+   "seleccion": "Francia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Francia",
+   "visitante": "Kuwait",
+   "jugador": "Didier Six",
+   "seleccion": "Francia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Francia",
+   "visitante": "Kuwait",
+   "jugador": "Abdullah Al-Buloushi",
+   "seleccion": "Kuwait",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Francia",
+   "visitante": "Kuwait",
+   "jugador": "Maxime Bossis",
+   "seleccion": "Francia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Honduras",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Gerry Armstrong",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1982-06-21",
+   "local": "Honduras",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Antonio Laing",
+   "seleccion": "Honduras",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Włodzimierz Smolarek",
+   "seleccion": "Polonia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Andrzej Buncol",
+   "seleccion": "Polonia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Włodzimierz Ciołek",
+   "seleccion": "Polonia",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Polonia",
+   "visitante": "Perú",
+   "jugador": "Guillermo La Rosa",
+   "seleccion": "Perú",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Bélgica",
+   "visitante": "Hungría",
+   "jugador": "József Varga",
+   "seleccion": "Hungría",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Bélgica",
+   "visitante": "Hungría",
+   "jugador": "Alexandre Czerniatynski",
+   "seleccion": "Bélgica",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Unión Soviética",
+   "visitante": "Escocia",
+   "jugador": "Joe Jordan",
+   "seleccion": "Escocia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Unión Soviética",
+   "visitante": "Escocia",
+   "jugador": "Aleksandr Chivadze",
+   "seleccion": "Unión Soviética",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Unión Soviética",
+   "visitante": "Escocia",
+   "jugador": "Ramaz Shengelia",
+   "seleccion": "Unión Soviética",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1982-06-22",
+   "local": "Unión Soviética",
+   "visitante": "Escocia",
+   "jugador": "Graeme Souness",
+   "seleccion": "Escocia",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Italia",
+   "visitante": "Camerún",
+   "jugador": "Francesco Graziani",
+   "seleccion": "Italia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Italia",
+   "visitante": "Camerún",
+   "jugador": "Grégoire M'Bida",
+   "seleccion": "Camerún",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Argentina",
+   "visitante": "El Salvador",
+   "jugador": "Daniel Passarella",
+   "seleccion": "Argentina",
+   "minuto": "22",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Argentina",
+   "visitante": "El Salvador",
+   "jugador": "Daniel Bertoni",
+   "seleccion": "Argentina",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Brasil",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Zico",
+   "seleccion": "Brasil",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Brasil",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Zico",
+   "seleccion": "Brasil",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Brasil",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Falcão",
+   "seleccion": "Brasil",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1982-06-23",
+   "local": "Brasil",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Serginho",
+   "seleccion": "Brasil",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Argelia",
+   "visitante": "Chile",
+   "jugador": "Salah Assad",
+   "seleccion": "Argelia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Argelia",
+   "visitante": "Chile",
+   "jugador": "Salah Assad",
+   "seleccion": "Argelia",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Argelia",
+   "visitante": "Chile",
+   "jugador": "Tedj Bensaoula",
+   "seleccion": "Argelia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Argelia",
+   "visitante": "Chile",
+   "jugador": "Miguel Ángel Neira",
+   "seleccion": "Chile",
+   "minuto": "59",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Argelia",
+   "visitante": "Chile",
+   "jugador": "Juan Carlos Letelier",
+   "seleccion": "Chile",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Francia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Didier Six",
+   "seleccion": "Francia",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Francia",
+   "visitante": "Checoslovaquia",
+   "jugador": "Antonín Panenka",
+   "seleccion": "Checoslovaquia",
+   "minuto": "84",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-24",
+   "local": "Honduras",
+   "visitante": "Yugoslavia",
+   "jugador": "Vladimir Petrović",
+   "seleccion": "Yugoslavia",
+   "minuto": "88",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-06-25",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Horst Hrubesch",
+   "seleccion": "Alemania Federal",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1982-06-25",
+   "local": "Inglaterra",
+   "visitante": "Kuwait",
+   "jugador": "Trevor Francis",
+   "seleccion": "Inglaterra",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1982-06-25",
+   "local": "España",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Gerry Armstrong",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1982-06-28",
+   "local": "Austria",
+   "visitante": "Francia",
+   "jugador": "Bernard Genghini",
+   "seleccion": "Francia",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1982-06-28",
+   "local": "Polonia",
+   "visitante": "Bélgica",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1982-06-28",
+   "local": "Polonia",
+   "visitante": "Bélgica",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1982-06-28",
+   "local": "Polonia",
+   "visitante": "Bélgica",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1982-06-29",
+   "local": "Italia",
+   "visitante": "Argentina",
+   "jugador": "Marco Tardelli",
+   "seleccion": "Italia",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1982-06-29",
+   "local": "Italia",
+   "visitante": "Argentina",
+   "jugador": "Antonio Cabrini",
+   "seleccion": "Italia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1982-06-29",
+   "local": "Italia",
+   "visitante": "Argentina",
+   "jugador": "Daniel Passarella",
+   "seleccion": "Argentina",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1982-07-01",
+   "local": "Austria",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Billy Hamilton",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1982-07-01",
+   "local": "Austria",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Bruno Pezzey",
+   "seleccion": "Austria",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1982-07-01",
+   "local": "Austria",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Reinhold Hintermaier",
+   "seleccion": "Austria",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-07-01",
+   "local": "Austria",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Billy Hamilton",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-07-01",
+   "local": "Bélgica",
+   "visitante": "Unión Soviética",
+   "jugador": "Khoren Hovhannisyan",
+   "seleccion": "Unión Soviética",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Zico",
+   "seleccion": "Brasil",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Serginho",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Júnior",
+   "seleccion": "Brasil",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Argentina",
+   "visitante": "Brasil",
+   "jugador": "Ramón Díaz",
+   "seleccion": "Argentina",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Pierre Littbarski",
+   "seleccion": "Alemania Federal",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Klaus Fischer",
+   "seleccion": "Alemania Federal",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-07-02",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Jesús María Zamora",
+   "seleccion": "España",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1982-07-04",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Alain Giresse",
+   "seleccion": "Francia",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1982-07-04",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Dominique Rocheteau",
+   "seleccion": "Francia",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1982-07-04",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Dominique Rocheteau",
+   "seleccion": "Francia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-07-04",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Gerry Armstrong",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1982-07-04",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Alain Giresse",
+   "seleccion": "Francia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1982-07-05",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1982-07-05",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Sócrates",
+   "seleccion": "Brasil",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1982-07-05",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1982-07-05",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Falcão",
+   "seleccion": "Brasil",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1982-07-05",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Polonia",
+   "visitante": "Italia",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Polonia",
+   "visitante": "Italia",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Pierre Littbarski",
+   "seleccion": "Alemania Federal",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Michel Platini",
+   "seleccion": "Francia",
+   "minuto": "26",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Marius Trésor",
+   "seleccion": "Francia",
+   "minuto": "92"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Alain Giresse",
+   "seleccion": "Francia",
+   "minuto": "98"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "102"
+  },
+  {
+   "fecha": "1982-07-08",
+   "local": "Alemania Federal",
+   "visitante": "Francia",
+   "jugador": "Klaus Fischer",
+   "seleccion": "Alemania Federal",
+   "minuto": "108"
+  },
+  {
+   "fecha": "1982-07-10",
+   "local": "Polonia",
+   "visitante": "Francia",
+   "jugador": "René Girard",
+   "seleccion": "Francia",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1982-07-10",
+   "local": "Polonia",
+   "visitante": "Francia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1982-07-10",
+   "local": "Polonia",
+   "visitante": "Francia",
+   "jugador": "Stefan Majewski",
+   "seleccion": "Polonia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1982-07-10",
+   "local": "Polonia",
+   "visitante": "Francia",
+   "jugador": "Janusz Kupcewicz",
+   "seleccion": "Polonia",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1982-07-10",
+   "local": "Polonia",
+   "visitante": "Francia",
+   "jugador": "Alain Couriol",
+   "seleccion": "Francia",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1982-07-11",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1982-07-11",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Marco Tardelli",
+   "seleccion": "Italia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1982-07-11",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Alessandro Altobelli",
+   "seleccion": "Italia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1982-07-11",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Paul Breitner",
+   "seleccion": "Alemania Federal",
+   "minuto": "83"
+  }
+ ]
+}

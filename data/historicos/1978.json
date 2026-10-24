@@ -1,0 +1,1512 @@
+{
+ "año": 1978,
+ "sedes": [
+  "Argentina"
+ ],
+ "campeon": "Argentina",
+ "inicio": "1978-06-01",
+ "fin": "1978-06-25",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Estadio José Amalfitani",
+   "ciudad": "Buenos Aires",
+   "pais": "Argentina",
+   "capacidad": 49000
+  },
+  {
+   "nombre": "Estadio Monumental",
+   "ciudad": "Buenos Aires",
+   "pais": "Argentina",
+   "capacidad": 75000
+  },
+  {
+   "nombre": "Estadio Chateau Carreras",
+   "ciudad": "Córdoba",
+   "pais": "Argentina",
+   "capacidad": 47000
+  },
+  {
+   "nombre": "Estadio José María Minella",
+   "ciudad": "Mar del Plata",
+   "pais": "Argentina",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Estadio Ciudad de Mendoza",
+   "ciudad": "Mendoza",
+   "pais": "Argentina",
+   "capacidad": 35000
+  },
+  {
+   "nombre": "Estadio Gigante de Arroyito",
+   "ciudad": "Rosario",
+   "pais": "Argentina",
+   "capacidad": 46000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 3,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-02",
+     "estadio": "Estadio José María Minella",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-02",
+     "estadio": "Estadio Monumental",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-06",
+     "estadio": "Estadio José María Minella",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-06",
+     "estadio": "Estadio Monumental",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-10",
+     "estadio": "Estadio José María Minella",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-10",
+     "estadio": "Estadio Monumental",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 6,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 12,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-01",
+     "estadio": "Estadio Monumental",
+     "local": "Alemania Federal",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-02",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Túnez",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-06",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Polonia",
+     "golesLocal": 1,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-06",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Alemania Federal",
+     "golesLocal": 6,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-10",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Polonia",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-10",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Alemania Federal",
+     "golesLocal": 0,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-03",
+     "estadio": "Estadio José Amalfitani",
+     "local": "Austria",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-03",
+     "estadio": "Estadio José María Minella",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-07",
+     "estadio": "Estadio José Amalfitani",
+     "local": "Austria",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-07",
+     "estadio": "Estadio José María Minella",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-11",
+     "estadio": "Estadio José María Minella",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-11",
+     "estadio": "Estadio José Amalfitani",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Perú",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 8,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-03",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Países Bajos",
+     "golesLocal": 3,
+     "visitante": "Irán",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-03",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Perú",
+     "golesLocal": 3,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-07",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Perú",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-07",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Escocia",
+     "golesLocal": 1,
+     "visitante": "Irán",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-11",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Perú",
+     "golesLocal": 4,
+     "visitante": "Irán",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-11",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Escocia",
+     "golesLocal": 3,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 9,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 8,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-14",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Austria",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "1978-06-14",
+     "estadio": "Estadio Monumental",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-18",
+     "estadio": "Estadio Monumental",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-18",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1978-06-21",
+     "estadio": "Estadio Chateau Carreras",
+     "local": "Austria",
+     "golesLocal": 3,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1978-06-21",
+     "estadio": "Estadio Monumental",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Segunda fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 0,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Perú",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 10,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1978-06-14",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Perú",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-14",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-18",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Perú",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-18",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1978-06-21",
+     "estadio": "Estadio Ciudad de Mendoza",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1978-06-21",
+     "estadio": "Estadio Gigante de Arroyito",
+     "local": "Argentina",
+     "golesLocal": 6,
+     "visitante": "Perú",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1978-06-24",
+     "estadio": "Estadio Monumental",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1978-06-25",
+     "estadio": "Estadio Monumental",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Países Bajos",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1978-06-02",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Bernard Lacombe",
+   "seleccion": "Francia",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Renato Zaccarelli",
+   "seleccion": "Italia",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Túnez",
+   "visitante": "México",
+   "jugador": "Arturo Vázquez Ayala",
+   "seleccion": "México",
+   "minuto": "45",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Túnez",
+   "visitante": "México",
+   "jugador": "Ali Kaabi",
+   "seleccion": "Túnez",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Túnez",
+   "visitante": "México",
+   "jugador": "Néjib Ghommidh",
+   "seleccion": "Túnez",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Túnez",
+   "visitante": "México",
+   "jugador": "Mokhtar Dhouib",
+   "seleccion": "Túnez",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Károly Csapó",
+   "seleccion": "Hungría",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Leopoldo Luque",
+   "seleccion": "Argentina",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1978-06-02",
+   "local": "Argentina",
+   "visitante": "Hungría",
+   "jugador": "Daniel Bertoni",
+   "seleccion": "Argentina",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Austria",
+   "visitante": "España",
+   "jugador": "Walter Schachner",
+   "seleccion": "Austria",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Austria",
+   "visitante": "España",
+   "jugador": "Dani",
+   "seleccion": "España",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Austria",
+   "visitante": "España",
+   "jugador": "Hans Krankl",
+   "seleccion": "Austria",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Thomas Sjöberg",
+   "seleccion": "Suecia",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Reinaldo",
+   "seleccion": "Brasil",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Países Bajos",
+   "visitante": "Irán",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "40",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Países Bajos",
+   "visitante": "Irán",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Países Bajos",
+   "visitante": "Irán",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "78",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Perú",
+   "visitante": "Escocia",
+   "jugador": "Joe Jordan",
+   "seleccion": "Escocia",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Perú",
+   "visitante": "Escocia",
+   "jugador": "César Cueto",
+   "seleccion": "Perú",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Perú",
+   "visitante": "Escocia",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1978-06-03",
+   "local": "Perú",
+   "visitante": "Escocia",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Roberto Bettega",
+   "seleccion": "Italia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Romeo Benetti",
+   "seleccion": "Italia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "András Tóth",
+   "seleccion": "Hungría",
+   "minuto": "81",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Polonia",
+   "visitante": "Túnez",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Dieter Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Hansi Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Heinz Flohe",
+   "seleccion": "Alemania Federal",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Alemania Federal",
+   "visitante": "México",
+   "jugador": "Heinz Flohe",
+   "seleccion": "Alemania Federal",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Daniel Passarella",
+   "seleccion": "Argentina",
+   "minuto": "45",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Michel Platini",
+   "seleccion": "Francia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1978-06-06",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Leopoldo Luque",
+   "seleccion": "Argentina",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1978-06-07",
+   "local": "Austria",
+   "visitante": "Suecia",
+   "jugador": "Hans Krankl",
+   "seleccion": "Austria",
+   "minuto": "42",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-07",
+   "local": "Escocia",
+   "visitante": "Irán",
+   "jugador": "Andranik Eskandarian",
+   "seleccion": "Irán",
+   "minuto": "43",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1978-06-07",
+   "local": "Escocia",
+   "visitante": "Irán",
+   "jugador": "Iraj Danaeifard",
+   "seleccion": "Irán",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Francia",
+   "visitante": "Hungría",
+   "jugador": "Christian Lopez",
+   "seleccion": "Francia",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Francia",
+   "visitante": "Hungría",
+   "jugador": "Marc Berdoll",
+   "seleccion": "Francia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Francia",
+   "visitante": "Hungría",
+   "jugador": "Sándor Zombori",
+   "seleccion": "Hungría",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Francia",
+   "visitante": "Hungría",
+   "jugador": "Dominique Rocheteau",
+   "seleccion": "Francia",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Polonia",
+   "visitante": "México",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Polonia",
+   "visitante": "México",
+   "jugador": "Víctor Rangel",
+   "seleccion": "México",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Polonia",
+   "visitante": "México",
+   "jugador": "Kazimierz Deyna",
+   "seleccion": "Polonia",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Polonia",
+   "visitante": "México",
+   "jugador": "Zbigniew Boniek",
+   "seleccion": "Polonia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1978-06-10",
+   "local": "Argentina",
+   "visitante": "Italia",
+   "jugador": "Roberto Bettega",
+   "seleccion": "Italia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Brasil",
+   "visitante": "Austria",
+   "jugador": "Roberto Dinamite",
+   "seleccion": "Brasil",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "España",
+   "visitante": "Suecia",
+   "jugador": "Juan Manuel Asensi",
+   "seleccion": "España",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Perú",
+   "visitante": "Irán",
+   "jugador": "José Velásquez",
+   "seleccion": "Perú",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Perú",
+   "visitante": "Irán",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "36",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Perú",
+   "visitante": "Irán",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "39",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Perú",
+   "visitante": "Irán",
+   "jugador": "Hassan Roshan",
+   "seleccion": "Irán",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Perú",
+   "visitante": "Irán",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Escocia",
+   "visitante": "Países Bajos",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "34",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Escocia",
+   "visitante": "Países Bajos",
+   "jugador": "Kenny Dalglish",
+   "seleccion": "Escocia",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Escocia",
+   "visitante": "Países Bajos",
+   "jugador": "Archie Gemmill",
+   "seleccion": "Escocia",
+   "minuto": "46",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Escocia",
+   "visitante": "Países Bajos",
+   "jugador": "Archie Gemmill",
+   "seleccion": "Escocia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1978-06-11",
+   "local": "Escocia",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Ernie Brandts",
+   "seleccion": "Países Bajos",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Rob Rensenbrink",
+   "seleccion": "Países Bajos",
+   "minuto": "35",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Johnny Rep",
+   "seleccion": "Países Bajos",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Erich Obermayer",
+   "seleccion": "Austria",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Austria",
+   "visitante": "Países Bajos",
+   "jugador": "Willy van de Kerkhof",
+   "seleccion": "Países Bajos",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Dirceu",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Dirceu",
+   "seleccion": "Brasil",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Zico",
+   "seleccion": "Brasil",
+   "minuto": "72",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Argentina",
+   "visitante": "Polonia",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1978-06-14",
+   "local": "Argentina",
+   "visitante": "Polonia",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Perú",
+   "visitante": "Polonia",
+   "jugador": "Andrzej Szarmach",
+   "seleccion": "Polonia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Paolo Rossi",
+   "seleccion": "Italia",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Rüdiger Abramczik",
+   "seleccion": "Alemania Federal",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Arie Haan",
+   "seleccion": "Países Bajos",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "Dieter Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1978-06-18",
+   "local": "Países Bajos",
+   "visitante": "Alemania Federal",
+   "jugador": "René van de Kerkhof",
+   "seleccion": "Países Bajos",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Austria",
+   "visitante": "Alemania Federal",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Austria",
+   "visitante": "Alemania Federal",
+   "jugador": "Berti Vogts",
+   "seleccion": "Alemania Federal",
+   "minuto": "59",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Austria",
+   "visitante": "Alemania Federal",
+   "jugador": "Hans Krankl",
+   "seleccion": "Austria",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Austria",
+   "visitante": "Alemania Federal",
+   "jugador": "Bernd Hölzenbein",
+   "seleccion": "Alemania Federal",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Austria",
+   "visitante": "Alemania Federal",
+   "jugador": "Hans Krankl",
+   "seleccion": "Austria",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Italia",
+   "visitante": "Países Bajos",
+   "jugador": "Ernie Brandts",
+   "seleccion": "Países Bajos",
+   "minuto": "19",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Italia",
+   "visitante": "Países Bajos",
+   "jugador": "Ernie Brandts",
+   "seleccion": "Países Bajos",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Italia",
+   "visitante": "Países Bajos",
+   "jugador": "Arie Haan",
+   "seleccion": "Países Bajos",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Nelinho",
+   "seleccion": "Brasil",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Grzegorz Lato",
+   "seleccion": "Polonia",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Roberto Dinamite",
+   "seleccion": "Brasil",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Roberto Dinamite",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "Alberto Tarantini",
+   "seleccion": "Argentina",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "Leopoldo Luque",
+   "seleccion": "Argentina",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "René Houseman",
+   "seleccion": "Argentina",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1978-06-21",
+   "local": "Argentina",
+   "visitante": "Perú",
+   "jugador": "Leopoldo Luque",
+   "seleccion": "Argentina",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1978-06-24",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Franco Causio",
+   "seleccion": "Italia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1978-06-24",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Nelinho",
+   "seleccion": "Brasil",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1978-06-24",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Dirceu",
+   "seleccion": "Brasil",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1978-06-25",
+   "local": "Argentina",
+   "visitante": "Países Bajos",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1978-06-25",
+   "local": "Argentina",
+   "visitante": "Países Bajos",
+   "jugador": "Dick Nanninga",
+   "seleccion": "Países Bajos",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1978-06-25",
+   "local": "Argentina",
+   "visitante": "Países Bajos",
+   "jugador": "Mario Kempes",
+   "seleccion": "Argentina",
+   "minuto": "105"
+  },
+  {
+   "fecha": "1978-06-25",
+   "local": "Argentina",
+   "visitante": "Países Bajos",
+   "jugador": "Daniel Bertoni",
+   "seleccion": "Argentina",
+   "minuto": "115"
+  }
+ ]
+}

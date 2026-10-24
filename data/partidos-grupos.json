@@ -1,0 +1,140 @@
+{
+  "juegoLimpio": {
+    "Ghana": -3,
+    "Ecuador": -5
+  },
+  "grupos": [
+    {
+      "grupo": "A",
+      "partidos": [
+        { "fecha": "2026-06-11", "estadio": "Estadio Azteca", "local": "México", "golesLocal": 2, "visitante": "Sudáfrica", "golesVisitante": 0 },
+        { "fecha": "2026-06-11", "estadio": "Estadio Akron", "local": "Corea del Sur", "golesLocal": 2, "visitante": "Chequia", "golesVisitante": 1 },
+        { "fecha": "2026-06-18", "estadio": "Mercedes-Benz Stadium", "local": "Chequia", "golesLocal": 1, "visitante": "Sudáfrica", "golesVisitante": 1 },
+        { "fecha": "2026-06-18", "estadio": "Estadio Akron", "local": "México", "golesLocal": 1, "visitante": "Corea del Sur", "golesVisitante": 0 },
+        { "fecha": "2026-06-24", "estadio": "Estadio Azteca", "local": "Chequia", "golesLocal": 0, "visitante": "México", "golesVisitante": 3 },
+        { "fecha": "2026-06-24", "estadio": "Estadio BBVA", "local": "Sudáfrica", "golesLocal": 1, "visitante": "Corea del Sur", "golesVisitante": 0 }
+      ]
+    },
+    {
+      "grupo": "B",
+      "partidos": [
+        { "fecha": "2026-06-12", "estadio": "BMO Field", "local": "Canadá", "golesLocal": 1, "visitante": "Bosnia y Herzegovina", "golesVisitante": 1 },
+        { "fecha": "2026-06-13", "estadio": "Levi's Stadium", "local": "Catar", "golesLocal": 1, "visitante": "Suiza", "golesVisitante": 1 },
+        { "fecha": "2026-06-18", "estadio": "SoFi Stadium", "local": "Suiza", "golesLocal": 4, "visitante": "Bosnia y Herzegovina", "golesVisitante": 1 },
+        { "fecha": "2026-06-18", "estadio": "BC Place", "local": "Canadá", "golesLocal": 6, "visitante": "Catar", "golesVisitante": 0 },
+        { "fecha": "2026-06-24", "estadio": "BC Place", "local": "Suiza", "golesLocal": 2, "visitante": "Canadá", "golesVisitante": 1 },
+        { "fecha": "2026-06-24", "estadio": "Lumen Field", "local": "Bosnia y Herzegovina", "golesLocal": 3, "visitante": "Catar", "golesVisitante": 1 }
+      ]
+    },
+    {
+      "grupo": "C",
+      "partidos": [
+        { "fecha": "2026-06-13", "estadio": "MetLife Stadium", "local": "Brasil", "golesLocal": 1, "visitante": "Marruecos", "golesVisitante": 1 },
+        { "fecha": "2026-06-13", "estadio": "Gillette Stadium", "local": "Haití", "golesLocal": 0, "visitante": "Escocia", "golesVisitante": 1 },
+        { "fecha": "2026-06-19", "estadio": "Gillette Stadium", "local": "Escocia", "golesLocal": 0, "visitante": "Marruecos", "golesVisitante": 1 },
+        { "fecha": "2026-06-19", "estadio": "Lincoln Financial Field", "local": "Brasil", "golesLocal": 3, "visitante": "Haití", "golesVisitante": 0 },
+        { "fecha": "2026-06-24", "estadio": "Hard Rock Stadium", "local": "Escocia", "golesLocal": 0, "visitante": "Brasil", "golesVisitante": 3 },
+        { "fecha": "2026-06-24", "estadio": "Mercedes-Benz Stadium", "local": "Marruecos", "golesLocal": 4, "visitante": "Haití", "golesVisitante": 2 }
+      ]
+    },
+    {
+      "grupo": "D",
+      "partidos": [
+        { "fecha": "2026-06-12", "estadio": "SoFi Stadium", "local": "Estados Unidos", "golesLocal": 4, "visitante": "Paraguay", "golesVisitante": 1 },
+        { "fecha": "2026-06-13", "estadio": "BC Place", "local": "Australia", "golesLocal": 2, "visitante": "Turquía", "golesVisitante": 0 },
+        { "fecha": "2026-06-19", "estadio": "Lumen Field", "local": "Estados Unidos", "golesLocal": 2, "visitante": "Australia", "golesVisitante": 0 },
+        { "fecha": "2026-06-19", "estadio": "Levi's Stadium", "local": "Turquía", "golesLocal": 0, "visitante": "Paraguay", "golesVisitante": 1 },
+        { "fecha": "2026-06-25", "estadio": "SoFi Stadium", "local": "Turquía", "golesLocal": 3, "visitante": "Estados Unidos", "golesVisitante": 2 },
+        { "fecha": "2026-06-25", "estadio": "Levi's Stadium", "local": "Paraguay", "golesLocal": 0, "visitante": "Australia", "golesVisitante": 0 }
+      ]
+    },
+    {
+      "grupo": "E",
+      "partidos": [
+        { "fecha": "2026-06-14", "estadio": "NRG Stadium", "local": "Alemania", "golesLocal": 7, "visitante": "Curazao", "golesVisitante": 1 },
+        { "fecha": "2026-06-14", "estadio": "Lincoln Financial Field", "local": "Costa de Marfil", "golesLocal": 1, "visitante": "Ecuador", "golesVisitante": 0 },
+        { "fecha": "2026-06-20", "estadio": "BMO Field", "local": "Alemania", "golesLocal": 2, "visitante": "Costa de Marfil", "golesVisitante": 1 },
+        { "fecha": "2026-06-20", "estadio": "Arrowhead Stadium", "local": "Ecuador", "golesLocal": 0, "visitante": "Curazao", "golesVisitante": 0 },
+        { "fecha": "2026-06-25", "estadio": "Lincoln Financial Field", "local": "Curazao", "golesLocal": 0, "visitante": "Costa de Marfil", "golesVisitante": 2 },
+        { "fecha": "2026-06-25", "estadio": "MetLife Stadium", "local": "Ecuador", "golesLocal": 2, "visitante": "Alemania", "golesVisitante": 1 }
+      ]
+    },
+    {
+      "grupo": "F",
+      "partidos": [
+        { "fecha": "2026-06-14", "estadio": "AT&T Stadium", "local": "Países Bajos", "golesLocal": 2, "visitante": "Japón", "golesVisitante": 2 },
+        { "fecha": "2026-06-14", "estadio": "Estadio BBVA", "local": "Suecia", "golesLocal": 5, "visitante": "Túnez", "golesVisitante": 1 },
+        { "fecha": "2026-06-20", "estadio": "NRG Stadium", "local": "Países Bajos", "golesLocal": 5, "visitante": "Suecia", "golesVisitante": 1 },
+        { "fecha": "2026-06-20", "estadio": "Estadio BBVA", "local": "Túnez", "golesLocal": 0, "visitante": "Japón", "golesVisitante": 4 },
+        { "fecha": "2026-06-25", "estadio": "AT&T Stadium", "local": "Japón", "golesLocal": 1, "visitante": "Suecia", "golesVisitante": 1 },
+        { "fecha": "2026-06-25", "estadio": "Arrowhead Stadium", "local": "Túnez", "golesLocal": 1, "visitante": "Países Bajos", "golesVisitante": 3 }
+      ]
+    },
+    {
+      "grupo": "G",
+      "partidos": [
+        { "fecha": "2026-06-15", "estadio": "Lumen Field", "local": "Bélgica", "golesLocal": 1, "visitante": "Egipto", "golesVisitante": 1 },
+        { "fecha": "2026-06-15", "estadio": "SoFi Stadium", "local": "Irán", "golesLocal": 2, "visitante": "Nueva Zelanda", "golesVisitante": 2 },
+        { "fecha": "2026-06-21", "estadio": "SoFi Stadium", "local": "Bélgica", "golesLocal": 0, "visitante": "Irán", "golesVisitante": 0 },
+        { "fecha": "2026-06-21", "estadio": "BC Place", "local": "Nueva Zelanda", "golesLocal": 1, "visitante": "Egipto", "golesVisitante": 3 },
+        { "fecha": "2026-06-26", "estadio": "Lumen Field", "local": "Egipto", "golesLocal": 1, "visitante": "Irán", "golesVisitante": 1 },
+        { "fecha": "2026-06-26", "estadio": "BC Place", "local": "Nueva Zelanda", "golesLocal": 1, "visitante": "Bélgica", "golesVisitante": 5 }
+      ]
+    },
+    {
+      "grupo": "H",
+      "partidos": [
+        { "fecha": "2026-06-15", "estadio": "Mercedes-Benz Stadium", "local": "España", "golesLocal": 0, "visitante": "Cabo Verde", "golesVisitante": 0 },
+        { "fecha": "2026-06-15", "estadio": "Hard Rock Stadium", "local": "Arabia Saudí", "golesLocal": 1, "visitante": "Uruguay", "golesVisitante": 1 },
+        { "fecha": "2026-06-21", "estadio": "Mercedes-Benz Stadium", "local": "España", "golesLocal": 4, "visitante": "Arabia Saudí", "golesVisitante": 0 },
+        { "fecha": "2026-06-21", "estadio": "Hard Rock Stadium", "local": "Uruguay", "golesLocal": 2, "visitante": "Cabo Verde", "golesVisitante": 2 },
+        { "fecha": "2026-06-26", "estadio": "NRG Stadium", "local": "Cabo Verde", "golesLocal": 0, "visitante": "Arabia Saudí", "golesVisitante": 0 },
+        { "fecha": "2026-06-26", "estadio": "Estadio Akron", "local": "Uruguay", "golesLocal": 0, "visitante": "España", "golesVisitante": 1 }
+      ]
+    },
+    {
+      "grupo": "I",
+      "partidos": [
+        { "fecha": "2026-06-16", "estadio": "MetLife Stadium", "local": "Francia", "golesLocal": 3, "visitante": "Senegal", "golesVisitante": 1 },
+        { "fecha": "2026-06-16", "estadio": "Gillette Stadium", "local": "Irak", "golesLocal": 1, "visitante": "Noruega", "golesVisitante": 4 },
+        { "fecha": "2026-06-22", "estadio": "Lincoln Financial Field", "local": "Francia", "golesLocal": 3, "visitante": "Irak", "golesVisitante": 0 },
+        { "fecha": "2026-06-22", "estadio": "MetLife Stadium", "local": "Noruega", "golesLocal": 3, "visitante": "Senegal", "golesVisitante": 2 },
+        { "fecha": "2026-06-26", "estadio": "Gillette Stadium", "local": "Noruega", "golesLocal": 1, "visitante": "Francia", "golesVisitante": 4 },
+        { "fecha": "2026-06-26", "estadio": "BMO Field", "local": "Senegal", "golesLocal": 5, "visitante": "Irak", "golesVisitante": 0 }
+      ]
+    },
+    {
+      "grupo": "J",
+      "partidos": [
+        { "fecha": "2026-06-16", "estadio": "Arrowhead Stadium", "local": "Argentina", "golesLocal": 3, "visitante": "Argelia", "golesVisitante": 0 },
+        { "fecha": "2026-06-16", "estadio": "Levi's Stadium", "local": "Austria", "golesLocal": 3, "visitante": "Jordania", "golesVisitante": 1 },
+        { "fecha": "2026-06-22", "estadio": "AT&T Stadium", "local": "Argentina", "golesLocal": 2, "visitante": "Austria", "golesVisitante": 0 },
+        { "fecha": "2026-06-22", "estadio": "Levi's Stadium", "local": "Jordania", "golesLocal": 1, "visitante": "Argelia", "golesVisitante": 2 },
+        { "fecha": "2026-06-27", "estadio": "Arrowhead Stadium", "local": "Argelia", "golesLocal": 3, "visitante": "Austria", "golesVisitante": 3 },
+        { "fecha": "2026-06-27", "estadio": "AT&T Stadium", "local": "Jordania", "golesLocal": 1, "visitante": "Argentina", "golesVisitante": 3 }
+      ]
+    },
+    {
+      "grupo": "K",
+      "partidos": [
+        { "fecha": "2026-06-17", "estadio": "NRG Stadium", "local": "Portugal", "golesLocal": 1, "visitante": "RD del Congo", "golesVisitante": 1 },
+        { "fecha": "2026-06-17", "estadio": "Estadio Azteca", "local": "Uzbekistán", "golesLocal": 1, "visitante": "Colombia", "golesVisitante": 3 },
+        { "fecha": "2026-06-23", "estadio": "NRG Stadium", "local": "Portugal", "golesLocal": 5, "visitante": "Uzbekistán", "golesVisitante": 0 },
+        { "fecha": "2026-06-23", "estadio": "Estadio Akron", "local": "Colombia", "golesLocal": 1, "visitante": "RD del Congo", "golesVisitante": 0 },
+        { "fecha": "2026-06-27", "estadio": "Hard Rock Stadium", "local": "Colombia", "golesLocal": 0, "visitante": "Portugal", "golesVisitante": 0 },
+        { "fecha": "2026-06-27", "estadio": "Mercedes-Benz Stadium", "local": "RD del Congo", "golesLocal": 3, "visitante": "Uzbekistán", "golesVisitante": 1 }
+      ]
+    },
+    {
+      "grupo": "L",
+      "partidos": [
+        { "fecha": "2026-06-17", "estadio": "AT&T Stadium", "local": "Inglaterra", "golesLocal": 4, "visitante": "Croacia", "golesVisitante": 2 },
+        { "fecha": "2026-06-17", "estadio": "BMO Field", "local": "Ghana", "golesLocal": 1, "visitante": "Panamá", "golesVisitante": 0 },
+        { "fecha": "2026-06-23", "estadio": "Gillette Stadium", "local": "Inglaterra", "golesLocal": 0, "visitante": "Ghana", "golesVisitante": 0 },
+        { "fecha": "2026-06-23", "estadio": "BMO Field", "local": "Panamá", "golesLocal": 0, "visitante": "Croacia", "golesVisitante": 1 },
+        { "fecha": "2026-06-27", "estadio": "MetLife Stadium", "local": "Panamá", "golesLocal": 0, "visitante": "Inglaterra", "golesVisitante": 2 },
+        { "fecha": "2026-06-27", "estadio": "Lincoln Financial Field", "local": "Croacia", "golesLocal": 2, "visitante": "Ghana", "golesVisitante": 1 }
+      ]
+    }
+  ]
+}

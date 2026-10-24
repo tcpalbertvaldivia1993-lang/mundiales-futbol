@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{# La página que sale cuando algo falla dentro del servidor (error 500): un error en el código de Python #}
+{% block titulo %}{{ t("Error del servidor") }} · {{ t("Mundiales de fútbol 1930–2026") }}{% endblock %}
+
+{% block contenido %}
+  <section id="inicio" class="portada">
+    <p class="antetitulo">{{ t("Error 500") }}</p>
+    <h1>{{ t("Tarjeta roja") }}</h1>
+    {# No se muestra el error: podría enseñar detalles del código. Queda guardado en el registro del servidor #}
+    <p class="lema">{{ t("Algo ha fallado en el servidor. No es culpa tuya: prueba otra vez en un momento.") }}</p>
+    <a class="boton" href="{{ portada }}">{{ t("Volver a la portada") }}</a>
+  </section>
+{% endblock %}
+
+{# La página es tan corta que no se puede bajar: el botón ↑ sobra #}
+{% block volver_arriba %}{% endblock %}

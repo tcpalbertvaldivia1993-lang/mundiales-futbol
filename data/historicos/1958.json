@@ -1,0 +1,1617 @@
+{
+ "año": 1958,
+ "sedes": [
+  "Suecia"
+ ],
+ "campeon": "Brasil",
+ "inicio": "1958-06-08",
+ "fin": "1958-06-29",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Ryavallen",
+   "ciudad": "Borås",
+   "pais": "Suecia",
+   "capacidad": 15000
+  },
+  {
+   "nombre": "Tunavallen",
+   "ciudad": "Eskilstuna",
+   "pais": "Suecia",
+   "capacidad": 22000
+  },
+  {
+   "nombre": "Ullevi",
+   "ciudad": "Gotemburgo",
+   "pais": "Suecia",
+   "capacidad": 54000
+  },
+  {
+   "nombre": "Örjans Vall",
+   "ciudad": "Halmstad",
+   "pais": "Suecia",
+   "capacidad": 15000
+  },
+  {
+   "nombre": "Olympia",
+   "ciudad": "Helsingborg",
+   "pais": "Suecia",
+   "capacidad": 27000
+  },
+  {
+   "nombre": "Malmö Stadion",
+   "ciudad": "Malmö",
+   "pais": "Suecia",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Idrottsparken",
+   "ciudad": "Norrköping",
+   "pais": "Suecia",
+   "capacidad": 20000
+  },
+  {
+   "nombre": "Eyravallen",
+   "ciudad": "Örebro",
+   "pais": "Suecia",
+   "capacidad": 13000
+  },
+  {
+   "nombre": "Jernvallen",
+   "ciudad": "Sandviken",
+   "pais": "Suecia",
+   "capacidad": 20000
+  },
+  {
+   "nombre": "Råsunda Stadium",
+   "ciudad": "Solna",
+   "pais": "Suecia",
+   "capacidad": 52000
+  },
+  {
+   "nombre": "Rimnersvallen",
+   "ciudad": "Uddevalla",
+   "pais": "Suecia",
+   "capacidad": 18000
+  },
+  {
+   "nombre": "Arosvallen",
+   "ciudad": "Västerås",
+   "pais": "Suecia",
+   "capacidad": 10000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Irlanda del Norte",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 10,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Malmö Stadion",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Örjans Vall",
+     "local": "Irlanda del Norte",
+     "golesLocal": 1,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Örjans Vall",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Olympia",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Olympia",
+     "local": "Checoslovaquia",
+     "golesLocal": 6,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Malmö Stadion",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-17",
+     "estadio": "Malmö Stadion",
+     "local": "Irlanda del Norte",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "desempate": true
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 11,
+     "gc": 7,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 7,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 9,
+     "gc": 12,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Idrottsparken",
+     "local": "Francia",
+     "golesLocal": 7,
+     "visitante": "Paraguay",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Arosvallen",
+     "local": "Yugoslavia",
+     "golesLocal": 1,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Idrottsparken",
+     "local": "Paraguay",
+     "golesLocal": 3,
+     "visitante": "Escocia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Arosvallen",
+     "local": "Yugoslavia",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Eyravallen",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Tunavallen",
+     "local": "Paraguay",
+     "golesLocal": 3,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Gales",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 8,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Råsunda Stadium",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Jernvallen",
+     "local": "Hungría",
+     "golesLocal": 1,
+     "visitante": "Gales",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Råsunda Stadium",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Gales",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-12",
+     "estadio": "Råsunda Stadium",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Råsunda Stadium",
+     "local": "Suecia",
+     "golesLocal": 0,
+     "visitante": "Gales",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Jernvallen",
+     "local": "Hungría",
+     "golesLocal": 4,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-17",
+     "estadio": "Råsunda Stadium",
+     "local": "Gales",
+     "golesLocal": 2,
+     "visitante": "Hungría",
+     "golesVisitante": 1,
+     "desempate": true
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 0,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Rimnersvallen",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-08",
+     "estadio": "Ullevi",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Ullevi",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-11",
+     "estadio": "Ryavallen",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Austria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Ullevi",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-15",
+     "estadio": "Ryavallen",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Austria",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-17",
+     "estadio": "Ullevi",
+     "local": "Unión Soviética",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0,
+     "desempate": true
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1958-06-19",
+     "estadio": "Ullevi",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Gales",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-19",
+     "estadio": "Idrottsparken",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-19",
+     "estadio": "Råsunda Stadium",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1958-06-19",
+     "estadio": "Malmö Stadion",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1958-06-24",
+     "estadio": "Råsunda Stadium",
+     "local": "Brasil",
+     "golesLocal": 5,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1958-06-24",
+     "estadio": "Ullevi",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1958-06-28",
+     "estadio": "Ullevi",
+     "local": "Francia",
+     "golesLocal": 6,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1958-06-29",
+     "estadio": "Råsunda Stadium",
+     "local": "Brasil",
+     "golesLocal": 5,
+     "visitante": "Suecia",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1958-06-08",
+   "local": "Suecia",
+   "visitante": "México",
+   "jugador": "Agne Simonsson",
+   "seleccion": "Suecia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Suecia",
+   "visitante": "México",
+   "jugador": "Nils Liedholm",
+   "seleccion": "Suecia",
+   "minuto": "57",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Suecia",
+   "visitante": "México",
+   "jugador": "Agne Simonsson",
+   "seleccion": "Suecia",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Oreste Corbatta",
+   "seleccion": "Argentina",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Irlanda del Norte",
+   "visitante": "Checoslovaquia",
+   "jugador": "Wilbur Cush",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Florencio Amarilla",
+   "seleccion": "Paraguay",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Florencio Amarilla",
+   "seleccion": "Paraguay",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Jorge Lino Romero",
+   "seleccion": "Paraguay",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Roger Piantoni",
+   "seleccion": "Francia",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Maryan Wisnieski",
+   "seleccion": "Francia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Raymond Kopa",
+   "seleccion": "Francia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Jean Vincent",
+   "seleccion": "Francia",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Yugoslavia",
+   "visitante": "Escocia",
+   "jugador": "Aleksandar Petaković",
+   "seleccion": "Yugoslavia",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Yugoslavia",
+   "visitante": "Escocia",
+   "jugador": "Jimmy Murray",
+   "seleccion": "Escocia",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Hungría",
+   "visitante": "Gales",
+   "jugador": "József Bozsik",
+   "seleccion": "Hungría",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Hungría",
+   "visitante": "Gales",
+   "jugador": "John Charles",
+   "seleccion": "Gales",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Brasil",
+   "visitante": "Austria",
+   "jugador": "José Altafini",
+   "seleccion": "Brasil",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Brasil",
+   "visitante": "Austria",
+   "jugador": "Nílton Santos",
+   "seleccion": "Brasil",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Brasil",
+   "visitante": "Austria",
+   "jugador": "José Altafini",
+   "seleccion": "Brasil",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Unión Soviética",
+   "visitante": "Inglaterra",
+   "jugador": "Nikita Simonyan",
+   "seleccion": "Unión Soviética",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Unión Soviética",
+   "visitante": "Inglaterra",
+   "jugador": "Aleksandr Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Unión Soviética",
+   "visitante": "Inglaterra",
+   "jugador": "Derek Kevan",
+   "seleccion": "Inglaterra",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1958-06-08",
+   "local": "Unión Soviética",
+   "visitante": "Inglaterra",
+   "jugador": "Tom Finney",
+   "seleccion": "Inglaterra",
+   "minuto": "85",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Argentina",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Peter McParland",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Argentina",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Oreste Corbatta",
+   "seleccion": "Argentina",
+   "minuto": "37",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Argentina",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Norberto Menéndez",
+   "seleccion": "Argentina",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Argentina",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Ludovico Avio",
+   "seleccion": "Argentina",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Alemania Federal",
+   "visitante": "Checoslovaquia",
+   "jugador": "Milan Dvořák",
+   "seleccion": "Checoslovaquia",
+   "minuto": "24",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Alemania Federal",
+   "visitante": "Checoslovaquia",
+   "jugador": "Zdeněk Zikán",
+   "seleccion": "Checoslovaquia",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Alemania Federal",
+   "visitante": "Checoslovaquia",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Alemania Federal",
+   "visitante": "Checoslovaquia",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Paraguay",
+   "visitante": "Escocia",
+   "jugador": "Juan Bautista Agüero",
+   "seleccion": "Paraguay",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Paraguay",
+   "visitante": "Escocia",
+   "jugador": "Jackie Mudie",
+   "seleccion": "Escocia",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Paraguay",
+   "visitante": "Escocia",
+   "jugador": "Cayetano Ré",
+   "seleccion": "Paraguay",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Paraguay",
+   "visitante": "Escocia",
+   "jugador": "José Parodi",
+   "seleccion": "Paraguay",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Paraguay",
+   "visitante": "Escocia",
+   "jugador": "Bobby Collins",
+   "seleccion": "Escocia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Aleksandar Petaković",
+   "seleccion": "Yugoslavia",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Todor Veselinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Todor Veselinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "México",
+   "visitante": "Gales",
+   "jugador": "Ivor Allchurch",
+   "seleccion": "Gales",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "México",
+   "visitante": "Gales",
+   "jugador": "Jaime Belmonte",
+   "seleccion": "México",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Unión Soviética",
+   "visitante": "Austria",
+   "jugador": "Anatoli Ilyin",
+   "seleccion": "Unión Soviética",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1958-06-11",
+   "local": "Unión Soviética",
+   "visitante": "Austria",
+   "jugador": "Valentin Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1958-06-12",
+   "local": "Suecia",
+   "visitante": "Hungría",
+   "jugador": "Kurt Hamrin",
+   "seleccion": "Suecia",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1958-06-12",
+   "local": "Suecia",
+   "visitante": "Hungría",
+   "jugador": "Kurt Hamrin",
+   "seleccion": "Suecia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1958-06-12",
+   "local": "Suecia",
+   "visitante": "Hungría",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Milan Dvořák",
+   "seleccion": "Checoslovaquia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Zdeněk Zikán",
+   "seleccion": "Checoslovaquia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Zdeněk Zikán",
+   "seleccion": "Checoslovaquia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Oreste Corbatta",
+   "seleccion": "Argentina",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Jiří Feureisl",
+   "seleccion": "Checoslovaquia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Václav Hovorka",
+   "seleccion": "Checoslovaquia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Checoslovaquia",
+   "visitante": "Argentina",
+   "jugador": "Václav Hovorka",
+   "seleccion": "Checoslovaquia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Peter McParland",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Peter McParland",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Alemania Federal",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Francia",
+   "visitante": "Escocia",
+   "jugador": "Raymond Kopa",
+   "seleccion": "Francia",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Francia",
+   "visitante": "Escocia",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Francia",
+   "visitante": "Escocia",
+   "jugador": "Sammy Baird",
+   "seleccion": "Escocia",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Radivoje Ognjanović",
+   "seleccion": "Yugoslavia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "José Parodi",
+   "seleccion": "Paraguay",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Todor Veselinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Juan Bautista Agüero",
+   "seleccion": "Paraguay",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Zdravko Rajkov",
+   "seleccion": "Yugoslavia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Paraguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Jorge Lino Romero",
+   "seleccion": "Paraguay",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Hungría",
+   "visitante": "México",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Hungría",
+   "visitante": "México",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Hungría",
+   "visitante": "México",
+   "jugador": "Károly Sándor",
+   "seleccion": "Hungría",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Hungría",
+   "visitante": "México",
+   "jugador": "József Bencsics",
+   "seleccion": "Hungría",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Brasil",
+   "visitante": "Unión Soviética",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Brasil",
+   "visitante": "Unión Soviética",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Inglaterra",
+   "visitante": "Austria",
+   "jugador": "Karl Koller",
+   "seleccion": "Austria",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Inglaterra",
+   "visitante": "Austria",
+   "jugador": "Johnny Haynes",
+   "seleccion": "Inglaterra",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Inglaterra",
+   "visitante": "Austria",
+   "jugador": "Alfred Körner",
+   "seleccion": "Austria",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1958-06-15",
+   "local": "Inglaterra",
+   "visitante": "Austria",
+   "jugador": "Derek Kevan",
+   "seleccion": "Inglaterra",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Irlanda del Norte",
+   "visitante": "Checoslovaquia",
+   "jugador": "Zdeněk Zikán",
+   "seleccion": "Checoslovaquia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Irlanda del Norte",
+   "visitante": "Checoslovaquia",
+   "jugador": "Peter McParland",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Irlanda del Norte",
+   "visitante": "Checoslovaquia",
+   "jugador": "Peter McParland",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "97"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Gales",
+   "visitante": "Hungría",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Gales",
+   "visitante": "Hungría",
+   "jugador": "Ivor Allchurch",
+   "seleccion": "Gales",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Gales",
+   "visitante": "Hungría",
+   "jugador": "Terry Medwin",
+   "seleccion": "Gales",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1958-06-17",
+   "local": "Unión Soviética",
+   "visitante": "Inglaterra",
+   "jugador": "Anatoli Ilyin",
+   "seleccion": "Unión Soviética",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Brasil",
+   "visitante": "Gales",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Maryan Wisnieski",
+   "seleccion": "Francia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Francia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Roger Piantoni",
+   "seleccion": "Francia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Suecia",
+   "visitante": "Unión Soviética",
+   "jugador": "Kurt Hamrin",
+   "seleccion": "Suecia",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Suecia",
+   "visitante": "Unión Soviética",
+   "jugador": "Agne Simonsson",
+   "seleccion": "Suecia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1958-06-19",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Didi",
+   "seleccion": "Brasil",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Roger Piantoni",
+   "seleccion": "Francia",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Suecia",
+   "visitante": "Alemania Federal",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Suecia",
+   "visitante": "Alemania Federal",
+   "jugador": "Lennart Skoglund",
+   "seleccion": "Suecia",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Suecia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gunnar Gren",
+   "seleccion": "Suecia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1958-06-24",
+   "local": "Suecia",
+   "visitante": "Alemania Federal",
+   "jugador": "Kurt Hamrin",
+   "seleccion": "Suecia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Hans Cieslarczyk",
+   "seleccion": "Alemania Federal",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Raymond Kopa",
+   "seleccion": "Francia",
+   "minuto": "27",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Yvon Douis",
+   "seleccion": "Francia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1958-06-28",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Just Fontaine",
+   "seleccion": "Francia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Nils Liedholm",
+   "seleccion": "Suecia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Mário Zagallo",
+   "seleccion": "Brasil",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Agne Simonsson",
+   "seleccion": "Suecia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1958-06-29",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "90"
+  }
+ ]
+}

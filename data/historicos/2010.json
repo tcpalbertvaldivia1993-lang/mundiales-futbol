@@ -1,0 +1,2214 @@
+{
+ "año": 2010,
+ "sedes": [
+  "Sudáfrica"
+ ],
+ "campeon": "España",
+ "inicio": "2010-06-11",
+ "fin": "2010-07-11",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Free State Stadium",
+   "ciudad": "Bloemfontein",
+   "pais": "Sudáfrica",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Cape Town Stadium",
+   "ciudad": "Ciudad del Cabo",
+   "pais": "Sudáfrica",
+   "capacidad": 64000
+  },
+  {
+   "nombre": "Moses Mabhida Stadium",
+   "ciudad": "Durban",
+   "pais": "Sudáfrica",
+   "capacidad": 63000
+  },
+  {
+   "nombre": "Ellis Park Stadium",
+   "ciudad": "Johannesburgo",
+   "pais": "Sudáfrica",
+   "capacidad": 56000
+  },
+  {
+   "nombre": "Soccer City",
+   "ciudad": "Johannesburgo",
+   "pais": "Sudáfrica",
+   "capacidad": 84000
+  },
+  {
+   "nombre": "Mbombela Stadium",
+   "ciudad": "Nelspruit",
+   "pais": "Sudáfrica",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Peter Mokaba Stadium",
+   "ciudad": "Polokwane",
+   "pais": "Sudáfrica",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Nelson Mandela Bay Stadium",
+   "ciudad": "Port Elizabeth",
+   "pais": "Sudáfrica",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Loftus Versfeld Stadium",
+   "ciudad": "Pretoria",
+   "pais": "Sudáfrica",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Royal Bafokeng Stadium",
+   "ciudad": "Rustenburg",
+   "pais": "Sudáfrica",
+   "capacidad": 42000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 0,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Sudáfrica",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-11",
+     "estadio": "Soccer City",
+     "local": "Sudáfrica",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-11",
+     "estadio": "Cape Town Stadium",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-16",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Sudáfrica",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2010-06-17",
+     "estadio": "Peter Mokaba Stadium",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-22",
+     "estadio": "Free State Stadium",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Sudáfrica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-22",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Grecia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-12",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Grecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-12",
+     "estadio": "Ellis Park Stadium",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Nigeria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-17",
+     "estadio": "Soccer City",
+     "local": "Argentina",
+     "golesLocal": 4,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-17",
+     "estadio": "Free State Stadium",
+     "local": "Grecia",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-22",
+     "estadio": "Peter Mokaba Stadium",
+     "local": "Grecia",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-22",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Nigeria",
+     "golesLocal": 2,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Eslovenia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Argelia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 0,
+     "gc": 2,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-12",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-13",
+     "estadio": "Peter Mokaba Stadium",
+     "local": "Argelia",
+     "golesLocal": 0,
+     "visitante": "Eslovenia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-18",
+     "estadio": "Ellis Park Stadium",
+     "local": "Eslovenia",
+     "golesLocal": 2,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-18",
+     "estadio": "Cape Town Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Argelia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-23",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Eslovenia",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-23",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Argelia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Ghana",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Serbia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-13",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Serbia",
+     "golesLocal": 0,
+     "visitante": "Ghana",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-13",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Alemania",
+     "golesLocal": 4,
+     "visitante": "Australia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-18",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "Serbia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-19",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "Ghana",
+     "golesLocal": 1,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-23",
+     "estadio": "Mbombela Stadium",
+     "local": "Australia",
+     "golesLocal": 2,
+     "visitante": "Serbia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-23",
+     "estadio": "Soccer City",
+     "local": "Ghana",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-14",
+     "estadio": "Soccer City",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Dinamarca",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-14",
+     "estadio": "Free State Stadium",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-19",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 1,
+     "visitante": "Japón",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-19",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-24",
+     "estadio": "Cape Town Stadium",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-24",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 1,
+     "visitante": "Japón",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Eslovaquia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Nueva Zelanda",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-14",
+     "estadio": "Cape Town Stadium",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-15",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "Nueva Zelanda",
+     "golesLocal": 1,
+     "visitante": "Eslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-20",
+     "estadio": "Free State Stadium",
+     "local": "Eslovaquia",
+     "golesLocal": 0,
+     "visitante": "Paraguay",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-20",
+     "estadio": "Mbombela Stadium",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Nueva Zelanda",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-24",
+     "estadio": "Peter Mokaba Stadium",
+     "local": "Paraguay",
+     "golesLocal": 0,
+     "visitante": "Nueva Zelanda",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-24",
+     "estadio": "Ellis Park Stadium",
+     "local": "Eslovaquia",
+     "golesLocal": 3,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 7,
+     "gc": 0,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Costa de Marfil",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Corea del Norte",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 12,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-15",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Costa de Marfil",
+     "golesLocal": 0,
+     "visitante": "Portugal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-15",
+     "estadio": "Ellis Park Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Corea del Norte",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-20",
+     "estadio": "Soccer City",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-21",
+     "estadio": "Cape Town Stadium",
+     "local": "Portugal",
+     "golesLocal": 7,
+     "visitante": "Corea del Norte",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-25",
+     "estadio": "Mbombela Stadium",
+     "local": "Corea del Norte",
+     "golesLocal": 0,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2010-06-25",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Portugal",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Honduras",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 0,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2010-06-16",
+     "estadio": "Mbombela Stadium",
+     "local": "Honduras",
+     "golesLocal": 0,
+     "visitante": "Chile",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-16",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-21",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-21",
+     "estadio": "Ellis Park Stadium",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Honduras",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-25",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2010-06-25",
+     "estadio": "Free State Stadium",
+     "local": "Suiza",
+     "golesLocal": 0,
+     "visitante": "Honduras",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2010-06-26",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-26",
+     "estadio": "Royal Bafokeng Stadium",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Ghana",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "2010-06-27",
+     "estadio": "Free State Stadium",
+     "local": "Alemania",
+     "golesLocal": 4,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-27",
+     "estadio": "Soccer City",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-28",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Eslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-06-28",
+     "estadio": "Ellis Park Stadium",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2010-06-29",
+     "estadio": "Loftus Versfeld Stadium",
+     "local": "Paraguay",
+     "golesLocal": 0,
+     "visitante": "Japón",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      5,
+      3
+     ]
+    },
+    {
+     "fecha": "2010-06-29",
+     "estadio": "Cape Town Stadium",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Portugal",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2010-07-02",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2010-07-02",
+     "estadio": "Soccer City",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Ghana",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      2
+     ]
+    },
+    {
+     "fecha": "2010-07-03",
+     "estadio": "Cape Town Stadium",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2010-07-03",
+     "estadio": "Ellis Park Stadium",
+     "local": "Paraguay",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2010-07-06",
+     "estadio": "Cape Town Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Países Bajos",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2010-07-07",
+     "estadio": "Moses Mabhida Stadium",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2010-07-10",
+     "estadio": "Nelson Mandela Bay Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Alemania",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2010-07-11",
+     "estadio": "Soccer City",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2010-06-11",
+   "local": "Sudáfrica",
+   "visitante": "México",
+   "jugador": "Siphiwe Tshabalala",
+   "seleccion": "Sudáfrica",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2010-06-11",
+   "local": "Sudáfrica",
+   "visitante": "México",
+   "jugador": "Rafael Márquez",
+   "seleccion": "México",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2010-06-12",
+   "local": "Corea del Sur",
+   "visitante": "Grecia",
+   "jugador": "Jung-soo Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2010-06-12",
+   "local": "Corea del Sur",
+   "visitante": "Grecia",
+   "jugador": "Ji-sung Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2010-06-12",
+   "local": "Argentina",
+   "visitante": "Nigeria",
+   "jugador": "Gabriel Heinze",
+   "seleccion": "Argentina",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2010-06-12",
+   "local": "Inglaterra",
+   "visitante": "Estados Unidos",
+   "jugador": "Steven Gerrard",
+   "seleccion": "Inglaterra",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2010-06-12",
+   "local": "Inglaterra",
+   "visitante": "Estados Unidos",
+   "jugador": "Clint Dempsey",
+   "seleccion": "Estados Unidos",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Argelia",
+   "visitante": "Eslovenia",
+   "jugador": "Robert Koren",
+   "seleccion": "Eslovenia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Serbia",
+   "visitante": "Ghana",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "85",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Alemania",
+   "visitante": "Australia",
+   "jugador": "Lukas Podolski",
+   "seleccion": "Alemania",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Alemania",
+   "visitante": "Australia",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Alemania",
+   "visitante": "Australia",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2010-06-13",
+   "local": "Alemania",
+   "visitante": "Australia",
+   "jugador": "Cacau",
+   "seleccion": "Alemania",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2010-06-14",
+   "local": "Países Bajos",
+   "visitante": "Dinamarca",
+   "jugador": "Daniel Agger",
+   "seleccion": "Dinamarca",
+   "minuto": "46",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2010-06-14",
+   "local": "Países Bajos",
+   "visitante": "Dinamarca",
+   "jugador": "Dirk Kuyt",
+   "seleccion": "Países Bajos",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2010-06-14",
+   "local": "Japón",
+   "visitante": "Camerún",
+   "jugador": "Keisuke Honda",
+   "seleccion": "Japón",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2010-06-14",
+   "local": "Italia",
+   "visitante": "Paraguay",
+   "jugador": "Antolín Alcaraz",
+   "seleccion": "Paraguay",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2010-06-14",
+   "local": "Italia",
+   "visitante": "Paraguay",
+   "jugador": "Daniele De Rossi",
+   "seleccion": "Italia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2010-06-15",
+   "local": "Nueva Zelanda",
+   "visitante": "Eslovaquia",
+   "jugador": "Róbert Vittek",
+   "seleccion": "Eslovaquia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2010-06-15",
+   "local": "Nueva Zelanda",
+   "visitante": "Eslovaquia",
+   "jugador": "Winston Reid",
+   "seleccion": "Nueva Zelanda",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2010-06-15",
+   "local": "Brasil",
+   "visitante": "Corea del Norte",
+   "jugador": "Maicon",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2010-06-15",
+   "local": "Brasil",
+   "visitante": "Corea del Norte",
+   "jugador": "Elano",
+   "seleccion": "Brasil",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2010-06-15",
+   "local": "Brasil",
+   "visitante": "Corea del Norte",
+   "jugador": "Yun-nam Ji",
+   "seleccion": "Corea del Norte",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2010-06-16",
+   "local": "Honduras",
+   "visitante": "Chile",
+   "jugador": "Jean Beausejour",
+   "seleccion": "Chile",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2010-06-16",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Gélson Fernandes",
+   "seleccion": "Suiza",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2010-06-16",
+   "local": "Sudáfrica",
+   "visitante": "Uruguay",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2010-06-16",
+   "local": "Sudáfrica",
+   "visitante": "Uruguay",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "80",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-16",
+   "local": "Sudáfrica",
+   "visitante": "Uruguay",
+   "jugador": "Álvaro Pereira",
+   "seleccion": "Uruguay",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Chu-young Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "17",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Gonzalo Higuaín",
+   "seleccion": "Argentina",
+   "minuto": "33"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Chung-yong Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Gonzalo Higuaín",
+   "seleccion": "Argentina",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Gonzalo Higuaín",
+   "seleccion": "Argentina",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Grecia",
+   "visitante": "Nigeria",
+   "jugador": "Kalu Uche",
+   "seleccion": "Nigeria",
+   "minuto": "16"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Grecia",
+   "visitante": "Nigeria",
+   "jugador": "Dimitris Salpingidis",
+   "seleccion": "Grecia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Grecia",
+   "visitante": "Nigeria",
+   "jugador": "Vasilis Torosidis",
+   "seleccion": "Grecia",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Javier Hernández",
+   "seleccion": "México",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2010-06-17",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Cuauhtémoc Blanco",
+   "seleccion": "México",
+   "minuto": "79",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-18",
+   "local": "Alemania",
+   "visitante": "Serbia",
+   "jugador": "Milan Jovanović",
+   "seleccion": "Serbia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2010-06-18",
+   "local": "Eslovenia",
+   "visitante": "Estados Unidos",
+   "jugador": "Valter Birsa",
+   "seleccion": "Eslovenia",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2010-06-18",
+   "local": "Eslovenia",
+   "visitante": "Estados Unidos",
+   "jugador": "Zlatan Ljubijankić",
+   "seleccion": "Eslovenia",
+   "minuto": "42"
+  },
+  {
+   "fecha": "2010-06-18",
+   "local": "Eslovenia",
+   "visitante": "Estados Unidos",
+   "jugador": "Landon Donovan",
+   "seleccion": "Estados Unidos",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2010-06-18",
+   "local": "Eslovenia",
+   "visitante": "Estados Unidos",
+   "jugador": "Michael Bradley",
+   "seleccion": "Estados Unidos",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Países Bajos",
+   "visitante": "Japón",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Ghana",
+   "visitante": "Australia",
+   "jugador": "Brett Holman",
+   "seleccion": "Australia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Ghana",
+   "visitante": "Australia",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "25",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Camerún",
+   "visitante": "Dinamarca",
+   "jugador": "Samuel Eto'o",
+   "seleccion": "Camerún",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Camerún",
+   "visitante": "Dinamarca",
+   "jugador": "Nicklas Bendtner",
+   "seleccion": "Dinamarca",
+   "minuto": "33"
+  },
+  {
+   "fecha": "2010-06-19",
+   "local": "Camerún",
+   "visitante": "Dinamarca",
+   "jugador": "Dennis Rommedahl",
+   "seleccion": "Dinamarca",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Eslovaquia",
+   "visitante": "Paraguay",
+   "jugador": "Enrique Vera",
+   "seleccion": "Paraguay",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Eslovaquia",
+   "visitante": "Paraguay",
+   "jugador": "Cristian Riveros",
+   "seleccion": "Paraguay",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Italia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Shane Smeltz",
+   "seleccion": "Nueva Zelanda",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Italia",
+   "visitante": "Nueva Zelanda",
+   "jugador": "Vincenzo Iaquinta",
+   "seleccion": "Italia",
+   "minuto": "29",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Brasil",
+   "visitante": "Costa de Marfil",
+   "jugador": "Luís Fabiano",
+   "seleccion": "Brasil",
+   "minuto": "25"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Brasil",
+   "visitante": "Costa de Marfil",
+   "jugador": "Luís Fabiano",
+   "seleccion": "Brasil",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Brasil",
+   "visitante": "Costa de Marfil",
+   "jugador": "Elano",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2010-06-20",
+   "local": "Brasil",
+   "visitante": "Costa de Marfil",
+   "jugador": "Didier Drogba",
+   "seleccion": "Costa de Marfil",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Raul Meireles",
+   "seleccion": "Portugal",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Simão",
+   "seleccion": "Portugal",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Hugo Almeida",
+   "seleccion": "Portugal",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Tiago",
+   "seleccion": "Portugal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Liédson",
+   "seleccion": "Portugal",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Tiago",
+   "seleccion": "Portugal",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "Chile",
+   "visitante": "Suiza",
+   "jugador": "Mark González",
+   "seleccion": "Chile",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "España",
+   "visitante": "Honduras",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2010-06-21",
+   "local": "España",
+   "visitante": "Honduras",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Bongani Khumalo",
+   "seleccion": "Sudáfrica",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Katlego Mphela",
+   "seleccion": "Sudáfrica",
+   "minuto": "37"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Florent Malouda",
+   "seleccion": "Francia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "México",
+   "visitante": "Uruguay",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Grecia",
+   "visitante": "Argentina",
+   "jugador": "Martín Demichelis",
+   "seleccion": "Argentina",
+   "minuto": "77"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Grecia",
+   "visitante": "Argentina",
+   "jugador": "Martín Palermo",
+   "seleccion": "Argentina",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Nigeria",
+   "visitante": "Corea del Sur",
+   "jugador": "Kalu Uche",
+   "seleccion": "Nigeria",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Nigeria",
+   "visitante": "Corea del Sur",
+   "jugador": "Jung-soo Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Nigeria",
+   "visitante": "Corea del Sur",
+   "jugador": "Chu-young Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2010-06-22",
+   "local": "Nigeria",
+   "visitante": "Corea del Sur",
+   "jugador": "Yakubu",
+   "seleccion": "Nigeria",
+   "minuto": "69",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Eslovenia",
+   "visitante": "Inglaterra",
+   "jugador": "Jermain Defoe",
+   "seleccion": "Inglaterra",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Estados Unidos",
+   "visitante": "Argelia",
+   "jugador": "Landon Donovan",
+   "seleccion": "Estados Unidos",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Australia",
+   "visitante": "Serbia",
+   "jugador": "Tim Cahill",
+   "seleccion": "Australia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Australia",
+   "visitante": "Serbia",
+   "jugador": "Brett Holman",
+   "seleccion": "Australia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Australia",
+   "visitante": "Serbia",
+   "jugador": "Marko Pantelić",
+   "seleccion": "Serbia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2010-06-23",
+   "local": "Ghana",
+   "visitante": "Alemania",
+   "jugador": "Mesut Özil",
+   "seleccion": "Alemania",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Eslovaquia",
+   "visitante": "Italia",
+   "jugador": "Róbert Vittek",
+   "seleccion": "Eslovaquia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Eslovaquia",
+   "visitante": "Italia",
+   "jugador": "Róbert Vittek",
+   "seleccion": "Eslovaquia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Eslovaquia",
+   "visitante": "Italia",
+   "jugador": "Antonio Di Natale",
+   "seleccion": "Italia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Eslovaquia",
+   "visitante": "Italia",
+   "jugador": "Kamil Kopúnek",
+   "seleccion": "Eslovaquia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Eslovaquia",
+   "visitante": "Italia",
+   "jugador": "Fabio Quagliarella",
+   "seleccion": "Italia",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Camerún",
+   "visitante": "Países Bajos",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Camerún",
+   "visitante": "Países Bajos",
+   "jugador": "Samuel Eto'o",
+   "seleccion": "Camerún",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Camerún",
+   "visitante": "Países Bajos",
+   "jugador": "Klaas-Jan Huntelaar",
+   "seleccion": "Países Bajos",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Dinamarca",
+   "visitante": "Japón",
+   "jugador": "Keisuke Honda",
+   "seleccion": "Japón",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Dinamarca",
+   "visitante": "Japón",
+   "jugador": "Yasuhito Endō",
+   "seleccion": "Japón",
+   "minuto": "30"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Dinamarca",
+   "visitante": "Japón",
+   "jugador": "Jon Dahl Tomasson",
+   "seleccion": "Dinamarca",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2010-06-24",
+   "local": "Dinamarca",
+   "visitante": "Japón",
+   "jugador": "Shinji Okazaki",
+   "seleccion": "Japón",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Corea del Norte",
+   "visitante": "Costa de Marfil",
+   "jugador": "Yaya Touré",
+   "seleccion": "Costa de Marfil",
+   "minuto": "14"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Corea del Norte",
+   "visitante": "Costa de Marfil",
+   "jugador": "Romaric",
+   "seleccion": "Costa de Marfil",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Corea del Norte",
+   "visitante": "Costa de Marfil",
+   "jugador": "Salomon Kalou",
+   "seleccion": "Costa de Marfil",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Chile",
+   "visitante": "España",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Chile",
+   "visitante": "España",
+   "jugador": "Andrés Iniesta",
+   "seleccion": "España",
+   "minuto": "37"
+  },
+  {
+   "fecha": "2010-06-25",
+   "local": "Chile",
+   "visitante": "España",
+   "jugador": "Rodrigo Millar",
+   "seleccion": "Chile",
+   "minuto": "47"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Uruguay",
+   "visitante": "Corea del Sur",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Uruguay",
+   "visitante": "Corea del Sur",
+   "jugador": "Chung-yong Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Uruguay",
+   "visitante": "Corea del Sur",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Estados Unidos",
+   "visitante": "Ghana",
+   "jugador": "Kevin-Prince Boateng",
+   "seleccion": "Ghana",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Estados Unidos",
+   "visitante": "Ghana",
+   "jugador": "Landon Donovan",
+   "seleccion": "Estados Unidos",
+   "minuto": "62",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-26",
+   "local": "Estados Unidos",
+   "visitante": "Ghana",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "93"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Alemania",
+   "visitante": "Inglaterra",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Alemania",
+   "visitante": "Inglaterra",
+   "jugador": "Lukas Podolski",
+   "seleccion": "Alemania",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Alemania",
+   "visitante": "Inglaterra",
+   "jugador": "Matthew Upson",
+   "seleccion": "Inglaterra",
+   "minuto": "37"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Alemania",
+   "visitante": "Inglaterra",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Alemania",
+   "visitante": "Inglaterra",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Carlos Tevez",
+   "seleccion": "Argentina",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Gonzalo Higuaín",
+   "seleccion": "Argentina",
+   "minuto": "33"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Carlos Tevez",
+   "seleccion": "Argentina",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2010-06-27",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Javier Hernández",
+   "seleccion": "México",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Países Bajos",
+   "visitante": "Eslovaquia",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Países Bajos",
+   "visitante": "Eslovaquia",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Países Bajos",
+   "visitante": "Eslovaquia",
+   "jugador": "Róbert Vittek",
+   "seleccion": "Eslovaquia",
+   "minuto": "90+4",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Juan",
+   "seleccion": "Brasil",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Luís Fabiano",
+   "seleccion": "Brasil",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2010-06-28",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Robinho",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2010-06-29",
+   "local": "España",
+   "visitante": "Portugal",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2010-07-02",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Robinho",
+   "seleccion": "Brasil",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2010-07-02",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2010-07-02",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2010-07-02",
+   "local": "Uruguay",
+   "visitante": "Ghana",
+   "jugador": "Sulley Muntari",
+   "seleccion": "Ghana",
+   "minuto": "45+2"
+  },
+  {
+   "fecha": "2010-07-02",
+   "local": "Uruguay",
+   "visitante": "Ghana",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2010-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "3"
+  },
+  {
+   "fecha": "2010-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2010-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania",
+   "jugador": "Arne Friedrich",
+   "seleccion": "Alemania",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2010-07-03",
+   "local": "Argentina",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2010-07-03",
+   "local": "Paraguay",
+   "visitante": "España",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2010-07-06",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Giovanni van Bronckhorst",
+   "seleccion": "Países Bajos",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2010-07-06",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "41"
+  },
+  {
+   "fecha": "2010-07-06",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Wesley Sneijder",
+   "seleccion": "Países Bajos",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2010-07-06",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2010-07-06",
+   "local": "Uruguay",
+   "visitante": "Países Bajos",
+   "jugador": "Maxi Pereira",
+   "seleccion": "Uruguay",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2010-07-07",
+   "local": "Alemania",
+   "visitante": "España",
+   "jugador": "Carles Puyol",
+   "seleccion": "España",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2010-07-10",
+   "local": "Uruguay",
+   "visitante": "Alemania",
+   "jugador": "Thomas Müller",
+   "seleccion": "Alemania",
+   "minuto": "19"
+  },
+  {
+   "fecha": "2010-07-10",
+   "local": "Uruguay",
+   "visitante": "Alemania",
+   "jugador": "Edinson Cavani",
+   "seleccion": "Uruguay",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2010-07-10",
+   "local": "Uruguay",
+   "visitante": "Alemania",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2010-07-10",
+   "local": "Uruguay",
+   "visitante": "Alemania",
+   "jugador": "Marcell Jansen",
+   "seleccion": "Alemania",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2010-07-10",
+   "local": "Uruguay",
+   "visitante": "Alemania",
+   "jugador": "Sami Khedira",
+   "seleccion": "Alemania",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2010-07-11",
+   "local": "Países Bajos",
+   "visitante": "España",
+   "jugador": "Andrés Iniesta",
+   "seleccion": "España",
+   "minuto": "116"
+  }
+ ]
+}

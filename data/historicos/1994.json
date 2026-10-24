@@ -1,0 +1,1985 @@
+{
+ "año": 1994,
+ "sedes": [
+  "Estados Unidos"
+ ],
+ "campeon": "Brasil",
+ "inicio": "1994-06-17",
+ "fin": "1994-07-17",
+ "selecciones": 24,
+ "estadios": [
+  {
+   "nombre": "Soldier Field",
+   "ciudad": "Chicago",
+   "pais": "Estados Unidos",
+   "capacidad": 65000
+  },
+  {
+   "nombre": "Cotton Bowl",
+   "ciudad": "Dallas",
+   "pais": "Estados Unidos",
+   "capacidad": 64000
+  },
+  {
+   "nombre": "Giants Stadium",
+   "ciudad": "East Rutherford",
+   "pais": "Estados Unidos",
+   "capacidad": 76000
+  },
+  {
+   "nombre": "Foxboro Stadium",
+   "ciudad": "Foxborough",
+   "pais": "Estados Unidos",
+   "capacidad": 54000
+  },
+  {
+   "nombre": "Citrus Bowl",
+   "ciudad": "Orlando",
+   "pais": "Estados Unidos",
+   "capacidad": 62000
+  },
+  {
+   "nombre": "Rose Bowl",
+   "ciudad": "Pasadena",
+   "pais": "Estados Unidos",
+   "capacidad": 94000
+  },
+  {
+   "nombre": "Pontiac Silverdome",
+   "ciudad": "Pontiac",
+   "pais": "Estados Unidos",
+   "capacidad": 78000
+  },
+  {
+   "nombre": "Stanford Stadium",
+   "ciudad": "Stanford",
+   "pais": "Estados Unidos",
+   "capacidad": 84000
+  },
+  {
+   "nombre": "RFK Stadium",
+   "ciudad": "Washington D. C.",
+   "pais": "Estados Unidos",
+   "capacidad": 53000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Rumania",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-18",
+     "estadio": "Pontiac Silverdome",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-18",
+     "estadio": "Rose Bowl",
+     "local": "Colombia",
+     "golesLocal": 1,
+     "visitante": "Rumania",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1994-06-22",
+     "estadio": "Pontiac Silverdome",
+     "local": "Rumania",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "1994-06-22",
+     "estadio": "Rose Bowl",
+     "local": "Estados Unidos",
+     "golesLocal": 2,
+     "visitante": "Colombia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-26",
+     "estadio": "Stanford Stadium",
+     "local": "Suiza",
+     "golesLocal": 0,
+     "visitante": "Colombia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-06-26",
+     "estadio": "Rose Bowl",
+     "local": "Estados Unidos",
+     "golesLocal": 0,
+     "visitante": "Rumania",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Rusia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 7,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 3,
+     "gc": 11,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-19",
+     "estadio": "Rose Bowl",
+     "local": "Camerún",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-06-20",
+     "estadio": "Stanford Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Rusia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-24",
+     "estadio": "Stanford Stadium",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-24",
+     "estadio": "Pontiac Silverdome",
+     "local": "Suecia",
+     "golesLocal": 3,
+     "visitante": "Rusia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-28",
+     "estadio": "Stanford Stadium",
+     "local": "Rusia",
+     "golesLocal": 6,
+     "visitante": "Camerún",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-28",
+     "estadio": "Pontiac Silverdome",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Bolivia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-17",
+     "estadio": "Soldier Field",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Bolivia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-17",
+     "estadio": "Cotton Bowl",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-06-21",
+     "estadio": "Soldier Field",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-23",
+     "estadio": "Foxboro Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 0,
+     "visitante": "Bolivia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-27",
+     "estadio": "Soldier Field",
+     "local": "Bolivia",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1994-06-27",
+     "estadio": "Cotton Bowl",
+     "local": "Alemania",
+     "golesLocal": 3,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Grecia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 10,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-21",
+     "estadio": "Foxboro Stadium",
+     "local": "Argentina",
+     "golesLocal": 4,
+     "visitante": "Grecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-21",
+     "estadio": "Cotton Bowl",
+     "local": "Nigeria",
+     "golesLocal": 3,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-25",
+     "estadio": "Foxboro Stadium",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-26",
+     "estadio": "Soldier Field",
+     "local": "Bulgaria",
+     "golesLocal": 4,
+     "visitante": "Grecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-30",
+     "estadio": "Cotton Bowl",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Bulgaria",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-06-30",
+     "estadio": "Foxboro Stadium",
+     "local": "Grecia",
+     "golesLocal": 0,
+     "visitante": "Nigeria",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Irlanda",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Noruega",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-18",
+     "estadio": "Giants Stadium",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Irlanda",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-19",
+     "estadio": "RFK Stadium",
+     "local": "Noruega",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-23",
+     "estadio": "Giants Stadium",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Noruega",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-24",
+     "estadio": "Citrus Bowl",
+     "local": "México",
+     "golesLocal": 2,
+     "visitante": "Irlanda",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-28",
+     "estadio": "RFK Stadium",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-28",
+     "estadio": "Giants Stadium",
+     "local": "Irlanda",
+     "golesLocal": 0,
+     "visitante": "Noruega",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1994-06-19",
+     "estadio": "Citrus Bowl",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-20",
+     "estadio": "RFK Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-25",
+     "estadio": "Citrus Bowl",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-06-25",
+     "estadio": "Giants Stadium",
+     "local": "Arabia Saudí",
+     "golesLocal": 2,
+     "visitante": "Marruecos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-29",
+     "estadio": "RFK Stadium",
+     "local": "Bélgica",
+     "golesLocal": 0,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-06-29",
+     "estadio": "Citrus Bowl",
+     "local": "Marruecos",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1994-07-02",
+     "estadio": "Soldier Field",
+     "local": "Alemania",
+     "golesLocal": 3,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-07-02",
+     "estadio": "RFK Stadium",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-07-03",
+     "estadio": "Cotton Bowl",
+     "local": "Arabia Saudí",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1994-07-03",
+     "estadio": "Rose Bowl",
+     "local": "Rumania",
+     "golesLocal": 3,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-07-04",
+     "estadio": "Citrus Bowl",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Irlanda",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-07-04",
+     "estadio": "Stanford Stadium",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1994-07-05",
+     "estadio": "Foxboro Stadium",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "1994-07-05",
+     "estadio": "Giants Stadium",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Bulgaria",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      1,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1994-07-09",
+     "estadio": "Foxboro Stadium",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-07-09",
+     "estadio": "Cotton Bowl",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1994-07-10",
+     "estadio": "Giants Stadium",
+     "local": "Bulgaria",
+     "golesLocal": 2,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1994-07-10",
+     "estadio": "Stanford Stadium",
+     "local": "Rumania",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 2,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1994-07-13",
+     "estadio": "Giants Stadium",
+     "local": "Bulgaria",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1994-07-13",
+     "estadio": "Rose Bowl",
+     "local": "Suecia",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1994-07-16",
+     "estadio": "Rose Bowl",
+     "local": "Suecia",
+     "golesLocal": 4,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1994-07-17",
+     "estadio": "Rose Bowl",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      2
+     ]
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1994-06-17",
+   "local": "Alemania",
+   "visitante": "Bolivia",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1994-06-17",
+   "local": "España",
+   "visitante": "Corea del Sur",
+   "jugador": "Julio Salinas",
+   "seleccion": "España",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1994-06-17",
+   "local": "España",
+   "visitante": "Corea del Sur",
+   "jugador": "Andoni Goikoetxea",
+   "seleccion": "España",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1994-06-17",
+   "local": "España",
+   "visitante": "Corea del Sur",
+   "jugador": "Myung-bo Hong",
+   "seleccion": "Corea del Sur",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1994-06-17",
+   "local": "España",
+   "visitante": "Corea del Sur",
+   "jugador": "Jung-won Seo",
+   "seleccion": "Corea del Sur",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Estados Unidos",
+   "visitante": "Suiza",
+   "jugador": "Georges Bregy",
+   "seleccion": "Suiza",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Estados Unidos",
+   "visitante": "Suiza",
+   "jugador": "Eric Wynalda",
+   "seleccion": "Estados Unidos",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Italia",
+   "visitante": "Irlanda",
+   "jugador": "Ray Houghton",
+   "seleccion": "Irlanda",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Colombia",
+   "visitante": "Rumania",
+   "jugador": "Florin Răducioiu",
+   "seleccion": "Rumania",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Colombia",
+   "visitante": "Rumania",
+   "jugador": "Gheorghe Hagi",
+   "seleccion": "Rumania",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Colombia",
+   "visitante": "Rumania",
+   "jugador": "Adolfo Valencia",
+   "seleccion": "Colombia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1994-06-18",
+   "local": "Colombia",
+   "visitante": "Rumania",
+   "jugador": "Florin Răducioiu",
+   "seleccion": "Rumania",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Bélgica",
+   "visitante": "Marruecos",
+   "jugador": "Marc Degryse",
+   "seleccion": "Bélgica",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Noruega",
+   "visitante": "México",
+   "jugador": "Kjetil Rekdal",
+   "seleccion": "Noruega",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Camerún",
+   "visitante": "Suecia",
+   "jugador": "Roger Ljung",
+   "seleccion": "Suecia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Camerún",
+   "visitante": "Suecia",
+   "jugador": "David Embé",
+   "seleccion": "Camerún",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Camerún",
+   "visitante": "Suecia",
+   "jugador": "François Omam-Biyik",
+   "seleccion": "Camerún",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1994-06-19",
+   "local": "Camerún",
+   "visitante": "Suecia",
+   "jugador": "Martin Dahlin",
+   "seleccion": "Suecia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1994-06-20",
+   "local": "Brasil",
+   "visitante": "Rusia",
+   "jugador": "Romário",
+   "seleccion": "Brasil",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1994-06-20",
+   "local": "Brasil",
+   "visitante": "Rusia",
+   "jugador": "Raí",
+   "seleccion": "Brasil",
+   "minuto": "52",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-20",
+   "local": "Países Bajos",
+   "visitante": "Arabia Saudí",
+   "jugador": "Fuad Anwar",
+   "seleccion": "Arabia Saudí",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1994-06-20",
+   "local": "Países Bajos",
+   "visitante": "Arabia Saudí",
+   "jugador": "Wim Jonk",
+   "seleccion": "Países Bajos",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1994-06-20",
+   "local": "Países Bajos",
+   "visitante": "Arabia Saudí",
+   "jugador": "Gaston Taument",
+   "seleccion": "Países Bajos",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Argentina",
+   "visitante": "Grecia",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Argentina",
+   "visitante": "Grecia",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Argentina",
+   "visitante": "Grecia",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Argentina",
+   "visitante": "Grecia",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "90",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Alemania",
+   "visitante": "España",
+   "jugador": "Andoni Goikoetxea",
+   "seleccion": "España",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Alemania",
+   "visitante": "España",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Nigeria",
+   "visitante": "Bulgaria",
+   "jugador": "Rashidi Yekini",
+   "seleccion": "Nigeria",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Nigeria",
+   "visitante": "Bulgaria",
+   "jugador": "Daniel Amokachi",
+   "seleccion": "Nigeria",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1994-06-21",
+   "local": "Nigeria",
+   "visitante": "Bulgaria",
+   "jugador": "Emmanuel Amunike",
+   "seleccion": "Nigeria",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Rumania",
+   "visitante": "Suiza",
+   "jugador": "Alain Sutter",
+   "seleccion": "Suiza",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Rumania",
+   "visitante": "Suiza",
+   "jugador": "Gheorghe Hagi",
+   "seleccion": "Rumania",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Rumania",
+   "visitante": "Suiza",
+   "jugador": "Stéphane Chapuisat",
+   "seleccion": "Suiza",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Rumania",
+   "visitante": "Suiza",
+   "jugador": "Adrian Knup",
+   "seleccion": "Suiza",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Rumania",
+   "visitante": "Suiza",
+   "jugador": "Adrian Knup",
+   "seleccion": "Suiza",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Colombia",
+   "jugador": "Andrés Escobar",
+   "seleccion": "Colombia",
+   "minuto": "35",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Colombia",
+   "jugador": "Earnie Stewart",
+   "seleccion": "Estados Unidos",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1994-06-22",
+   "local": "Estados Unidos",
+   "visitante": "Colombia",
+   "jugador": "Adolfo Valencia",
+   "seleccion": "Colombia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1994-06-23",
+   "local": "Italia",
+   "visitante": "Noruega",
+   "jugador": "Dino Baggio",
+   "seleccion": "Italia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "México",
+   "visitante": "Irlanda",
+   "jugador": "Luis García Postigo",
+   "seleccion": "México",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "México",
+   "visitante": "Irlanda",
+   "jugador": "Luis García Postigo",
+   "seleccion": "México",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "México",
+   "visitante": "Irlanda",
+   "jugador": "John Aldridge",
+   "seleccion": "Irlanda",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Brasil",
+   "visitante": "Camerún",
+   "jugador": "Romário",
+   "seleccion": "Brasil",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Brasil",
+   "visitante": "Camerún",
+   "jugador": "Márcio Santos",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Brasil",
+   "visitante": "Camerún",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Suecia",
+   "visitante": "Rusia",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "4",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Suecia",
+   "visitante": "Rusia",
+   "jugador": "Tomas Brolin",
+   "seleccion": "Suecia",
+   "minuto": "39",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Suecia",
+   "visitante": "Rusia",
+   "jugador": "Martin Dahlin",
+   "seleccion": "Suecia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1994-06-24",
+   "local": "Suecia",
+   "visitante": "Rusia",
+   "jugador": "Martin Dahlin",
+   "seleccion": "Suecia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Bélgica",
+   "visitante": "Países Bajos",
+   "jugador": "Philippe Albert",
+   "seleccion": "Bélgica",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Marruecos",
+   "jugador": "Sami Al-Jaber",
+   "seleccion": "Arabia Saudí",
+   "minuto": "7",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Marruecos",
+   "jugador": "Mohammed Chaouch",
+   "seleccion": "Marruecos",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Marruecos",
+   "jugador": "Fuad Anwar",
+   "seleccion": "Arabia Saudí",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Argentina",
+   "visitante": "Nigeria",
+   "jugador": "Samson Siasia",
+   "seleccion": "Nigeria",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Argentina",
+   "visitante": "Nigeria",
+   "jugador": "Claudio Caniggia",
+   "seleccion": "Argentina",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1994-06-25",
+   "local": "Argentina",
+   "visitante": "Nigeria",
+   "jugador": "Claudio Caniggia",
+   "seleccion": "Argentina",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Bulgaria",
+   "visitante": "Grecia",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "5",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Bulgaria",
+   "visitante": "Grecia",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "55",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Bulgaria",
+   "visitante": "Grecia",
+   "jugador": "Yordan Letchkov",
+   "seleccion": "Bulgaria",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Bulgaria",
+   "visitante": "Grecia",
+   "jugador": "Daniel Borimirov",
+   "seleccion": "Bulgaria",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Suiza",
+   "visitante": "Colombia",
+   "jugador": "Hermán Gaviria",
+   "seleccion": "Colombia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Suiza",
+   "visitante": "Colombia",
+   "jugador": "John Harold Lozano",
+   "seleccion": "Colombia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1994-06-26",
+   "local": "Estados Unidos",
+   "visitante": "Rumania",
+   "jugador": "Dan Petrescu",
+   "seleccion": "Rumania",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Bolivia",
+   "visitante": "España",
+   "jugador": "Josep Guardiola",
+   "seleccion": "España",
+   "minuto": "19",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Bolivia",
+   "visitante": "España",
+   "jugador": "José Luis Caminero",
+   "seleccion": "España",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Bolivia",
+   "visitante": "España",
+   "jugador": "Erwin Sánchez",
+   "seleccion": "Bolivia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Bolivia",
+   "visitante": "España",
+   "jugador": "José Luis Caminero",
+   "seleccion": "España",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Karl-Heinz Riedle",
+   "seleccion": "Alemania",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Sun-hong Hwang",
+   "seleccion": "Corea del Sur",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1994-06-27",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Myung-bo Hong",
+   "seleccion": "Corea del Sur",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Daniele Massaro",
+   "seleccion": "Italia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Marcelino Bernal",
+   "seleccion": "México",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Roger Milla",
+   "seleccion": "Camerún",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Oleg Salenko",
+   "seleccion": "Rusia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Rusia",
+   "visitante": "Camerún",
+   "jugador": "Dmitri Radchenko",
+   "seleccion": "Rusia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Kennet Andersson",
+   "seleccion": "Suecia",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1994-06-28",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Romário",
+   "seleccion": "Brasil",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1994-06-29",
+   "local": "Bélgica",
+   "visitante": "Arabia Saudí",
+   "jugador": "Saeed Al-Owairan",
+   "seleccion": "Arabia Saudí",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1994-06-29",
+   "local": "Marruecos",
+   "visitante": "Países Bajos",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1994-06-29",
+   "local": "Marruecos",
+   "visitante": "Países Bajos",
+   "jugador": "Hassan Nader",
+   "seleccion": "Marruecos",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1994-06-29",
+   "local": "Marruecos",
+   "visitante": "Países Bajos",
+   "jugador": "Bryan Roy",
+   "seleccion": "Países Bajos",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1994-06-30",
+   "local": "Argentina",
+   "visitante": "Bulgaria",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1994-06-30",
+   "local": "Argentina",
+   "visitante": "Bulgaria",
+   "jugador": "Nasko Sirakov",
+   "seleccion": "Bulgaria",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "1994-06-30",
+   "local": "Grecia",
+   "visitante": "Nigeria",
+   "jugador": "Finidi George",
+   "seleccion": "Nigeria",
+   "minuto": "45+2"
+  },
+  {
+   "fecha": "1994-06-30",
+   "local": "Grecia",
+   "visitante": "Nigeria",
+   "jugador": "Daniel Amokachi",
+   "seleccion": "Nigeria",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Georges Grün",
+   "seleccion": "Bélgica",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "Alemania",
+   "visitante": "Bélgica",
+   "jugador": "Philippe Albert",
+   "seleccion": "Bélgica",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Fernando Hierro",
+   "seleccion": "España",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Luis Enrique",
+   "seleccion": "España",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1994-07-02",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Txiki Begiristain",
+   "seleccion": "España",
+   "minuto": "86",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Arabia Saudí",
+   "visitante": "Suecia",
+   "jugador": "Martin Dahlin",
+   "seleccion": "Suecia",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Arabia Saudí",
+   "visitante": "Suecia",
+   "jugador": "Kennet Andersson",
+   "seleccion": "Suecia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Arabia Saudí",
+   "visitante": "Suecia",
+   "jugador": "Fahad Al-Ghesheyan",
+   "seleccion": "Arabia Saudí",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Arabia Saudí",
+   "visitante": "Suecia",
+   "jugador": "Kennet Andersson",
+   "seleccion": "Suecia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Rumania",
+   "visitante": "Argentina",
+   "jugador": "Ilie Dumitrescu",
+   "seleccion": "Rumania",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Rumania",
+   "visitante": "Argentina",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "16",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Rumania",
+   "visitante": "Argentina",
+   "jugador": "Ilie Dumitrescu",
+   "seleccion": "Rumania",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Rumania",
+   "visitante": "Argentina",
+   "jugador": "Gheorghe Hagi",
+   "seleccion": "Rumania",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1994-07-03",
+   "local": "Rumania",
+   "visitante": "Argentina",
+   "jugador": "Abel Balbo",
+   "seleccion": "Argentina",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1994-07-04",
+   "local": "Países Bajos",
+   "visitante": "Irlanda",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1994-07-04",
+   "local": "Países Bajos",
+   "visitante": "Irlanda",
+   "jugador": "Wim Jonk",
+   "seleccion": "Países Bajos",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1994-07-04",
+   "local": "Brasil",
+   "visitante": "Estados Unidos",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1994-07-05",
+   "local": "Nigeria",
+   "visitante": "Italia",
+   "jugador": "Emmanuel Amunike",
+   "seleccion": "Nigeria",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1994-07-05",
+   "local": "Nigeria",
+   "visitante": "Italia",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1994-07-05",
+   "local": "Nigeria",
+   "visitante": "Italia",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "102",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-05",
+   "local": "México",
+   "visitante": "Bulgaria",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1994-07-05",
+   "local": "México",
+   "visitante": "Bulgaria",
+   "jugador": "Alberto García Aspe",
+   "seleccion": "México",
+   "minuto": "18",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "Dino Baggio",
+   "seleccion": "Italia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "José Luis Caminero",
+   "seleccion": "España",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Italia",
+   "visitante": "España",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Romário",
+   "seleccion": "Brasil",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Aron Winter",
+   "seleccion": "Países Bajos",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1994-07-09",
+   "local": "Países Bajos",
+   "visitante": "Brasil",
+   "jugador": "Branco",
+   "seleccion": "Brasil",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Bulgaria",
+   "visitante": "Alemania",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania",
+   "minuto": "47",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Bulgaria",
+   "visitante": "Alemania",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Bulgaria",
+   "visitante": "Alemania",
+   "jugador": "Yordan Letchkov",
+   "seleccion": "Bulgaria",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Rumania",
+   "visitante": "Suecia",
+   "jugador": "Tomas Brolin",
+   "seleccion": "Suecia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Rumania",
+   "visitante": "Suecia",
+   "jugador": "Florin Răducioiu",
+   "seleccion": "Rumania",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Rumania",
+   "visitante": "Suecia",
+   "jugador": "Florin Răducioiu",
+   "seleccion": "Rumania",
+   "minuto": "101"
+  },
+  {
+   "fecha": "1994-07-10",
+   "local": "Rumania",
+   "visitante": "Suecia",
+   "jugador": "Kennet Andersson",
+   "seleccion": "Suecia",
+   "minuto": "115"
+  },
+  {
+   "fecha": "1994-07-13",
+   "local": "Bulgaria",
+   "visitante": "Italia",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1994-07-13",
+   "local": "Bulgaria",
+   "visitante": "Italia",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1994-07-13",
+   "local": "Bulgaria",
+   "visitante": "Italia",
+   "jugador": "Hristo Stoichkov",
+   "seleccion": "Bulgaria",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1994-07-13",
+   "local": "Suecia",
+   "visitante": "Brasil",
+   "jugador": "Romário",
+   "seleccion": "Brasil",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1994-07-16",
+   "local": "Suecia",
+   "visitante": "Bulgaria",
+   "jugador": "Tomas Brolin",
+   "seleccion": "Suecia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1994-07-16",
+   "local": "Suecia",
+   "visitante": "Bulgaria",
+   "jugador": "Håkan Mild",
+   "seleccion": "Suecia",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1994-07-16",
+   "local": "Suecia",
+   "visitante": "Bulgaria",
+   "jugador": "Henrik Larsson",
+   "seleccion": "Suecia",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1994-07-16",
+   "local": "Suecia",
+   "visitante": "Bulgaria",
+   "jugador": "Kennet Andersson",
+   "seleccion": "Suecia",
+   "minuto": "39"
+  }
+ ]
+}

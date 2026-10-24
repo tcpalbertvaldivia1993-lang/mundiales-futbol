@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{# La página que sale cuando alguien abre una dirección que no existe (error 404) #}
+{% block titulo %}{{ t("Página no encontrada") }} · {{ t("Mundiales de fútbol 1930–2026") }}{% endblock %}
+
+{% block contenido %}
+  <section id="inicio" class="portada">
+    <p class="antetitulo">{{ t("Error 404") }}</p>
+    <h1>{{ t("Fuera de juego") }}</h1>
+    {# Jinja2 escapa la dirección: si alguien escribe HTML en ella, se ve como texto #}
+    <p class="lema">{{ t("No hay ninguna página en") }} <code>{{ direccion }}</code>.</p>
+    <a class="boton" href="{{ portada }}">{{ t("Volver a la portada") }}</a>
+  </section>
+{% endblock %}
+
+{# La página es tan corta que no se puede bajar: el botón ↑ sobra #}
+{% block volver_arriba %}{% endblock %}

@@ -1,0 +1,2439 @@
+{
+ "año": 2022,
+ "sedes": [
+  "Catar"
+ ],
+ "campeon": "Argentina",
+ "inicio": "2022-11-20",
+ "fin": "2022-12-18",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Al Bayt Stadium",
+   "ciudad": "Al Khor",
+   "pais": "Catar",
+   "capacidad": 69000
+  },
+  {
+   "nombre": "Ahmad bin Ali Stadium",
+   "ciudad": "Al Rayyan",
+   "pais": "Catar",
+   "capacidad": 45000
+  },
+  {
+   "nombre": "Education City Stadium",
+   "ciudad": "Al Rayyan",
+   "pais": "Catar",
+   "capacidad": 45000
+  },
+  {
+   "nombre": "Khalifa International Stadium",
+   "ciudad": "Al Rayyan",
+   "pais": "Catar",
+   "capacidad": 46000
+  },
+  {
+   "nombre": "Al Janoub Stadium",
+   "ciudad": "Al Wakrah",
+   "pais": "Catar",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Al Thumama Stadium",
+   "ciudad": "Doha",
+   "pais": "Catar",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Stadium 974",
+   "ciudad": "Doha",
+   "pais": "Catar",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Lusail Stadium",
+   "ciudad": "Lusail",
+   "pais": "Catar",
+   "capacidad": 89000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Senegal",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Ecuador",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Catar",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 7,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-20",
+     "estadio": "Al Bayt Stadium",
+     "local": "Catar",
+     "golesLocal": 0,
+     "visitante": "Ecuador",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-21",
+     "estadio": "Al Thumama Stadium",
+     "local": "Senegal",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-25",
+     "estadio": "Al Thumama Stadium",
+     "local": "Catar",
+     "golesLocal": 1,
+     "visitante": "Senegal",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2022-11-25",
+     "estadio": "Khalifa International Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 1,
+     "visitante": "Ecuador",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-29",
+     "estadio": "Khalifa International Stadium",
+     "local": "Ecuador",
+     "golesLocal": 1,
+     "visitante": "Senegal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-29",
+     "estadio": "Al Bayt Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Catar",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 9,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 7,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Gales",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-21",
+     "estadio": "Khalifa International Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 6,
+     "visitante": "Irán",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-21",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Gales",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-25",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Gales",
+     "golesLocal": 0,
+     "visitante": "Irán",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-25",
+     "estadio": "Al Bayt Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-29",
+     "estadio": "Al Thumama Stadium",
+     "local": "Irán",
+     "golesLocal": 0,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-29",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Gales",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-22",
+     "estadio": "Lusail Stadium",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-22",
+     "estadio": "Stadium 974",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-26",
+     "estadio": "Education City Stadium",
+     "local": "Polonia",
+     "golesLocal": 2,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-26",
+     "estadio": "Lusail Stadium",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-30",
+     "estadio": "Stadium 974",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-30",
+     "estadio": "Lusail Stadium",
+     "local": "Arabia Saudí",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-22",
+     "estadio": "Education City Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 0,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-22",
+     "estadio": "Al Janoub Stadium",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-26",
+     "estadio": "Al Janoub Stadium",
+     "local": "Túnez",
+     "golesLocal": 0,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-26",
+     "estadio": "Stadium 974",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-30",
+     "estadio": "Al Janoub Stadium",
+     "local": "Australia",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-30",
+     "estadio": "Education City Stadium",
+     "local": "Túnez",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 9,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 11,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-23",
+     "estadio": "Khalifa International Stadium",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Japón",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-23",
+     "estadio": "Al Thumama Stadium",
+     "local": "España",
+     "golesLocal": 7,
+     "visitante": "Costa Rica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-27",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Costa Rica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-11-27",
+     "estadio": "Al Bayt Stadium",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Alemania",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-01",
+     "estadio": "Al Bayt Stadium",
+     "local": "Costa Rica",
+     "golesLocal": 2,
+     "visitante": "Alemania",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2022-12-01",
+     "estadio": "Khalifa International Stadium",
+     "local": "Japón",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Canadá",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-23",
+     "estadio": "Al Bayt Stadium",
+     "local": "Marruecos",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-23",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Canadá",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-27",
+     "estadio": "Al Thumama Stadium",
+     "local": "Bélgica",
+     "golesLocal": 0,
+     "visitante": "Marruecos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-27",
+     "estadio": "Khalifa International Stadium",
+     "local": "Croacia",
+     "golesLocal": 4,
+     "visitante": "Canadá",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-01",
+     "estadio": "Al Thumama Stadium",
+     "local": "Canadá",
+     "golesLocal": 1,
+     "visitante": "Marruecos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-12-01",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Croacia",
+     "golesLocal": 0,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Serbia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 8,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-24",
+     "estadio": "Al Janoub Stadium",
+     "local": "Suiza",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-24",
+     "estadio": "Lusail Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Serbia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-28",
+     "estadio": "Al Janoub Stadium",
+     "local": "Camerún",
+     "golesLocal": 3,
+     "visitante": "Serbia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2022-11-28",
+     "estadio": "Stadium 974",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-02",
+     "estadio": "Lusail Stadium",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-02",
+     "estadio": "Stadium 974",
+     "local": "Serbia",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Ghana",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 7,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2022-11-24",
+     "estadio": "Education City Stadium",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-11-24",
+     "estadio": "Stadium 974",
+     "local": "Portugal",
+     "golesLocal": 3,
+     "visitante": "Ghana",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-11-28",
+     "estadio": "Education City Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Ghana",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2022-11-28",
+     "estadio": "Lusail Stadium",
+     "local": "Portugal",
+     "golesLocal": 2,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-02",
+     "estadio": "Al Janoub Stadium",
+     "local": "Ghana",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2022-12-02",
+     "estadio": "Education City Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2022-12-03",
+     "estadio": "Khalifa International Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 3,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-03",
+     "estadio": "Ahmad bin Ali Stadium",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-04",
+     "estadio": "Al Thumama Stadium",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-04",
+     "estadio": "Al Bayt Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 3,
+     "visitante": "Senegal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-05",
+     "estadio": "Al Janoub Stadium",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      1,
+      3
+     ]
+    },
+    {
+     "fecha": "2022-12-05",
+     "estadio": "Stadium 974",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2022-12-06",
+     "estadio": "Education City Stadium",
+     "local": "Marruecos",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      0
+     ]
+    },
+    {
+     "fecha": "2022-12-06",
+     "estadio": "Lusail Stadium",
+     "local": "Portugal",
+     "golesLocal": 6,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2022-12-09",
+     "estadio": "Education City Stadium",
+     "local": "Croacia",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      2
+     ]
+    },
+    {
+     "fecha": "2022-12-09",
+     "estadio": "Lusail Stadium",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Argentina",
+     "golesVisitante": 2,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    },
+    {
+     "fecha": "2022-12-10",
+     "estadio": "Al Thumama Stadium",
+     "local": "Marruecos",
+     "golesLocal": 1,
+     "visitante": "Portugal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-10",
+     "estadio": "Al Bayt Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2022-12-13",
+     "estadio": "Lusail Stadium",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2022-12-14",
+     "estadio": "Al Bayt Stadium",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2022-12-17",
+     "estadio": "Khalifa International Stadium",
+     "local": "Croacia",
+     "golesLocal": 2,
+     "visitante": "Marruecos",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2022-12-18",
+     "estadio": "Lusail Stadium",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 3,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      2
+     ]
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2022-11-20",
+   "local": "Catar",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "16",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-20",
+   "local": "Catar",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Jude Bellingham",
+   "seleccion": "Inglaterra",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Bukayo Saka",
+   "seleccion": "Inglaterra",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Raheem Sterling",
+   "seleccion": "Inglaterra",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Bukayo Saka",
+   "seleccion": "Inglaterra",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Mehdi Taremi",
+   "seleccion": "Irán",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Marcus Rashford",
+   "seleccion": "Inglaterra",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Jack Grealish",
+   "seleccion": "Inglaterra",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Inglaterra",
+   "visitante": "Irán",
+   "jugador": "Mehdi Taremi",
+   "seleccion": "Irán",
+   "minuto": "90+13",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Senegal",
+   "visitante": "Países Bajos",
+   "jugador": "Cody Gakpo",
+   "seleccion": "Países Bajos",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Senegal",
+   "visitante": "Países Bajos",
+   "jugador": "Davy Klaassen",
+   "seleccion": "Países Bajos",
+   "minuto": "90+9"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Estados Unidos",
+   "visitante": "Gales",
+   "jugador": "Timothy Weah",
+   "seleccion": "Estados Unidos",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2022-11-21",
+   "local": "Estados Unidos",
+   "visitante": "Gales",
+   "jugador": "Gareth Bale",
+   "seleccion": "Gales",
+   "minuto": "82",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Argentina",
+   "visitante": "Arabia Saudí",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "10",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Argentina",
+   "visitante": "Arabia Saudí",
+   "jugador": "Saleh Al-Shehri",
+   "seleccion": "Arabia Saudí",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Argentina",
+   "visitante": "Arabia Saudí",
+   "jugador": "Salem Al-Dawsari",
+   "seleccion": "Arabia Saudí",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Craig Goodwin",
+   "seleccion": "Australia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Adrien Rabiot",
+   "seleccion": "Francia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Olivier Giroud",
+   "seleccion": "Francia",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2022-11-22",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Olivier Giroud",
+   "seleccion": "Francia",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "Alemania",
+   "visitante": "Japón",
+   "jugador": "İlkay Gündoğan",
+   "seleccion": "Alemania",
+   "minuto": "33",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "Alemania",
+   "visitante": "Japón",
+   "jugador": "Ritsu Dōan",
+   "seleccion": "Japón",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "Alemania",
+   "visitante": "Japón",
+   "jugador": "Takuma Asano",
+   "seleccion": "Japón",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Dani Olmo",
+   "seleccion": "España",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Marco Asensio",
+   "seleccion": "España",
+   "minuto": "21"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Ferran Torres",
+   "seleccion": "España",
+   "minuto": "31",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Ferran Torres",
+   "seleccion": "España",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Gavi",
+   "seleccion": "España",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Carlos Soler",
+   "seleccion": "España",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "España",
+   "visitante": "Costa Rica",
+   "jugador": "Álvaro Morata",
+   "seleccion": "España",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2022-11-23",
+   "local": "Bélgica",
+   "visitante": "Canadá",
+   "jugador": "Michy Batshuayi",
+   "seleccion": "Bélgica",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Suiza",
+   "visitante": "Camerún",
+   "jugador": "Breel Embolo",
+   "seleccion": "Suiza",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "André Ayew",
+   "seleccion": "Ghana",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "João Félix",
+   "seleccion": "Portugal",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "Rafael Leão",
+   "seleccion": "Portugal",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Portugal",
+   "visitante": "Ghana",
+   "jugador": "Osman Bukari",
+   "seleccion": "Ghana",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Brasil",
+   "visitante": "Serbia",
+   "jugador": "Richarlison",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2022-11-24",
+   "local": "Brasil",
+   "visitante": "Serbia",
+   "jugador": "Richarlison",
+   "seleccion": "Brasil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Gales",
+   "visitante": "Irán",
+   "jugador": "Rouzbeh Cheshmi",
+   "seleccion": "Irán",
+   "minuto": "90+8"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Gales",
+   "visitante": "Irán",
+   "jugador": "Ramin Rezaeian",
+   "seleccion": "Irán",
+   "minuto": "90+11"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Catar",
+   "visitante": "Senegal",
+   "jugador": "Boulaye Dia",
+   "seleccion": "Senegal",
+   "minuto": "41"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Catar",
+   "visitante": "Senegal",
+   "jugador": "Famara Diédhiou",
+   "seleccion": "Senegal",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Catar",
+   "visitante": "Senegal",
+   "jugador": "Mohammed Muntari",
+   "seleccion": "Catar",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Catar",
+   "visitante": "Senegal",
+   "jugador": "Bamba Dieng",
+   "seleccion": "Senegal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Países Bajos",
+   "visitante": "Ecuador",
+   "jugador": "Cody Gakpo",
+   "seleccion": "Países Bajos",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2022-11-25",
+   "local": "Países Bajos",
+   "visitante": "Ecuador",
+   "jugador": "Enner Valencia",
+   "seleccion": "Ecuador",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Túnez",
+   "visitante": "Australia",
+   "jugador": "Mitchell Duke",
+   "seleccion": "Australia",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Polonia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Piotr Zieliński",
+   "seleccion": "Polonia",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Polonia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Robert Lewandowski",
+   "seleccion": "Polonia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Andreas Christensen",
+   "seleccion": "Dinamarca",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2022-11-26",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Enzo Fernández",
+   "seleccion": "Argentina",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Japón",
+   "visitante": "Costa Rica",
+   "jugador": "Keysher Fuller",
+   "seleccion": "Costa Rica",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Bélgica",
+   "visitante": "Marruecos",
+   "jugador": "Romain Saïss",
+   "seleccion": "Marruecos",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Bélgica",
+   "visitante": "Marruecos",
+   "jugador": "Zakaria Aboukhlal",
+   "seleccion": "Marruecos",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Croacia",
+   "visitante": "Canadá",
+   "jugador": "Alphonso Davies",
+   "seleccion": "Canadá",
+   "minuto": "2"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Croacia",
+   "visitante": "Canadá",
+   "jugador": "Andrej Kramarić",
+   "seleccion": "Croacia",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Croacia",
+   "visitante": "Canadá",
+   "jugador": "Marko Livaja",
+   "seleccion": "Croacia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Croacia",
+   "visitante": "Canadá",
+   "jugador": "Andrej Kramarić",
+   "seleccion": "Croacia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "Croacia",
+   "visitante": "Canadá",
+   "jugador": "Lovro Majer",
+   "seleccion": "Croacia",
+   "minuto": "90+4"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "España",
+   "visitante": "Alemania",
+   "jugador": "Álvaro Morata",
+   "seleccion": "España",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2022-11-27",
+   "local": "España",
+   "visitante": "Alemania",
+   "jugador": "Niclas Füllkrug",
+   "seleccion": "Alemania",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Jean-Charles Castelletto",
+   "seleccion": "Camerún",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Strahinja Pavlović",
+   "seleccion": "Serbia",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Sergej Milinković-Savić",
+   "seleccion": "Serbia",
+   "minuto": "45+3"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Aleksandar Mitrović",
+   "seleccion": "Serbia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Vincent Aboubakar",
+   "seleccion": "Camerún",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Camerún",
+   "visitante": "Serbia",
+   "jugador": "Eric Maxim Choupo-Moting",
+   "seleccion": "Camerún",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Corea del Sur",
+   "visitante": "Ghana",
+   "jugador": "Mohammed Salisu",
+   "seleccion": "Ghana",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Corea del Sur",
+   "visitante": "Ghana",
+   "jugador": "Mohammed Kudus",
+   "seleccion": "Ghana",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Corea del Sur",
+   "visitante": "Ghana",
+   "jugador": "Cho Gue-sung",
+   "seleccion": "Corea del Sur",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Corea del Sur",
+   "visitante": "Ghana",
+   "jugador": "Cho Gue-sung",
+   "seleccion": "Corea del Sur",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Corea del Sur",
+   "visitante": "Ghana",
+   "jugador": "Mohammed Kudus",
+   "seleccion": "Ghana",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Casemiro",
+   "seleccion": "Brasil",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Portugal",
+   "visitante": "Uruguay",
+   "jugador": "Bruno Fernandes",
+   "seleccion": "Portugal",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2022-11-28",
+   "local": "Portugal",
+   "visitante": "Uruguay",
+   "jugador": "Bruno Fernandes",
+   "seleccion": "Portugal",
+   "minuto": "90+3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Ecuador",
+   "visitante": "Senegal",
+   "jugador": "Ismaïla Sarr",
+   "seleccion": "Senegal",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Ecuador",
+   "visitante": "Senegal",
+   "jugador": "Moisés Caicedo",
+   "seleccion": "Ecuador",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Ecuador",
+   "visitante": "Senegal",
+   "jugador": "Kalidou Koulibaly",
+   "seleccion": "Senegal",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Países Bajos",
+   "visitante": "Catar",
+   "jugador": "Cody Gakpo",
+   "seleccion": "Países Bajos",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Países Bajos",
+   "visitante": "Catar",
+   "jugador": "Frenkie de Jong",
+   "seleccion": "Países Bajos",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Irán",
+   "visitante": "Estados Unidos",
+   "jugador": "Christian Pulisic",
+   "seleccion": "Estados Unidos",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Gales",
+   "visitante": "Inglaterra",
+   "jugador": "Marcus Rashford",
+   "seleccion": "Inglaterra",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Gales",
+   "visitante": "Inglaterra",
+   "jugador": "Phil Foden",
+   "seleccion": "Inglaterra",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2022-11-29",
+   "local": "Gales",
+   "visitante": "Inglaterra",
+   "jugador": "Marcus Rashford",
+   "seleccion": "Inglaterra",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Australia",
+   "visitante": "Dinamarca",
+   "jugador": "Mathew Leckie",
+   "seleccion": "Australia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Túnez",
+   "visitante": "Francia",
+   "jugador": "Wahbi Khazri",
+   "seleccion": "Túnez",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Alexis Mac Allister",
+   "seleccion": "Argentina",
+   "minuto": "46"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Polonia",
+   "visitante": "Argentina",
+   "jugador": "Julián Álvarez",
+   "seleccion": "Argentina",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Arabia Saudí",
+   "visitante": "México",
+   "jugador": "Henry Martín",
+   "seleccion": "México",
+   "minuto": "47"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Arabia Saudí",
+   "visitante": "México",
+   "jugador": "Luis Chávez",
+   "seleccion": "México",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2022-11-30",
+   "local": "Arabia Saudí",
+   "visitante": "México",
+   "jugador": "Salem Al-Dawsari",
+   "seleccion": "Arabia Saudí",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Canadá",
+   "visitante": "Marruecos",
+   "jugador": "Hakim Ziyech",
+   "seleccion": "Marruecos",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Canadá",
+   "visitante": "Marruecos",
+   "jugador": "Youssef En-Nesyri",
+   "seleccion": "Marruecos",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Canadá",
+   "visitante": "Marruecos",
+   "jugador": "Nayef Aguerd",
+   "seleccion": "Marruecos",
+   "minuto": "40",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Serge Gnabry",
+   "seleccion": "Alemania",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Yeltsin Tejeda",
+   "seleccion": "Costa Rica",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Juan Pablo Vargas",
+   "seleccion": "Costa Rica",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Kai Havertz",
+   "seleccion": "Alemania",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Kai Havertz",
+   "seleccion": "Alemania",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Costa Rica",
+   "visitante": "Alemania",
+   "jugador": "Niclas Füllkrug",
+   "seleccion": "Alemania",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Japón",
+   "visitante": "España",
+   "jugador": "Álvaro Morata",
+   "seleccion": "España",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Japón",
+   "visitante": "España",
+   "jugador": "Ritsu Dōan",
+   "seleccion": "Japón",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2022-12-01",
+   "local": "Japón",
+   "visitante": "España",
+   "jugador": "Ao Tanaka",
+   "seleccion": "Japón",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Ghana",
+   "visitante": "Uruguay",
+   "jugador": "Giorgian De Arrascaeta",
+   "seleccion": "Uruguay",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Ghana",
+   "visitante": "Uruguay",
+   "jugador": "Giorgian De Arrascaeta",
+   "seleccion": "Uruguay",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Corea del Sur",
+   "visitante": "Portugal",
+   "jugador": "Ricardo Horta",
+   "seleccion": "Portugal",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Corea del Sur",
+   "visitante": "Portugal",
+   "jugador": "Young-gwon Kim",
+   "seleccion": "Corea del Sur",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Corea del Sur",
+   "visitante": "Portugal",
+   "jugador": "Hee-chan Hwang",
+   "seleccion": "Corea del Sur",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Camerún",
+   "visitante": "Brasil",
+   "jugador": "Vincent Aboubakar",
+   "seleccion": "Camerún",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Xherdan Shaqiri",
+   "seleccion": "Suiza",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Aleksandar Mitrović",
+   "seleccion": "Serbia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Dušan Vlahović",
+   "seleccion": "Serbia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Breel Embolo",
+   "seleccion": "Suiza",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2022-12-02",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Remo Freuler",
+   "seleccion": "Suiza",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Países Bajos",
+   "visitante": "Estados Unidos",
+   "jugador": "Memphis Depay",
+   "seleccion": "Países Bajos",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Países Bajos",
+   "visitante": "Estados Unidos",
+   "jugador": "Daley Blind",
+   "seleccion": "Países Bajos",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Países Bajos",
+   "visitante": "Estados Unidos",
+   "jugador": "Haji Wright",
+   "seleccion": "Estados Unidos",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Países Bajos",
+   "visitante": "Estados Unidos",
+   "jugador": "Denzel Dumfries",
+   "seleccion": "Países Bajos",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Argentina",
+   "visitante": "Australia",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Argentina",
+   "visitante": "Australia",
+   "jugador": "Julián Álvarez",
+   "seleccion": "Argentina",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2022-12-03",
+   "local": "Argentina",
+   "visitante": "Australia",
+   "jugador": "Enzo Fernández",
+   "seleccion": "Argentina",
+   "minuto": "77",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Francia",
+   "visitante": "Polonia",
+   "jugador": "Olivier Giroud",
+   "seleccion": "Francia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Francia",
+   "visitante": "Polonia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Francia",
+   "visitante": "Polonia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Francia",
+   "visitante": "Polonia",
+   "jugador": "Robert Lewandowski",
+   "seleccion": "Polonia",
+   "minuto": "90+9",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Inglaterra",
+   "visitante": "Senegal",
+   "jugador": "Jordan Henderson",
+   "seleccion": "Inglaterra",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Inglaterra",
+   "visitante": "Senegal",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "45+3"
+  },
+  {
+   "fecha": "2022-12-04",
+   "local": "Inglaterra",
+   "visitante": "Senegal",
+   "jugador": "Bukayo Saka",
+   "seleccion": "Inglaterra",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Japón",
+   "visitante": "Croacia",
+   "jugador": "Daizen Maeda",
+   "seleccion": "Japón",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Japón",
+   "visitante": "Croacia",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Brasil",
+   "visitante": "Corea del Sur",
+   "jugador": "Vinícius Júnior",
+   "seleccion": "Brasil",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Brasil",
+   "visitante": "Corea del Sur",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "13",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Brasil",
+   "visitante": "Corea del Sur",
+   "jugador": "Richarlison",
+   "seleccion": "Brasil",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Brasil",
+   "visitante": "Corea del Sur",
+   "jugador": "Lucas Paquetá",
+   "seleccion": "Brasil",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2022-12-05",
+   "local": "Brasil",
+   "visitante": "Corea del Sur",
+   "jugador": "Paik Seung-ho",
+   "seleccion": "Corea del Sur",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Gonçalo Ramos",
+   "seleccion": "Portugal",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Pepe",
+   "seleccion": "Portugal",
+   "minuto": "33"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Gonçalo Ramos",
+   "seleccion": "Portugal",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Raphaël Guerreiro",
+   "seleccion": "Portugal",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Manuel Akanji",
+   "seleccion": "Suiza",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Gonçalo Ramos",
+   "seleccion": "Portugal",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2022-12-06",
+   "local": "Portugal",
+   "visitante": "Suiza",
+   "jugador": "Rafael Leão",
+   "seleccion": "Portugal",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Croacia",
+   "visitante": "Brasil",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "105+1"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Croacia",
+   "visitante": "Brasil",
+   "jugador": "Bruno Petković",
+   "seleccion": "Croacia",
+   "minuto": "117"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Nahuel Molina",
+   "seleccion": "Argentina",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "73",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Wout Weghorst",
+   "seleccion": "Países Bajos",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2022-12-09",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Wout Weghorst",
+   "seleccion": "Países Bajos",
+   "minuto": "90+11"
+  },
+  {
+   "fecha": "2022-12-10",
+   "local": "Marruecos",
+   "visitante": "Portugal",
+   "jugador": "Youssef En-Nesyri",
+   "seleccion": "Marruecos",
+   "minuto": "42"
+  },
+  {
+   "fecha": "2022-12-10",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Aurélien Tchouaméni",
+   "seleccion": "Francia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2022-12-10",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "54",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-10",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Olivier Giroud",
+   "seleccion": "Francia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2022-12-13",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "34",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-13",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Julián Álvarez",
+   "seleccion": "Argentina",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2022-12-13",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Julián Álvarez",
+   "seleccion": "Argentina",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2022-12-14",
+   "local": "Francia",
+   "visitante": "Marruecos",
+   "jugador": "Théo Hernandez",
+   "seleccion": "Francia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2022-12-14",
+   "local": "Francia",
+   "visitante": "Marruecos",
+   "jugador": "Randal Kolo Muani",
+   "seleccion": "Francia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2022-12-17",
+   "local": "Croacia",
+   "visitante": "Marruecos",
+   "jugador": "Joško Gvardiol",
+   "seleccion": "Croacia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2022-12-17",
+   "local": "Croacia",
+   "visitante": "Marruecos",
+   "jugador": "Achraf Dari",
+   "seleccion": "Marruecos",
+   "minuto": "9"
+  },
+  {
+   "fecha": "2022-12-17",
+   "local": "Croacia",
+   "visitante": "Marruecos",
+   "jugador": "Mislav Oršić",
+   "seleccion": "Croacia",
+   "minuto": "42"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "23",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Ángel Di María",
+   "seleccion": "Argentina",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "80",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "108"
+  },
+  {
+   "fecha": "2022-12-18",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "118",
+   "tipo": "penalti"
+  }
+ ]
+}

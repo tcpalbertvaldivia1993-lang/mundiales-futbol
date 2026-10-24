@@ -1,0 +1,23 @@
+<section id="formato" class="seccion">
+  <h2>{{ t("El formato nuevo") }}</h2>
+  <div class="comparacion">
+    <div class="caja">
+      <h3>{{ t("Hasta 2022") }}</h3>
+      <p><strong>32</strong> {{ t("selecciones") }}</p>
+      <p>{{ t("8 grupos de 4") }}</p>
+      <p>{{ t("Pasan 16 a octavos") }}</p>
+      <p>{{ t("{n} partidos", n=64) }}</p>
+    </div>
+    <div class="flecha" aria-hidden="true">→</div>
+    <div class="caja caja-nueva">
+      <h3>{{ t("Desde 2026") }}</h3>
+      <p><strong>48</strong> {{ t("selecciones") }}</p>
+      <p>{{ t("12 grupos de 4") }}</p>
+      <p>{{ t("Pasan 32 a dieciseisavos") }}</p>
+      <p>{{ t("{n} partidos", n=104) }}</p>
+    </div>
+  </div>
+  {# Este texto lleva <strong> dentro: | safe deja pasar las etiquetas. Se puede porque el texto y sus
+     traducciones están escritos en textos.py, no vienen de quien visita la web #}
+  <p class="texto">{{ t("De cada grupo pasan los <strong>dos primeros</strong> (24 equipos) y se suman los <strong>8 mejores terceros</strong>, con lo que quedan 32. Esos 32 juegan una ronda nueva, los <strong>dieciseisavos de final</strong>, y desde ahí sigue el camino de siempre: octavos, cuartos, semifinales y final. El campeón juega 8 partidos, uno más que antes.") | safe }}</p>
+</section>

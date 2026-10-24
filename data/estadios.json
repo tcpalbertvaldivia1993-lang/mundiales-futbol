@@ -1,0 +1,18 @@
+[
+  { "nombre": "Estadio Azteca", "ciudad": "Ciudad de México", "pais": "México", "capacidad": 80824 },
+  { "nombre": "MetLife Stadium", "ciudad": "Nueva York / Nueva Jersey", "pais": "Estados Unidos", "capacidad": 80663 },
+  { "nombre": "AT&T Stadium", "ciudad": "Dallas", "pais": "Estados Unidos", "capacidad": 70649 },
+  { "nombre": "SoFi Stadium", "ciudad": "Los Ángeles", "pais": "Estados Unidos", "capacidad": 70492 },
+  { "nombre": "Arrowhead Stadium", "ciudad": "Kansas City", "pais": "Estados Unidos", "capacidad": 69045 },
+  { "nombre": "Levi's Stadium", "ciudad": "Bahía de San Francisco", "pais": "Estados Unidos", "capacidad": 68827 },
+  { "nombre": "NRG Stadium", "ciudad": "Houston", "pais": "Estados Unidos", "capacidad": 68777 },
+  { "nombre": "Lincoln Financial Field", "ciudad": "Filadelfia", "pais": "Estados Unidos", "capacidad": 68324 },
+  { "nombre": "Mercedes-Benz Stadium", "ciudad": "Atlanta", "pais": "Estados Unidos", "capacidad": 68239 },
+  { "nombre": "Lumen Field", "ciudad": "Seattle", "pais": "Estados Unidos", "capacidad": 66925 },
+  { "nombre": "Hard Rock Stadium", "ciudad": "Miami", "pais": "Estados Unidos", "capacidad": 64478 },
+  { "nombre": "Gillette Stadium", "ciudad": "Boston", "pais": "Estados Unidos", "capacidad": 64146 },
+  { "nombre": "BC Place", "ciudad": "Vancouver", "pais": "Canadá", "capacidad": 52497 },
+  { "nombre": "Estadio BBVA", "ciudad": "Monterrey", "pais": "México", "capacidad": 51243 },
+  { "nombre": "Estadio Akron", "ciudad": "Guadalajara", "pais": "México", "capacidad": 45664 },
+  { "nombre": "BMO Field", "ciudad": "Toronto", "pais": "Canadá", "capacidad": 43036 }
+]

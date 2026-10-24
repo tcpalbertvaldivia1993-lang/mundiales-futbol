@@ -1,0 +1,927 @@
+{
+ "año": 1930,
+ "sedes": [
+  "Uruguay"
+ ],
+ "campeon": "Uruguay",
+ "inicio": "1930-07-13",
+ "fin": "1930-07-30",
+ "selecciones": 13,
+ "estadios": [
+  {
+   "nombre": "Estadio Centenario",
+   "ciudad": "Montevideo",
+   "pais": "Uruguay",
+   "capacidad": 90000
+  },
+  {
+   "nombre": "Estadio Gran Parque Central",
+   "ciudad": "Montevideo",
+   "pais": "Uruguay",
+   "capacidad": 20000
+  },
+  {
+   "nombre": "Estadio Pocitos",
+   "ciudad": "Montevideo",
+   "pais": "Uruguay",
+   "capacidad": 10000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 10,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 4,
+     "gc": 13,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1930-07-13",
+     "estadio": "Estadio Pocitos",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1930-07-15",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-16",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Chile",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-19",
+     "estadio": "Estadio Centenario",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-19",
+     "estadio": "Estadio Centenario",
+     "local": "Argentina",
+     "golesLocal": 6,
+     "visitante": "México",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1930-07-22",
+     "estadio": "Estadio Centenario",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Chile",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Yugoslavia",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Bolivia",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1930-07-14",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Yugoslavia",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1930-07-17",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Yugoslavia",
+     "golesLocal": 4,
+     "visitante": "Bolivia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-20",
+     "estadio": "Estadio Centenario",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Bolivia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Rumania",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Perú",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1930-07-14",
+     "estadio": "Estadio Pocitos",
+     "local": "Rumania",
+     "golesLocal": 3,
+     "visitante": "Perú",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1930-07-18",
+     "estadio": "Estadio Centenario",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Perú",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-21",
+     "estadio": "Estadio Centenario",
+     "local": "Uruguay",
+     "golesLocal": 4,
+     "visitante": "Rumania",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Estados Unidos",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 4,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1930-07-13",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Estados Unidos",
+     "golesLocal": 3,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-17",
+     "estadio": "Estadio Gran Parque Central",
+     "local": "Estados Unidos",
+     "golesLocal": 3,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1930-07-20",
+     "estadio": "Estadio Centenario",
+     "local": "Paraguay",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1930-07-26",
+     "estadio": "Estadio Centenario",
+     "local": "Argentina",
+     "golesLocal": 6,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1930-07-27",
+     "estadio": "Estadio Centenario",
+     "local": "Uruguay",
+     "golesLocal": 6,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1930-07-30",
+     "estadio": "Estadio Centenario",
+     "local": "Uruguay",
+     "golesLocal": 4,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1930-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Lucien Laurent",
+   "seleccion": "Francia",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Marcel Langiller",
+   "seleccion": "Francia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "André Maschinot",
+   "seleccion": "Francia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Juan Carreño",
+   "seleccion": "México",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "André Maschinot",
+   "seleccion": "Francia",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Estados Unidos",
+   "visitante": "Bélgica",
+   "jugador": "Bart McGhee",
+   "seleccion": "Estados Unidos",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Estados Unidos",
+   "visitante": "Bélgica",
+   "jugador": "Tom Florie",
+   "seleccion": "Estados Unidos",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1930-07-13",
+   "local": "Estados Unidos",
+   "visitante": "Bélgica",
+   "jugador": "Bert Patenaude",
+   "seleccion": "Estados Unidos",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Yugoslavia",
+   "visitante": "Brasil",
+   "jugador": "Aleksandar Tirnanić",
+   "seleccion": "Yugoslavia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Yugoslavia",
+   "visitante": "Brasil",
+   "jugador": "Ivan Bek",
+   "seleccion": "Yugoslavia",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Yugoslavia",
+   "visitante": "Brasil",
+   "jugador": "Preguinho",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Rumania",
+   "visitante": "Perú",
+   "jugador": "Adalbert Deşu",
+   "seleccion": "Rumania",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Rumania",
+   "visitante": "Perú",
+   "jugador": "Luis Souza Ferreira",
+   "seleccion": "Perú",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Rumania",
+   "visitante": "Perú",
+   "jugador": "Constantin Stanciu",
+   "seleccion": "Rumania",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1930-07-14",
+   "local": "Rumania",
+   "visitante": "Perú",
+   "jugador": "Miklós Kovács",
+   "seleccion": "Rumania",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1930-07-15",
+   "local": "Argentina",
+   "visitante": "Francia",
+   "jugador": "Luis Monti",
+   "seleccion": "Argentina",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1930-07-16",
+   "local": "Chile",
+   "visitante": "México",
+   "jugador": "Carlos Vidal",
+   "seleccion": "Chile",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1930-07-16",
+   "local": "Chile",
+   "visitante": "México",
+   "jugador": "Manuel Rosas",
+   "seleccion": "México",
+   "minuto": "52",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1930-07-16",
+   "local": "Chile",
+   "visitante": "México",
+   "jugador": "Carlos Vidal",
+   "seleccion": "Chile",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Yugoslavia",
+   "visitante": "Bolivia",
+   "jugador": "Ivan Bek",
+   "seleccion": "Yugoslavia",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Yugoslavia",
+   "visitante": "Bolivia",
+   "jugador": "Blagoje Marjanović",
+   "seleccion": "Yugoslavia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Yugoslavia",
+   "visitante": "Bolivia",
+   "jugador": "Ivan Bek",
+   "seleccion": "Yugoslavia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Yugoslavia",
+   "visitante": "Bolivia",
+   "jugador": "Đorđe Vujadinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Estados Unidos",
+   "visitante": "Paraguay",
+   "jugador": "Bert Patenaude",
+   "seleccion": "Estados Unidos",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Estados Unidos",
+   "visitante": "Paraguay",
+   "jugador": "Bert Patenaude",
+   "seleccion": "Estados Unidos",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1930-07-17",
+   "local": "Estados Unidos",
+   "visitante": "Paraguay",
+   "jugador": "Bert Patenaude",
+   "seleccion": "Estados Unidos",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1930-07-18",
+   "local": "Uruguay",
+   "visitante": "Perú",
+   "jugador": "Héctor Castro",
+   "seleccion": "Uruguay",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Chile",
+   "visitante": "Francia",
+   "jugador": "Guillermo Subiabre",
+   "seleccion": "Chile",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Adolfo Zumelzú",
+   "seleccion": "Argentina",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Manuel Rosas",
+   "seleccion": "México",
+   "minuto": "42",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Francisco Varallo",
+   "seleccion": "Argentina",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Adolfo Zumelzú",
+   "seleccion": "Argentina",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Manuel Rosas",
+   "seleccion": "México",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Roberto Gayón",
+   "seleccion": "México",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1930-07-19",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1930-07-20",
+   "local": "Brasil",
+   "visitante": "Bolivia",
+   "jugador": "Moderato",
+   "seleccion": "Brasil",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1930-07-20",
+   "local": "Brasil",
+   "visitante": "Bolivia",
+   "jugador": "Preguinho",
+   "seleccion": "Brasil",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1930-07-20",
+   "local": "Brasil",
+   "visitante": "Bolivia",
+   "jugador": "Moderato",
+   "seleccion": "Brasil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1930-07-20",
+   "local": "Brasil",
+   "visitante": "Bolivia",
+   "jugador": "Preguinho",
+   "seleccion": "Brasil",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1930-07-20",
+   "local": "Paraguay",
+   "visitante": "Bélgica",
+   "jugador": "Luis Vargas Peña",
+   "seleccion": "Paraguay",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1930-07-21",
+   "local": "Uruguay",
+   "visitante": "Rumania",
+   "jugador": "Pablo Dorado",
+   "seleccion": "Uruguay",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1930-07-21",
+   "local": "Uruguay",
+   "visitante": "Rumania",
+   "jugador": "Héctor Scarone",
+   "seleccion": "Uruguay",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1930-07-21",
+   "local": "Uruguay",
+   "visitante": "Rumania",
+   "jugador": "Peregrino Anselmo",
+   "seleccion": "Uruguay",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1930-07-21",
+   "local": "Uruguay",
+   "visitante": "Rumania",
+   "jugador": "Pedro Cea",
+   "seleccion": "Uruguay",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1930-07-22",
+   "local": "Argentina",
+   "visitante": "Chile",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1930-07-22",
+   "local": "Argentina",
+   "visitante": "Chile",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1930-07-22",
+   "local": "Argentina",
+   "visitante": "Chile",
+   "jugador": "Guillermo Subiabre",
+   "seleccion": "Chile",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1930-07-22",
+   "local": "Argentina",
+   "visitante": "Chile",
+   "jugador": "Mario Evaristo",
+   "seleccion": "Argentina",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Luis Monti",
+   "seleccion": "Argentina",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Alejandro Scopelli",
+   "seleccion": "Argentina",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Carlos Peucelle",
+   "seleccion": "Argentina",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Carlos Peucelle",
+   "seleccion": "Argentina",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1930-07-26",
+   "local": "Argentina",
+   "visitante": "Estados Unidos",
+   "jugador": "Jim Brown",
+   "seleccion": "Estados Unidos",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Đorđe Vujadinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Pedro Cea",
+   "seleccion": "Uruguay",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Peregrino Anselmo",
+   "seleccion": "Uruguay",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Peregrino Anselmo",
+   "seleccion": "Uruguay",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Santos Iriarte",
+   "seleccion": "Uruguay",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Pedro Cea",
+   "seleccion": "Uruguay",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1930-07-27",
+   "local": "Uruguay",
+   "visitante": "Yugoslavia",
+   "jugador": "Pedro Cea",
+   "seleccion": "Uruguay",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Pablo Dorado",
+   "seleccion": "Uruguay",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Carlos Peucelle",
+   "seleccion": "Argentina",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Guillermo Stábile",
+   "seleccion": "Argentina",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Pedro Cea",
+   "seleccion": "Uruguay",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Santos Iriarte",
+   "seleccion": "Uruguay",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1930-07-30",
+   "local": "Uruguay",
+   "visitante": "Argentina",
+   "jugador": "Héctor Castro",
+   "seleccion": "Uruguay",
+   "minuto": "89"
+  }
+ ]
+}

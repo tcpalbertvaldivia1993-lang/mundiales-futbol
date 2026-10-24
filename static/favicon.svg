@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- El icono de la pestaña: "26" en dorado sobre el azul noche de la web -->
+  <rect width="64" height="64" rx="14" fill="#0a1222"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Impact, 'Arial Narrow', sans-serif"
+        font-size="38" font-weight="bold" fill="#f2c14e">26</text>
+</svg>

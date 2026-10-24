@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{# Dos selecciones lado a lado: /2026/cara-a-cara?a=España&b=Argentina. La prepara cara_a_cara() de app.py #}
+{% set a, b = c.a, c.b %}
+{% block titulo %}{{ t("{a} y {b}, cara a cara", a=a.seleccion | nombre, b=b.seleccion | nombre) }} · {{ t("Mundial {año}", año=m.año) }}{% endblock %}
+
+{% block contenido %}
+  <section id="inicio" class="seccion">
+    <h1>{{ t("Cara a cara") }}</h1>
+
+    {# Un formulario GET, como el buscador: al enviarlo, la dirección pasa a ser ?a=...&b=...
+       El valor de cada opción es el nombre en español (el de los datos); se ve el del idioma elegido #}
+    <form class="buscador cara-a-cara-elegir" method="get" action="{{ url_for('cara_a_cara') }}">
+      {% for clave, numeros, texto in [("a", a, "Primera selección"), ("b", b, "Segunda selección")] %}
+        <div>
+          <label for="seleccion-{{ clave }}" class="etiqueta">{{ t(texto) }}</label>
+          <select id="seleccion-{{ clave }}" name="{{ clave }}">
+            {% for s in m.selecciones %}
+              <option value="{{ s }}" {% if s == numeros.seleccion %}selected{% endif %}>{{ s | nombre }}</option>
+            {% endfor %}
+          </select>
+        </div>
+      {% endfor %}
+      <button class="boton" type="submit">{{ t("Comparar") }}</button>
+    </form>
+    {% if a.seleccion == b.seleccion %}
+      <p class="nota">{{ t("Has elegido la misma selección dos veces.") }}</p>
+    {% endif %}
+
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla tabla-cara-a-cara">
+        <caption class="solo-lector">{{ t("{a} y {b}, cara a cara", a=a.seleccion | nombre, b=b.seleccion | nombre) }}</caption>
+        <thead>
+          <tr>
+            <td></td>
+            {% for n in [a, b] %}
+              <th scope="col"><a href="{{ url_for('inicio', seleccion=n.seleccion, _anchor='camino') }}">{{ n.seleccion | nombre }}</a></th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">{{ t("Hasta dónde llegó") }}</th>{% for n in [a, b] %}<td>{{ t(n.hasta_donde) }}</td>{% endfor %}</tr>
+          <tr>
+            <th scope="row">{{ t("Grupo") }}</th>
+            {% for n in [a, b] %}
+              <td>{% if n.grupo %}{{ abreviatura(t(n.puesto ~ ".º"), t(["Primera", "Segunda", "Tercera", "Cuarta"][n.puesto - 1])) }} {{ t("del grupo {grupo}", grupo=n.grupo) }}{% else %}{{ t("Sin fase de grupos") }}{% endif %}</td>
+            {% endfor %}
+          </tr>
+          <tr><th scope="row">{{ t("Partidos jugados") }}</th>{% for n in [a, b] %}<td>{{ n.partidos }}</td>{% endfor %}</tr>
+          <tr><th scope="row">{{ t("Ganados") }}</th>{% for n in [a, b] %}<td>{{ n.ganados }}</td>{% endfor %}</tr>
+          <tr><th scope="row">{{ t("Empatados") }}</th>{% for n in [a, b] %}<td>{{ n.empatados }}</td>{% endfor %}</tr>
+          <tr><th scope="row">{{ t("Perdidos") }}</th>{% for n in [a, b] %}<td>{{ n.perdidos }}</td>{% endfor %}</tr>
+          <tr><th scope="row">{{ t("Goles a favor") }}</th>{% for n in [a, b] %}<td>{{ n.goles_a_favor }}</td>{% endfor %}</tr>
+          <tr><th scope="row">{{ t("Goles en contra") }}</th>{% for n in [a, b] %}<td>{{ n.goles_en_contra }}</td>{% endfor %}</tr>
+          <tr>
+            <th scope="row">{{ t("Máximo goleador") }}</th>
+            {% for n in [a, b] %}
+              <td>{% if n.maximos_goleadores %}{{ n.maximos_goleadores | join(", ") }} ({{ n.goles_del_maximo }}){% else %}{{ t("Nadie marcó") }}{% endif %}</td>
+            {% endfor %}
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    {% if a.seleccion != b.seleccion %}
+      <h2 class="subtitulo">{{ t("Entre ellas") }}</h2>
+      {% if c.entre_ellas %}
+        <ul class="lista-partidos">
+          {% for p in c.entre_ellas %}
+            <li>{{ p.ronda | nombre }} · {{ p.fecha | fecha }} · <a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a></li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="nota">{{ t("No se enfrentaron en este Mundial.") }}</p>
+      {% endif %}
+    {% endif %}
+  </section>
+{% endblock %}
+
+{# La página es corta: el botón ↑ sobra (como en la 404) #}
+{% block volver_arriba %}{% endblock %}

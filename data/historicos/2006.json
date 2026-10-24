@@ -1,0 +1,2258 @@
+{
+ "año": 2006,
+ "sedes": [
+  "Alemania"
+ ],
+ "campeon": "Italia",
+ "inicio": "2006-06-09",
+ "fin": "2006-07-09",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Olympiastadion",
+   "ciudad": "Berlín",
+   "pais": "Alemania",
+   "capacidad": 86000
+  },
+  {
+   "nombre": "RheinEnergieStadion",
+   "ciudad": "Colonia",
+   "pais": "Alemania",
+   "capacidad": 45000
+  },
+  {
+   "nombre": "Westfalenstadion",
+   "ciudad": "Dortmund",
+   "pais": "Alemania",
+   "capacidad": 65000
+  },
+  {
+   "nombre": "Waldstadion",
+   "ciudad": "Fráncfort",
+   "pais": "Alemania",
+   "capacidad": 62000
+  },
+  {
+   "nombre": "Arena AufShalke",
+   "ciudad": "Gelsenkirchen",
+   "pais": "Alemania",
+   "capacidad": 52000
+  },
+  {
+   "nombre": "Volksparkstadion",
+   "ciudad": "Hamburgo",
+   "pais": "Alemania",
+   "capacidad": 61000
+  },
+  {
+   "nombre": "Niedersachsenstadion",
+   "ciudad": "Hannover",
+   "pais": "Alemania",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Fritz-Walter-Stadion",
+   "ciudad": "Kaiserslautern",
+   "pais": "Alemania",
+   "capacidad": 46000
+  },
+  {
+   "nombre": "Zentralstadion",
+   "ciudad": "Leipzig",
+   "pais": "Alemania",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Allianz Arena",
+   "ciudad": "Múnich",
+   "pais": "Alemania",
+   "capacidad": 66000
+  },
+  {
+   "nombre": "Frankenstadion",
+   "ciudad": "Núremberg",
+   "pais": "Alemania",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Neckarstadion",
+   "ciudad": "Stuttgart",
+   "pais": "Alemania",
+   "capacidad": 72000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 8,
+     "gc": 2,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Ecuador",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 3,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-09",
+     "estadio": "Allianz Arena",
+     "local": "Alemania",
+     "golesLocal": 4,
+     "visitante": "Costa Rica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-09",
+     "estadio": "Arena AufShalke",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Ecuador",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-14",
+     "estadio": "Westfalenstadion",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-15",
+     "estadio": "Volksparkstadion",
+     "local": "Ecuador",
+     "golesLocal": 3,
+     "visitante": "Costa Rica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-20",
+     "estadio": "Niedersachsenstadion",
+     "local": "Costa Rica",
+     "golesLocal": 1,
+     "visitante": "Polonia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-20",
+     "estadio": "Olympiastadion",
+     "local": "Ecuador",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Trinidad y Tobago",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 0,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-10",
+     "estadio": "Waldstadion",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-10",
+     "estadio": "Westfalenstadion",
+     "local": "Trinidad y Tobago",
+     "golesLocal": 0,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-15",
+     "estadio": "Frankenstadion",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Trinidad y Tobago",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-15",
+     "estadio": "Olympiastadion",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-20",
+     "estadio": "Fritz-Walter-Stadion",
+     "local": "Paraguay",
+     "golesLocal": 2,
+     "visitante": "Trinidad y Tobago",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-20",
+     "estadio": "RheinEnergieStadion",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Costa de Marfil",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Serbia y Montenegro",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 10,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-10",
+     "estadio": "Volksparkstadion",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-11",
+     "estadio": "Zentralstadion",
+     "local": "Serbia y Montenegro",
+     "golesLocal": 0,
+     "visitante": "Países Bajos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-16",
+     "estadio": "Arena AufShalke",
+     "local": "Argentina",
+     "golesLocal": 6,
+     "visitante": "Serbia y Montenegro",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-16",
+     "estadio": "Neckarstadion",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Costa de Marfil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-21",
+     "estadio": "Allianz Arena",
+     "local": "Costa de Marfil",
+     "golesLocal": 3,
+     "visitante": "Serbia y Montenegro",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-21",
+     "estadio": "Waldstadion",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Angola",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 1,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-11",
+     "estadio": "Frankenstadion",
+     "local": "México",
+     "golesLocal": 3,
+     "visitante": "Irán",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-11",
+     "estadio": "RheinEnergieStadion",
+     "local": "Angola",
+     "golesLocal": 0,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-16",
+     "estadio": "Niedersachsenstadion",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Angola",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-17",
+     "estadio": "Waldstadion",
+     "local": "Portugal",
+     "golesLocal": 2,
+     "visitante": "Irán",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-21",
+     "estadio": "Zentralstadion",
+     "local": "Irán",
+     "golesLocal": 1,
+     "visitante": "Angola",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-21",
+     "estadio": "Arena AufShalke",
+     "local": "Portugal",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Ghana",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "República Checa",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-12",
+     "estadio": "Arena AufShalke",
+     "local": "Estados Unidos",
+     "golesLocal": 0,
+     "visitante": "República Checa",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2006-06-12",
+     "estadio": "Niedersachsenstadion",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Ghana",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-17",
+     "estadio": "RheinEnergieStadion",
+     "local": "República Checa",
+     "golesLocal": 0,
+     "visitante": "Ghana",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-17",
+     "estadio": "Fritz-Walter-Stadion",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-22",
+     "estadio": "Volksparkstadion",
+     "local": "República Checa",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-22",
+     "estadio": "Frankenstadion",
+     "local": "Ghana",
+     "golesLocal": 2,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-12",
+     "estadio": "Fritz-Walter-Stadion",
+     "local": "Australia",
+     "golesLocal": 3,
+     "visitante": "Japón",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-13",
+     "estadio": "Olympiastadion",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-18",
+     "estadio": "Frankenstadion",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-18",
+     "estadio": "Allianz Arena",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Australia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-22",
+     "estadio": "Neckarstadion",
+     "local": "Croacia",
+     "golesLocal": 2,
+     "visitante": "Australia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-22",
+     "estadio": "Westfalenstadion",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 4
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 0,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Togo",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 6,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-13",
+     "estadio": "Waldstadion",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Togo",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-13",
+     "estadio": "Neckarstadion",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-18",
+     "estadio": "Zentralstadion",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-19",
+     "estadio": "Westfalenstadion",
+     "local": "Togo",
+     "golesLocal": 0,
+     "visitante": "Suiza",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-23",
+     "estadio": "Niedersachsenstadion",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-23",
+     "estadio": "RheinEnergieStadion",
+     "local": "Togo",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 8,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Ucrania",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2006-06-14",
+     "estadio": "Zentralstadion",
+     "local": "España",
+     "golesLocal": 4,
+     "visitante": "Ucrania",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-14",
+     "estadio": "Allianz Arena",
+     "local": "Túnez",
+     "golesLocal": 2,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2006-06-19",
+     "estadio": "Volksparkstadion",
+     "local": "Arabia Saudí",
+     "golesLocal": 0,
+     "visitante": "Ucrania",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "2006-06-19",
+     "estadio": "Neckarstadion",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Túnez",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-23",
+     "estadio": "Fritz-Walter-Stadion",
+     "local": "Arabia Saudí",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2006-06-23",
+     "estadio": "Olympiastadion",
+     "local": "Ucrania",
+     "golesLocal": 1,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2006-06-24",
+     "estadio": "Allianz Arena",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-24",
+     "estadio": "Zentralstadion",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "2006-06-25",
+     "estadio": "Neckarstadion",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Ecuador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-25",
+     "estadio": "Frankenstadion",
+     "local": "Portugal",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-26",
+     "estadio": "Fritz-Walter-Stadion",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Australia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-26",
+     "estadio": "RheinEnergieStadion",
+     "local": "Suiza",
+     "golesLocal": 0,
+     "visitante": "Ucrania",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      0,
+      3
+     ]
+    },
+    {
+     "fecha": "2006-06-27",
+     "estadio": "Westfalenstadion",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Ghana",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-06-27",
+     "estadio": "Niedersachsenstadion",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2006-06-30",
+     "estadio": "Olympiastadion",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      2
+     ]
+    },
+    {
+     "fecha": "2006-06-30",
+     "estadio": "Volksparkstadion",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Ucrania",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2006-07-01",
+     "estadio": "Arena AufShalke",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Portugal",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      1,
+      3
+     ]
+    },
+    {
+     "fecha": "2006-07-01",
+     "estadio": "Waldstadion",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2006-07-04",
+     "estadio": "Westfalenstadion",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "2006-07-05",
+     "estadio": "Allianz Arena",
+     "local": "Portugal",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2006-07-08",
+     "estadio": "Neckarstadion",
+     "local": "Alemania",
+     "golesLocal": 3,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2006-07-09",
+     "estadio": "Olympiastadion",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      5,
+      3
+     ]
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Philipp Lahm",
+   "seleccion": "Alemania",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Paulo Wanchope",
+   "seleccion": "Costa Rica",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Paulo Wanchope",
+   "seleccion": "Costa Rica",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Alemania",
+   "visitante": "Costa Rica",
+   "jugador": "Torsten Frings",
+   "seleccion": "Alemania",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Polonia",
+   "visitante": "Ecuador",
+   "jugador": "Carlos Tenorio",
+   "seleccion": "Ecuador",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2006-06-09",
+   "local": "Polonia",
+   "visitante": "Ecuador",
+   "jugador": "Agustín Delgado",
+   "seleccion": "Ecuador",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2006-06-10",
+   "local": "Inglaterra",
+   "visitante": "Paraguay",
+   "jugador": "Carlos Gamarra",
+   "seleccion": "Paraguay",
+   "minuto": "3",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2006-06-10",
+   "local": "Argentina",
+   "visitante": "Costa de Marfil",
+   "jugador": "Hernán Crespo",
+   "seleccion": "Argentina",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2006-06-10",
+   "local": "Argentina",
+   "visitante": "Costa de Marfil",
+   "jugador": "Javier Saviola",
+   "seleccion": "Argentina",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2006-06-10",
+   "local": "Argentina",
+   "visitante": "Costa de Marfil",
+   "jugador": "Didier Drogba",
+   "seleccion": "Costa de Marfil",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "Serbia y Montenegro",
+   "visitante": "Países Bajos",
+   "jugador": "Arjen Robben",
+   "seleccion": "Países Bajos",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "México",
+   "visitante": "Irán",
+   "jugador": "Omar Bravo",
+   "seleccion": "México",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "México",
+   "visitante": "Irán",
+   "jugador": "Yahya Golmohammadi",
+   "seleccion": "Irán",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "México",
+   "visitante": "Irán",
+   "jugador": "Omar Bravo",
+   "seleccion": "México",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "México",
+   "visitante": "Irán",
+   "jugador": "Sinha",
+   "seleccion": "México",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2006-06-11",
+   "local": "Angola",
+   "visitante": "Portugal",
+   "jugador": "Pauleta",
+   "seleccion": "Portugal",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Australia",
+   "visitante": "Japón",
+   "jugador": "Shunsuke Nakamura",
+   "seleccion": "Japón",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Australia",
+   "visitante": "Japón",
+   "jugador": "Tim Cahill",
+   "seleccion": "Australia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Australia",
+   "visitante": "Japón",
+   "jugador": "Tim Cahill",
+   "seleccion": "Australia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Australia",
+   "visitante": "Japón",
+   "jugador": "John Aloisi",
+   "seleccion": "Australia",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Estados Unidos",
+   "visitante": "República Checa",
+   "jugador": "Jan Koller",
+   "seleccion": "República Checa",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Estados Unidos",
+   "visitante": "República Checa",
+   "jugador": "Tomáš Rosický",
+   "seleccion": "República Checa",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Estados Unidos",
+   "visitante": "República Checa",
+   "jugador": "Tomáš Rosický",
+   "seleccion": "República Checa",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Italia",
+   "visitante": "Ghana",
+   "jugador": "Andrea Pirlo",
+   "seleccion": "Italia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2006-06-12",
+   "local": "Italia",
+   "visitante": "Ghana",
+   "jugador": "Vincenzo Iaquinta",
+   "seleccion": "Italia",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2006-06-13",
+   "local": "Corea del Sur",
+   "visitante": "Togo",
+   "jugador": "Mohamed Kader",
+   "seleccion": "Togo",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2006-06-13",
+   "local": "Corea del Sur",
+   "visitante": "Togo",
+   "jugador": "Chun-soo Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2006-06-13",
+   "local": "Corea del Sur",
+   "visitante": "Togo",
+   "jugador": "Jung-hwan Ahn",
+   "seleccion": "Corea del Sur",
+   "minuto": "72"
+  },
+  {
+   "fecha": "2006-06-13",
+   "local": "Brasil",
+   "visitante": "Croacia",
+   "jugador": "Kaká",
+   "seleccion": "Brasil",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "España",
+   "visitante": "Ucrania",
+   "jugador": "Xabi Alonso",
+   "seleccion": "España",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "España",
+   "visitante": "Ucrania",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "España",
+   "visitante": "Ucrania",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "48",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "España",
+   "visitante": "Ucrania",
+   "jugador": "Fernando Torres",
+   "seleccion": "España",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "Túnez",
+   "visitante": "Arabia Saudí",
+   "jugador": "Ziad Jaziri",
+   "seleccion": "Túnez",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "Túnez",
+   "visitante": "Arabia Saudí",
+   "jugador": "Yasser Al-Qahtani",
+   "seleccion": "Arabia Saudí",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "Túnez",
+   "visitante": "Arabia Saudí",
+   "jugador": "Sami Al-Jaber",
+   "seleccion": "Arabia Saudí",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "Túnez",
+   "visitante": "Arabia Saudí",
+   "jugador": "Radhi Jaïdi",
+   "seleccion": "Túnez",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2006-06-14",
+   "local": "Alemania",
+   "visitante": "Polonia",
+   "jugador": "Oliver Neuville",
+   "seleccion": "Alemania",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Ecuador",
+   "visitante": "Costa Rica",
+   "jugador": "Carlos Tenorio",
+   "seleccion": "Ecuador",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Ecuador",
+   "visitante": "Costa Rica",
+   "jugador": "Agustín Delgado",
+   "seleccion": "Ecuador",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Ecuador",
+   "visitante": "Costa Rica",
+   "jugador": "Iván Kaviedes",
+   "seleccion": "Ecuador",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Inglaterra",
+   "visitante": "Trinidad y Tobago",
+   "jugador": "Peter Crouch",
+   "seleccion": "Inglaterra",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Inglaterra",
+   "visitante": "Trinidad y Tobago",
+   "jugador": "Steven Gerrard",
+   "seleccion": "Inglaterra",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2006-06-15",
+   "local": "Suecia",
+   "visitante": "Paraguay",
+   "jugador": "Freddie Ljungberg",
+   "seleccion": "Suecia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Maxi Rodríguez",
+   "seleccion": "Argentina",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Esteban Cambiasso",
+   "seleccion": "Argentina",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Maxi Rodríguez",
+   "seleccion": "Argentina",
+   "minuto": "41"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Hernán Crespo",
+   "seleccion": "Argentina",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Carlos Tevez",
+   "seleccion": "Argentina",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Argentina",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Países Bajos",
+   "visitante": "Costa de Marfil",
+   "jugador": "Robin van Persie",
+   "seleccion": "Países Bajos",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Países Bajos",
+   "visitante": "Costa de Marfil",
+   "jugador": "Ruud van Nistelrooy",
+   "seleccion": "Países Bajos",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2006-06-16",
+   "local": "Países Bajos",
+   "visitante": "Costa de Marfil",
+   "jugador": "Bakari Koné",
+   "seleccion": "Costa de Marfil",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "Portugal",
+   "visitante": "Irán",
+   "jugador": "Deco",
+   "seleccion": "Portugal",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "Portugal",
+   "visitante": "Irán",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "80",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "República Checa",
+   "visitante": "Ghana",
+   "jugador": "Asamoah Gyan",
+   "seleccion": "Ghana",
+   "minuto": "2"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "República Checa",
+   "visitante": "Ghana",
+   "jugador": "Sulley Muntari",
+   "seleccion": "Ghana",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Alberto Gilardino",
+   "seleccion": "Italia",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2006-06-17",
+   "local": "Italia",
+   "visitante": "Estados Unidos",
+   "jugador": "Cristian Zaccardo",
+   "seleccion": "Italia",
+   "minuto": "27",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2006-06-18",
+   "local": "Brasil",
+   "visitante": "Australia",
+   "jugador": "Adriano",
+   "seleccion": "Brasil",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2006-06-18",
+   "local": "Brasil",
+   "visitante": "Australia",
+   "jugador": "Fred",
+   "seleccion": "Brasil",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2006-06-18",
+   "local": "Francia",
+   "visitante": "Corea del Sur",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "2006-06-18",
+   "local": "Francia",
+   "visitante": "Corea del Sur",
+   "jugador": "Ji-sung Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Togo",
+   "visitante": "Suiza",
+   "jugador": "Alexander Frei",
+   "seleccion": "Suiza",
+   "minuto": "16"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Togo",
+   "visitante": "Suiza",
+   "jugador": "Tranquillo Barnetta",
+   "seleccion": "Suiza",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Arabia Saudí",
+   "visitante": "Ucrania",
+   "jugador": "Andriy Rusol",
+   "seleccion": "Ucrania",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Arabia Saudí",
+   "visitante": "Ucrania",
+   "jugador": "Serhii Rebrov",
+   "seleccion": "Ucrania",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Arabia Saudí",
+   "visitante": "Ucrania",
+   "jugador": "Andriy Shevchenko",
+   "seleccion": "Ucrania",
+   "minuto": "46"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "Arabia Saudí",
+   "visitante": "Ucrania",
+   "jugador": "Maksym Kalynychenko",
+   "seleccion": "Ucrania",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "España",
+   "visitante": "Túnez",
+   "jugador": "Jawhar Mnari",
+   "seleccion": "Túnez",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "España",
+   "visitante": "Túnez",
+   "jugador": "Raúl",
+   "seleccion": "España",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "España",
+   "visitante": "Túnez",
+   "jugador": "Fernando Torres",
+   "seleccion": "España",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2006-06-19",
+   "local": "España",
+   "visitante": "Túnez",
+   "jugador": "Fernando Torres",
+   "seleccion": "España",
+   "minuto": "90+1",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Costa Rica",
+   "visitante": "Polonia",
+   "jugador": "Rónald Gómez",
+   "seleccion": "Costa Rica",
+   "minuto": "25"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Costa Rica",
+   "visitante": "Polonia",
+   "jugador": "Bartosz Bosacki",
+   "seleccion": "Polonia",
+   "minuto": "33"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Costa Rica",
+   "visitante": "Polonia",
+   "jugador": "Bartosz Bosacki",
+   "seleccion": "Polonia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Ecuador",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Ecuador",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Ecuador",
+   "visitante": "Alemania",
+   "jugador": "Lukas Podolski",
+   "seleccion": "Alemania",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Paraguay",
+   "visitante": "Trinidad y Tobago",
+   "jugador": "Brent Sancho",
+   "seleccion": "Trinidad y Tobago",
+   "minuto": "25",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Paraguay",
+   "visitante": "Trinidad y Tobago",
+   "jugador": "Nelson Cuevas",
+   "seleccion": "Paraguay",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Joe Cole",
+   "seleccion": "Inglaterra",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Marcus Allbäck",
+   "seleccion": "Suecia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Steven Gerrard",
+   "seleccion": "Inglaterra",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2006-06-20",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Henrik Larsson",
+   "seleccion": "Suecia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Irán",
+   "visitante": "Angola",
+   "jugador": "Flávio",
+   "seleccion": "Angola",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Irán",
+   "visitante": "Angola",
+   "jugador": "Sohrab Bakhtiarizadeh",
+   "seleccion": "Irán",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Portugal",
+   "visitante": "México",
+   "jugador": "Maniche",
+   "seleccion": "Portugal",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Portugal",
+   "visitante": "México",
+   "jugador": "Simão",
+   "seleccion": "Portugal",
+   "minuto": "24",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Portugal",
+   "visitante": "México",
+   "jugador": "Francisco Fonseca",
+   "seleccion": "México",
+   "minuto": "29"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Costa de Marfil",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Nikola Žigić",
+   "seleccion": "Serbia y Montenegro",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Costa de Marfil",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Saša Ilić",
+   "seleccion": "Serbia y Montenegro",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Costa de Marfil",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Aruna Dindane",
+   "seleccion": "Costa de Marfil",
+   "minuto": "37",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Costa de Marfil",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Aruna Dindane",
+   "seleccion": "Costa de Marfil",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2006-06-21",
+   "local": "Costa de Marfil",
+   "visitante": "Serbia y Montenegro",
+   "jugador": "Bonaventure Kalou",
+   "seleccion": "Costa de Marfil",
+   "minuto": "86",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "República Checa",
+   "visitante": "Italia",
+   "jugador": "Marco Materazzi",
+   "seleccion": "Italia",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "República Checa",
+   "visitante": "Italia",
+   "jugador": "Filippo Inzaghi",
+   "seleccion": "Italia",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "Haminu Draman",
+   "seleccion": "Ghana",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "Clint Dempsey",
+   "seleccion": "Estados Unidos",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Ghana",
+   "visitante": "Estados Unidos",
+   "jugador": "Stephen Appiah",
+   "seleccion": "Ghana",
+   "minuto": "45+2",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Croacia",
+   "visitante": "Australia",
+   "jugador": "Darijo Srna",
+   "seleccion": "Croacia",
+   "minuto": "2"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Croacia",
+   "visitante": "Australia",
+   "jugador": "Craig Moore",
+   "seleccion": "Australia",
+   "minuto": "38",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Croacia",
+   "visitante": "Australia",
+   "jugador": "Niko Kovač",
+   "seleccion": "Croacia",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Croacia",
+   "visitante": "Australia",
+   "jugador": "Harry Kewell",
+   "seleccion": "Australia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Japón",
+   "visitante": "Brasil",
+   "jugador": "Keiji Tamada",
+   "seleccion": "Japón",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Japón",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Japón",
+   "visitante": "Brasil",
+   "jugador": "Juninho Pernambucano",
+   "seleccion": "Brasil",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Japón",
+   "visitante": "Brasil",
+   "jugador": "Gilberto",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2006-06-22",
+   "local": "Japón",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Arabia Saudí",
+   "visitante": "España",
+   "jugador": "Juanito",
+   "seleccion": "España",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Ucrania",
+   "visitante": "Túnez",
+   "jugador": "Andriy Shevchenko",
+   "seleccion": "Ucrania",
+   "minuto": "70",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Suiza",
+   "visitante": "Corea del Sur",
+   "jugador": "Philippe Senderos",
+   "seleccion": "Suiza",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Suiza",
+   "visitante": "Corea del Sur",
+   "jugador": "Alexander Frei",
+   "seleccion": "Suiza",
+   "minuto": "77"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Togo",
+   "visitante": "Francia",
+   "jugador": "Patrick Vieira",
+   "seleccion": "Francia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2006-06-23",
+   "local": "Togo",
+   "visitante": "Francia",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2006-06-24",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Lukas Podolski",
+   "seleccion": "Alemania",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2006-06-24",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Lukas Podolski",
+   "seleccion": "Alemania",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2006-06-24",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Rafael Márquez",
+   "seleccion": "México",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2006-06-24",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Hernán Crespo",
+   "seleccion": "Argentina",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2006-06-24",
+   "local": "Argentina",
+   "visitante": "México",
+   "jugador": "Maxi Rodríguez",
+   "seleccion": "Argentina",
+   "minuto": "98"
+  },
+  {
+   "fecha": "2006-06-25",
+   "local": "Inglaterra",
+   "visitante": "Ecuador",
+   "jugador": "David Beckham",
+   "seleccion": "Inglaterra",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2006-06-25",
+   "local": "Portugal",
+   "visitante": "Países Bajos",
+   "jugador": "Maniche",
+   "seleccion": "Portugal",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2006-06-26",
+   "local": "Italia",
+   "visitante": "Australia",
+   "jugador": "Francesco Totti",
+   "seleccion": "Italia",
+   "minuto": "90+5",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "Brasil",
+   "visitante": "Ghana",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "Brasil",
+   "visitante": "Ghana",
+   "jugador": "Adriano",
+   "seleccion": "Brasil",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "Brasil",
+   "visitante": "Ghana",
+   "jugador": "Zé Roberto",
+   "seleccion": "Brasil",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "España",
+   "visitante": "Francia",
+   "jugador": "David Villa",
+   "seleccion": "España",
+   "minuto": "28",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "España",
+   "visitante": "Francia",
+   "jugador": "Franck Ribéry",
+   "seleccion": "Francia",
+   "minuto": "41"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "España",
+   "visitante": "Francia",
+   "jugador": "Patrick Vieira",
+   "seleccion": "Francia",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2006-06-27",
+   "local": "España",
+   "visitante": "Francia",
+   "jugador": "Zinedine Zidane",
+   "seleccion": "Francia",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2006-06-30",
+   "local": "Alemania",
+   "visitante": "Argentina",
+   "jugador": "Roberto Ayala",
+   "seleccion": "Argentina",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2006-06-30",
+   "local": "Alemania",
+   "visitante": "Argentina",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2006-06-30",
+   "local": "Italia",
+   "visitante": "Ucrania",
+   "jugador": "Gianluca Zambrotta",
+   "seleccion": "Italia",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2006-06-30",
+   "local": "Italia",
+   "visitante": "Ucrania",
+   "jugador": "Luca Toni",
+   "seleccion": "Italia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2006-06-30",
+   "local": "Italia",
+   "visitante": "Ucrania",
+   "jugador": "Luca Toni",
+   "seleccion": "Italia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2006-07-01",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2006-07-04",
+   "local": "Alemania",
+   "visitante": "Italia",
+   "jugador": "Fabio Grosso",
+   "seleccion": "Italia",
+   "minuto": "119"
+  },
+  {
+   "fecha": "2006-07-04",
+   "local": "Alemania",
+   "visitante": "Italia",
+   "jugador": "Alessandro Del Piero",
+   "seleccion": "Italia",
+   "minuto": "120+1"
+  },
+  {
+   "fecha": "2006-07-05",
+   "local": "Portugal",
+   "visitante": "Francia",
+   "jugador": "Zinedine Zidane",
+   "seleccion": "Francia",
+   "minuto": "33",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-07-08",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Bastian Schweinsteiger",
+   "seleccion": "Alemania",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2006-07-08",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Petit",
+   "seleccion": "Portugal",
+   "minuto": "60",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2006-07-08",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Bastian Schweinsteiger",
+   "seleccion": "Alemania",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2006-07-08",
+   "local": "Alemania",
+   "visitante": "Portugal",
+   "jugador": "Nuno Gomes",
+   "seleccion": "Portugal",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2006-07-09",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Zinedine Zidane",
+   "seleccion": "Francia",
+   "minuto": "7",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2006-07-09",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Marco Materazzi",
+   "seleccion": "Italia",
+   "minuto": "19"
+  }
+ ]
+}

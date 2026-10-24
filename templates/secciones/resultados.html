@@ -1,0 +1,77 @@
+{% import "macros.html" as macros with context %}
+<section id="resultados" class="seccion">
+  <h2>{{ t("Resultados") }}</h2>
+  <p class="campeon">🏆 {{ t("Campeón: {seleccion}", seleccion=m.campeon | nombre) }}</p>
+
+  {% if m.rondas %}
+  {# Cada ronda es un enlace a ?ronda=0, ?ronda=1... (por defecto, la final) #}
+  <nav class="filtros" aria-label="{{ t('Elegir ronda') }}">
+    {% for r in m.rondas %}
+      <a class="filtro {{ 'activo' if loop.index0 == ronda }}" href="{{ enlace('resultados', ronda=loop.index0) }}"
+         {% if loop.index0 == ronda %}aria-current="true"{% endif %}>{{ r.ronda | nombre }}</a>
+    {% endfor %}
+  </nav>
+
+  <div class="rejilla lista-resultados">
+    {% for p in m.rondas[ronda].partidos %}
+      {% set ganador = ganador_de(p) %}
+      <article class="tarjeta partido">
+        {% for equipo, goles in [(p.local, p.golesLocal), (p.visitante, p.golesVisitante)] %}
+          <p class="equipo {{ 'ganador' if equipo == ganador }}">
+            <span>{{ equipo | nombre }}</span><span class="goles">{{ goles }}</span>
+          </p>
+          {% set texto = anotadores_de(p, equipo) %}
+          {% if texto %}<p class="anotadores"><span aria-hidden="true">⚽</span><span class="solo-lector">{{ t("Goles de {seleccion}:", seleccion=equipo | nombre) }}</span> {{ texto | abreviaturas }}</p>{% endif %}
+        {% endfor %}
+        <p class="detalle">
+          {{ p.fecha | fecha }} · {{ p.estadio }}
+          {%- if p.penaltis %} · {{ t("Penaltis {a}-{b}", a=p.penaltis[0], b=p.penaltis[1]) }}{% elif p.prorroga %} · {{ t("Prórroga") }}{% endif %}
+          {%- if p.repetido %} · {{ t("Se volvió a jugar") }}{% elif p.repeticion %} · {{ t("Repetición") }}{% endif %}
+          · <a href="{{ enlace_partido(p) }}">{{ t("Ver partido") }}<span class="solo-lector">: {{ p | texto_partido }}</span></a>
+        </p>
+        {{ macros.linea(p, "resultado") }}
+      </article>
+    {% endfor %}
+  </div>
+  {% else %}
+    {# 1950: el campeón salió de una liguilla final de cuatro, sin final #}
+    <p class="nota">{{ t("Este Mundial no tuvo eliminatorias: el campeón fue el primero de la liguilla final.") }}
+      <a href="{{ enlace('grupo-final', buscar=None) }}">{{ t("Ver la liguilla final") }}</a>.</p>
+  {% endif %}
+
+  {# Los récords son de todos los partidos del Mundial, no de la ronda elegida #}
+  {% set rec = m.records %}
+  <div class="tarjeta records">
+    <h3>{{ t("Récords del Mundial") }}</h3>
+    <ul>
+      <li>
+        <strong>{{ t("Mayor goleada") }}</strong> ({{ t("{n} goles de diferencia", n=rec.mayor_goleada.diferencia) }}):
+        {% for p in rec.mayor_goleada.partidos %}<a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a> ({{ p.ronda | nombre }}){{ " " ~ t("y") ~ " " if not loop.last }}{% endfor %}
+      </li>
+      <li>
+        <strong>{{ t("Partido con más goles") }}</strong> ({{ rec.mas_goles.goles }}):
+        {% for p in rec.mas_goles.partidos %}<a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a> ({{ p.ronda | nombre }}){{ " " ~ t("y") ~ " " if not loop.last }}{% endfor %}
+      </li>
+      {# Las listas largas, plegadas: se ve cuántos son y se abren para ver cuáles #}
+      {% for lista, una, varias in [(rec.penaltis, "se decidió en los penaltis", "se decidieron en los penaltis"),
+                                    (rec.prorroga, "se decidió en la prórroga, sin llegar a los penaltis", "se decidieron en la prórroga, sin llegar a los penaltis"),
+                                    (rec.sin_goles, "terminó 0-0", "terminaron 0-0")] %}
+        {% if not lista %}
+          {# En los Mundiales antiguos puede no haber ninguno (en 1950, ni penaltis ni prórrogas) #}
+          <li><strong>{{ t("Ningún partido") }}</strong> {{ t(una) }}</li>
+        {% else %}
+          <li>
+            <details>
+              <summary><strong>{{ t("{n} partido" if lista | length == 1 else "{n} partidos", n=lista | length) }}</strong> {{ t(una if lista | length == 1 else varias) }}</summary>
+              <ul class="lista-partidos">
+                {% for p in lista %}
+                  <li>{{ p.fecha | fecha }} · {{ p.ronda | nombre }}<br><a href="{{ enlace_partido(p) }}">{{ p | texto_partido | abreviaturas }}</a></li>
+                {% endfor %}
+              </ul>
+            </details>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>

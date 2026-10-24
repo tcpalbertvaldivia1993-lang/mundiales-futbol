@@ -1,0 +1,1626 @@
+{
+ "año": 1954,
+ "sedes": [
+  "Suiza"
+ ],
+ "campeon": "Alemania Federal",
+ "inicio": "1954-06-16",
+ "fin": "1954-07-04",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "St. Jakob Stadium",
+   "ciudad": "Basilea",
+   "pais": "Suiza",
+   "capacidad": 55000
+  },
+  {
+   "nombre": "Wankdorf Stadium",
+   "ciudad": "Berna",
+   "pais": "Suiza",
+   "capacidad": 65000
+  },
+  {
+   "nombre": "Charmilles Stadium",
+   "ciudad": "Ginebra",
+   "pais": "Suiza",
+   "capacidad": 36000
+  },
+  {
+   "nombre": "Stade Olympique de la Pontaise",
+   "ciudad": "Lausana",
+   "pais": "Suiza",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Cornaredo Stadium",
+   "ciudad": "Lugano",
+   "pais": "Suiza",
+   "capacidad": 36000
+  },
+  {
+   "nombre": "Hardturm Stadium",
+   "ciudad": "Zúrich",
+   "pais": "Suiza",
+   "capacidad": 35000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Francia",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "México",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1954-06-16",
+     "estadio": "Charmilles Stadium",
+     "local": "Brasil",
+     "golesLocal": 5,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-16",
+     "estadio": "Stade Olympique de la Pontaise",
+     "local": "Yugoslavia",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-19",
+     "estadio": "Stade Olympique de la Pontaise",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "1954-06-19",
+     "estadio": "Charmilles Stadium",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "México",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Hungría",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 17,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Federal",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 9,
+     "puntos": 2,
+     "pasa": true
+    },
+    {
+     "nombre": "Turquía",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 8,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 16,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1954-06-17",
+     "estadio": "Hardturm Stadium",
+     "local": "Hungría",
+     "golesLocal": 9,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-17",
+     "estadio": "Wankdorf Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 4,
+     "visitante": "Turquía",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1954-06-20",
+     "estadio": "St. Jakob Stadium",
+     "local": "Hungría",
+     "golesLocal": 8,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1954-06-20",
+     "estadio": "Charmilles Stadium",
+     "local": "Turquía",
+     "golesLocal": 7,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-23",
+     "estadio": "Hardturm Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 7,
+     "visitante": "Turquía",
+     "golesVisitante": 2,
+     "desempate": true
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Austria",
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 7,
+     "puntos": 0,
+     "pasa": false
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 2,
+     "g": 0,
+     "e": 0,
+     "p": 2,
+     "gf": 0,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1954-06-16",
+     "estadio": "Hardturm Stadium",
+     "local": "Austria",
+     "golesLocal": 1,
+     "visitante": "Escocia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-16",
+     "estadio": "Wankdorf Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-19",
+     "estadio": "St. Jakob Stadium",
+     "local": "Uruguay",
+     "golesLocal": 7,
+     "visitante": "Escocia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-19",
+     "estadio": "Hardturm Stadium",
+     "local": "Austria",
+     "golesLocal": 5,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 2,
+     "g": 1,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 2,
+     "g": 0,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 8,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1954-06-17",
+     "estadio": "Stade Olympique de la Pontaise",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1954-06-17",
+     "estadio": "St. Jakob Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 4,
+     "visitante": "Bélgica",
+     "golesVisitante": 4,
+     "prorroga": true
+    },
+    {
+     "fecha": "1954-06-20",
+     "estadio": "Cornaredo Stadium",
+     "local": "Italia",
+     "golesLocal": 4,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1954-06-20",
+     "estadio": "Wankdorf Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1954-06-23",
+     "estadio": "St. Jakob Stadium",
+     "local": "Suiza",
+     "golesLocal": 4,
+     "visitante": "Italia",
+     "golesVisitante": 1,
+     "desempate": true
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1954-06-26",
+     "estadio": "Stade Olympique de la Pontaise",
+     "local": "Austria",
+     "golesLocal": 7,
+     "visitante": "Suiza",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "1954-06-26",
+     "estadio": "St. Jakob Stadium",
+     "local": "Uruguay",
+     "golesLocal": 4,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1954-06-27",
+     "estadio": "Wankdorf Stadium",
+     "local": "Hungría",
+     "golesLocal": 4,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1954-06-27",
+     "estadio": "Charmilles Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1954-06-30",
+     "estadio": "Stade Olympique de la Pontaise",
+     "local": "Hungría",
+     "golesLocal": 4,
+     "visitante": "Uruguay",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "1954-06-30",
+     "estadio": "St. Jakob Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 6,
+     "visitante": "Austria",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1954-07-03",
+     "estadio": "Hardturm Stadium",
+     "local": "Austria",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1954-07-04",
+     "estadio": "Wankdorf Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 3,
+     "visitante": "Hungría",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1954-06-16",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Baltazar",
+   "seleccion": "Brasil",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Didi",
+   "seleccion": "Brasil",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Pinga",
+   "seleccion": "Brasil",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Pinga",
+   "seleccion": "Brasil",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Julinho",
+   "seleccion": "Brasil",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Yugoslavia",
+   "visitante": "Francia",
+   "jugador": "Miloš Milutinović",
+   "seleccion": "Yugoslavia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Austria",
+   "visitante": "Escocia",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Uruguay",
+   "visitante": "Checoslovaquia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1954-06-16",
+   "local": "Uruguay",
+   "visitante": "Checoslovaquia",
+   "jugador": "Juan Alberto Schiaffino",
+   "seleccion": "Uruguay",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Robert Ballaman",
+   "seleccion": "Suiza",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Giampiero Boniperti",
+   "seleccion": "Italia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Ferenc Puskás",
+   "seleccion": "Hungría",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Mihály Lantos",
+   "seleccion": "Hungría",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Zoltán Czibor",
+   "seleccion": "Hungría",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Péter Palotás",
+   "seleccion": "Hungría",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Péter Palotás",
+   "seleccion": "Hungría",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Hungría",
+   "visitante": "Corea del Sur",
+   "jugador": "Ferenc Puskás",
+   "seleccion": "Hungría",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Suat Mamat",
+   "seleccion": "Turquía",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Bernhard Klodt",
+   "seleccion": "Alemania Federal",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Ottmar Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Léopold Anoul",
+   "seleccion": "Bélgica",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Ivor Broadis",
+   "seleccion": "Inglaterra",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Nat Lofthouse",
+   "seleccion": "Inglaterra",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Ivor Broadis",
+   "seleccion": "Inglaterra",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Henri Coppens",
+   "seleccion": "Bélgica",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Léopold Anoul",
+   "seleccion": "Bélgica",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Nat Lofthouse",
+   "seleccion": "Inglaterra",
+   "minuto": "91"
+  },
+  {
+   "fecha": "1954-06-17",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Jimmy Dickinson",
+   "seleccion": "Inglaterra",
+   "minuto": "94",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Carlos Borges",
+   "seleccion": "Uruguay",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Carlos Borges",
+   "seleccion": "Uruguay",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Julio Abbadie",
+   "seleccion": "Uruguay",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Carlos Borges",
+   "seleccion": "Uruguay",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Oscar Míguez",
+   "seleccion": "Uruguay",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Uruguay",
+   "visitante": "Escocia",
+   "jugador": "Julio Abbadie",
+   "seleccion": "Uruguay",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Brasil",
+   "visitante": "Yugoslavia",
+   "jugador": "Branko Zebec",
+   "seleccion": "Yugoslavia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Brasil",
+   "visitante": "Yugoslavia",
+   "jugador": "Didi",
+   "seleccion": "Brasil",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Ernst Stojaspal",
+   "seleccion": "Austria",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Austria",
+   "visitante": "Checoslovaquia",
+   "jugador": "Ernst Stojaspal",
+   "seleccion": "Austria",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Jean Vincent",
+   "seleccion": "Francia",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Raúl Cárdenas",
+   "seleccion": "México",
+   "minuto": "46",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "José Luis Lamadrid",
+   "seleccion": "México",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Tomás Balcázar",
+   "seleccion": "México",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1954-06-19",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Raymond Kopa",
+   "seleccion": "Francia",
+   "minuto": "88",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Ferenc Puskás",
+   "seleccion": "Hungría",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Alfred Pfaff",
+   "seleccion": "Alemania Federal",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Nándor Hidegkuti",
+   "seleccion": "Hungría",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Nándor Hidegkuti",
+   "seleccion": "Hungría",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "József Tóth",
+   "seleccion": "Hungría",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Hungría",
+   "visitante": "Alemania Federal",
+   "jugador": "Richard Herrmann",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Suat Mamat",
+   "seleccion": "Turquía",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Lefter Küçükandonyadis",
+   "seleccion": "Turquía",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Suat Mamat",
+   "seleccion": "Turquía",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Burhan Sargun",
+   "seleccion": "Turquía",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Burhan Sargun",
+   "seleccion": "Turquía",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Burhan Sargun",
+   "seleccion": "Turquía",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Turquía",
+   "visitante": "Corea del Sur",
+   "jugador": "Erol Keskin",
+   "seleccion": "Turquía",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Italia",
+   "visitante": "Bélgica",
+   "jugador": "Egisto Pandolfini",
+   "seleccion": "Italia",
+   "minuto": "41",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Italia",
+   "visitante": "Bélgica",
+   "jugador": "Carlo Galli",
+   "seleccion": "Italia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Italia",
+   "visitante": "Bélgica",
+   "jugador": "Amleto Frignani",
+   "seleccion": "Italia",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Italia",
+   "visitante": "Bélgica",
+   "jugador": "Benito Lorenzi",
+   "seleccion": "Italia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Italia",
+   "visitante": "Bélgica",
+   "jugador": "Léopold Anoul",
+   "seleccion": "Bélgica",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Inglaterra",
+   "visitante": "Suiza",
+   "jugador": "Jimmy Mullen",
+   "seleccion": "Inglaterra",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1954-06-20",
+   "local": "Inglaterra",
+   "visitante": "Suiza",
+   "jugador": "Dennis Wilshaw",
+   "seleccion": "Inglaterra",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Ottmar Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Mustafa Ertan",
+   "seleccion": "Turquía",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Fritz Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Alemania Federal",
+   "visitante": "Turquía",
+   "jugador": "Lefter Küçükandonyadis",
+   "seleccion": "Turquía",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Robert Ballaman",
+   "seleccion": "Suiza",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Fulvio Nesti",
+   "seleccion": "Italia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1954-06-23",
+   "local": "Suiza",
+   "visitante": "Italia",
+   "jugador": "Jacques Fatton",
+   "seleccion": "Suiza",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Robert Ballaman",
+   "seleccion": "Suiza",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Theodor Wagner",
+   "seleccion": "Austria",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Alfred Körner",
+   "seleccion": "Austria",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Theodor Wagner",
+   "seleccion": "Austria",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Ernst Ocwirk",
+   "seleccion": "Austria",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Alfred Körner",
+   "seleccion": "Austria",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Robert Ballaman",
+   "seleccion": "Suiza",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Theodor Wagner",
+   "seleccion": "Austria",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Josef Hügi",
+   "seleccion": "Suiza",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Austria",
+   "visitante": "Suiza",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Carlos Borges",
+   "seleccion": "Uruguay",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Nat Lofthouse",
+   "seleccion": "Inglaterra",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Obdulio Varela",
+   "seleccion": "Uruguay",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Juan Alberto Schiaffino",
+   "seleccion": "Uruguay",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Tom Finney",
+   "seleccion": "Inglaterra",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1954-06-26",
+   "local": "Uruguay",
+   "visitante": "Inglaterra",
+   "jugador": "Javier Ambrois",
+   "seleccion": "Uruguay",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Nándor Hidegkuti",
+   "seleccion": "Hungría",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Djalma Santos",
+   "seleccion": "Brasil",
+   "minuto": "18",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Mihály Lantos",
+   "seleccion": "Hungría",
+   "minuto": "60",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Julinho",
+   "seleccion": "Brasil",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Ivica Horvat",
+   "seleccion": "Yugoslavia",
+   "minuto": "9",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1954-06-27",
+   "local": "Alemania Federal",
+   "visitante": "Yugoslavia",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Zoltán Czibor",
+   "seleccion": "Hungría",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Nándor Hidegkuti",
+   "seleccion": "Hungría",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Juan Hohberg",
+   "seleccion": "Uruguay",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Juan Hohberg",
+   "seleccion": "Uruguay",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "111"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Hungría",
+   "visitante": "Uruguay",
+   "jugador": "Sándor Kocsis",
+   "seleccion": "Hungría",
+   "minuto": "116"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Hans Schäfer",
+   "seleccion": "Alemania Federal",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Erich Probst",
+   "seleccion": "Austria",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Fritz Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "54",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Ottmar Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Fritz Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "64",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-06-30",
+   "local": "Alemania Federal",
+   "visitante": "Austria",
+   "jugador": "Ottmar Walter",
+   "seleccion": "Alemania Federal",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1954-07-03",
+   "local": "Austria",
+   "visitante": "Uruguay",
+   "jugador": "Ernst Stojaspal",
+   "seleccion": "Austria",
+   "minuto": "16",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1954-07-03",
+   "local": "Austria",
+   "visitante": "Uruguay",
+   "jugador": "Juan Hohberg",
+   "seleccion": "Uruguay",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1954-07-03",
+   "local": "Austria",
+   "visitante": "Uruguay",
+   "jugador": "Luis Cruz",
+   "seleccion": "Uruguay",
+   "minuto": "59",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1954-07-03",
+   "local": "Austria",
+   "visitante": "Uruguay",
+   "jugador": "Ernst Ocwirk",
+   "seleccion": "Austria",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1954-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Hungría",
+   "jugador": "Ferenc Puskás",
+   "seleccion": "Hungría",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1954-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Hungría",
+   "jugador": "Zoltán Czibor",
+   "seleccion": "Hungría",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1954-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Hungría",
+   "jugador": "Max Morlock",
+   "seleccion": "Alemania Federal",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1954-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Hungría",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1954-07-04",
+   "local": "Alemania Federal",
+   "visitante": "Hungría",
+   "jugador": "Helmut Rahn",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# Solo para las pruebas. La web no necesita nada de esto.
+pytest==9.1.1        # pruebas de la lógica y de las rutas (pruebas/test_*.py)
+pytest-cov==7.1.0    # mide qué líneas del código ejecutan las pruebas (cobertura)
+playwright==1.64.0   # pruebas en el navegador (pruebas/probar_web.py)
+axe-playwright-python==0.1.8   # revisa la accesibilidad en esas pruebas (trae axe-core 4.12.1)

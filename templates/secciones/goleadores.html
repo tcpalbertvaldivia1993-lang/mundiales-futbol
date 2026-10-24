@@ -1,0 +1,77 @@
+{% import "macros.html" as macros with context %}
+<section id="goleadores" class="seccion">
+  <h2>{{ t("Goleadores") }}</h2>
+  {% set r = m.resumen_goles %}
+  <p class="nota">
+    {{ t("{goles} goles en {partidos} partidos ({media} por partido), {propia} de ellos en propia puerta.",
+         goles=r.goles, partidos=r.partidos, media=(r.goles / r.partidos) | con_coma, propia=r.en_propia) }}
+    {{ t("{n} jugadores marcaron al menos uno.", n=m.goleadores | length) }}
+  </p>
+
+  <div class="tarjeta">
+    <h3>{{ t("¿En qué minuto se marcaron?") }}</h3>
+    {{ macros.grafica_goles_por_tramo(m.goles_por_tramo) }}
+  </div>
+
+  <div class="tarjeta">
+    <h3>{{ t("¿En qué ronda hubo más goles?") }}</h3>
+    {# Avisa de las rondas de un solo partido: su media es la de ese partido (en 1930 no hubo tercer puesto,
+       y en 1950 ni siquiera final) #}
+    {% set de_uno = m.goles_por_ronda | selectattr("partidos", "equalto", 1) | map(attribute="ronda") | list %}
+    <p class="nota">{{ t("Goles por partido.") }}
+      {%- if de_uno == ["Tercer puesto", "Final"] %} {{ t("El tercer puesto y la final fueron un solo partido cada uno.") }}
+      {%- elif de_uno == ["Final"] %} {{ t("La final fue un solo partido.") }}{% endif %}</p>
+    {{ macros.grafica_goles_por_partido(m.goles_por_ronda, "ronda", "grafica-ronda", "Goles por partido en cada ronda",
+                                        "la ronda", "Ronda") }}
+  </div>
+
+  <div class="tarjeta tabla-scroll">
+    <table id="tabla-goleadores" class="tabla">
+      <caption class="solo-lector">{{ t("Goleadores del Mundial") }}</caption>
+      <thead>
+        <tr>
+          <th scope="col">{{ abreviatura("#", t("Puesto")) }}</th>
+          <th scope="col">{{ t("Jugador") }}</th>
+          <th scope="col">{{ t("Selección") }}</th>
+          <th scope="col">{{ t("Goles") }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for g in goleadores %}
+          {% set abierto = g.clave == jugador_abierto %}
+          <tr id="{{ g.ancla }}" class="{{ 'bota-de-oro' if g.puesto == 1 }}">
+            <td>{{ g.puesto }}</td>
+            <th scope="row">
+              {# Al pulsar el nombre se abre su detalle (?jugador=...), y al pulsarlo otra vez se cierra #}
+              <a class="enlace-jugador" href="{{ enlace(g.ancla, jugador=None if abierto else g.clave) }}"
+                 aria-expanded="{{ 'true' if abierto else 'false' }}">
+                {#- Sin la etiqueta, el lector de pantalla diría "zapatilla deportiva" -#}
+                {% if g.puesto == 1 %}<span role="img" aria-label="{{ t('Bota de Oro:') }}">👟</span> {% endif %}{{ g.jugador -}}
+              </a>
+            </th>
+            <td>{{ g.seleccion | nombre }}</td>
+            <td><strong>{{ g.goles }}</strong></td>
+          </tr>
+          {% if abierto %}
+            <tr class="detalle-goleador">
+              <td colspan="4">
+                <ul class="lista-partidos">
+                  {% for d in partidos_del_goleador(g) %}
+                    <li>
+                      {{ d.partido.fecha | fecha }} · {{ d.partido.ronda | nombre }}<br>
+                      <a href="{{ enlace_partido(d.partido) }}">{{ d.partido | texto_partido | abreviaturas }}</a> · <span aria-hidden="true">⚽</span><span class="solo-lector">{{ t("goles:") }}</span> {{ d.minutos | join(", ") | abreviaturas }}
+                    </li>
+                  {% endfor %}
+                </ul>
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <a id="ver-goleadores" class="boton boton-secundario" href="{{ enlace('goleadores', todos=None if ver_todos else '1') }}">
+    {%- if ver_todos %}{{ t("Ver solo los de {n} o más goles", n=minimo_goles) }}{% else %}{{ t("Ver los {n} goleadores", n=m.goleadores | length) }}{% endif -%}
+  </a>
+</section>

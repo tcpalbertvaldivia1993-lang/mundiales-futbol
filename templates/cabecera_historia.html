@@ -1,0 +1,11 @@
+{# El logo y el menú de las páginas de toda la historia: la de inicio, la lista de selecciones y la de
+   cada selección. "portada_historia" va delante de cada ancla: "" en la de inicio ("#campeones")
+   y "/" en las demás ("/#campeones"), para que lleven a la sección de la página de inicio #}
+<a href="{{ portada_historia }}#inicio" class="logo">{{ t("Mundiales") }} <span>1930–2026</span></a>
+<nav class="menu" aria-label="{{ t('Secciones') }}">
+  {% for ancla, nombre in [("inicio", "Inicio"), ("mundiales", "Mundiales"), ("campeones", "Campeones"),
+                           ("goleadores", "Goleadores"), ("goles", "Goles")] %}
+    <a href="{{ portada_historia }}#{{ ancla }}">{{ t(nombre) }}</a>
+  {% endfor %}
+  <a href="{{ url_for('selecciones') }}">{{ t("Selecciones") }}</a>
+</nav>

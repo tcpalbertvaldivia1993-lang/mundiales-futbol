@@ -1,0 +1,67 @@
+{
+  "campeon": "España",
+  "rondas": [
+    {
+      "ronda": "Dieciseisavos de final",
+      "partidos": [
+        { "fecha": "2026-06-28", "estadio": "SoFi Stadium", "local": "Sudáfrica", "golesLocal": 0, "visitante": "Canadá", "golesVisitante": 1 },
+        { "fecha": "2026-06-29", "estadio": "Gillette Stadium", "local": "Alemania", "golesLocal": 1, "visitante": "Paraguay", "golesVisitante": 1, "prorroga": true, "penaltis": [3, 4] },
+        { "fecha": "2026-06-29", "estadio": "Estadio BBVA", "local": "Países Bajos", "golesLocal": 1, "visitante": "Marruecos", "golesVisitante": 1, "prorroga": true, "penaltis": [2, 3] },
+        { "fecha": "2026-06-29", "estadio": "NRG Stadium", "local": "Brasil", "golesLocal": 2, "visitante": "Japón", "golesVisitante": 1 },
+        { "fecha": "2026-06-30", "estadio": "MetLife Stadium", "local": "Francia", "golesLocal": 3, "visitante": "Suecia", "golesVisitante": 0 },
+        { "fecha": "2026-06-30", "estadio": "AT&T Stadium", "local": "Costa de Marfil", "golesLocal": 1, "visitante": "Noruega", "golesVisitante": 2 },
+        { "fecha": "2026-06-30", "estadio": "Estadio Azteca", "local": "México", "golesLocal": 2, "visitante": "Ecuador", "golesVisitante": 0 },
+        { "fecha": "2026-07-01", "estadio": "Levi's Stadium", "local": "Estados Unidos", "golesLocal": 2, "visitante": "Bosnia y Herzegovina", "golesVisitante": 0 },
+        { "fecha": "2026-07-01", "estadio": "Lumen Field", "local": "Bélgica", "golesLocal": 3, "visitante": "Senegal", "golesVisitante": 2, "prorroga": true },
+        { "fecha": "2026-07-01", "estadio": "Mercedes-Benz Stadium", "local": "Inglaterra", "golesLocal": 2, "visitante": "RD del Congo", "golesVisitante": 1 },
+        { "fecha": "2026-07-02", "estadio": "BMO Field", "local": "Portugal", "golesLocal": 2, "visitante": "Croacia", "golesVisitante": 1 },
+        { "fecha": "2026-07-02", "estadio": "SoFi Stadium", "local": "España", "golesLocal": 3, "visitante": "Austria", "golesVisitante": 0 },
+        { "fecha": "2026-07-02", "estadio": "BC Place", "local": "Suiza", "golesLocal": 2, "visitante": "Argelia", "golesVisitante": 0 },
+        { "fecha": "2026-07-03", "estadio": "Hard Rock Stadium", "local": "Argentina", "golesLocal": 3, "visitante": "Cabo Verde", "golesVisitante": 2, "prorroga": true },
+        { "fecha": "2026-07-03", "estadio": "AT&T Stadium", "local": "Australia", "golesLocal": 1, "visitante": "Egipto", "golesVisitante": 1, "prorroga": true, "penaltis": [2, 4] },
+        { "fecha": "2026-07-03", "estadio": "Arrowhead Stadium", "local": "Colombia", "golesLocal": 1, "visitante": "Ghana", "golesVisitante": 0 }
+      ]
+    },
+    {
+      "ronda": "Octavos de final",
+      "partidos": [
+        { "fecha": "2026-07-04", "estadio": "Lincoln Financial Field", "local": "Paraguay", "golesLocal": 0, "visitante": "Francia", "golesVisitante": 1 },
+        { "fecha": "2026-07-04", "estadio": "NRG Stadium", "local": "Canadá", "golesLocal": 0, "visitante": "Marruecos", "golesVisitante": 3 },
+        { "fecha": "2026-07-05", "estadio": "MetLife Stadium", "local": "Brasil", "golesLocal": 1, "visitante": "Noruega", "golesVisitante": 2 },
+        { "fecha": "2026-07-05", "estadio": "Estadio Azteca", "local": "México", "golesLocal": 2, "visitante": "Inglaterra", "golesVisitante": 3 },
+        { "fecha": "2026-07-06", "estadio": "AT&T Stadium", "local": "Portugal", "golesLocal": 0, "visitante": "España", "golesVisitante": 1 },
+        { "fecha": "2026-07-06", "estadio": "Lumen Field", "local": "Estados Unidos", "golesLocal": 1, "visitante": "Bélgica", "golesVisitante": 4 },
+        { "fecha": "2026-07-07", "estadio": "Mercedes-Benz Stadium", "local": "Argentina", "golesLocal": 3, "visitante": "Egipto", "golesVisitante": 2 },
+        { "fecha": "2026-07-07", "estadio": "BC Place", "local": "Suiza", "golesLocal": 0, "visitante": "Colombia", "golesVisitante": 0, "prorroga": true, "penaltis": [4, 3] }
+      ]
+    },
+    {
+      "ronda": "Cuartos de final",
+      "partidos": [
+        { "fecha": "2026-07-09", "estadio": "Gillette Stadium", "local": "Francia", "golesLocal": 2, "visitante": "Marruecos", "golesVisitante": 0 },
+        { "fecha": "2026-07-10", "estadio": "SoFi Stadium", "local": "España", "golesLocal": 2, "visitante": "Bélgica", "golesVisitante": 1 },
+        { "fecha": "2026-07-11", "estadio": "Hard Rock Stadium", "local": "Noruega", "golesLocal": 1, "visitante": "Inglaterra", "golesVisitante": 2, "prorroga": true },
+        { "fecha": "2026-07-11", "estadio": "Arrowhead Stadium", "local": "Argentina", "golesLocal": 3, "visitante": "Suiza", "golesVisitante": 1, "prorroga": true }
+      ]
+    },
+    {
+      "ronda": "Semifinales",
+      "partidos": [
+        { "fecha": "2026-07-14", "estadio": "AT&T Stadium", "local": "Francia", "golesLocal": 0, "visitante": "España", "golesVisitante": 2 },
+        { "fecha": "2026-07-15", "estadio": "Mercedes-Benz Stadium", "local": "Inglaterra", "golesLocal": 1, "visitante": "Argentina", "golesVisitante": 2 }
+      ]
+    },
+    {
+      "ronda": "Tercer puesto",
+      "partidos": [
+        { "fecha": "2026-07-18", "estadio": "Hard Rock Stadium", "local": "Francia", "golesLocal": 4, "visitante": "Inglaterra", "golesVisitante": 6 }
+      ]
+    },
+    {
+      "ronda": "Final",
+      "partidos": [
+        { "fecha": "2026-07-19", "estadio": "MetLife Stadium", "local": "España", "golesLocal": 1, "visitante": "Argentina", "golesVisitante": 0, "prorroga": true }
+      ]
+    }
+  ]
+}

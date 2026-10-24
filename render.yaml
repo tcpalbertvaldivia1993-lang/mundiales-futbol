@@ -1,0 +1,18 @@
+# Configuración de Render ("Blueprint"): Render lee este archivo y crea el servicio.
+# Documentación: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: mundial-2026
+    runtime: python
+    plan: free
+    region: frankfurt                  # el más cercano a España
+    buildCommand: pip install -r requirements.txt
+    # gunicorn arranca app.py (el objeto "app") y escucha en el puerto que le da Render (variable PORT)
+    startCommand: gunicorn app:app
+    # Solo se publica cuando las pruebas de GitHub Actions han pasado
+    autoDeployTrigger: checksPass
+    healthCheckPath: /fuentes          # una página ligera para que Render sepa que la web responde
+    envVars:
+      # La clave que firma la sesión del quiz. Render inventa una al azar y la guarda en secreto.
+      - key: CLAVE_SECRETA
+        generateValue: true

@@ -1,0 +1,2450 @@
+{
+ "año": 2018,
+ "sedes": [
+  "Rusia"
+ ],
+ "campeon": "Francia",
+ "inicio": "2018-06-14",
+ "fin": "2018-07-15",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Kaliningrad Stadium",
+   "ciudad": "Kaliningrado",
+   "pais": "Rusia",
+   "capacidad": 34000
+  },
+  {
+   "nombre": "Kazan Arena",
+   "ciudad": "Kazán",
+   "pais": "Rusia",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Luzhniki Stadium",
+   "ciudad": "Moscú",
+   "pais": "Rusia",
+   "capacidad": 78000
+  },
+  {
+   "nombre": "Otkritie Arena",
+   "ciudad": "Moscú",
+   "pais": "Rusia",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Nizhny Novgorod Stadium",
+   "ciudad": "Nizhni Nóvgorod",
+   "pais": "Rusia",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Rostov Arena",
+   "ciudad": "Rostov del Don",
+   "pais": "Rusia",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Krestovsky Stadium",
+   "ciudad": "San Petersburgo",
+   "pais": "Rusia",
+   "capacidad": 64000
+  },
+  {
+   "nombre": "Samara Arena",
+   "ciudad": "Samara",
+   "pais": "Rusia",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Mordovia Arena",
+   "ciudad": "Saransk",
+   "pais": "Rusia",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Fisht Olympic Stadium",
+   "ciudad": "Sochi",
+   "pais": "Rusia",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Volgograd Arena",
+   "ciudad": "Volgograd",
+   "pais": "Rusia",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Central Stadium",
+   "ciudad": "Ekaterimburgo",
+   "pais": "Rusia",
+   "capacidad": 33000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 0,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Rusia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 8,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Egipto",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-14",
+     "estadio": "Luzhniki Stadium",
+     "local": "Rusia",
+     "golesLocal": 5,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-15",
+     "estadio": "Central Stadium",
+     "local": "Egipto",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-19",
+     "estadio": "Krestovsky Stadium",
+     "local": "Rusia",
+     "golesLocal": 3,
+     "visitante": "Egipto",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-20",
+     "estadio": "Rostov Arena",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-25",
+     "estadio": "Volgograd Arena",
+     "local": "Arabia Saudí",
+     "golesLocal": 2,
+     "visitante": "Egipto",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-25",
+     "estadio": "Samara Arena",
+     "local": "Uruguay",
+     "golesLocal": 3,
+     "visitante": "Rusia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-15",
+     "estadio": "Krestovsky Stadium",
+     "local": "Marruecos",
+     "golesLocal": 0,
+     "visitante": "Irán",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-15",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Portugal",
+     "golesLocal": 3,
+     "visitante": "España",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2018-06-20",
+     "estadio": "Luzhniki Stadium",
+     "local": "Portugal",
+     "golesLocal": 1,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-20",
+     "estadio": "Kazan Arena",
+     "local": "Irán",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-25",
+     "estadio": "Kaliningrad Stadium",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Marruecos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-25",
+     "estadio": "Mordovia Arena",
+     "local": "Irán",
+     "golesLocal": 1,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Perú",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Australia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-16",
+     "estadio": "Kazan Arena",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-16",
+     "estadio": "Mordovia Arena",
+     "local": "Perú",
+     "golesLocal": 0,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-21",
+     "estadio": "Samara Arena",
+     "local": "Dinamarca",
+     "golesLocal": 1,
+     "visitante": "Australia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-21",
+     "estadio": "Central Stadium",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Perú",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-26",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Australia",
+     "golesLocal": 0,
+     "visitante": "Perú",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-26",
+     "estadio": "Luzhniki Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Islandia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-16",
+     "estadio": "Otkritie Arena",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Islandia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-16",
+     "estadio": "Kaliningrad Stadium",
+     "local": "Croacia",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-21",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2018-06-22",
+     "estadio": "Volgograd Arena",
+     "local": "Nigeria",
+     "golesLocal": 2,
+     "visitante": "Islandia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-26",
+     "estadio": "Rostov Arena",
+     "local": "Islandia",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-26",
+     "estadio": "Krestovsky Stadium",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Serbia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-17",
+     "estadio": "Samara Arena",
+     "local": "Costa Rica",
+     "golesLocal": 0,
+     "visitante": "Serbia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-17",
+     "estadio": "Rostov Arena",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-22",
+     "estadio": "Krestovsky Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Costa Rica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-22",
+     "estadio": "Kaliningrad Stadium",
+     "local": "Serbia",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-27",
+     "estadio": "Otkritie Arena",
+     "local": "Serbia",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-27",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Suiza",
+     "golesLocal": 2,
+     "visitante": "Costa Rica",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-17",
+     "estadio": "Luzhniki Stadium",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-18",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-23",
+     "estadio": "Rostov Arena",
+     "local": "Corea del Sur",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-23",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-27",
+     "estadio": "Kazan Arena",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Alemania",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-27",
+     "estadio": "Central Stadium",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Suecia",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 2,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 8,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 8,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Panamá",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 11,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-18",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Bélgica",
+     "golesLocal": 3,
+     "visitante": "Panamá",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-06-18",
+     "estadio": "Volgograd Arena",
+     "local": "Túnez",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-23",
+     "estadio": "Otkritie Arena",
+     "local": "Bélgica",
+     "golesLocal": 5,
+     "visitante": "Túnez",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-24",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 6,
+     "visitante": "Panamá",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-28",
+     "estadio": "Kaliningrad Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-28",
+     "estadio": "Mordovia Arena",
+     "local": "Panamá",
+     "golesLocal": 1,
+     "visitante": "Túnez",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Senegal",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2018-06-19",
+     "estadio": "Mordovia Arena",
+     "local": "Colombia",
+     "golesLocal": 1,
+     "visitante": "Japón",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-19",
+     "estadio": "Otkritie Arena",
+     "local": "Polonia",
+     "golesLocal": 1,
+     "visitante": "Senegal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-24",
+     "estadio": "Central Stadium",
+     "local": "Japón",
+     "golesLocal": 2,
+     "visitante": "Senegal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-06-24",
+     "estadio": "Kazan Arena",
+     "local": "Polonia",
+     "golesLocal": 0,
+     "visitante": "Colombia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2018-06-28",
+     "estadio": "Volgograd Arena",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-06-28",
+     "estadio": "Samara Arena",
+     "local": "Senegal",
+     "golesLocal": 0,
+     "visitante": "Colombia",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2018-06-30",
+     "estadio": "Kazan Arena",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Argentina",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2018-06-30",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2018-07-01",
+     "estadio": "Luzhniki Stadium",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Rusia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    },
+    {
+     "fecha": "2018-07-01",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Croacia",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      2
+     ]
+    },
+    {
+     "fecha": "2018-07-02",
+     "estadio": "Samara Arena",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-07-02",
+     "estadio": "Rostov Arena",
+     "local": "Bélgica",
+     "golesLocal": 3,
+     "visitante": "Japón",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-07-03",
+     "estadio": "Krestovsky Stadium",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-07-03",
+     "estadio": "Otkritie Arena",
+     "local": "Colombia",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2018-07-06",
+     "estadio": "Nizhny Novgorod Stadium",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-07-06",
+     "estadio": "Kazan Arena",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-07-07",
+     "estadio": "Samara Arena",
+     "local": "Suecia",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2018-07-07",
+     "estadio": "Fisht Olympic Stadium",
+     "local": "Rusia",
+     "golesLocal": 2,
+     "visitante": "Croacia",
+     "golesVisitante": 2,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2018-07-10",
+     "estadio": "Krestovsky Stadium",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2018-07-11",
+     "estadio": "Luzhniki Stadium",
+     "local": "Croacia",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2018-07-14",
+     "estadio": "Krestovsky Stadium",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2018-07-15",
+     "estadio": "Luzhniki Stadium",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Croacia",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2018-06-14",
+   "local": "Rusia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Yury Gazinsky",
+   "seleccion": "Rusia",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2018-06-14",
+   "local": "Rusia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Denis Cheryshev",
+   "seleccion": "Rusia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "2018-06-14",
+   "local": "Rusia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Artem Dzyuba",
+   "seleccion": "Rusia",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2018-06-14",
+   "local": "Rusia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Denis Cheryshev",
+   "seleccion": "Rusia",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2018-06-14",
+   "local": "Rusia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Aleksandr Golovin",
+   "seleccion": "Rusia",
+   "minuto": "90+4"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Egipto",
+   "visitante": "Uruguay",
+   "jugador": "José Giménez",
+   "seleccion": "Uruguay",
+   "minuto": "89"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Marruecos",
+   "visitante": "Irán",
+   "jugador": "Aziz Bouhaddouz",
+   "seleccion": "Marruecos",
+   "minuto": "90+5",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "4",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Diego Costa",
+   "seleccion": "España",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Diego Costa",
+   "seleccion": "España",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Nacho",
+   "seleccion": "España",
+   "minuto": "58"
+  },
+  {
+   "fecha": "2018-06-15",
+   "local": "Portugal",
+   "visitante": "España",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Antoine Griezmann",
+   "seleccion": "Francia",
+   "minuto": "58",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Mile Jedinak",
+   "seleccion": "Australia",
+   "minuto": "62",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Francia",
+   "visitante": "Australia",
+   "jugador": "Aziz Behich",
+   "seleccion": "Australia",
+   "minuto": "81",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Argentina",
+   "visitante": "Islandia",
+   "jugador": "Sergio Agüero",
+   "seleccion": "Argentina",
+   "minuto": "19"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Argentina",
+   "visitante": "Islandia",
+   "jugador": "Alfreð Finnbogason",
+   "seleccion": "Islandia",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Perú",
+   "visitante": "Dinamarca",
+   "jugador": "Yussuf Poulsen",
+   "seleccion": "Dinamarca",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Croacia",
+   "visitante": "Nigeria",
+   "jugador": "Peter Etebo",
+   "seleccion": "Nigeria",
+   "minuto": "32",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-16",
+   "local": "Croacia",
+   "visitante": "Nigeria",
+   "jugador": "Luka Modrić",
+   "seleccion": "Croacia",
+   "minuto": "71",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-17",
+   "local": "Costa Rica",
+   "visitante": "Serbia",
+   "jugador": "Aleksandar Kolarov",
+   "seleccion": "Serbia",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2018-06-17",
+   "local": "Alemania",
+   "visitante": "México",
+   "jugador": "Hirving Lozano",
+   "seleccion": "México",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2018-06-17",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Philippe Coutinho",
+   "seleccion": "Brasil",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2018-06-17",
+   "local": "Brasil",
+   "visitante": "Suiza",
+   "jugador": "Steven Zuber",
+   "seleccion": "Suiza",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Suecia",
+   "visitante": "Corea del Sur",
+   "jugador": "Andreas Granqvist",
+   "seleccion": "Suecia",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Bélgica",
+   "visitante": "Panamá",
+   "jugador": "Dries Mertens",
+   "seleccion": "Bélgica",
+   "minuto": "47"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Bélgica",
+   "visitante": "Panamá",
+   "jugador": "Romelu Lukaku",
+   "seleccion": "Bélgica",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Bélgica",
+   "visitante": "Panamá",
+   "jugador": "Romelu Lukaku",
+   "seleccion": "Bélgica",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Túnez",
+   "visitante": "Inglaterra",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Túnez",
+   "visitante": "Inglaterra",
+   "jugador": "Ferjani Sassi",
+   "seleccion": "Túnez",
+   "minuto": "35",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-18",
+   "local": "Túnez",
+   "visitante": "Inglaterra",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Colombia",
+   "visitante": "Japón",
+   "jugador": "Shinji Kagawa",
+   "seleccion": "Japón",
+   "minuto": "6",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Colombia",
+   "visitante": "Japón",
+   "jugador": "Juan Fernando Quintero",
+   "seleccion": "Colombia",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Colombia",
+   "visitante": "Japón",
+   "jugador": "Yuya Osako",
+   "seleccion": "Japón",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Polonia",
+   "visitante": "Senegal",
+   "jugador": "Thiago Cionek",
+   "seleccion": "Polonia",
+   "minuto": "37",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Polonia",
+   "visitante": "Senegal",
+   "jugador": "M'Baye Niang",
+   "seleccion": "Senegal",
+   "minuto": "60"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Polonia",
+   "visitante": "Senegal",
+   "jugador": "Grzegorz Krychowiak",
+   "seleccion": "Polonia",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Rusia",
+   "visitante": "Egipto",
+   "jugador": "Ahmed Fathy",
+   "seleccion": "Egipto",
+   "minuto": "47",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Rusia",
+   "visitante": "Egipto",
+   "jugador": "Denis Cheryshev",
+   "seleccion": "Rusia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Rusia",
+   "visitante": "Egipto",
+   "jugador": "Artem Dzyuba",
+   "seleccion": "Rusia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2018-06-19",
+   "local": "Rusia",
+   "visitante": "Egipto",
+   "jugador": "Mohamed Salah",
+   "seleccion": "Egipto",
+   "minuto": "73",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-20",
+   "local": "Portugal",
+   "visitante": "Marruecos",
+   "jugador": "Cristiano Ronaldo",
+   "seleccion": "Portugal",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2018-06-20",
+   "local": "Uruguay",
+   "visitante": "Arabia Saudí",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2018-06-20",
+   "local": "Irán",
+   "visitante": "España",
+   "jugador": "Diego Costa",
+   "seleccion": "España",
+   "minuto": "54"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Dinamarca",
+   "visitante": "Australia",
+   "jugador": "Christian Eriksen",
+   "seleccion": "Dinamarca",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Dinamarca",
+   "visitante": "Australia",
+   "jugador": "Mile Jedinak",
+   "seleccion": "Australia",
+   "minuto": "38",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Francia",
+   "visitante": "Perú",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Ante Rebić",
+   "seleccion": "Croacia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Luka Modrić",
+   "seleccion": "Croacia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "2018-06-21",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Ivan Rakitić",
+   "seleccion": "Croacia",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Brasil",
+   "visitante": "Costa Rica",
+   "jugador": "Philippe Coutinho",
+   "seleccion": "Brasil",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Brasil",
+   "visitante": "Costa Rica",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "90+7"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Nigeria",
+   "visitante": "Islandia",
+   "jugador": "Ahmed Musa",
+   "seleccion": "Nigeria",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Nigeria",
+   "visitante": "Islandia",
+   "jugador": "Ahmed Musa",
+   "seleccion": "Nigeria",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Aleksandar Mitrović",
+   "seleccion": "Serbia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Granit Xhaka",
+   "seleccion": "Suiza",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2018-06-22",
+   "local": "Serbia",
+   "visitante": "Suiza",
+   "jugador": "Xherdan Shaqiri",
+   "seleccion": "Suiza",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Eden Hazard",
+   "seleccion": "Bélgica",
+   "minuto": "6",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Romelu Lukaku",
+   "seleccion": "Bélgica",
+   "minuto": "16"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Dylan Bronn",
+   "seleccion": "Túnez",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Romelu Lukaku",
+   "seleccion": "Bélgica",
+   "minuto": "45+3"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Eden Hazard",
+   "seleccion": "Bélgica",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Michy Batshuayi",
+   "seleccion": "Bélgica",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Bélgica",
+   "visitante": "Túnez",
+   "jugador": "Wahbi Khazri",
+   "seleccion": "Túnez",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Carlos Vela",
+   "seleccion": "México",
+   "minuto": "26",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Javier Hernández",
+   "seleccion": "México",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Heung-min Son",
+   "seleccion": "Corea del Sur",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Ola Toivonen",
+   "seleccion": "Suecia",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Marco Reus",
+   "seleccion": "Alemania",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2018-06-23",
+   "local": "Alemania",
+   "visitante": "Suecia",
+   "jugador": "Toni Kroos",
+   "seleccion": "Alemania",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "John Stones",
+   "seleccion": "Inglaterra",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "22",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "Jesse Lingard",
+   "seleccion": "Inglaterra",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "John Stones",
+   "seleccion": "Inglaterra",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "45+1",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Inglaterra",
+   "visitante": "Panamá",
+   "jugador": "Felipe Baloy",
+   "seleccion": "Panamá",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Japón",
+   "visitante": "Senegal",
+   "jugador": "Sadio Mané",
+   "seleccion": "Senegal",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Japón",
+   "visitante": "Senegal",
+   "jugador": "Takashi Inui",
+   "seleccion": "Japón",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Japón",
+   "visitante": "Senegal",
+   "jugador": "Moussa Wagué",
+   "seleccion": "Senegal",
+   "minuto": "71"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Japón",
+   "visitante": "Senegal",
+   "jugador": "Keisuke Honda",
+   "seleccion": "Japón",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Polonia",
+   "visitante": "Colombia",
+   "jugador": "Yerry Mina",
+   "seleccion": "Colombia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Polonia",
+   "visitante": "Colombia",
+   "jugador": "Radamel Falcao",
+   "seleccion": "Colombia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2018-06-24",
+   "local": "Polonia",
+   "visitante": "Colombia",
+   "jugador": "Juan Cuadrado",
+   "seleccion": "Colombia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Egipto",
+   "jugador": "Mohamed Salah",
+   "seleccion": "Egipto",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Egipto",
+   "jugador": "Salman Al-Faraj",
+   "seleccion": "Arabia Saudí",
+   "minuto": "45+6",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Arabia Saudí",
+   "visitante": "Egipto",
+   "jugador": "Salem Al-Dawsari",
+   "seleccion": "Arabia Saudí",
+   "minuto": "90+5"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Uruguay",
+   "visitante": "Rusia",
+   "jugador": "Luis Suárez",
+   "seleccion": "Uruguay",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Uruguay",
+   "visitante": "Rusia",
+   "jugador": "Denis Cheryshev",
+   "seleccion": "Rusia",
+   "minuto": "23",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Uruguay",
+   "visitante": "Rusia",
+   "jugador": "Edinson Cavani",
+   "seleccion": "Uruguay",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "España",
+   "visitante": "Marruecos",
+   "jugador": "Khalid Boutaïb",
+   "seleccion": "Marruecos",
+   "minuto": "14"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "España",
+   "visitante": "Marruecos",
+   "jugador": "Isco",
+   "seleccion": "España",
+   "minuto": "19"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "España",
+   "visitante": "Marruecos",
+   "jugador": "Youssef En-Nesyri",
+   "seleccion": "Marruecos",
+   "minuto": "81"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "España",
+   "visitante": "Marruecos",
+   "jugador": "Iago Aspas",
+   "seleccion": "España",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Irán",
+   "visitante": "Portugal",
+   "jugador": "Ricardo Quaresma",
+   "seleccion": "Portugal",
+   "minuto": "45"
+  },
+  {
+   "fecha": "2018-06-25",
+   "local": "Irán",
+   "visitante": "Portugal",
+   "jugador": "Karim Ansarifard",
+   "seleccion": "Irán",
+   "minuto": "90+3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Australia",
+   "visitante": "Perú",
+   "jugador": "André Carrillo",
+   "seleccion": "Perú",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Australia",
+   "visitante": "Perú",
+   "jugador": "Paolo Guerrero",
+   "seleccion": "Perú",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Islandia",
+   "visitante": "Croacia",
+   "jugador": "Milan Badelj",
+   "seleccion": "Croacia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Islandia",
+   "visitante": "Croacia",
+   "jugador": "Gylfi Sigurðsson",
+   "seleccion": "Islandia",
+   "minuto": "76",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Islandia",
+   "visitante": "Croacia",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Lionel Messi",
+   "seleccion": "Argentina",
+   "minuto": "14"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Victor Moses",
+   "seleccion": "Nigeria",
+   "minuto": "51",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-26",
+   "local": "Nigeria",
+   "visitante": "Argentina",
+   "jugador": "Marcos Rojo",
+   "seleccion": "Argentina",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Corea del Sur",
+   "visitante": "Alemania",
+   "jugador": "Young-gwon Kim",
+   "seleccion": "Corea del Sur",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Corea del Sur",
+   "visitante": "Alemania",
+   "jugador": "Heung-min Son",
+   "seleccion": "Corea del Sur",
+   "minuto": "90+6"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "México",
+   "visitante": "Suecia",
+   "jugador": "Ludwig Augustinsson",
+   "seleccion": "Suecia",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "México",
+   "visitante": "Suecia",
+   "jugador": "Andreas Granqvist",
+   "seleccion": "Suecia",
+   "minuto": "62",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "México",
+   "visitante": "Suecia",
+   "jugador": "Edson Álvarez",
+   "seleccion": "México",
+   "minuto": "74",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Serbia",
+   "visitante": "Brasil",
+   "jugador": "Paulinho",
+   "seleccion": "Brasil",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Serbia",
+   "visitante": "Brasil",
+   "jugador": "Thiago Silva",
+   "seleccion": "Brasil",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Suiza",
+   "visitante": "Costa Rica",
+   "jugador": "Blerim Džemaili",
+   "seleccion": "Suiza",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Suiza",
+   "visitante": "Costa Rica",
+   "jugador": "Kendall Waston",
+   "seleccion": "Costa Rica",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Suiza",
+   "visitante": "Costa Rica",
+   "jugador": "Josip Drmić",
+   "seleccion": "Suiza",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2018-06-27",
+   "local": "Suiza",
+   "visitante": "Costa Rica",
+   "jugador": "Yann Sommer",
+   "seleccion": "Suiza",
+   "minuto": "90+3",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Japón",
+   "visitante": "Polonia",
+   "jugador": "Jan Bednarek",
+   "seleccion": "Polonia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Senegal",
+   "visitante": "Colombia",
+   "jugador": "Yerry Mina",
+   "seleccion": "Colombia",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Inglaterra",
+   "visitante": "Bélgica",
+   "jugador": "Adnan Januzaj",
+   "seleccion": "Bélgica",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Panamá",
+   "visitante": "Túnez",
+   "jugador": "Yassine Meriah",
+   "seleccion": "Túnez",
+   "minuto": "33",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Panamá",
+   "visitante": "Túnez",
+   "jugador": "Fakhreddine Ben Youssef",
+   "seleccion": "Túnez",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2018-06-28",
+   "local": "Panamá",
+   "visitante": "Túnez",
+   "jugador": "Wahbi Khazri",
+   "seleccion": "Túnez",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Antoine Griezmann",
+   "seleccion": "Francia",
+   "minuto": "13",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Ángel Di María",
+   "seleccion": "Argentina",
+   "minuto": "41"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Gabriel Mercado",
+   "seleccion": "Argentina",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Benjamin Pavard",
+   "seleccion": "Francia",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Francia",
+   "visitante": "Argentina",
+   "jugador": "Sergio Agüero",
+   "seleccion": "Argentina",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Uruguay",
+   "visitante": "Portugal",
+   "jugador": "Edinson Cavani",
+   "seleccion": "Uruguay",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Uruguay",
+   "visitante": "Portugal",
+   "jugador": "Pepe",
+   "seleccion": "Portugal",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2018-06-30",
+   "local": "Uruguay",
+   "visitante": "Portugal",
+   "jugador": "Edinson Cavani",
+   "seleccion": "Uruguay",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2018-07-01",
+   "local": "España",
+   "visitante": "Rusia",
+   "jugador": "Sergei Ignashevich",
+   "seleccion": "Rusia",
+   "minuto": "12",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-07-01",
+   "local": "España",
+   "visitante": "Rusia",
+   "jugador": "Artem Dzyuba",
+   "seleccion": "Rusia",
+   "minuto": "41",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-07-01",
+   "local": "Croacia",
+   "visitante": "Dinamarca",
+   "jugador": "Mathias Jørgensen",
+   "seleccion": "Dinamarca",
+   "minuto": "1"
+  },
+  {
+   "fecha": "2018-07-01",
+   "local": "Croacia",
+   "visitante": "Dinamarca",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Neymar",
+   "seleccion": "Brasil",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Roberto Firmino",
+   "seleccion": "Brasil",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Bélgica",
+   "visitante": "Japón",
+   "jugador": "Genki Haraguchi",
+   "seleccion": "Japón",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Bélgica",
+   "visitante": "Japón",
+   "jugador": "Takashi Inui",
+   "seleccion": "Japón",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Bélgica",
+   "visitante": "Japón",
+   "jugador": "Jan Vertonghen",
+   "seleccion": "Bélgica",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Bélgica",
+   "visitante": "Japón",
+   "jugador": "Marouane Fellaini",
+   "seleccion": "Bélgica",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2018-07-02",
+   "local": "Bélgica",
+   "visitante": "Japón",
+   "jugador": "Nacer Chadli",
+   "seleccion": "Bélgica",
+   "minuto": "90+4"
+  },
+  {
+   "fecha": "2018-07-03",
+   "local": "Suecia",
+   "visitante": "Suiza",
+   "jugador": "Emil Forsberg",
+   "seleccion": "Suecia",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2018-07-03",
+   "local": "Colombia",
+   "visitante": "Inglaterra",
+   "jugador": "Harry Kane",
+   "seleccion": "Inglaterra",
+   "minuto": "57",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-07-03",
+   "local": "Colombia",
+   "visitante": "Inglaterra",
+   "jugador": "Yerry Mina",
+   "seleccion": "Colombia",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2018-07-06",
+   "local": "Uruguay",
+   "visitante": "Francia",
+   "jugador": "Raphaël Varane",
+   "seleccion": "Francia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2018-07-06",
+   "local": "Uruguay",
+   "visitante": "Francia",
+   "jugador": "Antoine Griezmann",
+   "seleccion": "Francia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2018-07-06",
+   "local": "Brasil",
+   "visitante": "Bélgica",
+   "jugador": "Fernandinho",
+   "seleccion": "Brasil",
+   "minuto": "13",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-07-06",
+   "local": "Brasil",
+   "visitante": "Bélgica",
+   "jugador": "Kevin De Bruyne",
+   "seleccion": "Bélgica",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2018-07-06",
+   "local": "Brasil",
+   "visitante": "Bélgica",
+   "jugador": "Renato Augusto",
+   "seleccion": "Brasil",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Harry Maguire",
+   "seleccion": "Inglaterra",
+   "minuto": "30"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Suecia",
+   "visitante": "Inglaterra",
+   "jugador": "Dele Alli",
+   "seleccion": "Inglaterra",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Rusia",
+   "visitante": "Croacia",
+   "jugador": "Denis Cheryshev",
+   "seleccion": "Rusia",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Rusia",
+   "visitante": "Croacia",
+   "jugador": "Andrej Kramarić",
+   "seleccion": "Croacia",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Rusia",
+   "visitante": "Croacia",
+   "jugador": "Domagoj Vida",
+   "seleccion": "Croacia",
+   "minuto": "101"
+  },
+  {
+   "fecha": "2018-07-07",
+   "local": "Rusia",
+   "visitante": "Croacia",
+   "jugador": "Mário Fernandes",
+   "seleccion": "Rusia",
+   "minuto": "115"
+  },
+  {
+   "fecha": "2018-07-10",
+   "local": "Francia",
+   "visitante": "Bélgica",
+   "jugador": "Samuel Umtiti",
+   "seleccion": "Francia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2018-07-11",
+   "local": "Croacia",
+   "visitante": "Inglaterra",
+   "jugador": "Kieran Trippier",
+   "seleccion": "Inglaterra",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2018-07-11",
+   "local": "Croacia",
+   "visitante": "Inglaterra",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "2018-07-11",
+   "local": "Croacia",
+   "visitante": "Inglaterra",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "109"
+  },
+  {
+   "fecha": "2018-07-14",
+   "local": "Bélgica",
+   "visitante": "Inglaterra",
+   "jugador": "Thomas Meunier",
+   "seleccion": "Bélgica",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2018-07-14",
+   "local": "Bélgica",
+   "visitante": "Inglaterra",
+   "jugador": "Eden Hazard",
+   "seleccion": "Bélgica",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "18",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Ivan Perišić",
+   "seleccion": "Croacia",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Antoine Griezmann",
+   "seleccion": "Francia",
+   "minuto": "38",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Paul Pogba",
+   "seleccion": "Francia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Kylian Mbappé",
+   "seleccion": "Francia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2018-07-15",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Mario Mandžukić",
+   "seleccion": "Croacia",
+   "minuto": "69"
+  }
+ ]
+}

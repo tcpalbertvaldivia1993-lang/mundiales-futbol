@@ -1,0 +1,96 @@
+{% import "macros.html" as macros with context %}
+<section id="selecciones" class="seccion">
+  <h2>{{ t("Selecciones") }}</h2>
+
+  {# El buscador es un formulario GET: al enviarlo, la dirección pasa a ser ?buscar=...
+     Encuentra el nombre en español y en el idioma elegido ("Alemania" o "Germany") #}
+  <form class="buscador" method="get" action="{{ url_for('inicio') }}#selecciones" role="search">
+    {{ macros.ocultos(excepto="buscar") }}
+    <label for="buscador" class="etiqueta">{{ t("Busca una selección") }}</label>
+    <div class="buscador-fila">
+      <input id="buscador" name="buscar" type="search" value="{{ buscar }}" placeholder="{{ t('Ej.: Argentina, mexico…') }}" autocomplete="off">
+      <button class="boton" type="submit">{{ t("Buscar") }}</button>
+      {% if buscar %}<a class="boton boton-secundario" href="{{ enlace('selecciones', buscar=None) }}">{{ t("Quitar") }}</a>{% endif %}
+    </div>
+  </form>
+  {% if not grupos_visibles %}<p class="nota">{{ t("No hay ninguna selección con ese nombre.") }}</p>{% endif %}
+  <p class="nota leyenda">{{ t("Las filas con barra verde son las selecciones que pasaron a la ronda siguiente. Pulsa una selección para ver su camino.") }}</p>
+
+  <div class="rejilla rejilla-grupos">
+    {% for g in grupos_visibles %}
+      <article class="tarjeta grupo" id="grupo-{{ g.grupo }}">
+        <h3>{{ g.nombre | nombre }}</h3>
+        <table class="tabla">
+          {# El nombre de la tabla: el lector de pantalla lo dice al llegar a ella.
+             "Clasificación del grupo A" o "Clasificación de la liguilla final" #}
+          <caption class="solo-lector">
+            {%- if g.grupo == "final" %}{{ t("Clasificación de la liguilla final") }}
+            {%- else %}{{ t("Clasificación del {grupo}", grupo=(g.nombre | nombre)[:1] | lower ~ (g.nombre | nombre)[1:]) }}{% endif -%}
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">{{ t("Selección") }}</th>
+              <th scope="col">{{ abreviatura(t("PJ"), t("Partidos jugados")) }}</th>
+              <th scope="col">{{ abreviatura(t("G"), t("Ganados")) }}</th>
+              <th scope="col">{{ abreviatura(t("E"), t("Empatados")) }}</th>
+              <th scope="col">{{ abreviatura(t("P"), t("Perdidos")) }}</th>
+              <th scope="col">{{ abreviatura(t("DG"), t("Diferencia de goles")) }}</th>
+              <th scope="col">{{ abreviatura(t("Pts"), t("Puntos")) }}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for f in m.clasificaciones[g.grupo] %}
+              {% set clasificada = f.pasa %}
+              {% set encontrada = busqueda and (busqueda in normalizar(f.nombre) or busqueda in normalizar(f.nombre | nombre)) %}
+              <tr class="{{ 'clasificada' if clasificada }} {{ 'encontrada' if encontrada }}">
+                {# La barra verde solo se ve: el lector de pantalla tiene que oír que pasó de ronda #}
+                <th scope="row">{{ macros.enlace_seleccion(f.nombre) }}{% if clasificada %}<span class="solo-lector"> ({{ t("clasificada") }})</span>{% endif %}</th>
+                <td>{{ f.pj }}</td><td>{{ f.g }}</td><td>{{ f.e }}</td><td>{{ f.p }}</td>
+                <td>{{ f.dg | con_signo }}</td><td><strong>{{ f.pts }}</strong></td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        <details{% if linea_abierta_en(m.partidos_por_grupo[g.grupo], "grupo") %} open{% endif %}>
+          <summary>{{ t("Ver partidos") }}</summary>
+          <ul class="lista-partidos">
+            {% for p in m.partidos_por_grupo[g.grupo] %}{{ macros.partido_en_lista(p, con_ronda=false, lugar="grupo") }}{% endfor %}
+          </ul>
+        </details>
+      </article>
+    {% endfor %}
+  </div>
+
+  {% if m.terceros %}
+  <h3 class="subtitulo">{{ t("Mejores terceros") }}</h3>
+  <p class="nota">{{ t("De los 12 terceros de grupo pasan los 8 mejores.") }}</p>
+  <div class="tarjeta tabla-scroll">
+    <table id="tabla-terceros" class="tabla">
+      <caption class="solo-lector">{{ t("Mejores terceros: pasan los 8 primeros") }}</caption>
+      <thead>
+        <tr>
+          <th scope="col">{{ abreviatura("#", t("Puesto")) }}</th>
+          <th scope="col">{{ t("Selección") }}</th>
+          <th scope="col">{{ t("Grupo") }}</th>
+          <th scope="col">{{ abreviatura(t("DG"), t("Diferencia de goles")) }}</th>
+          <th scope="col">{{ abreviatura(t("GF"), t("Goles a favor")) }}</th>
+          <th scope="col">{{ abreviatura(t("Pts"), t("Puntos")) }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for f in m.terceros %}
+          <tr class="{{ 'clasificada' if loop.index <= 8 }}">
+            <td>{{ loop.index }}</td>
+            <th scope="row">{{ macros.enlace_seleccion(f.nombre) }}{% if loop.index <= 8 %}<span class="solo-lector"> ({{ t("clasificada") }})</span>{% endif %}</th>
+            <td>{{ f.grupo }}</td>
+            <td>{{ f.dg | con_signo }}</td>
+            <td>{{ f.gf }}</td>
+            <td><strong>{{ f.pts }}</strong></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="nota">{{ t("Ghana y Ecuador empataron en puntos, diferencia de goles y goles a favor. La FIFA los desempató por juego limpio (Ghana −3, Ecuador −5), por eso Ghana aparece delante.") }}</p>
+  {% endif %}
+</section>

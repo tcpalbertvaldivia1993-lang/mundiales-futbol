@@ -1,0 +1,935 @@
+{
+ "año": 1938,
+ "sedes": [
+  "Francia"
+ ],
+ "campeon": "Italia",
+ "inicio": "1938-06-04",
+ "fin": "1938-06-19",
+ "selecciones": 15,
+ "estadios": [
+  {
+   "nombre": "Stade du Fort Carré",
+   "ciudad": "Antibes",
+   "pais": "Francia",
+   "capacidad": 7000
+  },
+  {
+   "nombre": "Stade du Parc Lescure",
+   "ciudad": "Burdeos",
+   "pais": "Francia",
+   "capacidad": 35000
+  },
+  {
+   "nombre": "Stade Jules Deschaseaux",
+   "ciudad": "El Havre",
+   "pais": "Francia",
+   "capacidad": 22000
+  },
+  {
+   "nombre": "Stade Victor Boucquey",
+   "ciudad": "Lille",
+   "pais": "Francia",
+   "capacidad": 15000
+  },
+  {
+   "nombre": "Stade Vélodrome",
+   "ciudad": "Marsella",
+   "pais": "Francia",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Parc des Princes",
+   "ciudad": "París",
+   "pais": "Francia",
+   "capacidad": 49000
+  },
+  {
+   "nombre": "Stade Olympique de Colombes",
+   "ciudad": "París",
+   "pais": "Francia",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Vélodrome Municipal",
+   "ciudad": "Reims",
+   "pais": "Francia",
+   "capacidad": 22000
+  },
+  {
+   "nombre": "Stade de la Meinau",
+   "ciudad": "Estrasburgo",
+   "pais": "Francia",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Stade du T.O.E.C.",
+   "ciudad": "Toulouse",
+   "pais": "Francia",
+   "capacidad": 15000
+  }
+ ],
+ "grupos": [],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1938-06-04",
+     "estadio": "Parc des Princes",
+     "local": "Suiza",
+     "golesLocal": 1,
+     "visitante": "Alemania",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "repetido": true
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Stade du T.O.E.C.",
+     "local": "Cuba",
+     "golesLocal": 3,
+     "visitante": "Rumania",
+     "golesVisitante": 3,
+     "prorroga": true,
+     "repetido": true
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Stade Olympique de Colombes",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Vélodrome Municipal",
+     "local": "Hungría",
+     "golesLocal": 6,
+     "visitante": "Indias Orientales Neerlandesas",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Stade Vélodrome",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Noruega",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Stade de la Meinau",
+     "local": "Brasil",
+     "golesLocal": 6,
+     "visitante": "Polonia",
+     "golesVisitante": 5,
+     "prorroga": true
+    },
+    {
+     "fecha": "1938-06-05",
+     "estadio": "Stade Jules Deschaseaux",
+     "local": "Checoslovaquia",
+     "golesLocal": 3,
+     "visitante": "Países Bajos",
+     "golesVisitante": 0,
+     "prorroga": true
+    },
+    {
+     "fecha": "1938-06-09",
+     "estadio": "Stade du T.O.E.C.",
+     "local": "Cuba",
+     "golesLocal": 2,
+     "visitante": "Rumania",
+     "golesVisitante": 1,
+     "repeticion": true
+    },
+    {
+     "fecha": "1938-06-09",
+     "estadio": "Parc des Princes",
+     "local": "Suiza",
+     "golesLocal": 4,
+     "visitante": "Alemania",
+     "golesVisitante": 2,
+     "repeticion": true
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1938-06-12",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "repetido": true
+    },
+    {
+     "fecha": "1938-06-12",
+     "estadio": "Stade Victor Boucquey",
+     "local": "Hungría",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1938-06-12",
+     "estadio": "Stade Olympique de Colombes",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1938-06-12",
+     "estadio": "Stade du Fort Carré",
+     "local": "Suecia",
+     "golesLocal": 8,
+     "visitante": "Cuba",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1938-06-14",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1,
+     "repeticion": true
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1938-06-16",
+     "estadio": "Parc des Princes",
+     "local": "Hungría",
+     "golesLocal": 5,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1938-06-16",
+     "estadio": "Stade Vélodrome",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1938-06-19",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Suecia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1938-06-19",
+     "estadio": "Stade Olympique de Colombes",
+     "local": "Italia",
+     "golesLocal": 4,
+     "visitante": "Hungría",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1938-06-04",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "Josef Gauchel",
+   "seleccion": "Alemania",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1938-06-04",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "André Abegglen",
+   "seleccion": "Suiza",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Silviu Bindea",
+   "seleccion": "Rumania",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Héctor Socorro",
+   "seleccion": "Cuba",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "José Magriñá",
+   "seleccion": "Cuba",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Iuliu Baratky",
+   "seleccion": "Rumania",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Héctor Socorro",
+   "seleccion": "Cuba",
+   "minuto": "103"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Ștefan Dobay",
+   "seleccion": "Rumania",
+   "minuto": "105"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Francia",
+   "visitante": "Bélgica",
+   "jugador": "Émile Veinante",
+   "seleccion": "Francia",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Francia",
+   "visitante": "Bélgica",
+   "jugador": "Jean Nicolas",
+   "seleccion": "Francia",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Francia",
+   "visitante": "Bélgica",
+   "jugador": "Hendrik Isemborghs",
+   "seleccion": "Bélgica",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Francia",
+   "visitante": "Bélgica",
+   "jugador": "Jean Nicolas",
+   "seleccion": "Francia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "Vilmos Kohut",
+   "seleccion": "Hungría",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "Géza Toldi",
+   "seleccion": "Hungría",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "Gyula Zsengellér",
+   "seleccion": "Hungría",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "Gyula Zsengellér",
+   "seleccion": "Hungría",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Hungría",
+   "visitante": "Indias Orientales Neerlandesas",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Italia",
+   "visitante": "Noruega",
+   "jugador": "Pietro Ferraris",
+   "seleccion": "Italia",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Italia",
+   "visitante": "Noruega",
+   "jugador": "Arne Brustad",
+   "seleccion": "Noruega",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Italia",
+   "visitante": "Noruega",
+   "jugador": "Silvio Piola",
+   "seleccion": "Italia",
+   "minuto": "94"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Fryderyk Scherfke",
+   "seleccion": "Polonia",
+   "minuto": "23",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Romeu",
+   "seleccion": "Brasil",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Perácio",
+   "seleccion": "Brasil",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Ernst Wilimowski",
+   "seleccion": "Polonia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Ernst Wilimowski",
+   "seleccion": "Polonia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Perácio",
+   "seleccion": "Brasil",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Ernst Wilimowski",
+   "seleccion": "Polonia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "93"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "104"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Ernst Wilimowski",
+   "seleccion": "Polonia",
+   "minuto": "118"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Checoslovaquia",
+   "visitante": "Países Bajos",
+   "jugador": "Josef Košťálek",
+   "seleccion": "Checoslovaquia",
+   "minuto": "93"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Checoslovaquia",
+   "visitante": "Países Bajos",
+   "jugador": "Josef Zeman",
+   "seleccion": "Checoslovaquia",
+   "minuto": "111"
+  },
+  {
+   "fecha": "1938-06-05",
+   "local": "Checoslovaquia",
+   "visitante": "Países Bajos",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "118"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Ștefan Dobay",
+   "seleccion": "Rumania",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Héctor Socorro",
+   "seleccion": "Cuba",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Cuba",
+   "visitante": "Rumania",
+   "jugador": "Tomás Fernández",
+   "seleccion": "Cuba",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "Wilhelm Hahnemann",
+   "seleccion": "Alemania",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "Ernst Lörtscher",
+   "seleccion": "Suiza",
+   "minuto": "22",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "Eugen Walaschek",
+   "seleccion": "Suiza",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "Alfred Bickel",
+   "seleccion": "Suiza",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "André Abegglen",
+   "seleccion": "Suiza",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1938-06-09",
+   "local": "Suiza",
+   "visitante": "Alemania",
+   "jugador": "André Abegglen",
+   "seleccion": "Suiza",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Oldřich Nejedlý",
+   "seleccion": "Checoslovaquia",
+   "minuto": "65",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Hungría",
+   "visitante": "Suiza",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Hungría",
+   "visitante": "Suiza",
+   "jugador": "Gyula Zsengellér",
+   "seleccion": "Hungría",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Gino Colaussi",
+   "seleccion": "Italia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Oscar Heisserer",
+   "seleccion": "Francia",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Silvio Piola",
+   "seleccion": "Italia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Silvio Piola",
+   "seleccion": "Italia",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Harry Andersson",
+   "seleccion": "Suecia",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Gustav Wetterström",
+   "seleccion": "Suecia",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Gustav Wetterström",
+   "seleccion": "Suecia",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Gustav Wetterström",
+   "seleccion": "Suecia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Tore Keller",
+   "seleccion": "Suecia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Harry Andersson",
+   "seleccion": "Suecia",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Arne Nyberg",
+   "seleccion": "Suecia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1938-06-12",
+   "local": "Suecia",
+   "visitante": "Cuba",
+   "jugador": "Harry Andersson",
+   "seleccion": "Suecia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1938-06-14",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Vlastimil Kopecký",
+   "seleccion": "Checoslovaquia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1938-06-14",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1938-06-14",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Roberto",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "Arne Nyberg",
+   "seleccion": "Suecia",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "Sven Jacobsson",
+   "seleccion": "Suecia",
+   "minuto": "19",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "Pál Titkos",
+   "seleccion": "Hungría",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "Gyula Zsengellér",
+   "seleccion": "Hungría",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Hungría",
+   "visitante": "Suecia",
+   "jugador": "Gyula Zsengellér",
+   "seleccion": "Hungría",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Gino Colaussi",
+   "seleccion": "Italia",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Giuseppe Meazza",
+   "seleccion": "Italia",
+   "minuto": "60",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1938-06-16",
+   "local": "Italia",
+   "visitante": "Brasil",
+   "jugador": "Romeu",
+   "seleccion": "Brasil",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Sven Jonasson",
+   "seleccion": "Suecia",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Arne Nyberg",
+   "seleccion": "Suecia",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Romeu",
+   "seleccion": "Brasil",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Leônidas",
+   "seleccion": "Brasil",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Brasil",
+   "visitante": "Suecia",
+   "jugador": "Perácio",
+   "seleccion": "Brasil",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Gino Colaussi",
+   "seleccion": "Italia",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Pál Titkos",
+   "seleccion": "Hungría",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Silvio Piola",
+   "seleccion": "Italia",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Gino Colaussi",
+   "seleccion": "Italia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "György Sárosi",
+   "seleccion": "Hungría",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1938-06-19",
+   "local": "Italia",
+   "visitante": "Hungría",
+   "jugador": "Silvio Piola",
+   "seleccion": "Italia",
+   "minuto": "82"
+  }
+ ]
+}

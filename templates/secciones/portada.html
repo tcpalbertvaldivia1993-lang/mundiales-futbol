@@ -1,0 +1,11 @@
+<section id="inicio" class="portada">
+  <p class="antetitulo">{{ m.paises | map("nombre") | join(" · ") }}</p>
+  <h1>{{ t("Copa Mundial {año}", año=m.año) }}</h1>
+  {% if m.año == 2026 %}<p class="lema">{{ t("Tres países, un solo balón.") }}</p>{% endif %}
+  <ul class="cifras">
+    <li><strong>{{ m.selecciones | length }}</strong> {{ t("selecciones") }}</li>
+    <li><strong>{{ m.todos_los_partidos | length }}</strong> {{ t("partidos") }}</li>
+    <li><strong>{{ m.estadios | length }}</strong> {{ t("sedes") }}</li>
+    {% if m.paises | length > 1 %}<li><strong>{{ m.paises | length }}</strong> {{ t("países") }}</li>{% endif %}
+  </ul>
+</section>

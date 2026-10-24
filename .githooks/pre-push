@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+# Git ejecuta este script antes de cada "git push".
+# Lanza las pruebas de la web y, si alguna falla, cancela el push.
+# Para subir sin probar en un caso urgente: git push --no-verify
+
+# Git pasa una línea por cada rama que se va a subir: "ref_local sha_local ref_remota sha_remota".
+# Si sha_local son todo ceros, es que se está borrando esa rama en GitHub.
+cero=0000000000000000000000000000000000000000
+solo_borrados=true
+while read -r ref_local sha_local ref_remota sha_remota; do
+  if [ "$sha_local" != "$cero" ]; then
+    solo_borrados=false
+  fi
+done
+if $solo_borrados; then
+  exit 0 # borrar una rama no necesita pruebas
+fi
+
+raiz=$(git rev-parse --show-toplevel)
+python="$raiz/venv/bin/python"
+
+if [ ! -x "$python" ] || ! "$python" -c "import flask, pytest, pytest_cov, playwright, axe_playwright_python" 2>/dev/null; then
+  echo "❌ No se pueden ejecutar las pruebas: falta venv/ o algo de requirements-dev.txt (pytest, Playwright, axe...)."
+  echo "   Mira la sección «Entorno virtual» del README. Para subir sin probar: git push --no-verify"
+  exit 1
+fi
+
+cancelar() {
+  echo "❌ Las pruebas han fallado: el push se ha cancelado."
+  echo "   Arréglalo y vuelve a intentarlo (o, solo si es urgente: git push --no-verify)."
+  exit 1
+}
+
+# 1) pytest: la lógica y las rutas, en menos de un segundo. Si falla, no hace falta abrir el navegador.
+#    Con --cov-fail-under=100 también falla si queda alguna línea o algún "if" sin probar.
+echo "🔎 Pruebas de la lógica (pytest)..."
+if ! salida=$(cd "$raiz" && "$python" -m pytest -q --cov-fail-under=100 2>&1); then
+  echo "$salida" | grep -E "FAILED|Error|failed|Required test coverage|^(app|mundial)\.py" | head -20
+  cancelar
+fi
+
+# 2) El navegador: la web completa, en unos 30 segundos
+echo "🔎 Pruebas en el navegador..."
+if ! salida=$("$python" "$raiz/pruebas/probar_web.py" 2>&1); then
+  # Solo las líneas que explican el fallo, no todas las comprobaciones
+  echo "$salida" | grep -E "❌|fallo|Error" | head -20
+  cancelar
+fi
+
+echo "✅ Pruebas superadas. Subiendo..."

@@ -1,0 +1,2438 @@
+{
+ "año": 1998,
+ "sedes": [
+  "Francia"
+ ],
+ "campeon": "Francia",
+ "inicio": "1998-06-10",
+ "fin": "1998-07-12",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Stade du Parc Lescure",
+   "ciudad": "Burdeos",
+   "pais": "Francia",
+   "capacidad": 35000
+  },
+  {
+   "nombre": "Stade Félix-Bollaert",
+   "ciudad": "Lens",
+   "pais": "Francia",
+   "capacidad": 41000
+  },
+  {
+   "nombre": "Stade de Gerland",
+   "ciudad": "Lyon",
+   "pais": "Francia",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Stade Vélodrome",
+   "ciudad": "Marsella",
+   "pais": "Francia",
+   "capacidad": 60000
+  },
+  {
+   "nombre": "Stade de la Mosson",
+   "ciudad": "Montpellier",
+   "pais": "Francia",
+   "capacidad": 34000
+  },
+  {
+   "nombre": "Stade de la Beaujoire",
+   "ciudad": "Nantes",
+   "pais": "Francia",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Parc des Princes",
+   "ciudad": "París",
+   "pais": "Francia",
+   "capacidad": 49000
+  },
+  {
+   "nombre": "Stade de France",
+   "ciudad": "Saint-Denis",
+   "pais": "Francia",
+   "capacidad": 80000
+  },
+  {
+   "nombre": "Stade Geoffroy-Guichard",
+   "ciudad": "Saint-Étienne",
+   "pais": "Francia",
+   "capacidad": 36000
+  },
+  {
+   "nombre": "Stade de Toulouse",
+   "ciudad": "Toulouse",
+   "pais": "Francia",
+   "capacidad": 37000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Noruega",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-10",
+     "estadio": "Stade de France",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-10",
+     "estadio": "Stade de la Mosson",
+     "local": "Marruecos",
+     "golesLocal": 2,
+     "visitante": "Noruega",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-16",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Escocia",
+     "golesLocal": 1,
+     "visitante": "Noruega",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-16",
+     "estadio": "Stade de la Beaujoire",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-23",
+     "estadio": "Stade Vélodrome",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Noruega",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-23",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "Escocia",
+     "golesLocal": 0,
+     "visitante": "Marruecos",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 3,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Austria",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-11",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-11",
+     "estadio": "Stade de Toulouse",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-17",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Austria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-17",
+     "estadio": "Stade de la Mosson",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Camerún",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-23",
+     "estadio": "Stade de la Beaujoire",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-23",
+     "estadio": "Stade de France",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Austria",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 1,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Sudáfrica",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 3,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-12",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "Arabia Saudí",
+     "golesLocal": 0,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-12",
+     "estadio": "Stade Vélodrome",
+     "local": "Francia",
+     "golesLocal": 3,
+     "visitante": "Sudáfrica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-18",
+     "estadio": "Stade de Toulouse",
+     "local": "Sudáfrica",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-18",
+     "estadio": "Stade de France",
+     "local": "Francia",
+     "golesLocal": 4,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-24",
+     "estadio": "Stade de Gerland",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-24",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Sudáfrica",
+     "golesLocal": 2,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-12",
+     "estadio": "Stade de la Mosson",
+     "local": "Paraguay",
+     "golesLocal": 0,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-13",
+     "estadio": "Stade de la Beaujoire",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1998-06-19",
+     "estadio": "Parc des Princes",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-19",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-24",
+     "estadio": "Stade de Toulouse",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1998-06-24",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "España",
+     "golesLocal": 6,
+     "visitante": "Bulgaria",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Países Bajos",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 7,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 0,
+     "e": 3,
+     "p": 0,
+     "gf": 3,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 9,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-13",
+     "estadio": "Stade de Gerland",
+     "local": "Corea del Sur",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1998-06-13",
+     "estadio": "Stade de France",
+     "local": "Países Bajos",
+     "golesLocal": 0,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-20",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-20",
+     "estadio": "Stade Vélodrome",
+     "local": "Países Bajos",
+     "golesLocal": 5,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-25",
+     "estadio": "Parc des Princes",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-25",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Irán",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 5,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-14",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "Yugoslavia",
+     "golesLocal": 1,
+     "visitante": "Irán",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-15",
+     "estadio": "Parc des Princes",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-21",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-21",
+     "estadio": "Stade de Gerland",
+     "local": "Estados Unidos",
+     "golesLocal": 1,
+     "visitante": "Irán",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-25",
+     "estadio": "Stade de la Mosson",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "Irán",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-25",
+     "estadio": "Stade de la Beaujoire",
+     "local": "Estados Unidos",
+     "golesLocal": 0,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "Rumania",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-15",
+     "estadio": "Stade Vélodrome",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-15",
+     "estadio": "Stade de Gerland",
+     "local": "Rumania",
+     "golesLocal": 1,
+     "visitante": "Colombia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-22",
+     "estadio": "Stade de la Mosson",
+     "local": "Colombia",
+     "golesLocal": 1,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-22",
+     "estadio": "Stade de Toulouse",
+     "local": "Rumania",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-26",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "Colombia",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-06-26",
+     "estadio": "Stade de France",
+     "local": "Rumania",
+     "golesLocal": 1,
+     "visitante": "Túnez",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 0,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Jamaica",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 9,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1998-06-14",
+     "estadio": "Stade de Toulouse",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Japón",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-14",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "Jamaica",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1998-06-20",
+     "estadio": "Stade de la Beaujoire",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-21",
+     "estadio": "Parc des Princes",
+     "local": "Argentina",
+     "golesLocal": 5,
+     "visitante": "Jamaica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-26",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-26",
+     "estadio": "Stade de Gerland",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Jamaica",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1998-06-27",
+     "estadio": "Stade Vélodrome",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Noruega",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1998-06-27",
+     "estadio": "Parc des Princes",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Chile",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-28",
+     "estadio": "Stade Félix-Bollaert",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 0,
+     "prorroga": true
+    },
+    {
+     "fecha": "1998-06-28",
+     "estadio": "Stade de France",
+     "local": "Nigeria",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "1998-06-29",
+     "estadio": "Stade de la Mosson",
+     "local": "Alemania",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-29",
+     "estadio": "Stade de Toulouse",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-30",
+     "estadio": "Stade du Parc Lescure",
+     "local": "Rumania",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-06-30",
+     "estadio": "Stade Geoffroy-Guichard",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1998-07-03",
+     "estadio": "Stade de France",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    },
+    {
+     "fecha": "1998-07-03",
+     "estadio": "Stade de la Beaujoire",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Dinamarca",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1998-07-04",
+     "estadio": "Stade Vélodrome",
+     "local": "Países Bajos",
+     "golesLocal": 2,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1998-07-04",
+     "estadio": "Stade de Gerland",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "Croacia",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1998-07-07",
+     "estadio": "Stade Vélodrome",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Países Bajos",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      2
+     ]
+    },
+    {
+     "fecha": "1998-07-08",
+     "estadio": "Stade de France",
+     "local": "Francia",
+     "golesLocal": 2,
+     "visitante": "Croacia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1998-07-11",
+     "estadio": "Parc des Princes",
+     "local": "Países Bajos",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1998-07-12",
+     "estadio": "Stade de France",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 3
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1998-06-10",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "César Sampaio",
+   "seleccion": "Brasil",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "John Collins",
+   "seleccion": "Escocia",
+   "minuto": "38",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Brasil",
+   "visitante": "Escocia",
+   "jugador": "Tom Boyd",
+   "seleccion": "Escocia",
+   "minuto": "74",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Marruecos",
+   "visitante": "Noruega",
+   "jugador": "Mustapha Hadji",
+   "seleccion": "Marruecos",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Marruecos",
+   "visitante": "Noruega",
+   "jugador": "Youssef Chippo",
+   "seleccion": "Marruecos",
+   "minuto": "45+1",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Marruecos",
+   "visitante": "Noruega",
+   "jugador": "Abdeljalil Hadda",
+   "seleccion": "Marruecos",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1998-06-10",
+   "local": "Marruecos",
+   "visitante": "Noruega",
+   "jugador": "Dan Eggen",
+   "seleccion": "Noruega",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Marcelo Salas",
+   "seleccion": "Chile",
+   "minuto": "45+3"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Marcelo Salas",
+   "seleccion": "Chile",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "84",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Camerún",
+   "visitante": "Austria",
+   "jugador": "Pierre Njanka",
+   "seleccion": "Camerún",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1998-06-11",
+   "local": "Camerún",
+   "visitante": "Austria",
+   "jugador": "Toni Polster",
+   "seleccion": "Austria",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "1998-06-12",
+   "local": "Arabia Saudí",
+   "visitante": "Dinamarca",
+   "jugador": "Marc Rieper",
+   "seleccion": "Dinamarca",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1998-06-12",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Christophe Dugarry",
+   "seleccion": "Francia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1998-06-12",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Pierre Issa",
+   "seleccion": "Sudáfrica",
+   "minuto": "77",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-12",
+   "local": "Francia",
+   "visitante": "Sudáfrica",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "España",
+   "visitante": "Nigeria",
+   "jugador": "Fernando Hierro",
+   "seleccion": "España",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "España",
+   "visitante": "Nigeria",
+   "jugador": "Mutiu Adepoju",
+   "seleccion": "Nigeria",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "España",
+   "visitante": "Nigeria",
+   "jugador": "Raúl",
+   "seleccion": "España",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "España",
+   "visitante": "Nigeria",
+   "jugador": "Andoni Zubizarreta",
+   "seleccion": "España",
+   "minuto": "73",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "España",
+   "visitante": "Nigeria",
+   "jugador": "Sunday Oliseh",
+   "seleccion": "Nigeria",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Seok-ju Ha",
+   "seleccion": "Corea del Sur",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Ricardo Peláez",
+   "seleccion": "México",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Luis Hernández",
+   "seleccion": "México",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1998-06-13",
+   "local": "Corea del Sur",
+   "visitante": "México",
+   "jugador": "Luis Hernández",
+   "seleccion": "México",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Argentina",
+   "visitante": "Japón",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Yugoslavia",
+   "visitante": "Irán",
+   "jugador": "Siniša Mihajlović",
+   "seleccion": "Yugoslavia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Jamaica",
+   "visitante": "Croacia",
+   "jugador": "Mario Stanić",
+   "seleccion": "Croacia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Jamaica",
+   "visitante": "Croacia",
+   "jugador": "Robbie Earle",
+   "seleccion": "Jamaica",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Jamaica",
+   "visitante": "Croacia",
+   "jugador": "Robert Prosinečki",
+   "seleccion": "Croacia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1998-06-14",
+   "local": "Jamaica",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1998-06-15",
+   "local": "Inglaterra",
+   "visitante": "Túnez",
+   "jugador": "Alan Shearer",
+   "seleccion": "Inglaterra",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1998-06-15",
+   "local": "Inglaterra",
+   "visitante": "Túnez",
+   "jugador": "Paul Scholes",
+   "seleccion": "Inglaterra",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1998-06-15",
+   "local": "Rumania",
+   "visitante": "Colombia",
+   "jugador": "Adrian Ilie",
+   "seleccion": "Rumania",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "1998-06-15",
+   "local": "Alemania",
+   "visitante": "Estados Unidos",
+   "jugador": "Andreas Möller",
+   "seleccion": "Alemania",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1998-06-15",
+   "local": "Alemania",
+   "visitante": "Estados Unidos",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1998-06-16",
+   "local": "Escocia",
+   "visitante": "Noruega",
+   "jugador": "Håvard Flo",
+   "seleccion": "Noruega",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1998-06-16",
+   "local": "Escocia",
+   "visitante": "Noruega",
+   "jugador": "Craig Burley",
+   "seleccion": "Escocia",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1998-06-16",
+   "local": "Brasil",
+   "visitante": "Marruecos",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1998-06-16",
+   "local": "Brasil",
+   "visitante": "Marruecos",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "45+2"
+  },
+  {
+   "fecha": "1998-06-16",
+   "local": "Brasil",
+   "visitante": "Marruecos",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1998-06-17",
+   "local": "Chile",
+   "visitante": "Austria",
+   "jugador": "Marcelo Salas",
+   "seleccion": "Chile",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1998-06-17",
+   "local": "Chile",
+   "visitante": "Austria",
+   "jugador": "Ivica Vastić",
+   "seleccion": "Austria",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "1998-06-17",
+   "local": "Italia",
+   "visitante": "Camerún",
+   "jugador": "Luigi Di Biagio",
+   "seleccion": "Italia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1998-06-17",
+   "local": "Italia",
+   "visitante": "Camerún",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1998-06-17",
+   "local": "Italia",
+   "visitante": "Camerún",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Sudáfrica",
+   "visitante": "Dinamarca",
+   "jugador": "Allan Nielsen",
+   "seleccion": "Dinamarca",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Sudáfrica",
+   "visitante": "Dinamarca",
+   "jugador": "Benni McCarthy",
+   "seleccion": "Sudáfrica",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Francia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Francia",
+   "visitante": "Arabia Saudí",
+   "jugador": "David Trezeguet",
+   "seleccion": "Francia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Francia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Thierry Henry",
+   "seleccion": "Francia",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1998-06-18",
+   "local": "Francia",
+   "visitante": "Arabia Saudí",
+   "jugador": "Bixente Lizarazu",
+   "seleccion": "Francia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1998-06-19",
+   "local": "Nigeria",
+   "visitante": "Bulgaria",
+   "jugador": "Victor Ikpeba",
+   "seleccion": "Nigeria",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Japón",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Marc Wilmots",
+   "seleccion": "Bélgica",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Marc Wilmots",
+   "seleccion": "Bélgica",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Alberto García Aspe",
+   "seleccion": "México",
+   "minuto": "55",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Cuauhtémoc Blanco",
+   "seleccion": "México",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Países Bajos",
+   "visitante": "Corea del Sur",
+   "jugador": "Phillip Cocu",
+   "seleccion": "Países Bajos",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Países Bajos",
+   "visitante": "Corea del Sur",
+   "jugador": "Marc Overmars",
+   "seleccion": "Países Bajos",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Países Bajos",
+   "visitante": "Corea del Sur",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Países Bajos",
+   "visitante": "Corea del Sur",
+   "jugador": "Pierre van Hooijdonk",
+   "seleccion": "Países Bajos",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1998-06-20",
+   "local": "Países Bajos",
+   "visitante": "Corea del Sur",
+   "jugador": "Ronald de Boer",
+   "seleccion": "Países Bajos",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Alemania",
+   "visitante": "Yugoslavia",
+   "jugador": "Predrag Mijatović",
+   "seleccion": "Yugoslavia",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Alemania",
+   "visitante": "Yugoslavia",
+   "jugador": "Dragan Stojković",
+   "seleccion": "Yugoslavia",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Alemania",
+   "visitante": "Yugoslavia",
+   "jugador": "Siniša Mihajlović",
+   "seleccion": "Yugoslavia",
+   "minuto": "72",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Alemania",
+   "visitante": "Yugoslavia",
+   "jugador": "Oliver Bierhoff",
+   "seleccion": "Alemania",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Argentina",
+   "visitante": "Jamaica",
+   "jugador": "Ariel Ortega",
+   "seleccion": "Argentina",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Argentina",
+   "visitante": "Jamaica",
+   "jugador": "Ariel Ortega",
+   "seleccion": "Argentina",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Argentina",
+   "visitante": "Jamaica",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Argentina",
+   "visitante": "Jamaica",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Argentina",
+   "visitante": "Jamaica",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "83",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Estados Unidos",
+   "visitante": "Irán",
+   "jugador": "Hamid Estili",
+   "seleccion": "Irán",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Estados Unidos",
+   "visitante": "Irán",
+   "jugador": "Mehdi Mahdavikia",
+   "seleccion": "Irán",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1998-06-21",
+   "local": "Estados Unidos",
+   "visitante": "Irán",
+   "jugador": "Brian McBride",
+   "seleccion": "Estados Unidos",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1998-06-22",
+   "local": "Colombia",
+   "visitante": "Túnez",
+   "jugador": "Léider Preciado",
+   "seleccion": "Colombia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1998-06-22",
+   "local": "Rumania",
+   "visitante": "Inglaterra",
+   "jugador": "Viorel Moldovan",
+   "seleccion": "Rumania",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1998-06-22",
+   "local": "Rumania",
+   "visitante": "Inglaterra",
+   "jugador": "Michael Owen",
+   "seleccion": "Inglaterra",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1998-06-22",
+   "local": "Rumania",
+   "visitante": "Inglaterra",
+   "jugador": "Dan Petrescu",
+   "seleccion": "Rumania",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Chile",
+   "visitante": "Camerún",
+   "jugador": "José Luis Sierra",
+   "seleccion": "Chile",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Chile",
+   "visitante": "Camerún",
+   "jugador": "Patrick M'Boma",
+   "seleccion": "Camerún",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Roberto Baggio",
+   "seleccion": "Italia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Italia",
+   "visitante": "Austria",
+   "jugador": "Andi Herzog",
+   "seleccion": "Austria",
+   "minuto": "90+2",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Brasil",
+   "visitante": "Noruega",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Brasil",
+   "visitante": "Noruega",
+   "jugador": "Tore André Flo",
+   "seleccion": "Noruega",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Brasil",
+   "visitante": "Noruega",
+   "jugador": "Kjetil Rekdal",
+   "seleccion": "Noruega",
+   "minuto": "89",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Escocia",
+   "visitante": "Marruecos",
+   "jugador": "Salaheddine Bassir",
+   "seleccion": "Marruecos",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Escocia",
+   "visitante": "Marruecos",
+   "jugador": "Abdeljalil Hadda",
+   "seleccion": "Marruecos",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1998-06-23",
+   "local": "Escocia",
+   "visitante": "Marruecos",
+   "jugador": "Salaheddine Bassir",
+   "seleccion": "Marruecos",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Youri Djorkaeff",
+   "seleccion": "Francia",
+   "minuto": "12",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Michael Laudrup",
+   "seleccion": "Dinamarca",
+   "minuto": "42",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Francia",
+   "visitante": "Dinamarca",
+   "jugador": "Emmanuel Petit",
+   "seleccion": "Francia",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Sudáfrica",
+   "visitante": "Arabia Saudí",
+   "jugador": "Shaun Bartlett",
+   "seleccion": "Sudáfrica",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Sudáfrica",
+   "visitante": "Arabia Saudí",
+   "jugador": "Sami Al-Jaber",
+   "seleccion": "Arabia Saudí",
+   "minuto": "45+2",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Sudáfrica",
+   "visitante": "Arabia Saudí",
+   "jugador": "Yousuf Al-Thunayan",
+   "seleccion": "Arabia Saudí",
+   "minuto": "74",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Sudáfrica",
+   "visitante": "Arabia Saudí",
+   "jugador": "Shaun Bartlett",
+   "seleccion": "Sudáfrica",
+   "minuto": "90+3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Nigeria",
+   "visitante": "Paraguay",
+   "jugador": "Celso Ayala",
+   "seleccion": "Paraguay",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Nigeria",
+   "visitante": "Paraguay",
+   "jugador": "Wilson Oruma",
+   "seleccion": "Nigeria",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Nigeria",
+   "visitante": "Paraguay",
+   "jugador": "Miguel Ángel Benítez",
+   "seleccion": "Paraguay",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "Nigeria",
+   "visitante": "Paraguay",
+   "jugador": "José Cardozo",
+   "seleccion": "Paraguay",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Fernando Hierro",
+   "seleccion": "España",
+   "minuto": "6",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Luis Enrique",
+   "seleccion": "España",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Fernando Morientes",
+   "seleccion": "España",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Emil Kostadinov",
+   "seleccion": "Bulgaria",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Fernando Morientes",
+   "seleccion": "España",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Georgi Bachev",
+   "seleccion": "Bulgaria",
+   "minuto": "88",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1998-06-24",
+   "local": "España",
+   "visitante": "Bulgaria",
+   "jugador": "Kiko",
+   "seleccion": "España",
+   "minuto": "90+4"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Bélgica",
+   "visitante": "Corea del Sur",
+   "jugador": "Luc Nilis",
+   "seleccion": "Bélgica",
+   "minuto": "7"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Bélgica",
+   "visitante": "Corea del Sur",
+   "jugador": "Sang-chul Yoo",
+   "seleccion": "Corea del Sur",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Phillip Cocu",
+   "seleccion": "Países Bajos",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Ronald de Boer",
+   "seleccion": "Países Bajos",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Ricardo Peláez",
+   "seleccion": "México",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Países Bajos",
+   "visitante": "México",
+   "jugador": "Luis Hernández",
+   "seleccion": "México",
+   "minuto": "90+4"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Alemania",
+   "visitante": "Irán",
+   "jugador": "Oliver Bierhoff",
+   "seleccion": "Alemania",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Alemania",
+   "visitante": "Irán",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1998-06-25",
+   "local": "Estados Unidos",
+   "visitante": "Yugoslavia",
+   "jugador": "Slobodan Komljenović",
+   "seleccion": "Yugoslavia",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Argentina",
+   "visitante": "Croacia",
+   "jugador": "Mauricio Pineda",
+   "seleccion": "Argentina",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Japón",
+   "visitante": "Jamaica",
+   "jugador": "Theodore Whitmore",
+   "seleccion": "Jamaica",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Japón",
+   "visitante": "Jamaica",
+   "jugador": "Theodore Whitmore",
+   "seleccion": "Jamaica",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Japón",
+   "visitante": "Jamaica",
+   "jugador": "Masashi Nakayama",
+   "seleccion": "Japón",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Colombia",
+   "visitante": "Inglaterra",
+   "jugador": "Darren Anderton",
+   "seleccion": "Inglaterra",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Colombia",
+   "visitante": "Inglaterra",
+   "jugador": "David Beckham",
+   "seleccion": "Inglaterra",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Rumania",
+   "visitante": "Túnez",
+   "jugador": "Skander Souayah",
+   "seleccion": "Túnez",
+   "minuto": "12",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-26",
+   "local": "Rumania",
+   "visitante": "Túnez",
+   "jugador": "Viorel Moldovan",
+   "seleccion": "Rumania",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Italia",
+   "visitante": "Noruega",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "César Sampaio",
+   "seleccion": "Brasil",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "César Sampaio",
+   "seleccion": "Brasil",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "45+3",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Marcelo Salas",
+   "seleccion": "Chile",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1998-06-27",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Francia",
+   "visitante": "Paraguay",
+   "jugador": "Laurent Blanc",
+   "seleccion": "Francia",
+   "minuto": "114"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Nigeria",
+   "visitante": "Dinamarca",
+   "jugador": "Peter Møller",
+   "seleccion": "Dinamarca",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Nigeria",
+   "visitante": "Dinamarca",
+   "jugador": "Brian Laudrup",
+   "seleccion": "Dinamarca",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Nigeria",
+   "visitante": "Dinamarca",
+   "jugador": "Ebbe Sand",
+   "seleccion": "Dinamarca",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Nigeria",
+   "visitante": "Dinamarca",
+   "jugador": "Thomas Helveg",
+   "seleccion": "Dinamarca",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1998-06-28",
+   "local": "Nigeria",
+   "visitante": "Dinamarca",
+   "jugador": "Tijani Babangida",
+   "seleccion": "Nigeria",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Alemania",
+   "visitante": "México",
+   "jugador": "Luis Hernández",
+   "seleccion": "México",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Alemania",
+   "visitante": "México",
+   "jugador": "Jürgen Klinsmann",
+   "seleccion": "Alemania",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Alemania",
+   "visitante": "México",
+   "jugador": "Oliver Bierhoff",
+   "seleccion": "Alemania",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Países Bajos",
+   "visitante": "Yugoslavia",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Países Bajos",
+   "visitante": "Yugoslavia",
+   "jugador": "Slobodan Komljenović",
+   "seleccion": "Yugoslavia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1998-06-29",
+   "local": "Países Bajos",
+   "visitante": "Yugoslavia",
+   "jugador": "Edgar Davids",
+   "seleccion": "Países Bajos",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "1998-06-30",
+   "local": "Rumania",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "45+2",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-30",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "5",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-30",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Alan Shearer",
+   "seleccion": "Inglaterra",
+   "minuto": "9",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1998-06-30",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Michael Owen",
+   "seleccion": "Inglaterra",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1998-06-30",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Javier Zanetti",
+   "seleccion": "Argentina",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "1998-07-03",
+   "local": "Brasil",
+   "visitante": "Dinamarca",
+   "jugador": "Martin Jørgensen",
+   "seleccion": "Dinamarca",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1998-07-03",
+   "local": "Brasil",
+   "visitante": "Dinamarca",
+   "jugador": "Bebeto",
+   "seleccion": "Brasil",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1998-07-03",
+   "local": "Brasil",
+   "visitante": "Dinamarca",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1998-07-03",
+   "local": "Brasil",
+   "visitante": "Dinamarca",
+   "jugador": "Brian Laudrup",
+   "seleccion": "Dinamarca",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1998-07-03",
+   "local": "Brasil",
+   "visitante": "Dinamarca",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Patrick Kluivert",
+   "seleccion": "Países Bajos",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Claudio López",
+   "seleccion": "Argentina",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Países Bajos",
+   "visitante": "Argentina",
+   "jugador": "Dennis Bergkamp",
+   "seleccion": "Países Bajos",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Alemania",
+   "visitante": "Croacia",
+   "jugador": "Robert Jarni",
+   "seleccion": "Croacia",
+   "minuto": "45+3"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Alemania",
+   "visitante": "Croacia",
+   "jugador": "Goran Vlaović",
+   "seleccion": "Croacia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1998-07-04",
+   "local": "Alemania",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1998-07-07",
+   "local": "Brasil",
+   "visitante": "Países Bajos",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1998-07-07",
+   "local": "Brasil",
+   "visitante": "Países Bajos",
+   "jugador": "Patrick Kluivert",
+   "seleccion": "Países Bajos",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1998-07-08",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1998-07-08",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Lilian Thuram",
+   "seleccion": "Francia",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1998-07-08",
+   "local": "Francia",
+   "visitante": "Croacia",
+   "jugador": "Lilian Thuram",
+   "seleccion": "Francia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1998-07-11",
+   "local": "Países Bajos",
+   "visitante": "Croacia",
+   "jugador": "Robert Prosinečki",
+   "seleccion": "Croacia",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1998-07-11",
+   "local": "Países Bajos",
+   "visitante": "Croacia",
+   "jugador": "Boudewijn Zenden",
+   "seleccion": "Países Bajos",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1998-07-11",
+   "local": "Países Bajos",
+   "visitante": "Croacia",
+   "jugador": "Davor Šuker",
+   "seleccion": "Croacia",
+   "minuto": "36"
+  },
+  {
+   "fecha": "1998-07-12",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Zinedine Zidane",
+   "seleccion": "Francia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1998-07-12",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Zinedine Zidane",
+   "seleccion": "Francia",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "1998-07-12",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Emmanuel Petit",
+   "seleccion": "Francia",
+   "minuto": "90+3"
+  }
+ ]
+}

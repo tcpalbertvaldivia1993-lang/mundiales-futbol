@@ -1,0 +1,1053 @@
+/* ===== Variables de color y tipografía ===== */
+/* Tema oscuro (el de siempre): un estadio de noche */
+:root {
+  color-scheme: dark; /* los campos y barras de desplazamiento del navegador, también oscuros */
+  --fondo: #0a1222;
+  --fondo-tarjeta: #13203a;
+  --fondo-cabecera: rgba(10, 18, 34, 0.92);
+  --foco-luz: rgba(255, 255, 255, 0.08); /* los dos "focos" de luz del fondo */
+  --borde: #24365a;
+  --texto: #e8edf5;
+  --texto-suave: #a7b3c8;
+  --cesped: #2ecc71;
+  --oro: #f2c14e;
+  --rojo: #e74c3c;
+  --fuente-titulos: "Bebas Neue", Impact, "Arial Narrow", sans-serif;
+  --fuente-texto: "Inter", system-ui, sans-serif;
+}
+
+/* Tema claro. Solo cambian los colores. El verde y el dorado son más oscuros: sobre fondo claro,
+   los de noche casi no se leerían (contraste 1,9 y 1,6; estos pasan de 4,5, el mínimo para texto).
+
+   Se usa en dos casos, y por eso está dos veces (CSS no deja juntar una @media y un selector):
+   1. El sistema está en modo claro y no se ha elegido "Oscuro" a mano (data-tema="oscuro").
+   2. Se ha elegido "Claro" a mano (data-tema="claro"), aunque el sistema esté en modo oscuro.
+   ¡Si cambias un color, cámbialo en los dos! probar_web.py comprueba que son iguales. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-tema="oscuro"]) {
+    color-scheme: light;
+    --fondo: #f4f6fa;
+    --fondo-tarjeta: #ffffff;
+    --fondo-cabecera: rgba(244, 246, 250, 0.92);
+    --foco-luz: rgba(22, 128, 60, 0.07);
+    --borde: #d5dce8;
+    --texto: #14213d;
+    --texto-suave: #4a5870;
+    --cesped: #16803c;
+    --oro: #8a5a00;
+    --rojo: #c0392b;
+  }
+}
+
+:root[data-tema="claro"] {
+  color-scheme: light;
+  --fondo: #f4f6fa;
+  --fondo-tarjeta: #ffffff;
+  --fondo-cabecera: rgba(244, 246, 250, 0.92);
+  --foco-luz: rgba(22, 128, 60, 0.07);
+  --borde: #d5dce8;
+  --texto: #14213d;
+  --texto-suave: #4a5870;
+  --cesped: #16803c;
+  --oro: #8a5a00;
+  --rojo: #c0392b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Un poco de aire arriba al saltar a una sección o al moverse con el teclado. En el móvil la
+   cabecera no es fija (se va al bajar), así que no tapa nada. Desde 720px sí lo es: más abajo,
+   en las @media, se reserva su altura para que no tape los títulos ni lo que tiene el foco. */
+html {
+  scroll-padding-top: 1rem;
+}
+
+/* Desplazamiento suave solo si la persona no ha pedido menos animaciones, y solo después de
+   pulsar algo en la página (:focus-within). Al abrir un enlace directo como /#camino no hay nada
+   pulsado todavía, así que el salto es inmediato: si fuera suave, las fuentes que cargan a mitad
+   del recorrido moverían la página y se acabaría pasando de largo. */
+@media (prefers-reduced-motion: no-preference) {
+  html:focus-within {
+    scroll-behavior: smooth;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: var(--fuente-texto);
+  line-height: 1.6;
+  color: var(--texto);
+  /* Dos "focos" de luz sobre un fondo de estadio de noche */
+  background:
+    radial-gradient(ellipse at 15% 0%, var(--foco-luz), transparent 45%),
+    radial-gradient(ellipse at 85% 0%, var(--foco-luz), transparent 45%),
+    var(--fondo);
+  background-attachment: fixed;
+}
+
+h1, h2, h3, .logo {
+  font-family: var(--fuente-titulos);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+}
+
+h2 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  color: var(--oro);
+  margin: 0 0 1rem;
+}
+
+a {
+  color: var(--cesped);
+}
+
+/* ===== Cabecera y menú ===== */
+/* En el móvil la cabecera se queda arriba y se va al bajar: con el menú en dos o tres filas,
+   fija ocuparía casi una quinta parte de la pantalla. El botón ↑ lleva de vuelta a ella */
+.cabecera {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0.75rem 1rem;
+  background: var(--fondo-cabecera);
+  border-bottom: 1px solid var(--borde);
+  backdrop-filter: blur(6px);
+}
+
+.logo {
+  font-size: 1.6rem;
+  color: var(--texto);
+  text-decoration: none;
+}
+
+.logo span {
+  color: var(--oro);
+}
+
+/* En móvil los enlaces van en una fila que se desliza de lado (sin JavaScript):
+   solo se desplaza el menú, no la página */
+.menu {
+  display: flex;
+  /* Si los enlaces no caben, bajan a otra fila. Antes se deslizaban de lado, pero al recorrerlos
+     con la tecla Tab el navegador no siempre los desplazaba del todo y quedaban medio cortados */
+  flex-wrap: wrap;
+  column-gap: 1.25rem;
+  row-gap: 0.25rem;
+  width: 100%;
+  padding-top: 0.5rem;
+}
+
+.menu a {
+  flex-shrink: 0;
+  padding: 0.25rem 0;
+  color: var(--texto);
+  text-decoration: none;
+}
+
+.menu a:hover,
+.menu a:focus-visible {
+  color: var(--cesped);
+}
+
+/* ===== Portada ===== */
+.portada {
+  text-align: center;
+  padding: 4rem 1rem 3rem;
+}
+
+.antetitulo {
+  color: var(--cesped);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.portada h1 {
+  font-size: clamp(3rem, 14vw, 6.5rem);
+  line-height: 1;
+  margin: 0.5rem 0;
+}
+
+.lema {
+  color: var(--texto-suave);
+  font-size: 1.15rem;
+  margin: 0 0 2rem;
+}
+
+/* En la página 404: la dirección que no existe. Si es muy larga, se parte para no salirse en el móvil */
+.lema code {
+  color: var(--oro);
+  overflow-wrap: anywhere;
+}
+
+.cifras {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 720px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+.cifras li {
+  background: var(--fondo-tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  padding: 1rem;
+  color: var(--texto-suave);
+}
+
+.cifras strong {
+  display: block;
+  font-family: var(--fuente-titulos);
+  font-size: 2.6rem;
+  font-weight: 400;
+  color: var(--oro);
+  line-height: 1;
+}
+
+/* ===== Secciones y tarjetas ===== */
+.seccion {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  border-top: 1px solid var(--borde);
+}
+
+.rejilla {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.tarjeta {
+  background: var(--fondo-tarjeta);
+  border: 1px solid var(--borde);
+  border-top: 3px solid var(--cesped);
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.tarjeta h3 {
+  font-size: 1.5rem;
+  margin: 0 0 0.25rem;
+}
+
+.tarjeta p {
+  margin: 0.15rem 0;
+  color: var(--texto-suave);
+}
+
+.tarjeta .capacidad {
+  color: var(--oro);
+  font-weight: 600;
+}
+
+.nota {
+  color: var(--texto-suave);
+  font-size: 0.9rem;
+}
+
+/* Una nota que explica algo raro (un partido que se volvió a jugar, un desempate): con una raya dorada */
+.aviso {
+  border-left: 3px solid var(--oro);
+  padding-left: 0.75rem;
+}
+
+/* ===== Filtros y buscador ===== */
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* Filtros y botones pueden ser enlaces (<a>) o botones de formulario (<button>) */
+.filtro,
+.boton {
+  display: inline-block;
+  text-decoration: none;
+  font: inherit;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--cesped);
+  background: transparent;
+  color: var(--cesped);
+  cursor: pointer;
+}
+
+.filtro.activo,
+.boton {
+  background: var(--cesped);
+  color: var(--fondo);
+}
+
+.etiqueta {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--texto-suave);
+}
+
+/* Formularios de buscar y de elegir selección: el campo y su botón en una fila */
+.buscador {
+  margin-bottom: 1.25rem;
+}
+
+.buscador-fila {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.buscador-fila .boton-secundario {
+  margin-top: 0; /* en la fila, alineado con el botón de al lado */
+}
+
+#buscador,
+#selector-camino {
+  flex: 1 1 14rem;
+  max-width: 420px;
+  font: inherit;
+  padding: 0.6rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid var(--borde);
+  background: var(--fondo-tarjeta);
+  color: var(--texto);
+}
+
+/* ===== Tablas de clasificación ===== */
+.rejilla-grupos {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+}
+
+.tabla {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabla th,
+.tabla td {
+  padding: 0.35rem 0.3rem;
+  text-align: center;
+  border-bottom: 1px solid var(--borde);
+}
+
+.tabla thead th {
+  color: var(--texto-suave);
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+/* La columna del nombre va alineada a la izquierda */
+.tabla th:first-child,
+.tabla tbody th {
+  text-align: left;
+  font-weight: 400;
+}
+
+#tabla-terceros tbody th {
+  text-align: left;
+}
+
+.tabla tbody tr:last-child th,
+.tabla tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Barra verde para las que pasaron de ronda */
+.tabla tr.clasificada > :first-child {
+  box-shadow: inset 3px 0 0 var(--cesped);
+  padding-left: 0.6rem;
+}
+
+.tabla tr.encontrada {
+  background: var(--oro);
+  color: var(--fondo);
+  font-weight: 600;
+}
+
+.tabla-scroll {
+  overflow-x: auto;
+  max-width: 520px;
+}
+
+.subtitulo {
+  font-size: 1.8rem;
+  color: var(--oro);
+  margin: 2.5rem 0 0;
+}
+
+.leyenda {
+  margin-top: 0;
+}
+
+.tarjeta details {
+  margin-top: 0.75rem;
+}
+
+.tarjeta summary {
+  cursor: pointer;
+  color: var(--cesped);
+  font-weight: 600;
+}
+
+.lista-partidos {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  font-size: 0.85rem;
+  color: var(--texto-suave);
+}
+
+.lista-partidos li {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--borde);
+}
+
+.lista-partidos .anotadores,
+.camino .anotadores {
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+
+.lista-partidos li:last-child {
+  border-bottom: none;
+}
+
+/* ===== Récords del Mundial (en «Resultados») ===== */
+.records {
+  margin-top: 1rem;
+}
+
+.records > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.records > ul > li {
+  padding: 0.4rem 0;
+  color: var(--texto-suave);
+}
+
+/* ===== Formato ===== */
+.comparacion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.caja {
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+  background: var(--fondo-tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.caja h3 {
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.caja p {
+  margin: 0.2rem 0;
+  color: var(--texto-suave);
+}
+
+.caja strong {
+  color: var(--texto);
+}
+
+.caja-nueva {
+  border-color: var(--oro);
+}
+
+.caja-nueva strong {
+  color: var(--oro);
+}
+
+.flecha {
+  font-size: 2rem;
+  color: var(--cesped);
+  transform: rotate(90deg); /* en móvil apunta hacia abajo */
+}
+
+.texto {
+  max-width: 70ch;
+}
+
+/* ===== Resultados ===== */
+.campeon {
+  font-family: var(--fuente-titulos);
+  font-size: clamp(1.8rem, 6vw, 2.6rem);
+  letter-spacing: 0.04em;
+  color: var(--oro);
+  margin: 0 0 1rem;
+}
+
+#resultados .filtros {
+  margin-bottom: 1rem;
+}
+
+.partido .equipo {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 0.15rem 0;
+  color: var(--texto-suave);
+}
+
+/* El ganador se resalta en blanco y negrita */
+.partido .equipo.ganador {
+  color: var(--texto);
+  font-weight: 600;
+}
+
+.partido .goles {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== Línea del tiempo ===== */
+.linea-tiempo {
+  font-size: 0.85rem;
+}
+
+/* Dentro de las listas de partidos (grupos y estadios), el desplegable es más discreto */
+.lista-partidos .linea-tiempo {
+  margin-top: 0.25rem;
+}
+
+/* "Línea del tiempo" es un enlace que abre y cierra (?linea=...), con aspecto de desplegable */
+.abrir-linea {
+  color: var(--cesped);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* El triángulo: con "/ """ se ve, pero el lector de pantalla no lo lee (ya dice "expandido" o no).
+   La primera línea es para los navegadores que no entienden esa forma */
+.abrir-linea::before {
+  content: "▸ ";
+  content: "▸ " / "";
+}
+
+.abrir-linea[aria-expanded="true"]::before {
+  content: "▾ ";
+  content: "▾ " / "";
+}
+
+.lista-partidos .abrir-linea {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.leyenda-linea {
+  margin: 0.5rem 0 0;
+  color: var(--texto-suave);
+}
+
+/* Puntito de color: verde para el local, dorado para el visitante */
+.punto {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.punto-local,
+.gol-marca.arriba {
+  background: var(--cesped);
+}
+
+.punto-visitante,
+.gol-marca.abajo {
+  background: var(--oro);
+}
+
+.leyenda-linea .punto-visitante {
+  margin-left: 0.75rem;
+}
+
+.barra {
+  position: relative;
+  height: 2.2rem;
+  margin: 0.5rem 0.4rem 0;
+}
+
+/* La línea horizontal del partido */
+.barra::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 2px;
+  background: var(--borde);
+}
+
+.barra .corte {
+  position: absolute;
+  top: 35%;
+  bottom: 35%;
+  width: 1px;
+  background: var(--texto-suave);
+}
+
+.gol-marca {
+  position: absolute;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  transform: translateX(-50%);
+}
+
+.gol-marca.arriba {
+  top: 0.1rem;
+}
+
+.gol-marca.abajo {
+  bottom: 0.1rem;
+}
+
+.barra-etiquetas {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0.4rem;
+  font-size: 0.75rem;
+  color: var(--texto-suave);
+}
+
+.cronologia {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.cronologia li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid var(--borde);
+}
+
+.cronologia li:last-child {
+  border-bottom: none;
+}
+
+.cronologia .minuto {
+  min-width: 3rem;
+  color: var(--texto-suave);
+  font-variant-numeric: tabular-nums;
+}
+
+.cronologia strong {
+  margin-left: auto;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Goleadores debajo de cada equipo */
+.partido .anotadores {
+  font-size: 0.8rem;
+  margin: 0 0 0.4rem;
+  color: var(--texto-suave);
+}
+
+.partido .detalle {
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+/* ===== Camino de una selección ===== */
+.camino-final {
+  font-family: var(--fuente-titulos);
+  font-size: clamp(1.8rem, 6vw, 2.4rem);
+  letter-spacing: 0.04em;
+  color: var(--oro);
+  margin: 0;
+}
+
+.camino {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  max-width: 600px;
+}
+
+.camino li {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--borde);
+  color: var(--texto-suave);
+}
+
+.camino strong {
+  color: var(--texto);
+}
+
+/* Cuadradito con V, E o D */
+.marca {
+  flex-shrink: 0;
+  width: 1.8rem;
+  height: 1.8rem;
+  display: grid;
+  place-items: center;
+  border-radius: 6px;
+  font-weight: 600;
+  color: var(--fondo);
+}
+
+.marca-V {
+  background: var(--cesped);
+}
+
+.marca-E {
+  background: var(--texto-suave);
+}
+
+.marca-D {
+  background: var(--rojo);
+}
+
+/* ===== Goleadores ===== */
+.tabla tr.bota-de-oro th,
+.tabla tr.bota-de-oro td {
+  color: var(--oro);
+  font-weight: 600;
+}
+
+/* Los nombres de jugadores y selecciones son enlaces discretos, subrayados con puntos */
+.enlace-jugador,
+.enlace-seleccion {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+
+.enlace-jugador:hover,
+.enlace-seleccion:hover {
+  color: var(--cesped);
+}
+
+/* En la fila resaltada por el buscador el fondo es dorado: el verde no se vería */
+.tabla tr.encontrada .enlace-seleccion:hover {
+  color: inherit;
+  text-decoration-style: solid;
+}
+
+.tabla tr.detalle-goleador td {
+  text-align: left;
+  background: var(--fondo);
+}
+
+.detalle-goleador .lista-partidos {
+  margin: 0;
+}
+
+.boton-secundario {
+  margin-top: 1rem;
+  background: transparent;
+  color: var(--cesped);
+}
+
+/* ===== Quiz ===== */
+.quiz {
+  max-width: 600px;
+  background: var(--fondo-tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.quiz h3 {
+  font-size: 1.6rem;
+  margin: 0 0 1rem;
+}
+
+.quiz-opciones {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.opcion {
+  font: inherit;
+  text-align: left;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--borde);
+  background: var(--fondo);
+  color: var(--texto);
+  cursor: pointer;
+}
+
+.opcion:hover:not(:disabled) {
+  border-color: var(--cesped);
+}
+
+.opcion.correcta {
+  border-color: var(--cesped);
+  background: color-mix(in srgb, var(--cesped) 18%, transparent);
+}
+
+.opcion.incorrecta {
+  border-color: var(--rojo);
+  background: color-mix(in srgb, var(--rojo) 18%, transparent);
+}
+
+.opcion:disabled {
+  cursor: default;
+}
+
+.quiz-mensaje {
+  min-height: 1.5rem;
+}
+
+/* Foco visible para quien navega con teclado: el mismo borde dorado en todo lo que se puede usar */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+summary:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--oro);
+  outline-offset: 2px;
+}
+
+/* Las abreviaturas (PJ, DG, V...) se ven igual que antes: sin el subrayado de puntos que les
+   pone el navegador. Al pasar el ratón, el title sigue mostrando la palabra entera */
+abbr {
+  text-decoration: none;
+}
+
+/* Texto solo para lectores de pantalla: no se ve, pero se lee en voz alta.
+   (Con display: none o visibility: hidden el lector tampoco lo leería.) */
+.solo-lector {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* "Saltar al contenido": fuera de la pantalla, por encima, hasta que recibe el foco con Tab */
+.saltar {
+  position: absolute;
+  top: 0.5rem;
+  left: 1rem;
+  z-index: 20; /* por encima de la cabecera */
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  background: var(--oro);
+  color: var(--fondo);
+  font-weight: 600;
+  text-decoration: none;
+  transform: translateY(-200%);
+}
+
+.saltar:focus {
+  transform: none;
+}
+
+/* ===== Cara a cara ===== */
+/* Los dos selectores y el botón en una fila; en el móvil, uno debajo de otro */
+.cara-a-cara-elegir {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem;
+}
+
+.tabla-cara-a-cara td {
+  width: 40%; /* las dos selecciones, igual de anchas */
+}
+
+/* ===== Gráficas de goles por minuto y por ronda (SVG) =====
+   Los colores salen de las variables: cambian solos con el tema claro u oscuro */
+.grafica {
+  margin: 0.5rem 0 0;
+}
+
+.grafica svg {
+  display: block;
+  width: 100%;
+  max-width: 440px;
+  height: auto;
+}
+
+.grafica-barra {
+  fill: var(--cesped);
+}
+
+.grafica-zona {
+  fill: transparent; /* invisible, pero recibe el ratón: así el <title> sale en toda la banda */
+}
+
+.grafica-tramo:hover .grafica-barra,
+.grafica-fila:hover .grafica-barra {
+  fill: var(--oro);
+}
+
+.grafica-linea {
+  stroke: var(--borde);
+  stroke-width: 1;
+}
+
+.grafica-texto {
+  fill: var(--texto-suave);
+  font-size: 12px;
+}
+
+.grafica-valor {
+  fill: var(--texto);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.grafica-datos {
+  margin-top: 0.5rem;
+  max-width: 440px; /* la tabla, del mismo ancho que la gráfica */
+}
+
+/* ===== Botón "Volver arriba" ===== */
+.volver-arriba {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 10;
+  width: 3rem;
+  height: 3rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--cesped);
+  color: var(--fondo);
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Sin JavaScript no se puede saber cuánto se ha bajado... salvo con las animaciones ligadas al
+   scroll de CSS: el botón aparece a lo largo de los primeros 600px. Los navegadores que no las
+   entienden lo muestran siempre. */
+@supports (animation-timeline: scroll()) {
+  .volver-arriba {
+    animation: aparecer linear both;
+    animation-timeline: scroll();
+    animation-range: 0 600px;
+  }
+
+  @keyframes aparecer {
+    from {
+      opacity: 0;
+      visibility: hidden; /* oculto del todo arriba: tampoco se llega a él con el tabulador */
+    }
+    to {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
+.pie {
+  text-align: center;
+  /* Abajo, sitio para el botón ↑ (fijo en la esquina): si no, tapa los botones del tema en el móvil */
+  padding: 2rem 1rem 5rem;
+  color: var(--texto-suave);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--borde);
+}
+
+/* Los botones para elegir el tema, en el pie */
+.tema fieldset {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  border: 0;
+}
+
+.tema legend {
+  float: left; /* así la palabra "Tema" va en la misma fila que los botones */
+  margin-right: 0.25rem;
+}
+
+.tema .filtro {
+  padding: 0.3rem 0.8rem;
+}
+
+/* ===== Pantallas medianas y grandes ===== */
+@media (min-width: 720px) {
+  /* Desde aquí la cabecera es fija: se queda arriba al bajar por la página */
+  .cabecera {
+    position: sticky;
+    top: 0;
+  }
+
+  /* Entre 720 y 849px el menú va en dos filas (la cabecera mide unos 96px)... */
+  html {
+    scroll-padding-top: 6.5rem;
+  }
+
+  /* El logo a la izquierda y el menú a su derecha (en una o dos filas, según quepa) */
+  .cabecera {
+    flex-wrap: nowrap;
+    gap: 1.5rem;
+  }
+
+  .logo {
+    flex-shrink: 0; /* el que se estrecha es el menú, no el logo */
+  }
+
+  .menu {
+    width: auto;
+    justify-content: flex-end;
+    column-gap: 1.5rem;
+    padding-top: 0;
+  }
+
+  .cifras {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .comparacion {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .flecha {
+    transform: none;
+  }
+}
+
+/* ...y desde 850px, en una sola fila junto al logo (unos 66px) */
+@media (min-width: 850px) {
+  html {
+    scroll-padding-top: 4.5rem;
+  }
+}

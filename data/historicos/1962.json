@@ -1,0 +1,1246 @@
+{
+ "año": 1962,
+ "sedes": [
+  "Chile"
+ ],
+ "campeon": "Brasil",
+ "inicio": "1962-05-30",
+ "fin": "1962-07-17",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Estadio Carlos Dittborn",
+   "ciudad": "Arica",
+   "pais": "Chile",
+   "capacidad": 18000
+  },
+  {
+   "nombre": "Estadio El Teniente",
+   "ciudad": "Rancagua",
+   "pais": "Chile",
+   "capacidad": 18000
+  },
+  {
+   "nombre": "Estadio Nacional",
+   "ciudad": "Santiago",
+   "pais": "Chile",
+   "capacidad": 67000
+  },
+  {
+   "nombre": "Estadio Sausalito",
+   "ciudad": "Viña del Mar",
+   "pais": "Chile",
+   "capacidad": 18000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 5,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Yugoslavia",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 8,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Colombia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 11,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1962-05-30",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Colombia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-05-31",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-02",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Yugoslavia",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-03",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Unión Soviética",
+     "golesLocal": 4,
+     "visitante": "Colombia",
+     "golesVisitante": 4
+    },
+    {
+     "fecha": "1962-06-06",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-07",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Yugoslavia",
+     "golesLocal": 5,
+     "visitante": "Colombia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1962-05-30",
+     "estadio": "Estadio Nacional",
+     "local": "Chile",
+     "golesLocal": 3,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-05-31",
+     "estadio": "Estadio Nacional",
+     "local": "Alemania Federal",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-02",
+     "estadio": "Estadio Nacional",
+     "local": "Chile",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-03",
+     "estadio": "Estadio Nacional",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-06",
+     "estadio": "Estadio Nacional",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-07",
+     "estadio": "Estadio Nacional",
+     "local": "Italia",
+     "golesLocal": 3,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1962-05-30",
+     "estadio": "Estadio Sausalito",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-05-31",
+     "estadio": "Estadio Sausalito",
+     "local": "Checoslovaquia",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-02",
+     "estadio": "Estadio Sausalito",
+     "local": "Brasil",
+     "golesLocal": 0,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-03",
+     "estadio": "Estadio Sausalito",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-06",
+     "estadio": "Estadio Sausalito",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-07",
+     "estadio": "Estadio Sausalito",
+     "local": "México",
+     "golesLocal": 3,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 8,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1962-05-30",
+     "estadio": "Estadio El Teniente",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-05-31",
+     "estadio": "Estadio El Teniente",
+     "local": "Hungría",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-02",
+     "estadio": "Estadio El Teniente",
+     "local": "Inglaterra",
+     "golesLocal": 3,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-03",
+     "estadio": "Estadio El Teniente",
+     "local": "Hungría",
+     "golesLocal": 6,
+     "visitante": "Bulgaria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-06",
+     "estadio": "Estadio El Teniente",
+     "local": "Hungría",
+     "golesLocal": 0,
+     "visitante": "Argentina",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-07",
+     "estadio": "Estadio El Teniente",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1962-06-10",
+     "estadio": "Estadio Sausalito",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-10",
+     "estadio": "Estadio Carlos Dittborn",
+     "local": "Chile",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1962-06-10",
+     "estadio": "Estadio El Teniente",
+     "local": "Checoslovaquia",
+     "golesLocal": 1,
+     "visitante": "Hungría",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1962-06-10",
+     "estadio": "Estadio Nacional",
+     "local": "Yugoslavia",
+     "golesLocal": 1,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1962-06-13",
+     "estadio": "Estadio Nacional",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Chile",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1962-06-13",
+     "estadio": "Estadio Sausalito",
+     "local": "Checoslovaquia",
+     "golesLocal": 3,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1962-06-16",
+     "estadio": "Estadio Nacional",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Yugoslavia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1962-06-17",
+     "estadio": "Estadio Nacional",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1962-05-30",
+   "local": "Uruguay",
+   "visitante": "Colombia",
+   "jugador": "Francisco Zuluaga",
+   "seleccion": "Colombia",
+   "minuto": "19",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Uruguay",
+   "visitante": "Colombia",
+   "jugador": "Luis Cubilla",
+   "seleccion": "Uruguay",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Uruguay",
+   "visitante": "Colombia",
+   "jugador": "José Sasía",
+   "seleccion": "Uruguay",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Chile",
+   "visitante": "Suiza",
+   "jugador": "Rolf Wüthrich",
+   "seleccion": "Suiza",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Chile",
+   "visitante": "Suiza",
+   "jugador": "Leonel Sánchez",
+   "seleccion": "Chile",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Chile",
+   "visitante": "Suiza",
+   "jugador": "Jaime Ramírez",
+   "seleccion": "Chile",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Chile",
+   "visitante": "Suiza",
+   "jugador": "Leonel Sánchez",
+   "seleccion": "Chile",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Mário Zagallo",
+   "seleccion": "Brasil",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Brasil",
+   "visitante": "México",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1962-05-30",
+   "local": "Argentina",
+   "visitante": "Bulgaria",
+   "jugador": "Héctor Facundo",
+   "seleccion": "Argentina",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Unión Soviética",
+   "visitante": "Yugoslavia",
+   "jugador": "Valentin Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Unión Soviética",
+   "visitante": "Yugoslavia",
+   "jugador": "Viktor Ponedelnik",
+   "seleccion": "Unión Soviética",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Checoslovaquia",
+   "visitante": "España",
+   "jugador": "Jozef Štibrányi",
+   "seleccion": "Checoslovaquia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Hungría",
+   "visitante": "Inglaterra",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Hungría",
+   "visitante": "Inglaterra",
+   "jugador": "Ron Flowers",
+   "seleccion": "Inglaterra",
+   "minuto": "60",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-05-31",
+   "local": "Hungría",
+   "visitante": "Inglaterra",
+   "jugador": "Flórián Albert",
+   "seleccion": "Hungría",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Yugoslavia",
+   "visitante": "Uruguay",
+   "jugador": "Ángel Cabrera",
+   "seleccion": "Uruguay",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Yugoslavia",
+   "visitante": "Uruguay",
+   "jugador": "Josip Skoblar",
+   "seleccion": "Yugoslavia",
+   "minuto": "25",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Yugoslavia",
+   "visitante": "Uruguay",
+   "jugador": "Milan Galić",
+   "seleccion": "Yugoslavia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Yugoslavia",
+   "visitante": "Uruguay",
+   "jugador": "Dražan Jerković",
+   "seleccion": "Yugoslavia",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Chile",
+   "visitante": "Italia",
+   "jugador": "Jaime Ramírez",
+   "seleccion": "Chile",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Chile",
+   "visitante": "Italia",
+   "jugador": "Jorge Toro",
+   "seleccion": "Chile",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Inglaterra",
+   "visitante": "Argentina",
+   "jugador": "Ron Flowers",
+   "seleccion": "Inglaterra",
+   "minuto": "17",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Inglaterra",
+   "visitante": "Argentina",
+   "jugador": "Bobby Charlton",
+   "seleccion": "Inglaterra",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Inglaterra",
+   "visitante": "Argentina",
+   "jugador": "Jimmy Greaves",
+   "seleccion": "Inglaterra",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1962-06-02",
+   "local": "Inglaterra",
+   "visitante": "Argentina",
+   "jugador": "José Sanfilippo",
+   "seleccion": "Argentina",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Valentin Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Igor Chislenko",
+   "seleccion": "Unión Soviética",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Valentin Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Germán Aceros",
+   "seleccion": "Colombia",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Viktor Ponedelnik",
+   "seleccion": "Unión Soviética",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Marcos Coll",
+   "seleccion": "Colombia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Antonio Rada",
+   "seleccion": "Colombia",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Unión Soviética",
+   "visitante": "Colombia",
+   "jugador": "Marino Klinger",
+   "seleccion": "Colombia",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Albert Brülls",
+   "seleccion": "Alemania Federal",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Heinz Schneiter",
+   "seleccion": "Suiza",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "España",
+   "visitante": "México",
+   "jugador": "Joaquín Peiró",
+   "seleccion": "España",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Flórián Albert",
+   "seleccion": "Hungría",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Flórián Albert",
+   "seleccion": "Hungría",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Ernő Solymosi",
+   "seleccion": "Hungría",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Flórián Albert",
+   "seleccion": "Hungría",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Georgi Sokolov",
+   "seleccion": "Bulgaria",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1962-06-03",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Lajos Tichy",
+   "seleccion": "Hungría",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Uruguay",
+   "jugador": "Aleksei Mamykin",
+   "seleccion": "Unión Soviética",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Uruguay",
+   "jugador": "José Sasía",
+   "seleccion": "Uruguay",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Uruguay",
+   "jugador": "Valentin Ivanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Horst Szymaniak",
+   "seleccion": "Alemania Federal",
+   "minuto": "21",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Alemania Federal",
+   "visitante": "Chile",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Adelardo",
+   "seleccion": "España",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Amarildo",
+   "seleccion": "Brasil",
+   "minuto": "72"
+  },
+  {
+   "fecha": "1962-06-06",
+   "local": "Brasil",
+   "visitante": "España",
+   "jugador": "Amarildo",
+   "seleccion": "Brasil",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Milan Galić",
+   "seleccion": "Yugoslavia",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Dražan Jerković",
+   "seleccion": "Yugoslavia",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Milan Galić",
+   "seleccion": "Yugoslavia",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Vojislav Melić",
+   "seleccion": "Yugoslavia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Yugoslavia",
+   "visitante": "Colombia",
+   "jugador": "Dražan Jerković",
+   "seleccion": "Yugoslavia",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Italia",
+   "visitante": "Suiza",
+   "jugador": "Bruno Mora",
+   "seleccion": "Italia",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Italia",
+   "visitante": "Suiza",
+   "jugador": "Giacomo Bulgarelli",
+   "seleccion": "Italia",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "Italia",
+   "visitante": "Suiza",
+   "jugador": "Giacomo Bulgarelli",
+   "seleccion": "Italia",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "México",
+   "visitante": "Checoslovaquia",
+   "jugador": "Václav Mašek",
+   "seleccion": "Checoslovaquia",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "México",
+   "visitante": "Checoslovaquia",
+   "jugador": "Isidoro Díaz",
+   "seleccion": "México",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "México",
+   "visitante": "Checoslovaquia",
+   "jugador": "Alfredo del Águila",
+   "seleccion": "México",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1962-06-07",
+   "local": "México",
+   "visitante": "Checoslovaquia",
+   "jugador": "Héctor Hernández",
+   "seleccion": "México",
+   "minuto": "90",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Brasil",
+   "visitante": "Inglaterra",
+   "jugador": "Garrincha",
+   "seleccion": "Brasil",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Brasil",
+   "visitante": "Inglaterra",
+   "jugador": "Gerry Hitchens",
+   "seleccion": "Inglaterra",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Brasil",
+   "visitante": "Inglaterra",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Brasil",
+   "visitante": "Inglaterra",
+   "jugador": "Garrincha",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Chile",
+   "visitante": "Unión Soviética",
+   "jugador": "Leonel Sánchez",
+   "seleccion": "Chile",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Chile",
+   "visitante": "Unión Soviética",
+   "jugador": "Igor Chislenko",
+   "seleccion": "Unión Soviética",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Chile",
+   "visitante": "Unión Soviética",
+   "jugador": "Eladio Rojas",
+   "seleccion": "Chile",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Checoslovaquia",
+   "visitante": "Hungría",
+   "jugador": "Adolf Scherer",
+   "seleccion": "Checoslovaquia",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1962-06-10",
+   "local": "Yugoslavia",
+   "visitante": "Alemania Federal",
+   "jugador": "Petar Radaković",
+   "seleccion": "Yugoslavia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Garrincha",
+   "seleccion": "Brasil",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Garrincha",
+   "seleccion": "Brasil",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Jorge Toro",
+   "seleccion": "Chile",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "47"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Leonel Sánchez",
+   "seleccion": "Chile",
+   "minuto": "61",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Brasil",
+   "visitante": "Chile",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Checoslovaquia",
+   "visitante": "Yugoslavia",
+   "jugador": "Josef Kadraba",
+   "seleccion": "Checoslovaquia",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Checoslovaquia",
+   "visitante": "Yugoslavia",
+   "jugador": "Dražan Jerković",
+   "seleccion": "Yugoslavia",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Checoslovaquia",
+   "visitante": "Yugoslavia",
+   "jugador": "Adolf Scherer",
+   "seleccion": "Checoslovaquia",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1962-06-13",
+   "local": "Checoslovaquia",
+   "visitante": "Yugoslavia",
+   "jugador": "Adolf Scherer",
+   "seleccion": "Checoslovaquia",
+   "minuto": "84",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1962-06-16",
+   "local": "Chile",
+   "visitante": "Yugoslavia",
+   "jugador": "Eladio Rojas",
+   "seleccion": "Chile",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1962-06-17",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Josef Masopust",
+   "seleccion": "Checoslovaquia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1962-06-17",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Amarildo",
+   "seleccion": "Brasil",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1962-06-17",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Zito",
+   "seleccion": "Brasil",
+   "minuto": "69"
+  },
+  {
+   "fecha": "1962-06-17",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Vavá",
+   "seleccion": "Brasil",
+   "minuto": "78"
+  }
+ ]
+}

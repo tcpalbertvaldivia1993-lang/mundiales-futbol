@@ -1,0 +1,1273 @@
+{
+ "año": 1966,
+ "sedes": [
+  "Inglaterra"
+ ],
+ "campeon": "Inglaterra",
+ "inicio": "1966-07-11",
+ "fin": "1966-07-30",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Villa Park",
+   "ciudad": "Birmingham",
+   "pais": "Inglaterra",
+   "capacidad": 52000
+  },
+  {
+   "nombre": "Goodison Park",
+   "ciudad": "Liverpool",
+   "pais": "Inglaterra",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Wembley Stadium",
+   "ciudad": "Londres",
+   "pais": "Inglaterra",
+   "capacidad": 99000
+  },
+  {
+   "nombre": "White City Stadium",
+   "ciudad": "Londres",
+   "pais": "Inglaterra",
+   "capacidad": 77000
+  },
+  {
+   "nombre": "Old Trafford",
+   "ciudad": "Manchester",
+   "pais": "Inglaterra",
+   "capacidad": 58000
+  },
+  {
+   "nombre": "Ayresome Park",
+   "ciudad": "Middlesbrough",
+   "pais": "Inglaterra",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Hillsborough Stadium",
+   "ciudad": "Sheffield",
+   "pais": "Inglaterra",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Roker Park",
+   "ciudad": "Sunderland",
+   "pais": "Inglaterra",
+   "capacidad": 40000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 0,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1966-07-11",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-13",
+     "estadio": "Wembley Stadium",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-15",
+     "estadio": "White City Stadium",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-16",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "México",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-19",
+     "estadio": "Wembley Stadium",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-20",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 7,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Suiza",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1966-07-12",
+     "estadio": "Hillsborough Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 5,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-13",
+     "estadio": "Villa Park",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-15",
+     "estadio": "Hillsborough Stadium",
+     "local": "España",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-16",
+     "estadio": "Villa Park",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-19",
+     "estadio": "Hillsborough Stadium",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Suiza",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-20",
+     "estadio": "Villa Park",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 2,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 8,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1966-07-12",
+     "estadio": "Goodison Park",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-13",
+     "estadio": "Old Trafford",
+     "local": "Portugal",
+     "golesLocal": 3,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-15",
+     "estadio": "Goodison Park",
+     "local": "Hungría",
+     "golesLocal": 3,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-16",
+     "estadio": "Old Trafford",
+     "local": "Portugal",
+     "golesLocal": 3,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-19",
+     "estadio": "Goodison Park",
+     "local": "Portugal",
+     "golesLocal": 3,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-20",
+     "estadio": "Old Trafford",
+     "local": "Hungría",
+     "golesLocal": 3,
+     "visitante": "Bulgaria",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Norte",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Chile",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1966-07-12",
+     "estadio": "Ayresome Park",
+     "local": "Unión Soviética",
+     "golesLocal": 3,
+     "visitante": "Corea del Norte",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-13",
+     "estadio": "Roker Park",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-15",
+     "estadio": "Ayresome Park",
+     "local": "Chile",
+     "golesLocal": 1,
+     "visitante": "Corea del Norte",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-16",
+     "estadio": "Roker Park",
+     "local": "Unión Soviética",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-19",
+     "estadio": "Ayresome Park",
+     "local": "Corea del Norte",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-20",
+     "estadio": "Roker Park",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Chile",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1966-07-23",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1966-07-23",
+     "estadio": "Goodison Park",
+     "local": "Portugal",
+     "golesLocal": 5,
+     "visitante": "Corea del Norte",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1966-07-23",
+     "estadio": "Roker Park",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Hungría",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-23",
+     "estadio": "Hillsborough Stadium",
+     "local": "Alemania Federal",
+     "golesLocal": 4,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1966-07-25",
+     "estadio": "Goodison Park",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1966-07-26",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 2,
+     "visitante": "Portugal",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1966-07-28",
+     "estadio": "Wembley Stadium",
+     "local": "Portugal",
+     "golesLocal": 2,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1966-07-30",
+     "estadio": "Wembley Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 4,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2,
+     "prorroga": true
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1966-07-12",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Sigfried Held",
+   "seleccion": "Alemania Federal",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Franz Beckenbauer",
+   "seleccion": "Alemania Federal",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Franz Beckenbauer",
+   "seleccion": "Alemania Federal",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Alemania Federal",
+   "visitante": "Suiza",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "77",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Brasil",
+   "visitante": "Bulgaria",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Brasil",
+   "visitante": "Bulgaria",
+   "jugador": "Garrincha",
+   "seleccion": "Brasil",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Unión Soviética",
+   "visitante": "Corea del Norte",
+   "jugador": "Eduard Malofeyev",
+   "seleccion": "Unión Soviética",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Unión Soviética",
+   "visitante": "Corea del Norte",
+   "jugador": "Anatoliy Banishevskiy",
+   "seleccion": "Unión Soviética",
+   "minuto": "33"
+  },
+  {
+   "fecha": "1966-07-12",
+   "local": "Unión Soviética",
+   "visitante": "Corea del Norte",
+   "jugador": "Eduard Malofeyev",
+   "seleccion": "Unión Soviética",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Enrique Borja",
+   "seleccion": "México",
+   "minuto": "48"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Francia",
+   "visitante": "México",
+   "jugador": "Gérard Hausser",
+   "seleccion": "Francia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Argentina",
+   "visitante": "España",
+   "jugador": "Luis Artime",
+   "seleccion": "Argentina",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Argentina",
+   "visitante": "España",
+   "jugador": "Pirri",
+   "seleccion": "España",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Argentina",
+   "visitante": "España",
+   "jugador": "Luis Artime",
+   "seleccion": "Argentina",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Portugal",
+   "visitante": "Hungría",
+   "jugador": "José Augusto",
+   "seleccion": "Portugal",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Portugal",
+   "visitante": "Hungría",
+   "jugador": "Ferenc Bene",
+   "seleccion": "Hungría",
+   "minuto": "60"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Portugal",
+   "visitante": "Hungría",
+   "jugador": "José Augusto",
+   "seleccion": "Portugal",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Portugal",
+   "visitante": "Hungría",
+   "jugador": "José Torres",
+   "seleccion": "Portugal",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Sandro Mazzola",
+   "seleccion": "Italia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1966-07-13",
+   "local": "Italia",
+   "visitante": "Chile",
+   "jugador": "Paolo Barison",
+   "seleccion": "Italia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Uruguay",
+   "visitante": "Francia",
+   "jugador": "Héctor De Bourgoing",
+   "seleccion": "Francia",
+   "minuto": "15",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Uruguay",
+   "visitante": "Francia",
+   "jugador": "Pedro Rocha",
+   "seleccion": "Uruguay",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Uruguay",
+   "visitante": "Francia",
+   "jugador": "Julio César Cortés",
+   "seleccion": "Uruguay",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "René-Pierre Quentin",
+   "seleccion": "Suiza",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Manuel Sanchís",
+   "seleccion": "España",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "España",
+   "visitante": "Suiza",
+   "jugador": "Amancio",
+   "seleccion": "España",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Ferenc Bene",
+   "seleccion": "Hungría",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Tostão",
+   "seleccion": "Brasil",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "János Farkas",
+   "seleccion": "Hungría",
+   "minuto": "64"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Hungría",
+   "visitante": "Brasil",
+   "jugador": "Kálmán Mészöly",
+   "seleccion": "Hungría",
+   "minuto": "73",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Chile",
+   "visitante": "Corea del Norte",
+   "jugador": "Rubén Marcos",
+   "seleccion": "Chile",
+   "minuto": "26",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-15",
+   "local": "Chile",
+   "visitante": "Corea del Norte",
+   "jugador": "Seung-zin Pak",
+   "seleccion": "Corea del Norte",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Portugal",
+   "visitante": "Bulgaria",
+   "jugador": "Ivan Vutsov",
+   "seleccion": "Bulgaria",
+   "minuto": "7",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Portugal",
+   "visitante": "Bulgaria",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Portugal",
+   "visitante": "Bulgaria",
+   "jugador": "José Torres",
+   "seleccion": "Portugal",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Unión Soviética",
+   "visitante": "Italia",
+   "jugador": "Igor Chislenko",
+   "seleccion": "Unión Soviética",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Inglaterra",
+   "visitante": "México",
+   "jugador": "Bobby Charlton",
+   "seleccion": "Inglaterra",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1966-07-16",
+   "local": "Inglaterra",
+   "visitante": "México",
+   "jugador": "Roger Hunt",
+   "seleccion": "Inglaterra",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Argentina",
+   "visitante": "Suiza",
+   "jugador": "Luis Artime",
+   "seleccion": "Argentina",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Argentina",
+   "visitante": "Suiza",
+   "jugador": "Ermindo Onega",
+   "seleccion": "Argentina",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Portugal",
+   "visitante": "Brasil",
+   "jugador": "António Simões",
+   "seleccion": "Portugal",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Portugal",
+   "visitante": "Brasil",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Portugal",
+   "visitante": "Brasil",
+   "jugador": "Rildo",
+   "seleccion": "Brasil",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Portugal",
+   "visitante": "Brasil",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1966-07-19",
+   "local": "Corea del Norte",
+   "visitante": "Italia",
+   "jugador": "Doo-ik Pak",
+   "seleccion": "Corea del Norte",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Roger Hunt",
+   "seleccion": "Inglaterra",
+   "minuto": "38"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Inglaterra",
+   "visitante": "Francia",
+   "jugador": "Roger Hunt",
+   "seleccion": "Inglaterra",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Josep Maria Fusté",
+   "seleccion": "España",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Lothar Emmerich",
+   "seleccion": "Alemania Federal",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Alemania Federal",
+   "visitante": "España",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Georgi Asparuhov",
+   "seleccion": "Bulgaria",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Ivan Davidov",
+   "seleccion": "Bulgaria",
+   "minuto": "43",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Kálmán Mészöly",
+   "seleccion": "Hungría",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Hungría",
+   "visitante": "Bulgaria",
+   "jugador": "Ferenc Bene",
+   "seleccion": "Hungría",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Unión Soviética",
+   "visitante": "Chile",
+   "jugador": "Valeriy Porkujan",
+   "seleccion": "Unión Soviética",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Unión Soviética",
+   "visitante": "Chile",
+   "jugador": "Rubén Marcos",
+   "seleccion": "Chile",
+   "minuto": "32"
+  },
+  {
+   "fecha": "1966-07-20",
+   "local": "Unión Soviética",
+   "visitante": "Chile",
+   "jugador": "Valeriy Porkujan",
+   "seleccion": "Unión Soviética",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Inglaterra",
+   "visitante": "Argentina",
+   "jugador": "Geoff Hurst",
+   "seleccion": "Inglaterra",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Seung-zin Pak",
+   "seleccion": "Corea del Norte",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Dong-woon Li",
+   "seleccion": "Corea del Norte",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Seung-kook Yang",
+   "seleccion": "Corea del Norte",
+   "minuto": "25"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "43",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "59",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Portugal",
+   "visitante": "Corea del Norte",
+   "jugador": "José Augusto",
+   "seleccion": "Portugal",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Igor Chislenko",
+   "seleccion": "Unión Soviética",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Valeriy Porkujan",
+   "seleccion": "Unión Soviética",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Ferenc Bene",
+   "seleccion": "Hungría",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Alemania Federal",
+   "visitante": "Uruguay",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Alemania Federal",
+   "visitante": "Uruguay",
+   "jugador": "Franz Beckenbauer",
+   "seleccion": "Alemania Federal",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Alemania Federal",
+   "visitante": "Uruguay",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1966-07-23",
+   "local": "Alemania Federal",
+   "visitante": "Uruguay",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1966-07-25",
+   "local": "Alemania Federal",
+   "visitante": "Unión Soviética",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1966-07-25",
+   "local": "Alemania Federal",
+   "visitante": "Unión Soviética",
+   "jugador": "Franz Beckenbauer",
+   "seleccion": "Alemania Federal",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1966-07-25",
+   "local": "Alemania Federal",
+   "visitante": "Unión Soviética",
+   "jugador": "Valeriy Porkujan",
+   "seleccion": "Unión Soviética",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1966-07-26",
+   "local": "Inglaterra",
+   "visitante": "Portugal",
+   "jugador": "Bobby Charlton",
+   "seleccion": "Inglaterra",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1966-07-26",
+   "local": "Inglaterra",
+   "visitante": "Portugal",
+   "jugador": "Bobby Charlton",
+   "seleccion": "Inglaterra",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1966-07-26",
+   "local": "Inglaterra",
+   "visitante": "Portugal",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "82",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-28",
+   "local": "Portugal",
+   "visitante": "Unión Soviética",
+   "jugador": "Eusébio",
+   "seleccion": "Portugal",
+   "minuto": "12",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1966-07-28",
+   "local": "Portugal",
+   "visitante": "Unión Soviética",
+   "jugador": "Eduard Malofeyev",
+   "seleccion": "Unión Soviética",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1966-07-28",
+   "local": "Portugal",
+   "visitante": "Unión Soviética",
+   "jugador": "José Torres",
+   "seleccion": "Portugal",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Helmut Haller",
+   "seleccion": "Alemania Federal",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Geoff Hurst",
+   "seleccion": "Inglaterra",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Martin Peters",
+   "seleccion": "Inglaterra",
+   "minuto": "78"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Wolfgang Weber",
+   "seleccion": "Alemania Federal",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Geoff Hurst",
+   "seleccion": "Inglaterra",
+   "minuto": "101"
+  },
+  {
+   "fecha": "1966-07-30",
+   "local": "Inglaterra",
+   "visitante": "Alemania Federal",
+   "jugador": "Geoff Hurst",
+   "seleccion": "Inglaterra",
+   "minuto": "120"
+  }
+ ]
+}

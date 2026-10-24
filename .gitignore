@@ -1,0 +1,11 @@
+# Entorno virtual de Python: cada uno lo crea en su ordenador, no se sube
+venv/
+
+# Archivos que Python crea al importar módulos
+__pycache__/
+
+# Caché de pytest (recuerda qué pruebas fallaron la última vez)
+.pytest_cache/
+
+# Datos de la cobertura que guarda pytest-cov (se rehacen en cada ejecución)
+.coverage

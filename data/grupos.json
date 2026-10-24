@@ -1,0 +1,14 @@
+[
+  { "grupo": "A", "selecciones": ["México", "Sudáfrica", "Corea del Sur", "Chequia"] },
+  { "grupo": "B", "selecciones": ["Canadá", "Suiza", "Bosnia y Herzegovina", "Catar"] },
+  { "grupo": "C", "selecciones": ["Brasil", "Marruecos", "Escocia", "Haití"] },
+  { "grupo": "D", "selecciones": ["Estados Unidos", "Australia", "Paraguay", "Turquía"] },
+  { "grupo": "E", "selecciones": ["Alemania", "Costa de Marfil", "Ecuador", "Curazao"] },
+  { "grupo": "F", "selecciones": ["Países Bajos", "Japón", "Suecia", "Túnez"] },
+  { "grupo": "G", "selecciones": ["Bélgica", "Egipto", "Irán", "Nueva Zelanda"] },
+  { "grupo": "H", "selecciones": ["España", "Cabo Verde", "Uruguay", "Arabia Saudí"] },
+  { "grupo": "I", "selecciones": ["Francia", "Noruega", "Senegal", "Irak"] },
+  { "grupo": "J", "selecciones": ["Argentina", "Austria", "Argelia", "Jordania"] },
+  { "grupo": "K", "selecciones": ["Portugal", "Colombia", "RD del Congo", "Uzbekistán"] },
+  { "grupo": "L", "selecciones": ["Inglaterra", "Croacia", "Ghana", "Panamá"] }
+]

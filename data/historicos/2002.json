@@ -1,0 +1,2409 @@
+{
+ "año": 2002,
+ "sedes": [
+  "Corea del Sur",
+  "Japón"
+ ],
+ "campeon": "Brasil",
+ "inicio": "2002-05-31",
+ "fin": "2002-06-30",
+ "selecciones": 32,
+ "estadios": [
+  {
+   "nombre": "Kashima Stadium",
+   "ciudad": "Ibaraki",
+   "pais": "Japón",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Kobe Wing Stadium",
+   "ciudad": "Kobe",
+   "pais": "Japón",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Miyagi Stadium",
+   "ciudad": "Miyagi",
+   "pais": "Japón",
+   "capacidad": 49000
+  },
+  {
+   "nombre": "Niigata Stadium",
+   "ciudad": "Niigata",
+   "pais": "Japón",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Ōita Stadium",
+   "ciudad": "Ōita",
+   "pais": "Japón",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Nagai Stadium",
+   "ciudad": "Osaka",
+   "pais": "Japón",
+   "capacidad": 50000
+  },
+  {
+   "nombre": "Saitama Stadium",
+   "ciudad": "Saitama",
+   "pais": "Japón",
+   "capacidad": 63000
+  },
+  {
+   "nombre": "Sapporo Dome",
+   "ciudad": "Sapporo",
+   "pais": "Japón",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Shizuoka Stadium ECOPA",
+   "ciudad": "Shizuoka",
+   "pais": "Japón",
+   "capacidad": 51000
+  },
+  {
+   "nombre": "International Stadium Yokohama",
+   "ciudad": "Yokohama",
+   "pais": "Japón",
+   "capacidad": 72000
+  },
+  {
+   "nombre": "Busan Asiad Stadium",
+   "ciudad": "Busan",
+   "pais": "Corea del Sur",
+   "capacidad": 56000
+  },
+  {
+   "nombre": "Daegu World Cup Stadium",
+   "ciudad": "Daegu",
+   "pais": "Corea del Sur",
+   "capacidad": 68000
+  },
+  {
+   "nombre": "Daejeon World Cup Stadium",
+   "ciudad": "Daejeon",
+   "pais": "Corea del Sur",
+   "capacidad": 40000
+  },
+  {
+   "nombre": "Gwangju World Cup Stadium",
+   "ciudad": "Gwangju",
+   "pais": "Corea del Sur",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Incheon Munhak Stadium",
+   "ciudad": "Incheon",
+   "pais": "Corea del Sur",
+   "capacidad": 52000
+  },
+  {
+   "nombre": "Jeonju World Cup Stadium",
+   "ciudad": "Jeonju",
+   "pais": "Corea del Sur",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Jeju World Cup Stadium",
+   "ciudad": "Seogwipo",
+   "pais": "Corea del Sur",
+   "capacidad": 42000
+  },
+  {
+   "nombre": "Seoul World Cup Stadium",
+   "ciudad": "Seúl",
+   "pais": "Corea del Sur",
+   "capacidad": 64000
+  },
+  {
+   "nombre": "Suwon World Cup Stadium",
+   "ciudad": "Suwon",
+   "pais": "Corea del Sur",
+   "capacidad": 43000
+  },
+  {
+   "nombre": "Ulsan Munsu Football Stadium",
+   "ciudad": "Ulsan",
+   "pais": "Corea del Sur",
+   "capacidad": 44000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Senegal",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 0,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-05-31",
+     "estadio": "Seoul World Cup Stadium",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "Senegal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-01",
+     "estadio": "Ulsan Munsu Football Stadium",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Dinamarca",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-06",
+     "estadio": "Daegu World Cup Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 1,
+     "visitante": "Senegal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-06",
+     "estadio": "Busan Asiad Stadium",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-11",
+     "estadio": "Incheon Munhak Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-11",
+     "estadio": "Suwon World Cup Stadium",
+     "local": "Senegal",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 4,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Sudáfrica",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Eslovenia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-02",
+     "estadio": "Busan Asiad Stadium",
+     "local": "Paraguay",
+     "golesLocal": 2,
+     "visitante": "Sudáfrica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-02",
+     "estadio": "Gwangju World Cup Stadium",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Eslovenia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-07",
+     "estadio": "Jeonju World Cup Stadium",
+     "local": "España",
+     "golesLocal": 3,
+     "visitante": "Paraguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-08",
+     "estadio": "Daegu World Cup Stadium",
+     "local": "Sudáfrica",
+     "golesLocal": 1,
+     "visitante": "Eslovenia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-12",
+     "estadio": "Jeju World Cup Stadium",
+     "local": "Eslovenia",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2002-06-12",
+     "estadio": "Daejeon World Cup Stadium",
+     "local": "Sudáfrica",
+     "golesLocal": 2,
+     "visitante": "España",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 11,
+     "gc": 3,
+     "puntos": 9,
+     "pasa": true
+    },
+    {
+     "nombre": "Turquía",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Costa Rica",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "China",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-03",
+     "estadio": "Ulsan Munsu Football Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Turquía",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-04",
+     "estadio": "Gwangju World Cup Stadium",
+     "local": "China",
+     "golesLocal": 0,
+     "visitante": "Costa Rica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-08",
+     "estadio": "Jeju World Cup Stadium",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "China",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-09",
+     "estadio": "Incheon Munhak Stadium",
+     "local": "Costa Rica",
+     "golesLocal": 1,
+     "visitante": "Turquía",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-13",
+     "estadio": "Suwon World Cup Stadium",
+     "local": "Costa Rica",
+     "golesLocal": 2,
+     "visitante": "Brasil",
+     "golesVisitante": 5
+    },
+    {
+     "fecha": "2002-06-13",
+     "estadio": "Seoul World Cup Stadium",
+     "local": "Turquía",
+     "golesLocal": 3,
+     "visitante": "China",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Estados Unidos",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 6,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 3,
+     "gc": 7,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-04",
+     "estadio": "Busan Asiad Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-05",
+     "estadio": "Suwon World Cup Stadium",
+     "local": "Estados Unidos",
+     "golesLocal": 3,
+     "visitante": "Portugal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-10",
+     "estadio": "Daegu World Cup Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-10",
+     "estadio": "Jeonju World Cup Stadium",
+     "local": "Portugal",
+     "golesLocal": 4,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-14",
+     "estadio": "Daejeon World Cup Stadium",
+     "local": "Polonia",
+     "golesLocal": 3,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-14",
+     "estadio": "Incheon Munhak Stadium",
+     "local": "Portugal",
+     "golesLocal": 0,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Alemania",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 11,
+     "gc": 1,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Irlanda",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Camerún",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Arabia Saudí",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 12,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-01",
+     "estadio": "Niigata Stadium",
+     "local": "Irlanda",
+     "golesLocal": 1,
+     "visitante": "Camerún",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-01",
+     "estadio": "Sapporo Dome",
+     "local": "Alemania",
+     "golesLocal": 8,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-05",
+     "estadio": "Kashima Stadium",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Irlanda",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-06",
+     "estadio": "Saitama Stadium",
+     "local": "Camerún",
+     "golesLocal": 1,
+     "visitante": "Arabia Saudí",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-11",
+     "estadio": "Shizuoka Stadium ECOPA",
+     "local": "Camerún",
+     "golesLocal": 0,
+     "visitante": "Alemania",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-11",
+     "estadio": "International Stadium Yokohama",
+     "local": "Arabia Saudí",
+     "golesLocal": 0,
+     "visitante": "Irlanda",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": false
+    },
+    {
+     "nombre": "Nigeria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-02",
+     "estadio": "Kashima Stadium",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Nigeria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-02",
+     "estadio": "Saitama Stadium",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-07",
+     "estadio": "Kobe Wing Stadium",
+     "local": "Suecia",
+     "golesLocal": 2,
+     "visitante": "Nigeria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-07",
+     "estadio": "Sapporo Dome",
+     "local": "Argentina",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-12",
+     "estadio": "Nagai Stadium",
+     "local": "Nigeria",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-12",
+     "estadio": "Miyagi Stadium",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "clasificacion": [
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Croacia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Ecuador",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-03",
+     "estadio": "Niigata Stadium",
+     "local": "Croacia",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-03",
+     "estadio": "Sapporo Dome",
+     "local": "Italia",
+     "golesLocal": 2,
+     "visitante": "Ecuador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-08",
+     "estadio": "Kashima Stadium",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-09",
+     "estadio": "Miyagi Stadium",
+     "local": "México",
+     "golesLocal": 2,
+     "visitante": "Ecuador",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-13",
+     "estadio": "International Stadium Yokohama",
+     "local": "Ecuador",
+     "golesLocal": 1,
+     "visitante": "Croacia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-13",
+     "estadio": "Ōita Stadium",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "H",
+   "clasificacion": [
+    {
+     "nombre": "Japón",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 7,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 6,
+     "gc": 5,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Rusia",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Túnez",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "2002-06-04",
+     "estadio": "Saitama Stadium",
+     "local": "Japón",
+     "golesLocal": 2,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-05",
+     "estadio": "Kobe Wing Stadium",
+     "local": "Rusia",
+     "golesLocal": 2,
+     "visitante": "Túnez",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-09",
+     "estadio": "International Stadium Yokohama",
+     "local": "Japón",
+     "golesLocal": 1,
+     "visitante": "Rusia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-10",
+     "estadio": "Ōita Stadium",
+     "local": "Túnez",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-14",
+     "estadio": "Shizuoka Stadium ECOPA",
+     "local": "Bélgica",
+     "golesLocal": 3,
+     "visitante": "Rusia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-14",
+     "estadio": "Nagai Stadium",
+     "local": "Túnez",
+     "golesLocal": 0,
+     "visitante": "Japón",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "2002-06-15",
+     "estadio": "Jeju World Cup Stadium",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-15",
+     "estadio": "Niigata Stadium",
+     "local": "Dinamarca",
+     "golesLocal": 0,
+     "visitante": "Inglaterra",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "2002-06-16",
+     "estadio": "Ōita Stadium",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Senegal",
+     "golesVisitante": 2,
+     "prorroga": true
+    },
+    {
+     "fecha": "2002-06-16",
+     "estadio": "Suwon World Cup Stadium",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Irlanda",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      2
+     ]
+    },
+    {
+     "fecha": "2002-06-17",
+     "estadio": "Jeonju World Cup Stadium",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-17",
+     "estadio": "Kobe Wing Stadium",
+     "local": "Brasil",
+     "golesLocal": 2,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-18",
+     "estadio": "Miyagi Stadium",
+     "local": "Japón",
+     "golesLocal": 0,
+     "visitante": "Turquía",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "2002-06-18",
+     "estadio": "Daejeon World Cup Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "2002-06-21",
+     "estadio": "Shizuoka Stadium ECOPA",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "2002-06-21",
+     "estadio": "Ulsan Munsu Football Stadium",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Estados Unidos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-22",
+     "estadio": "Gwangju World Cup Stadium",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      5
+     ]
+    },
+    {
+     "fecha": "2002-06-22",
+     "estadio": "Nagai Stadium",
+     "local": "Senegal",
+     "golesLocal": 0,
+     "visitante": "Turquía",
+     "golesVisitante": 1,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "2002-06-25",
+     "estadio": "Seoul World Cup Stadium",
+     "local": "Alemania",
+     "golesLocal": 1,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "2002-06-26",
+     "estadio": "Saitama Stadium",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Turquía",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "2002-06-29",
+     "estadio": "Daegu World Cup Stadium",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Turquía",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "2002-06-30",
+     "estadio": "International Stadium Yokohama",
+     "local": "Alemania",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "2002-05-31",
+   "local": "Francia",
+   "visitante": "Senegal",
+   "jugador": "Papa Bouba Diop",
+   "seleccion": "Senegal",
+   "minuto": "30"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Irlanda",
+   "visitante": "Camerún",
+   "jugador": "Patrick M'Boma",
+   "seleccion": "Camerún",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Irlanda",
+   "visitante": "Camerún",
+   "jugador": "Matt Holland",
+   "seleccion": "Irlanda",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Uruguay",
+   "visitante": "Dinamarca",
+   "jugador": "Jon Dahl Tomasson",
+   "seleccion": "Dinamarca",
+   "minuto": "45"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Uruguay",
+   "visitante": "Dinamarca",
+   "jugador": "Darío Rodríguez",
+   "seleccion": "Uruguay",
+   "minuto": "47"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Uruguay",
+   "visitante": "Dinamarca",
+   "jugador": "Jon Dahl Tomasson",
+   "seleccion": "Dinamarca",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "20"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "25"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Michael Ballack",
+   "seleccion": "Alemania",
+   "minuto": "40"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Carsten Jancker",
+   "seleccion": "Alemania",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Thomas Linke",
+   "seleccion": "Alemania",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Oliver Bierhoff",
+   "seleccion": "Alemania",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2002-06-01",
+   "local": "Alemania",
+   "visitante": "Arabia Saudí",
+   "jugador": "Bernd Schneider",
+   "seleccion": "Alemania",
+   "minuto": "90+1"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Argentina",
+   "visitante": "Nigeria",
+   "jugador": "Gabriel Batistuta",
+   "seleccion": "Argentina",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Paraguay",
+   "visitante": "Sudáfrica",
+   "jugador": "Roque Santa Cruz",
+   "seleccion": "Paraguay",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Paraguay",
+   "visitante": "Sudáfrica",
+   "jugador": "Francisco Arce",
+   "seleccion": "Paraguay",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Paraguay",
+   "visitante": "Sudáfrica",
+   "jugador": "Teboho Mokoena",
+   "seleccion": "Sudáfrica",
+   "minuto": "63"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Paraguay",
+   "visitante": "Sudáfrica",
+   "jugador": "Quinton Fortune",
+   "seleccion": "Sudáfrica",
+   "minuto": "90+1",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Inglaterra",
+   "visitante": "Suecia",
+   "jugador": "Sol Campbell",
+   "seleccion": "Inglaterra",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "Inglaterra",
+   "visitante": "Suecia",
+   "jugador": "Niclas Alexandersson",
+   "seleccion": "Suecia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "España",
+   "visitante": "Eslovenia",
+   "jugador": "Raúl",
+   "seleccion": "España",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "España",
+   "visitante": "Eslovenia",
+   "jugador": "Juan Carlos Valerón",
+   "seleccion": "España",
+   "minuto": "74"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "España",
+   "visitante": "Eslovenia",
+   "jugador": "Sebastjan Cimirotič",
+   "seleccion": "Eslovenia",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2002-06-02",
+   "local": "España",
+   "visitante": "Eslovenia",
+   "jugador": "Fernando Hierro",
+   "seleccion": "España",
+   "minuto": "87",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Croacia",
+   "visitante": "México",
+   "jugador": "Cuauhtémoc Blanco",
+   "seleccion": "México",
+   "minuto": "60",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Brasil",
+   "visitante": "Turquía",
+   "jugador": "Hasan Şaş",
+   "seleccion": "Turquía",
+   "minuto": "45+2"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Brasil",
+   "visitante": "Turquía",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Brasil",
+   "visitante": "Turquía",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "87",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Italia",
+   "visitante": "Ecuador",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2002-06-03",
+   "local": "Italia",
+   "visitante": "Ecuador",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "China",
+   "visitante": "Costa Rica",
+   "jugador": "Rónald Gómez",
+   "seleccion": "Costa Rica",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "China",
+   "visitante": "Costa Rica",
+   "jugador": "Mauricio Wright",
+   "seleccion": "Costa Rica",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Japón",
+   "visitante": "Bélgica",
+   "jugador": "Marc Wilmots",
+   "seleccion": "Bélgica",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Japón",
+   "visitante": "Bélgica",
+   "jugador": "Takayuki Suzuki",
+   "seleccion": "Japón",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Japón",
+   "visitante": "Bélgica",
+   "jugador": "Junichi Inamoto",
+   "seleccion": "Japón",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Japón",
+   "visitante": "Bélgica",
+   "jugador": "Peter Van der Heyden",
+   "seleccion": "Bélgica",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Corea del Sur",
+   "visitante": "Polonia",
+   "jugador": "Sun-hong Hwang",
+   "seleccion": "Corea del Sur",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2002-06-04",
+   "local": "Corea del Sur",
+   "visitante": "Polonia",
+   "jugador": "Sang-chul Yoo",
+   "seleccion": "Corea del Sur",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Rusia",
+   "visitante": "Túnez",
+   "jugador": "Yegor Titov",
+   "seleccion": "Rusia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Rusia",
+   "visitante": "Túnez",
+   "jugador": "Valeri Karpin",
+   "seleccion": "Rusia",
+   "minuto": "64",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "John O'Brien",
+   "seleccion": "Estados Unidos",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Jorge Costa",
+   "seleccion": "Portugal",
+   "minuto": "29",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Brian McBride",
+   "seleccion": "Estados Unidos",
+   "minuto": "36"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Beto",
+   "seleccion": "Portugal",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Estados Unidos",
+   "visitante": "Portugal",
+   "jugador": "Jeff Agoos",
+   "seleccion": "Estados Unidos",
+   "minuto": "71",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Alemania",
+   "visitante": "Irlanda",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "19"
+  },
+  {
+   "fecha": "2002-06-05",
+   "local": "Alemania",
+   "visitante": "Irlanda",
+   "jugador": "Robbie Keane",
+   "seleccion": "Irlanda",
+   "minuto": "90+2"
+  },
+  {
+   "fecha": "2002-06-06",
+   "local": "Dinamarca",
+   "visitante": "Senegal",
+   "jugador": "Jon Dahl Tomasson",
+   "seleccion": "Dinamarca",
+   "minuto": "16",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-06",
+   "local": "Dinamarca",
+   "visitante": "Senegal",
+   "jugador": "Salif Diao",
+   "seleccion": "Senegal",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2002-06-06",
+   "local": "Camerún",
+   "visitante": "Arabia Saudí",
+   "jugador": "Samuel Eto'o",
+   "seleccion": "Camerún",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "Suecia",
+   "visitante": "Nigeria",
+   "jugador": "Julius Aghahowa",
+   "seleccion": "Nigeria",
+   "minuto": "27"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "Suecia",
+   "visitante": "Nigeria",
+   "jugador": "Henrik Larsson",
+   "seleccion": "Suecia",
+   "minuto": "35"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "Suecia",
+   "visitante": "Nigeria",
+   "jugador": "Henrik Larsson",
+   "seleccion": "Suecia",
+   "minuto": "63",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "España",
+   "visitante": "Paraguay",
+   "jugador": "Carles Puyol",
+   "seleccion": "España",
+   "minuto": "10",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "España",
+   "visitante": "Paraguay",
+   "jugador": "Fernando Morientes",
+   "seleccion": "España",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "España",
+   "visitante": "Paraguay",
+   "jugador": "Fernando Morientes",
+   "seleccion": "España",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "España",
+   "visitante": "Paraguay",
+   "jugador": "Fernando Hierro",
+   "seleccion": "España",
+   "minuto": "83",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-07",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "David Beckham",
+   "seleccion": "Inglaterra",
+   "minuto": "44",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Sudáfrica",
+   "visitante": "Eslovenia",
+   "jugador": "Siyabonga Nomvethe",
+   "seleccion": "Sudáfrica",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Italia",
+   "visitante": "Croacia",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Italia",
+   "visitante": "Croacia",
+   "jugador": "Ivica Olić",
+   "seleccion": "Croacia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Italia",
+   "visitante": "Croacia",
+   "jugador": "Milan Rapaić",
+   "seleccion": "Croacia",
+   "minuto": "76"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Brasil",
+   "visitante": "China",
+   "jugador": "Roberto Carlos",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Brasil",
+   "visitante": "China",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Brasil",
+   "visitante": "China",
+   "jugador": "Ronaldinho",
+   "seleccion": "Brasil",
+   "minuto": "45",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-08",
+   "local": "Brasil",
+   "visitante": "China",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "México",
+   "visitante": "Ecuador",
+   "jugador": "Agustín Delgado",
+   "seleccion": "Ecuador",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "México",
+   "visitante": "Ecuador",
+   "jugador": "Jared Borgetti",
+   "seleccion": "México",
+   "minuto": "28"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "México",
+   "visitante": "Ecuador",
+   "jugador": "Gerardo Torrado",
+   "seleccion": "México",
+   "minuto": "57"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "Costa Rica",
+   "visitante": "Turquía",
+   "jugador": "Emre Belözoğlu",
+   "seleccion": "Turquía",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "Costa Rica",
+   "visitante": "Turquía",
+   "jugador": "Winston Parks",
+   "seleccion": "Costa Rica",
+   "minuto": "86"
+  },
+  {
+   "fecha": "2002-06-09",
+   "local": "Japón",
+   "visitante": "Rusia",
+   "jugador": "Junichi Inamoto",
+   "seleccion": "Japón",
+   "minuto": "51"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Estados Unidos",
+   "jugador": "Clint Mathis",
+   "seleccion": "Estados Unidos",
+   "minuto": "24"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Estados Unidos",
+   "jugador": "Jung-hwan Ahn",
+   "seleccion": "Corea del Sur",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Túnez",
+   "visitante": "Bélgica",
+   "jugador": "Marc Wilmots",
+   "seleccion": "Bélgica",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Túnez",
+   "visitante": "Bélgica",
+   "jugador": "Raouf Bouzaiene",
+   "seleccion": "Túnez",
+   "minuto": "17"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Portugal",
+   "visitante": "Polonia",
+   "jugador": "Pauleta",
+   "seleccion": "Portugal",
+   "minuto": "14"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Portugal",
+   "visitante": "Polonia",
+   "jugador": "Pauleta",
+   "seleccion": "Portugal",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Portugal",
+   "visitante": "Polonia",
+   "jugador": "Pauleta",
+   "seleccion": "Portugal",
+   "minuto": "77"
+  },
+  {
+   "fecha": "2002-06-10",
+   "local": "Portugal",
+   "visitante": "Polonia",
+   "jugador": "Rui Costa",
+   "seleccion": "Portugal",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Dinamarca",
+   "visitante": "Francia",
+   "jugador": "Dennis Rommedahl",
+   "seleccion": "Dinamarca",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Dinamarca",
+   "visitante": "Francia",
+   "jugador": "Jon Dahl Tomasson",
+   "seleccion": "Dinamarca",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Khalilou Fadiga",
+   "seleccion": "Senegal",
+   "minuto": "20",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Papa Bouba Diop",
+   "seleccion": "Senegal",
+   "minuto": "26"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Papa Bouba Diop",
+   "seleccion": "Senegal",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Richard Morales",
+   "seleccion": "Uruguay",
+   "minuto": "46"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Diego Forlán",
+   "seleccion": "Uruguay",
+   "minuto": "69"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Senegal",
+   "visitante": "Uruguay",
+   "jugador": "Álvaro Recoba",
+   "seleccion": "Uruguay",
+   "minuto": "88",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Camerún",
+   "visitante": "Alemania",
+   "jugador": "Marco Bode",
+   "seleccion": "Alemania",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Camerún",
+   "visitante": "Alemania",
+   "jugador": "Miroslav Klose",
+   "seleccion": "Alemania",
+   "minuto": "79"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Arabia Saudí",
+   "visitante": "Irlanda",
+   "jugador": "Robbie Keane",
+   "seleccion": "Irlanda",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Arabia Saudí",
+   "visitante": "Irlanda",
+   "jugador": "Gary Breen",
+   "seleccion": "Irlanda",
+   "minuto": "61"
+  },
+  {
+   "fecha": "2002-06-11",
+   "local": "Arabia Saudí",
+   "visitante": "Irlanda",
+   "jugador": "Damien Duff",
+   "seleccion": "Irlanda",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Anders Svensson",
+   "seleccion": "Suecia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Suecia",
+   "visitante": "Argentina",
+   "jugador": "Hernán Crespo",
+   "seleccion": "Argentina",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Eslovenia",
+   "visitante": "Paraguay",
+   "jugador": "Milenko Ačimovič",
+   "seleccion": "Eslovenia",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Eslovenia",
+   "visitante": "Paraguay",
+   "jugador": "Nelson Cuevas",
+   "seleccion": "Paraguay",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Eslovenia",
+   "visitante": "Paraguay",
+   "jugador": "Jorge Luis Campos",
+   "seleccion": "Paraguay",
+   "minuto": "73"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Eslovenia",
+   "visitante": "Paraguay",
+   "jugador": "Nelson Cuevas",
+   "seleccion": "Paraguay",
+   "minuto": "84"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Sudáfrica",
+   "visitante": "España",
+   "jugador": "Raúl",
+   "seleccion": "España",
+   "minuto": "4"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Sudáfrica",
+   "visitante": "España",
+   "jugador": "Benni McCarthy",
+   "seleccion": "Sudáfrica",
+   "minuto": "31"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Sudáfrica",
+   "visitante": "España",
+   "jugador": "Gaizka Mendieta",
+   "seleccion": "España",
+   "minuto": "45+1"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Sudáfrica",
+   "visitante": "España",
+   "jugador": "Lucas Radebe",
+   "seleccion": "Sudáfrica",
+   "minuto": "53"
+  },
+  {
+   "fecha": "2002-06-12",
+   "local": "Sudáfrica",
+   "visitante": "España",
+   "jugador": "Raúl",
+   "seleccion": "España",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "10"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Edmílson",
+   "seleccion": "Brasil",
+   "minuto": "38"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Paulo Wanchope",
+   "seleccion": "Costa Rica",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Rónald Gómez",
+   "seleccion": "Costa Rica",
+   "minuto": "56"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Costa Rica",
+   "visitante": "Brasil",
+   "jugador": "Júnior",
+   "seleccion": "Brasil",
+   "minuto": "64"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Turquía",
+   "visitante": "China",
+   "jugador": "Hasan Şaş",
+   "seleccion": "Turquía",
+   "minuto": "6"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Turquía",
+   "visitante": "China",
+   "jugador": "Bülent Korkmaz",
+   "seleccion": "Turquía",
+   "minuto": "9"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Turquía",
+   "visitante": "China",
+   "jugador": "Ümit Davala",
+   "seleccion": "Turquía",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "Ecuador",
+   "visitante": "Croacia",
+   "jugador": "Édison Méndez",
+   "seleccion": "Ecuador",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "México",
+   "visitante": "Italia",
+   "jugador": "Jared Borgetti",
+   "seleccion": "México",
+   "minuto": "34"
+  },
+  {
+   "fecha": "2002-06-13",
+   "local": "México",
+   "visitante": "Italia",
+   "jugador": "Alessandro Del Piero",
+   "seleccion": "Italia",
+   "minuto": "85"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Johan Walem",
+   "seleccion": "Bélgica",
+   "minuto": "7"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Vladimir Beschastnykh",
+   "seleccion": "Rusia",
+   "minuto": "52"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Wesley Sonck",
+   "seleccion": "Bélgica",
+   "minuto": "78"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Marc Wilmots",
+   "seleccion": "Bélgica",
+   "minuto": "82"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Bélgica",
+   "visitante": "Rusia",
+   "jugador": "Dmitri Sychev",
+   "seleccion": "Rusia",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Túnez",
+   "visitante": "Japón",
+   "jugador": "Hiroaki Morishima",
+   "seleccion": "Japón",
+   "minuto": "48"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Túnez",
+   "visitante": "Japón",
+   "jugador": "Hidetoshi Nakata",
+   "seleccion": "Japón",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Polonia",
+   "visitante": "Estados Unidos",
+   "jugador": "Emmanuel Olisadebe",
+   "seleccion": "Polonia",
+   "minuto": "3"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Polonia",
+   "visitante": "Estados Unidos",
+   "jugador": "Paweł Kryszałowicz",
+   "seleccion": "Polonia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Polonia",
+   "visitante": "Estados Unidos",
+   "jugador": "Marcin Żewłakow",
+   "seleccion": "Polonia",
+   "minuto": "66"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Polonia",
+   "visitante": "Estados Unidos",
+   "jugador": "Landon Donovan",
+   "seleccion": "Estados Unidos",
+   "minuto": "83"
+  },
+  {
+   "fecha": "2002-06-14",
+   "local": "Portugal",
+   "visitante": "Corea del Sur",
+   "jugador": "Ji-sung Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "70"
+  },
+  {
+   "fecha": "2002-06-15",
+   "local": "Alemania",
+   "visitante": "Paraguay",
+   "jugador": "Oliver Neuville",
+   "seleccion": "Alemania",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2002-06-15",
+   "local": "Dinamarca",
+   "visitante": "Inglaterra",
+   "jugador": "Rio Ferdinand",
+   "seleccion": "Inglaterra",
+   "minuto": "5"
+  },
+  {
+   "fecha": "2002-06-15",
+   "local": "Dinamarca",
+   "visitante": "Inglaterra",
+   "jugador": "Michael Owen",
+   "seleccion": "Inglaterra",
+   "minuto": "22"
+  },
+  {
+   "fecha": "2002-06-15",
+   "local": "Dinamarca",
+   "visitante": "Inglaterra",
+   "jugador": "Emile Heskey",
+   "seleccion": "Inglaterra",
+   "minuto": "44"
+  },
+  {
+   "fecha": "2002-06-16",
+   "local": "Suecia",
+   "visitante": "Senegal",
+   "jugador": "Henrik Larsson",
+   "seleccion": "Suecia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "2002-06-16",
+   "local": "Suecia",
+   "visitante": "Senegal",
+   "jugador": "Henri Camara",
+   "seleccion": "Senegal",
+   "minuto": "37"
+  },
+  {
+   "fecha": "2002-06-16",
+   "local": "Suecia",
+   "visitante": "Senegal",
+   "jugador": "Henri Camara",
+   "seleccion": "Senegal",
+   "minuto": "104"
+  },
+  {
+   "fecha": "2002-06-16",
+   "local": "España",
+   "visitante": "Irlanda",
+   "jugador": "Fernando Morientes",
+   "seleccion": "España",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2002-06-16",
+   "local": "España",
+   "visitante": "Irlanda",
+   "jugador": "Robbie Keane",
+   "seleccion": "Irlanda",
+   "minuto": "90",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "2002-06-17",
+   "local": "México",
+   "visitante": "Estados Unidos",
+   "jugador": "Brian McBride",
+   "seleccion": "Estados Unidos",
+   "minuto": "8"
+  },
+  {
+   "fecha": "2002-06-17",
+   "local": "México",
+   "visitante": "Estados Unidos",
+   "jugador": "Landon Donovan",
+   "seleccion": "Estados Unidos",
+   "minuto": "65"
+  },
+  {
+   "fecha": "2002-06-17",
+   "local": "Brasil",
+   "visitante": "Bélgica",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2002-06-17",
+   "local": "Brasil",
+   "visitante": "Bélgica",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "87"
+  },
+  {
+   "fecha": "2002-06-18",
+   "local": "Japón",
+   "visitante": "Turquía",
+   "jugador": "Ümit Davala",
+   "seleccion": "Turquía",
+   "minuto": "12"
+  },
+  {
+   "fecha": "2002-06-18",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Christian Vieri",
+   "seleccion": "Italia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "2002-06-18",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Ki-hyeon Seol",
+   "seleccion": "Corea del Sur",
+   "minuto": "88"
+  },
+  {
+   "fecha": "2002-06-18",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Jung-hwan Ahn",
+   "seleccion": "Corea del Sur",
+   "minuto": "117"
+  },
+  {
+   "fecha": "2002-06-21",
+   "local": "Inglaterra",
+   "visitante": "Brasil",
+   "jugador": "Michael Owen",
+   "seleccion": "Inglaterra",
+   "minuto": "23"
+  },
+  {
+   "fecha": "2002-06-21",
+   "local": "Inglaterra",
+   "visitante": "Brasil",
+   "jugador": "Rivaldo",
+   "seleccion": "Brasil",
+   "minuto": "45+2"
+  },
+  {
+   "fecha": "2002-06-21",
+   "local": "Inglaterra",
+   "visitante": "Brasil",
+   "jugador": "Ronaldinho",
+   "seleccion": "Brasil",
+   "minuto": "50"
+  },
+  {
+   "fecha": "2002-06-21",
+   "local": "Alemania",
+   "visitante": "Estados Unidos",
+   "jugador": "Michael Ballack",
+   "seleccion": "Alemania",
+   "minuto": "39"
+  },
+  {
+   "fecha": "2002-06-22",
+   "local": "Senegal",
+   "visitante": "Turquía",
+   "jugador": "İlhan Mansız",
+   "seleccion": "Turquía",
+   "minuto": "94"
+  },
+  {
+   "fecha": "2002-06-25",
+   "local": "Alemania",
+   "visitante": "Corea del Sur",
+   "jugador": "Michael Ballack",
+   "seleccion": "Alemania",
+   "minuto": "75"
+  },
+  {
+   "fecha": "2002-06-26",
+   "local": "Brasil",
+   "visitante": "Turquía",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "49"
+  },
+  {
+   "fecha": "2002-06-29",
+   "local": "Corea del Sur",
+   "visitante": "Turquía",
+   "jugador": "Hakan Şükür",
+   "seleccion": "Turquía",
+   "minuto": "1"
+  },
+  {
+   "fecha": "2002-06-29",
+   "local": "Corea del Sur",
+   "visitante": "Turquía",
+   "jugador": "Eul-yong Lee",
+   "seleccion": "Corea del Sur",
+   "minuto": "9"
+  },
+  {
+   "fecha": "2002-06-29",
+   "local": "Corea del Sur",
+   "visitante": "Turquía",
+   "jugador": "İlhan Mansız",
+   "seleccion": "Turquía",
+   "minuto": "13"
+  },
+  {
+   "fecha": "2002-06-29",
+   "local": "Corea del Sur",
+   "visitante": "Turquía",
+   "jugador": "İlhan Mansız",
+   "seleccion": "Turquía",
+   "minuto": "32"
+  },
+  {
+   "fecha": "2002-06-29",
+   "local": "Corea del Sur",
+   "visitante": "Turquía",
+   "jugador": "Chong-gug Song",
+   "seleccion": "Corea del Sur",
+   "minuto": "90+3"
+  },
+  {
+   "fecha": "2002-06-30",
+   "local": "Alemania",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "67"
+  },
+  {
+   "fecha": "2002-06-30",
+   "local": "Alemania",
+   "visitante": "Brasil",
+   "jugador": "Ronaldo",
+   "seleccion": "Brasil",
+   "minuto": "79"
+  }
+ ]
+}

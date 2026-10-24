@@ -1,0 +1,1301 @@
+{
+ "año": 1970,
+ "sedes": [
+  "México"
+ ],
+ "campeon": "Brasil",
+ "inicio": "1970-05-31",
+ "fin": "1970-06-21",
+ "selecciones": 16,
+ "estadios": [
+  {
+   "nombre": "Estadio Jalisco",
+   "ciudad": "Guadalajara",
+   "pais": "México",
+   "capacidad": 71000
+  },
+  {
+   "nombre": "Estadio Nou Camp",
+   "ciudad": "León",
+   "pais": "México",
+   "capacidad": 31000
+  },
+  {
+   "nombre": "Estadio Azteca",
+   "ciudad": "Ciudad de México",
+   "pais": "México",
+   "capacidad": 115000
+  },
+  {
+   "nombre": "Estadio Cuauhtémoc",
+   "ciudad": "Puebla",
+   "pais": "México",
+   "capacidad": 46000
+  },
+  {
+   "nombre": "La Bombonera",
+   "ciudad": "Toluca",
+   "pais": "México",
+   "capacidad": 33000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "1",
+   "clasificacion": [
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 0,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "El Salvador",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 9,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1970-05-31",
+     "estadio": "Estadio Azteca",
+     "local": "México",
+     "golesLocal": 0,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-03",
+     "estadio": "Estadio Azteca",
+     "local": "Bélgica",
+     "golesLocal": 3,
+     "visitante": "El Salvador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-06",
+     "estadio": "Estadio Azteca",
+     "local": "Unión Soviética",
+     "golesLocal": 4,
+     "visitante": "Bélgica",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-07",
+     "estadio": "Estadio Azteca",
+     "local": "México",
+     "golesLocal": 4,
+     "visitante": "El Salvador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-10",
+     "estadio": "Estadio Azteca",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "El Salvador",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-11",
+     "estadio": "Estadio Azteca",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "2",
+   "clasificacion": [
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 1,
+     "gc": 0,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Suecia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 2,
+     "gc": 2,
+     "puntos": 3,
+     "pasa": false
+    },
+    {
+     "nombre": "Israel",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1970-06-02",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Uruguay",
+     "golesLocal": 2,
+     "visitante": "Israel",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-03",
+     "estadio": "La Bombonera",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Suecia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-06",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Uruguay",
+     "golesLocal": 0,
+     "visitante": "Italia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-07",
+     "estadio": "La Bombonera",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Israel",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-10",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Suecia",
+     "golesLocal": 1,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-11",
+     "estadio": "La Bombonera",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Israel",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "3",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 8,
+     "gc": 3,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 2,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Rumania",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Checoslovaquia",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1970-06-02",
+     "estadio": "Estadio Jalisco",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Rumania",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-03",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-06",
+     "estadio": "Estadio Jalisco",
+     "local": "Rumania",
+     "golesLocal": 2,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-07",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-10",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Rumania",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1970-06-11",
+     "estadio": "Estadio Jalisco",
+     "local": "Inglaterra",
+     "golesLocal": 1,
+     "visitante": "Checoslovaquia",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "4",
+   "clasificacion": [
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 10,
+     "gc": 4,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Perú",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 5,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 9,
+     "puntos": 1,
+     "pasa": false
+    },
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1970-06-02",
+     "estadio": "Estadio Nou Camp",
+     "local": "Perú",
+     "golesLocal": 3,
+     "visitante": "Bulgaria",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1970-06-03",
+     "estadio": "Estadio Nou Camp",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Marruecos",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-06",
+     "estadio": "Estadio Nou Camp",
+     "local": "Perú",
+     "golesLocal": 3,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1970-06-07",
+     "estadio": "Estadio Nou Camp",
+     "local": "Alemania Federal",
+     "golesLocal": 5,
+     "visitante": "Bulgaria",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1970-06-10",
+     "estadio": "Estadio Nou Camp",
+     "local": "Alemania Federal",
+     "golesLocal": 3,
+     "visitante": "Perú",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-11",
+     "estadio": "Estadio Nou Camp",
+     "local": "Bulgaria",
+     "golesLocal": 1,
+     "visitante": "Marruecos",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1970-06-14",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Perú",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1970-06-14",
+     "estadio": "La Bombonera",
+     "local": "Italia",
+     "golesLocal": 4,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-14",
+     "estadio": "Estadio Azteca",
+     "local": "Unión Soviética",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 1,
+     "prorroga": true
+    },
+    {
+     "fecha": "1970-06-14",
+     "estadio": "Estadio Nou Camp",
+     "local": "Alemania Federal",
+     "golesLocal": 3,
+     "visitante": "Inglaterra",
+     "golesVisitante": 2,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1970-06-17",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 3,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1970-06-17",
+     "estadio": "Estadio Azteca",
+     "local": "Italia",
+     "golesLocal": 4,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 3,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1970-06-20",
+     "estadio": "Estadio Azteca",
+     "local": "Alemania Federal",
+     "golesLocal": 1,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1970-06-21",
+     "estadio": "Estadio Azteca",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1970-06-02",
+   "local": "Uruguay",
+   "visitante": "Israel",
+   "jugador": "Ildo Maneiro",
+   "seleccion": "Uruguay",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Uruguay",
+   "visitante": "Israel",
+   "jugador": "Juan Mujica",
+   "seleccion": "Uruguay",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Inglaterra",
+   "visitante": "Rumania",
+   "jugador": "Geoff Hurst",
+   "seleccion": "Inglaterra",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Perú",
+   "visitante": "Bulgaria",
+   "jugador": "Dinko Dermendzhiev",
+   "seleccion": "Bulgaria",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Perú",
+   "visitante": "Bulgaria",
+   "jugador": "Hristo Bonev",
+   "seleccion": "Bulgaria",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Perú",
+   "visitante": "Bulgaria",
+   "jugador": "Alberto Gallardo",
+   "seleccion": "Perú",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Perú",
+   "visitante": "Bulgaria",
+   "jugador": "Héctor Chumpitaz",
+   "seleccion": "Perú",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1970-06-02",
+   "local": "Perú",
+   "visitante": "Bulgaria",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Bélgica",
+   "visitante": "El Salvador",
+   "jugador": "Wilfried Van Moer",
+   "seleccion": "Bélgica",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Bélgica",
+   "visitante": "El Salvador",
+   "jugador": "Wilfried Van Moer",
+   "seleccion": "Bélgica",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Bélgica",
+   "visitante": "El Salvador",
+   "jugador": "Raoul Lambert",
+   "seleccion": "Bélgica",
+   "minuto": "76",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Italia",
+   "visitante": "Suecia",
+   "jugador": "Angelo Domenghini",
+   "seleccion": "Italia",
+   "minuto": "10"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Ladislav Petráš",
+   "seleccion": "Checoslovaquia",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "24"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Brasil",
+   "visitante": "Checoslovaquia",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Marruecos",
+   "jugador": "Houmane Jarir",
+   "seleccion": "Marruecos",
+   "minuto": "21"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Marruecos",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1970-06-03",
+   "local": "Alemania Federal",
+   "visitante": "Marruecos",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Anatoliy Byshovets",
+   "seleccion": "Unión Soviética",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Kakhi Asatiani",
+   "seleccion": "Unión Soviética",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Anatoliy Byshovets",
+   "seleccion": "Unión Soviética",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Vitaly Khmelnitsky",
+   "seleccion": "Unión Soviética",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Raoul Lambert",
+   "seleccion": "Bélgica",
+   "minuto": "86"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Rumania",
+   "visitante": "Checoslovaquia",
+   "jugador": "Ladislav Petráš",
+   "seleccion": "Checoslovaquia",
+   "minuto": "5"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Rumania",
+   "visitante": "Checoslovaquia",
+   "jugador": "Alexandru Neagu",
+   "seleccion": "Rumania",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Rumania",
+   "visitante": "Checoslovaquia",
+   "jugador": "Florea Dumitrache",
+   "seleccion": "Rumania",
+   "minuto": "75",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Perú",
+   "visitante": "Marruecos",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "65"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Perú",
+   "visitante": "Marruecos",
+   "jugador": "Roberto Challe",
+   "seleccion": "Perú",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1970-06-06",
+   "local": "Perú",
+   "visitante": "Marruecos",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "México",
+   "visitante": "El Salvador",
+   "jugador": "Javier Valdivia",
+   "seleccion": "México",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "México",
+   "visitante": "El Salvador",
+   "jugador": "Javier Valdivia",
+   "seleccion": "México",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "México",
+   "visitante": "El Salvador",
+   "jugador": "Javier Fragoso",
+   "seleccion": "México",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "México",
+   "visitante": "El Salvador",
+   "jugador": "Juan Ignacio Basaguren",
+   "seleccion": "México",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Suecia",
+   "visitante": "Israel",
+   "jugador": "Tom Turesson",
+   "seleccion": "Suecia",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Suecia",
+   "visitante": "Israel",
+   "jugador": "Mordechai Spiegler",
+   "seleccion": "Israel",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Brasil",
+   "visitante": "Inglaterra",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Asparuh Nikodimov",
+   "seleccion": "Bulgaria",
+   "minuto": "12"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Reinhard Libuda",
+   "seleccion": "Alemania Federal",
+   "minuto": "20"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "52",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1970-06-07",
+   "local": "Alemania Federal",
+   "visitante": "Bulgaria",
+   "jugador": "Todor Kolev",
+   "seleccion": "Bulgaria",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Unión Soviética",
+   "visitante": "El Salvador",
+   "jugador": "Anatoliy Byshovets",
+   "seleccion": "Unión Soviética",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Unión Soviética",
+   "visitante": "El Salvador",
+   "jugador": "Anatoliy Byshovets",
+   "seleccion": "Unión Soviética",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Suecia",
+   "visitante": "Uruguay",
+   "jugador": "Ove Grahn",
+   "seleccion": "Suecia",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Brasil",
+   "visitante": "Rumania",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Brasil",
+   "visitante": "Rumania",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "22"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Brasil",
+   "visitante": "Rumania",
+   "jugador": "Florea Dumitrache",
+   "seleccion": "Rumania",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Brasil",
+   "visitante": "Rumania",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Brasil",
+   "visitante": "Rumania",
+   "jugador": "Emerich Dembrovschi",
+   "seleccion": "Rumania",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Perú",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Perú",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Perú",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1970-06-10",
+   "local": "Alemania Federal",
+   "visitante": "Perú",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1970-06-11",
+   "local": "México",
+   "visitante": "Bélgica",
+   "jugador": "Gustavo Peña",
+   "seleccion": "México",
+   "minuto": "14",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1970-06-11",
+   "local": "Inglaterra",
+   "visitante": "Checoslovaquia",
+   "jugador": "Allan Clarke",
+   "seleccion": "Inglaterra",
+   "minuto": "50",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1970-06-11",
+   "local": "Bulgaria",
+   "visitante": "Marruecos",
+   "jugador": "Dobromir Zhechev",
+   "seleccion": "Bulgaria",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1970-06-11",
+   "local": "Bulgaria",
+   "visitante": "Marruecos",
+   "jugador": "Maouhoub Ghazouani",
+   "seleccion": "Marruecos",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Tostão",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Alberto Gallardo",
+   "seleccion": "Perú",
+   "minuto": "28"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Tostão",
+   "seleccion": "Brasil",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Teófilo Cubillas",
+   "seleccion": "Perú",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Brasil",
+   "visitante": "Perú",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "José Luis González",
+   "seleccion": "México",
+   "minuto": "13"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Javier Guzmán",
+   "seleccion": "México",
+   "minuto": "25",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Gigi Riva",
+   "seleccion": "Italia",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Gianni Rivera",
+   "seleccion": "Italia",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Italia",
+   "visitante": "México",
+   "jugador": "Gigi Riva",
+   "seleccion": "Italia",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Unión Soviética",
+   "visitante": "Uruguay",
+   "jugador": "Víctor Espárrago",
+   "seleccion": "Uruguay",
+   "minuto": "117"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Alan Mullery",
+   "seleccion": "Inglaterra",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Martin Peters",
+   "seleccion": "Inglaterra",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Franz Beckenbauer",
+   "seleccion": "Alemania Federal",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Uwe Seeler",
+   "seleccion": "Alemania Federal",
+   "minuto": "82"
+  },
+  {
+   "fecha": "1970-06-14",
+   "local": "Alemania Federal",
+   "visitante": "Inglaterra",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "108"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Brasil",
+   "visitante": "Uruguay",
+   "jugador": "Luis Cubilla",
+   "seleccion": "Uruguay",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Brasil",
+   "visitante": "Uruguay",
+   "jugador": "Clodoaldo",
+   "seleccion": "Brasil",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Brasil",
+   "visitante": "Uruguay",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Brasil",
+   "visitante": "Uruguay",
+   "jugador": "Rivellino",
+   "seleccion": "Brasil",
+   "minuto": "89"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Roberto Boninsegna",
+   "seleccion": "Italia",
+   "minuto": "8"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Karl-Heinz Schnellinger",
+   "seleccion": "Alemania Federal",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "94"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Tarcisio Burgnich",
+   "seleccion": "Italia",
+   "minuto": "98"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gigi Riva",
+   "seleccion": "Italia",
+   "minuto": "104"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gerd Müller",
+   "seleccion": "Alemania Federal",
+   "minuto": "110"
+  },
+  {
+   "fecha": "1970-06-17",
+   "local": "Italia",
+   "visitante": "Alemania Federal",
+   "jugador": "Gianni Rivera",
+   "seleccion": "Italia",
+   "minuto": "111"
+  },
+  {
+   "fecha": "1970-06-20",
+   "local": "Alemania Federal",
+   "visitante": "Uruguay",
+   "jugador": "Wolfgang Overath",
+   "seleccion": "Alemania Federal",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1970-06-21",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Pelé",
+   "seleccion": "Brasil",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1970-06-21",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Roberto Boninsegna",
+   "seleccion": "Italia",
+   "minuto": "37"
+  },
+  {
+   "fecha": "1970-06-21",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Gérson",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1970-06-21",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Jairzinho",
+   "seleccion": "Brasil",
+   "minuto": "71"
+  },
+  {
+   "fecha": "1970-06-21",
+   "local": "Brasil",
+   "visitante": "Italia",
+   "jugador": "Carlos Alberto",
+   "seleccion": "Brasil",
+   "minuto": "86"
+  }
+ ]
+}

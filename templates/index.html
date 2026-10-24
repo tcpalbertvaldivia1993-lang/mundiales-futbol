@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{# Cada sección está en su propio archivo de templates/secciones/ #}
+{% block contenido %}
+  {% include "secciones/portada.html" %}
+  {% include "secciones/sedes.html" %}
+  {# En 1934 y 1938 no hubo fase de grupos #}
+  {% if m.grupos %}{% include "secciones/selecciones.html" %}{% endif %}
+  {# El formato y el quiz son solo del Mundial 2026 #}
+  {% if m.año == 2026 %}{% include "secciones/formato.html" %}{% endif %}
+  {% include "secciones/resultados.html" %}
+  {% include "secciones/camino.html" %}
+  {% include "secciones/goleadores.html" %}
+  {% if m.preguntas %}{% include "secciones/quiz.html" %}{% endif %}
+{% endblock %}

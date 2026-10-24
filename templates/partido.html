@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros with context %}
+
+{# La página de un partido: /2026/partido/12. La prepara la función partido() de app.py #}
+{% block titulo %}{{ p | texto_partido }} · {{ p.ronda | nombre }} · {{ t("Mundial {año}", año=m.año) }}{% endblock %}
+
+{% block contenido %}
+  <section id="inicio" class="seccion pagina-partido">
+    <p class="antetitulo">{{ p.ronda | nombre }} · {{ p.fecha | fecha }}</p>
+    <h1>{{ p.local | nombre }} {{ p.golesLocal }}-{{ p.golesVisitante }} {{ p.visitante | nombre }}</h1>
+    <p class="nota">
+      {{ p.estadio }} · {{ estadio.ciudad | nombre }} ({{ estadio.pais | nombre }})
+      {%- if p.penaltis %} · {{ t("Penaltis {a}-{b}", a=p.penaltis[0], b=p.penaltis[1]) }}{% elif p.prorroga %} · {{ t("Prórroga") }}{% endif %}
+    </p>
+    {# Los partidos especiales de los Mundiales antiguos, explicados #}
+    {% if p.repetido %}
+      <p class="nota aviso">{{ t("Acabó en empate y, como entonces no había tanda de penaltis, se volvió a jugar el {fecha}:", fecha=pareja.fecha | fecha) }}
+        <a href="{{ enlace_partido(pareja) }}">{{ t("ver la repetición") }} ({{ pareja | texto_partido | abreviaturas }})</a>.</p>
+    {% elif p.repeticion %}
+      <p class="nota aviso">{{ t("Es la repetición del empate del {fecha}:", fecha=pareja.fecha | fecha) }}
+        <a href="{{ enlace_partido(pareja) }}">{{ t("ver el primer partido") }} ({{ pareja | texto_partido | abreviaturas }})</a>.</p>
+    {% elif p.desempate %}
+      <p class="nota aviso">{{ t("Partido de desempate: {a} y {b} empataron en el grupo y jugaron otra vez para decidir cuál pasaba de ronda. No cuenta en la clasificación del grupo.",
+                                 a=p.local | nombre, b=p.visitante | nombre) }}</p>
+    {% endif %}
+
+    {% set ganador = ganador_de(p) %}
+    <article class="tarjeta partido">
+      {% for equipo, goles in [(p.local, p.golesLocal), (p.visitante, p.golesVisitante)] %}
+        <p class="equipo {{ 'ganador' if equipo == ganador }}">
+          <span>{{ equipo | nombre }}</span><span class="goles">{{ goles }}</span>
+        </p>
+        {% set texto = anotadores_de(p, equipo) %}
+        {% if texto %}<p class="anotadores"><span aria-hidden="true">⚽</span><span class="solo-lector">{{ t("Goles de {seleccion}:", seleccion=equipo | nombre) }}</span> {{ texto | abreviaturas }}</p>{% endif %}
+      {% endfor %}
+
+      {# Aquí la línea del tiempo no es un desplegable: siempre se ve #}
+      {% if hay_goles(p) %}
+        <h2 class="subtitulo">{{ t("Línea del tiempo") }}</h2>
+        <div class="linea-tiempo">{{ macros.linea_contenido(p) }}</div>
+      {% else %}
+        <p class="nota">{{ t("Sin goles.") }}</p>
+      {% endif %}
+    </article>
+
+    <h2 class="subtitulo">{{ t("El camino de cada selección") }}</h2>
+    <p class="filtros">
+      {% for equipo in [p.local, p.visitante] %}
+        <a class="filtro" href="{{ url_for('inicio', seleccion=equipo, _anchor='camino') }}">{{ t("Camino de {seleccion}", seleccion=equipo | nombre) }}</a>
+      {% endfor %}
+    </p>
+
+    <nav class="filtros" aria-label="{{ t('Otros partidos') }}">
+      {% if anterior is not none %}<a class="filtro" href="{{ url_for('partido', numero=anterior) }}">{{ t("← Partido anterior") }}</a>{% endif %}
+      {% if siguiente is not none %}<a class="filtro" href="{{ url_for('partido', numero=siguiente) }}">{{ t("Partido siguiente →") }}</a>{% endif %}
+    </nav>
+  </section>
+{% endblock %}
+
+{# La página es corta: el botón ↑ sobra (como en la 404) #}
+{% block volver_arriba %}{% endblock %}

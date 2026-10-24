@@ -1,0 +1,13 @@
+# Configuración de pytest
+[tool.pytest.ini_options]
+testpaths = ["pruebas"]   # dónde buscar los archivos test_*.py
+pythonpath = ["."]        # para que las pruebas puedan hacer "import mundial" e "import app"
+addopts = ["--cov"]       # medir siempre la cobertura (pytest-cov), con la configuración de abajo
+
+# Configuración de la cobertura: qué líneas de código ha ejecutado alguna prueba
+[tool.coverage.run]
+source = ["app", "mundial", "textos"]   # solo nuestro código, no las pruebas ni las librerías
+branch = true                 # cada "if" tiene que probarse por los dos caminos (sí y no)
+
+[tool.coverage.report]
+show_missing = true           # mostrar los números de las líneas que ninguna prueba ejecuta

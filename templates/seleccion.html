@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+
+{# /seleccion/Brasil: una selección en todos los Mundiales. La prepara la función seleccion() de app.py.
+   Los textos van con t() y los nombres de selecciones y rondas con | nombre (textos.py) #}
+{% block titulo %}{{ t("{seleccion} en los Mundiales", seleccion=h.nombre | nombre) }}{% endblock %}
+
+{% block cabecera %}
+  {% set portada_historia = url_for("raiz") %}
+  {% include "cabecera_historia.html" %}
+{% endblock %}
+
+{# "Alemania Federal", "Yugoslavia y Serbia y Montenegro": los nombres separados por comas y el último con "y" #}
+{% macro lista(nombres) -%}
+  {%- set nombres = nombres | map("nombre") | list -%}
+  {{ nombres[:-1] | join(", ") ~ " " ~ t("y") ~ " " ~ nombres[-1] if nombres | length > 1 else nombres[0] }}
+{%- endmacro %}
+
+{# "5 ganados, 1 empatado y 1 perdido": en singular cuando es 1 #}
+{% macro balance_de(f) -%}
+  {{ t("{g}, {e} y {p}", g=t("{n} ganado" if f.g == 1 else "{n} ganados", n=f.g),
+                         e=t("{n} empatado" if f.e == 1 else "{n} empatados", n=f.e),
+                         p=t("{n} perdido" if f.p == 1 else "{n} perdidos", n=f.p)) }}
+{%- endmacro %}
+
+{% block contenido %}
+  <section id="inicio" class="portada">
+    <p class="antetitulo">{{ t("Selección") }}</p>
+    <h1>{{ h.nombre | nombre }}</h1>
+    {% if h.nombres %}<p class="lema">{{ t("También jugó como {nombres}.", nombres=lista(h.nombres)) }}</p>{% endif %}
+    <ul class="cifras">
+      <li><strong>{{ h.participaciones | length }}</strong> {{ t("Mundial" if h.participaciones | length == 1 else "Mundiales") }}</li>
+      <li><strong>{{ h.titulos | length }}</strong> {{ t("título" if h.titulos | length == 1 else "títulos") }}</li>
+      <li><strong>{{ h.partidos }}</strong> {{ t("partidos") }}</li>
+      <li><strong>{{ h.gf }}</strong> {{ t("goles") }}</li>
+    </ul>
+    <p class="nota">{{ t("Mejor resultado: {resultado}", resultado=t(h.mejor)) }}{% if h.titulos %} ({{ h.titulos | join(", ") }}){% endif %}.</p>
+  </section>
+
+  <section id="mundiales" class="seccion">
+    <h2>{{ t("Sus Mundiales") }}</h2>
+    <p class="nota">{{ t("{balance}; {gf} goles a favor y {gc} en contra.", balance=balance_de(h), gf=h.gf, gc=h.gc) }}
+      {{ t("Los partidos decididos en los penaltis cuentan como victoria o derrota (la FIFA los cuenta como empate).") }}</p>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("{seleccion} en cada Mundial", seleccion=h.nombre | nombre) }}</caption>
+        <thead>
+          <tr>
+            <th scope="col">{{ t("Año") }}</th>
+            <th scope="col">{{ t("Hasta dónde llegó") }}</th>
+            <th scope="col">{{ abreviatura(t("PJ"), t("Partidos jugados")) }}</th>
+            <th scope="col">{{ abreviatura(t("G"), t("Ganados")) }}</th>
+            <th scope="col">{{ abreviatura(t("E"), t("Empatados")) }}</th>
+            <th scope="col">{{ abreviatura(t("P"), t("Perdidos")) }}</th>
+            <th scope="col">{{ abreviatura(t("GF"), t("Goles a favor")) }}</th>
+            <th scope="col">{{ abreviatura(t("GC"), t("Goles en contra")) }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for p in h.participaciones %}
+            <tr>
+              <th scope="row"><a href="{{ url_for('inicio', anio=p.año, seleccion=p.como, _anchor='camino') }}">{{ p.año }}</a></th>
+              <td>{{ t(p.hasta_donde) }}{% if p.como != h.nombre %} <span class="nota">({{ t("como {nombre}", nombre=p.como | nombre) }})</span>{% endif %}</td>
+              <td>{{ p.partidos }}</td><td>{{ p.g }}</td><td>{{ p.e }}</td><td>{{ p.p }}</td><td>{{ p.gf }}</td><td>{{ p.gc }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  {% if h.goleadores %}
+  <section id="goleadores" class="seccion">
+    <h2>{{ t("Sus máximos goleadores") }}</h2>
+    <div class="tarjeta tabla-scroll">
+      <table class="tabla">
+        <caption class="solo-lector">{{ t("Máximos goleadores de {seleccion} en los Mundiales", seleccion=h.nombre | nombre) }}</caption>
+        <thead>
+          <tr><th scope="col">{{ abreviatura("#", t("Puesto")) }}</th><th scope="col">{{ t("Jugador") }}</th>
+              <th scope="col">{{ t("Goles") }}</th><th scope="col">{{ t("Mundiales") }}</th></tr>
+        </thead>
+        <tbody>
+          {% for g in h.goleadores %}
+            <tr><td>{{ g.puesto }}</td><th scope="row">{{ g.jugador }}</th><td><strong>{{ g.goles }}</strong></td><td>{{ g.años | join(", ") }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+  {% endif %}
+
+  <section id="contra" class="seccion">
+    <h2>{{ t("Contra otra selección") }}</h2>
+    {# Un formulario GET, como los de las páginas de cada Mundial: la dirección pasa a ser ?contra=Argentina.
+       El valor de cada opción es el nombre en español (el de los datos); se ve el del idioma elegido #}
+    <form class="buscador" method="get" action="{{ url_for('seleccion', nombre=h.nombre) }}#contra">
+      <label for="selector-contra" class="etiqueta">{{ t("Elige un rival") }}</label>
+      <div class="buscador-fila">
+        <select id="selector-contra" name="contra">
+          {% for r in rivales %}<option value="{{ r }}" {% if r == contra %}selected{% endif %}>{{ r | nombre }}</option>{% endfor %}
+        </select>
+        <button class="boton" type="submit">{{ t("Ver partidos") }}</button>
+      </div>
+    </form>
+    {% if entre %}
+      <p class="camino-final">{{ t("{n} partido contra {rival}" if balance.partidos == 1 else "{n} partidos contra {rival}",
+                                    n=balance.partidos, rival=contra | nombre) }}</p>
+      <p class="nota">{{ h.nombre | nombre }}: {{ balance_de(balance) }}
+        ({{ t("{gf}-{gc} en goles", gf=balance.gf, gc=balance.gc) }}).</p>
+      <ul class="lista-partidos">
+        {% for p in entre %}
+          <li>{{ p.año }} · {{ p.ronda | nombre }}<br><a href="{{ enlace_partido_de(p, p.año) }}">{{ p | texto_partido | abreviaturas }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+{% endblock %}

@@ -1,0 +1,1930 @@
+{
+ "año": 1986,
+ "sedes": [
+  "México"
+ ],
+ "campeon": "Argentina",
+ "inicio": "1986-05-31",
+ "fin": "1986-06-29",
+ "selecciones": 24,
+ "estadios": [
+  {
+   "nombre": "Estadio Jalisco",
+   "ciudad": "Guadalajara",
+   "pais": "México",
+   "capacidad": 71000
+  },
+  {
+   "nombre": "Estadio Tres de Marzo",
+   "ciudad": "Guadalajara",
+   "pais": "México",
+   "capacidad": 30000
+  },
+  {
+   "nombre": "Estadio Sergio León Chavez",
+   "ciudad": "Irapuato",
+   "pais": "México",
+   "capacidad": 31000
+  },
+  {
+   "nombre": "Estadio Nou Camp",
+   "ciudad": "León",
+   "pais": "México",
+   "capacidad": 31000
+  },
+  {
+   "nombre": "Estadio Azteca",
+   "ciudad": "Ciudad de México",
+   "pais": "México",
+   "capacidad": 115000
+  },
+  {
+   "nombre": "Estadio Olímpico Universitario",
+   "ciudad": "Ciudad de México",
+   "pais": "México",
+   "capacidad": 72000
+  },
+  {
+   "nombre": "Estadio Tecnológico",
+   "ciudad": "Monterrey",
+   "pais": "México",
+   "capacidad": 34000
+  },
+  {
+   "nombre": "Estadio Universitario",
+   "ciudad": "Monterrey",
+   "pais": "México",
+   "capacidad": 44000
+  },
+  {
+   "nombre": "Estadio Neza 86",
+   "ciudad": "Nezahualcóyotl",
+   "pais": "México",
+   "capacidad": 35000
+  },
+  {
+   "nombre": "Estadio Cuauhtémoc",
+   "ciudad": "Puebla",
+   "pais": "México",
+   "capacidad": 46000
+  },
+  {
+   "nombre": "Estadio La Corregidora",
+   "ciudad": "Querétaro",
+   "pais": "México",
+   "capacidad": 39000
+  },
+  {
+   "nombre": "La Bombonera",
+   "ciudad": "Toluca",
+   "pais": "México",
+   "capacidad": 33000
+  }
+ ],
+ "grupos": [
+  {
+   "fase": "Fase de grupos",
+   "grupo": "A",
+   "clasificacion": [
+    {
+     "nombre": "Argentina",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 6,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Italia",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 5,
+     "gc": 4,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Bulgaria",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": true
+    },
+    {
+     "nombre": "Corea del Sur",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 4,
+     "gc": 7,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-05-31",
+     "estadio": "Estadio Azteca",
+     "local": "Bulgaria",
+     "golesLocal": 1,
+     "visitante": "Italia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-02",
+     "estadio": "Estadio Olímpico Universitario",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Corea del Sur",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-05",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Italia",
+     "golesLocal": 1,
+     "visitante": "Argentina",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-05",
+     "estadio": "Estadio Olímpico Universitario",
+     "local": "Corea del Sur",
+     "golesLocal": 1,
+     "visitante": "Bulgaria",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-10",
+     "estadio": "Estadio Olímpico Universitario",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-10",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Corea del Sur",
+     "golesLocal": 2,
+     "visitante": "Italia",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "B",
+   "clasificacion": [
+    {
+     "nombre": "México",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 4,
+     "gc": 2,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Paraguay",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 4,
+     "gc": 3,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Bélgica",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 5,
+     "gc": 5,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Irak",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 1,
+     "gc": 4,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-06-03",
+     "estadio": "Estadio Azteca",
+     "local": "Bélgica",
+     "golesLocal": 1,
+     "visitante": "México",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1986-06-04",
+     "estadio": "La Bombonera",
+     "local": "Paraguay",
+     "golesLocal": 1,
+     "visitante": "Irak",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-07",
+     "estadio": "Estadio Azteca",
+     "local": "México",
+     "golesLocal": 1,
+     "visitante": "Paraguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-08",
+     "estadio": "La Bombonera",
+     "local": "Irak",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1986-06-11",
+     "estadio": "Estadio Azteca",
+     "local": "Irak",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-11",
+     "estadio": "La Bombonera",
+     "local": "Paraguay",
+     "golesLocal": 2,
+     "visitante": "Bélgica",
+     "golesVisitante": 2
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "clasificacion": [
+    {
+     "nombre": "Unión Soviética",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 9,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Francia",
+     "pj": 3,
+     "g": 2,
+     "e": 1,
+     "p": 0,
+     "gf": 5,
+     "gc": 1,
+     "puntos": 5,
+     "pasa": true
+    },
+    {
+     "nombre": "Hungría",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 9,
+     "puntos": 2,
+     "pasa": false
+    },
+    {
+     "nombre": "Canadá",
+     "pj": 3,
+     "g": 0,
+     "e": 0,
+     "p": 3,
+     "gf": 0,
+     "gc": 5,
+     "puntos": 0,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-06-01",
+     "estadio": "Estadio Nou Camp",
+     "local": "Canadá",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-02",
+     "estadio": "Estadio Sergio León Chavez",
+     "local": "Unión Soviética",
+     "golesLocal": 6,
+     "visitante": "Hungría",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-05",
+     "estadio": "Estadio Nou Camp",
+     "local": "Francia",
+     "golesLocal": 1,
+     "visitante": "Unión Soviética",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-06",
+     "estadio": "Estadio Sergio León Chavez",
+     "local": "Hungría",
+     "golesLocal": 2,
+     "visitante": "Canadá",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-09",
+     "estadio": "Estadio Nou Camp",
+     "local": "Hungría",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1986-06-09",
+     "estadio": "Estadio Sergio León Chavez",
+     "local": "Unión Soviética",
+     "golesLocal": 2,
+     "visitante": "Canadá",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "clasificacion": [
+    {
+     "nombre": "Brasil",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 5,
+     "gc": 0,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "España",
+     "pj": 3,
+     "g": 2,
+     "e": 0,
+     "p": 1,
+     "gf": 5,
+     "gc": 2,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Irlanda del Norte",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 2,
+     "gc": 6,
+     "puntos": 1,
+     "pasa": false
+    },
+    {
+     "nombre": "Argelia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 5,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-06-01",
+     "estadio": "Estadio Jalisco",
+     "local": "España",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-03",
+     "estadio": "Estadio Tres de Marzo",
+     "local": "Argelia",
+     "golesLocal": 1,
+     "visitante": "Irlanda del Norte",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-06",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Argelia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-07",
+     "estadio": "Estadio Tres de Marzo",
+     "local": "Irlanda del Norte",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1986-06-12",
+     "estadio": "Estadio Tecnológico",
+     "local": "Argelia",
+     "golesLocal": 0,
+     "visitante": "España",
+     "golesVisitante": 3
+    },
+    {
+     "fecha": "1986-06-12",
+     "estadio": "Estadio Jalisco",
+     "local": "Irlanda del Norte",
+     "golesLocal": 0,
+     "visitante": "Brasil",
+     "golesVisitante": 3
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "clasificacion": [
+    {
+     "nombre": "Dinamarca",
+     "pj": 3,
+     "g": 3,
+     "e": 0,
+     "p": 0,
+     "gf": 9,
+     "gc": 1,
+     "puntos": 6,
+     "pasa": true
+    },
+    {
+     "nombre": "Alemania Federal",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Uruguay",
+     "pj": 3,
+     "g": 0,
+     "e": 2,
+     "p": 1,
+     "gf": 2,
+     "gc": 7,
+     "puntos": 2,
+     "pasa": true
+    },
+    {
+     "nombre": "Escocia",
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 1,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-06-04",
+     "estadio": "Estadio La Corregidora",
+     "local": "Uruguay",
+     "golesLocal": 1,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-04",
+     "estadio": "Estadio Neza 86",
+     "local": "Escocia",
+     "golesLocal": 0,
+     "visitante": "Dinamarca",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-08",
+     "estadio": "Estadio La Corregidora",
+     "local": "Alemania Federal",
+     "golesLocal": 2,
+     "visitante": "Escocia",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-08",
+     "estadio": "Estadio Neza 86",
+     "local": "Dinamarca",
+     "golesLocal": 6,
+     "visitante": "Uruguay",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-13",
+     "estadio": "Estadio La Corregidora",
+     "local": "Dinamarca",
+     "golesLocal": 2,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-13",
+     "estadio": "Estadio Neza 86",
+     "local": "Escocia",
+     "golesLocal": 0,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "fase": "Fase de grupos",
+   "grupo": "F",
+   "clasificacion": [
+    {
+     "nombre": "Marruecos",
+     "pj": 3,
+     "g": 1,
+     "e": 2,
+     "p": 0,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 4,
+     "pasa": true
+    },
+    {
+     "nombre": "Inglaterra",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 1,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Polonia",
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 1,
+     "gc": 3,
+     "puntos": 3,
+     "pasa": true
+    },
+    {
+     "nombre": "Portugal",
+     "pj": 3,
+     "g": 1,
+     "e": 0,
+     "p": 2,
+     "gf": 2,
+     "gc": 4,
+     "puntos": 2,
+     "pasa": false
+    }
+   ],
+   "partidos": [
+    {
+     "fecha": "1986-06-02",
+     "estadio": "Estadio Universitario",
+     "local": "Marruecos",
+     "golesLocal": 0,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-03",
+     "estadio": "Estadio Tecnológico",
+     "local": "Portugal",
+     "golesLocal": 1,
+     "visitante": "Inglaterra",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-06",
+     "estadio": "Estadio Tecnológico",
+     "local": "Inglaterra",
+     "golesLocal": 0,
+     "visitante": "Marruecos",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-07",
+     "estadio": "Estadio Universitario",
+     "local": "Polonia",
+     "golesLocal": 1,
+     "visitante": "Portugal",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-11",
+     "estadio": "Estadio Universitario",
+     "local": "Inglaterra",
+     "golesLocal": 3,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-11",
+     "estadio": "Estadio Tres de Marzo",
+     "local": "Portugal",
+     "golesLocal": 1,
+     "visitante": "Marruecos",
+     "golesVisitante": 3
+    }
+   ]
+  }
+ ],
+ "rondas": [
+  {
+   "ronda": "Octavos de final",
+   "partidos": [
+    {
+     "fecha": "1986-06-15",
+     "estadio": "Estadio Azteca",
+     "local": "México",
+     "golesLocal": 2,
+     "visitante": "Bulgaria",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-15",
+     "estadio": "Estadio Nou Camp",
+     "local": "Unión Soviética",
+     "golesLocal": 3,
+     "visitante": "Bélgica",
+     "golesVisitante": 4,
+     "prorroga": true
+    },
+    {
+     "fecha": "1986-06-16",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 4,
+     "visitante": "Polonia",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-16",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Argentina",
+     "golesLocal": 1,
+     "visitante": "Uruguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-17",
+     "estadio": "Estadio Olímpico Universitario",
+     "local": "Italia",
+     "golesLocal": 0,
+     "visitante": "Francia",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1986-06-17",
+     "estadio": "Estadio Universitario",
+     "local": "Marruecos",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-18",
+     "estadio": "Estadio Azteca",
+     "local": "Inglaterra",
+     "golesLocal": 3,
+     "visitante": "Paraguay",
+     "golesVisitante": 0
+    },
+    {
+     "fecha": "1986-06-18",
+     "estadio": "Estadio La Corregidora",
+     "local": "Dinamarca",
+     "golesLocal": 1,
+     "visitante": "España",
+     "golesVisitante": 5
+    }
+   ]
+  },
+  {
+   "ronda": "Cuartos de final",
+   "partidos": [
+    {
+     "fecha": "1986-06-21",
+     "estadio": "Estadio Jalisco",
+     "local": "Brasil",
+     "golesLocal": 1,
+     "visitante": "Francia",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      3,
+      4
+     ]
+    },
+    {
+     "fecha": "1986-06-21",
+     "estadio": "Estadio Universitario",
+     "local": "Alemania Federal",
+     "golesLocal": 0,
+     "visitante": "México",
+     "golesVisitante": 0,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      1
+     ]
+    },
+    {
+     "fecha": "1986-06-22",
+     "estadio": "Estadio Azteca",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Inglaterra",
+     "golesVisitante": 1
+    },
+    {
+     "fecha": "1986-06-22",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "España",
+     "golesLocal": 1,
+     "visitante": "Bélgica",
+     "golesVisitante": 1,
+     "prorroga": true,
+     "penaltis": [
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "ronda": "Semifinales",
+   "partidos": [
+    {
+     "fecha": "1986-06-25",
+     "estadio": "Estadio Jalisco",
+     "local": "Francia",
+     "golesLocal": 0,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    },
+    {
+     "fecha": "1986-06-25",
+     "estadio": "Estadio Azteca",
+     "local": "Argentina",
+     "golesLocal": 2,
+     "visitante": "Bélgica",
+     "golesVisitante": 0
+    }
+   ]
+  },
+  {
+   "ronda": "Tercer puesto",
+   "partidos": [
+    {
+     "fecha": "1986-06-28",
+     "estadio": "Estadio Cuauhtémoc",
+     "local": "Bélgica",
+     "golesLocal": 2,
+     "visitante": "Francia",
+     "golesVisitante": 4,
+     "prorroga": true
+    }
+   ]
+  },
+  {
+   "ronda": "Final",
+   "partidos": [
+    {
+     "fecha": "1986-06-29",
+     "estadio": "Estadio Azteca",
+     "local": "Argentina",
+     "golesLocal": 3,
+     "visitante": "Alemania Federal",
+     "golesVisitante": 2
+    }
+   ]
+  }
+ ],
+ "goles": [
+  {
+   "fecha": "1986-05-31",
+   "local": "Bulgaria",
+   "visitante": "Italia",
+   "jugador": "Alessandro Altobelli",
+   "seleccion": "Italia",
+   "minuto": "44"
+  },
+  {
+   "fecha": "1986-05-31",
+   "local": "Bulgaria",
+   "visitante": "Italia",
+   "jugador": "Nasko Sirakov",
+   "seleccion": "Bulgaria",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1986-06-01",
+   "local": "España",
+   "visitante": "Brasil",
+   "jugador": "Sócrates",
+   "seleccion": "Brasil",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-01",
+   "local": "Canadá",
+   "visitante": "Francia",
+   "jugador": "Jean-Pierre Papin",
+   "seleccion": "Francia",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Jorge Valdano",
+   "seleccion": "Argentina",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Oscar Ruggeri",
+   "seleccion": "Argentina",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Jorge Valdano",
+   "seleccion": "Argentina",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Argentina",
+   "visitante": "Corea del Sur",
+   "jugador": "Chang-sun Park",
+   "seleccion": "Corea del Sur",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Pavel Yakovenko",
+   "seleccion": "Unión Soviética",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Sergei Aleinikov",
+   "seleccion": "Unión Soviética",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Ihor Belanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "24",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Ivan Yaremchuk",
+   "seleccion": "Unión Soviética",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "László Dajka",
+   "seleccion": "Hungría",
+   "minuto": "73",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1986-06-02",
+   "local": "Unión Soviética",
+   "visitante": "Hungría",
+   "jugador": "Sergey Rodionov",
+   "seleccion": "Unión Soviética",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Fernando Quirarte",
+   "seleccion": "México",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Hugo Sánchez",
+   "seleccion": "México",
+   "minuto": "39"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Bélgica",
+   "visitante": "México",
+   "jugador": "Erwin Vandenbergh",
+   "seleccion": "Bélgica",
+   "minuto": "45"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Argelia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Norman Whiteside",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "6"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Argelia",
+   "visitante": "Irlanda del Norte",
+   "jugador": "Djamel Zidane",
+   "seleccion": "Argelia",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1986-06-03",
+   "local": "Portugal",
+   "visitante": "Inglaterra",
+   "jugador": "Carlos Manuel",
+   "seleccion": "Portugal",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1986-06-04",
+   "local": "Paraguay",
+   "visitante": "Irak",
+   "jugador": "Julio César Romero",
+   "seleccion": "Paraguay",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1986-06-04",
+   "local": "Uruguay",
+   "visitante": "Alemania Federal",
+   "jugador": "Antonio Alzamendi",
+   "seleccion": "Uruguay",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1986-06-04",
+   "local": "Uruguay",
+   "visitante": "Alemania Federal",
+   "jugador": "Klaus Allofs",
+   "seleccion": "Alemania Federal",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1986-06-04",
+   "local": "Escocia",
+   "visitante": "Dinamarca",
+   "jugador": "Preben Elkjær",
+   "seleccion": "Dinamarca",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Italia",
+   "visitante": "Argentina",
+   "jugador": "Alessandro Altobelli",
+   "seleccion": "Italia",
+   "minuto": "6",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Italia",
+   "visitante": "Argentina",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Francia",
+   "visitante": "Unión Soviética",
+   "jugador": "Vasyl Rats",
+   "seleccion": "Unión Soviética",
+   "minuto": "53"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Francia",
+   "visitante": "Unión Soviética",
+   "jugador": "Luis Fernández",
+   "seleccion": "Francia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Corea del Sur",
+   "visitante": "Bulgaria",
+   "jugador": "Plamen Getov",
+   "seleccion": "Bulgaria",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1986-06-05",
+   "local": "Corea del Sur",
+   "visitante": "Bulgaria",
+   "jugador": "Jong-boo Kim",
+   "seleccion": "Corea del Sur",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1986-06-06",
+   "local": "Hungría",
+   "visitante": "Canadá",
+   "jugador": "Márton Esterházy",
+   "seleccion": "Hungría",
+   "minuto": "2"
+  },
+  {
+   "fecha": "1986-06-06",
+   "local": "Hungría",
+   "visitante": "Canadá",
+   "jugador": "Lajos Détári",
+   "seleccion": "Hungría",
+   "minuto": "75"
+  },
+  {
+   "fecha": "1986-06-06",
+   "local": "Brasil",
+   "visitante": "Argelia",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "66"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "México",
+   "visitante": "Paraguay",
+   "jugador": "Luis Flores",
+   "seleccion": "México",
+   "minuto": "3"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "México",
+   "visitante": "Paraguay",
+   "jugador": "Julio César Romero",
+   "seleccion": "Paraguay",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "Irlanda del Norte",
+   "visitante": "España",
+   "jugador": "Emilio Butragueño",
+   "seleccion": "España",
+   "minuto": "1"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "Irlanda del Norte",
+   "visitante": "España",
+   "jugador": "Julio Salinas",
+   "seleccion": "España",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "Irlanda del Norte",
+   "visitante": "España",
+   "jugador": "Colin Clarke",
+   "seleccion": "Irlanda del Norte",
+   "minuto": "46"
+  },
+  {
+   "fecha": "1986-06-07",
+   "local": "Polonia",
+   "visitante": "Portugal",
+   "jugador": "Włodzimierz Smolarek",
+   "seleccion": "Polonia",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Irak",
+   "visitante": "Bélgica",
+   "jugador": "Enzo Scifo",
+   "seleccion": "Bélgica",
+   "minuto": "16"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Irak",
+   "visitante": "Bélgica",
+   "jugador": "Nico Claesen",
+   "seleccion": "Bélgica",
+   "minuto": "21",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Irak",
+   "visitante": "Bélgica",
+   "jugador": "Ahmed Radhi",
+   "seleccion": "Irak",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Alemania Federal",
+   "visitante": "Escocia",
+   "jugador": "Gordon Strachan",
+   "seleccion": "Escocia",
+   "minuto": "18"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Alemania Federal",
+   "visitante": "Escocia",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Alemania Federal",
+   "visitante": "Escocia",
+   "jugador": "Klaus Allofs",
+   "seleccion": "Alemania Federal",
+   "minuto": "49"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Preben Elkjær",
+   "seleccion": "Dinamarca",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Søren Lerby",
+   "seleccion": "Dinamarca",
+   "minuto": "41"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Enzo Francescoli",
+   "seleccion": "Uruguay",
+   "minuto": "45",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Michael Laudrup",
+   "seleccion": "Dinamarca",
+   "minuto": "52"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Preben Elkjær",
+   "seleccion": "Dinamarca",
+   "minuto": "67"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Preben Elkjær",
+   "seleccion": "Dinamarca",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1986-06-08",
+   "local": "Dinamarca",
+   "visitante": "Uruguay",
+   "jugador": "Jesper Olsen",
+   "seleccion": "Dinamarca",
+   "minuto": "88"
+  },
+  {
+   "fecha": "1986-06-09",
+   "local": "Hungría",
+   "visitante": "Francia",
+   "jugador": "Yannick Stopyra",
+   "seleccion": "Francia",
+   "minuto": "29"
+  },
+  {
+   "fecha": "1986-06-09",
+   "local": "Hungría",
+   "visitante": "Francia",
+   "jugador": "Jean Tigana",
+   "seleccion": "Francia",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-09",
+   "local": "Hungría",
+   "visitante": "Francia",
+   "jugador": "Dominique Rocheteau",
+   "seleccion": "Francia",
+   "minuto": "84"
+  },
+  {
+   "fecha": "1986-06-09",
+   "local": "Unión Soviética",
+   "visitante": "Canadá",
+   "jugador": "Oleh Blokhin",
+   "seleccion": "Unión Soviética",
+   "minuto": "58"
+  },
+  {
+   "fecha": "1986-06-09",
+   "local": "Unión Soviética",
+   "visitante": "Canadá",
+   "jugador": "Oleksandr Zavarov",
+   "seleccion": "Unión Soviética",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Argentina",
+   "visitante": "Bulgaria",
+   "jugador": "Jorge Valdano",
+   "seleccion": "Argentina",
+   "minuto": "4"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Argentina",
+   "visitante": "Bulgaria",
+   "jugador": "Jorge Burruchaga",
+   "seleccion": "Argentina",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Alessandro Altobelli",
+   "seleccion": "Italia",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Soon-ho Choi",
+   "seleccion": "Corea del Sur",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Alessandro Altobelli",
+   "seleccion": "Italia",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Kwang-rae Cho",
+   "seleccion": "Corea del Sur",
+   "minuto": "82",
+   "tipo": "propia"
+  },
+  {
+   "fecha": "1986-06-10",
+   "local": "Corea del Sur",
+   "visitante": "Italia",
+   "jugador": "Jung-moo Huh",
+   "seleccion": "Corea del Sur",
+   "minuto": "83"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Irak",
+   "visitante": "México",
+   "jugador": "Fernando Quirarte",
+   "seleccion": "México",
+   "minuto": "54"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Paraguay",
+   "visitante": "Bélgica",
+   "jugador": "Franky Vercauteren",
+   "seleccion": "Bélgica",
+   "minuto": "30"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Paraguay",
+   "visitante": "Bélgica",
+   "jugador": "Roberto Cabañas",
+   "seleccion": "Paraguay",
+   "minuto": "50"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Paraguay",
+   "visitante": "Bélgica",
+   "jugador": "Daniel Veyt",
+   "seleccion": "Bélgica",
+   "minuto": "59"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Paraguay",
+   "visitante": "Bélgica",
+   "jugador": "Roberto Cabañas",
+   "seleccion": "Paraguay",
+   "minuto": "76"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Inglaterra",
+   "visitante": "Polonia",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Inglaterra",
+   "visitante": "Polonia",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "14"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Inglaterra",
+   "visitante": "Polonia",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Portugal",
+   "visitante": "Marruecos",
+   "jugador": "Abderrazak Khairi",
+   "seleccion": "Marruecos",
+   "minuto": "19"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Portugal",
+   "visitante": "Marruecos",
+   "jugador": "Abderrazak Khairi",
+   "seleccion": "Marruecos",
+   "minuto": "26"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Portugal",
+   "visitante": "Marruecos",
+   "jugador": "Abdelkrim Merry",
+   "seleccion": "Marruecos",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-11",
+   "local": "Portugal",
+   "visitante": "Marruecos",
+   "jugador": "Diamantino",
+   "seleccion": "Portugal",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Argelia",
+   "visitante": "España",
+   "jugador": "Ramón Calderé",
+   "seleccion": "España",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Argelia",
+   "visitante": "España",
+   "jugador": "Ramón Calderé",
+   "seleccion": "España",
+   "minuto": "68"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Argelia",
+   "visitante": "España",
+   "jugador": "Eloy",
+   "seleccion": "España",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Irlanda del Norte",
+   "visitante": "Brasil",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Irlanda del Norte",
+   "visitante": "Brasil",
+   "jugador": "Josimar",
+   "seleccion": "Brasil",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1986-06-12",
+   "local": "Irlanda del Norte",
+   "visitante": "Brasil",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1986-06-13",
+   "local": "Dinamarca",
+   "visitante": "Alemania Federal",
+   "jugador": "Jesper Olsen",
+   "seleccion": "Dinamarca",
+   "minuto": "43",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-13",
+   "local": "Dinamarca",
+   "visitante": "Alemania Federal",
+   "jugador": "John Eriksen",
+   "seleccion": "Dinamarca",
+   "minuto": "62"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "México",
+   "visitante": "Bulgaria",
+   "jugador": "Manuel Negrete",
+   "seleccion": "México",
+   "minuto": "34"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "México",
+   "visitante": "Bulgaria",
+   "jugador": "Raúl Servín",
+   "seleccion": "México",
+   "minuto": "61"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Ihor Belanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Enzo Scifo",
+   "seleccion": "Bélgica",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Ihor Belanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "70"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Jan Ceulemans",
+   "seleccion": "Bélgica",
+   "minuto": "77"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Stéphane Demol",
+   "seleccion": "Bélgica",
+   "minuto": "102"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Nico Claesen",
+   "seleccion": "Bélgica",
+   "minuto": "110"
+  },
+  {
+   "fecha": "1986-06-15",
+   "local": "Unión Soviética",
+   "visitante": "Bélgica",
+   "jugador": "Ihor Belanov",
+   "seleccion": "Unión Soviética",
+   "minuto": "111",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-16",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Sócrates",
+   "seleccion": "Brasil",
+   "minuto": "30",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-16",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Josimar",
+   "seleccion": "Brasil",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1986-06-16",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Edinho",
+   "seleccion": "Brasil",
+   "minuto": "79"
+  },
+  {
+   "fecha": "1986-06-16",
+   "local": "Brasil",
+   "visitante": "Polonia",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "83",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-16",
+   "local": "Argentina",
+   "visitante": "Uruguay",
+   "jugador": "Pedro Pasculli",
+   "seleccion": "Argentina",
+   "minuto": "42"
+  },
+  {
+   "fecha": "1986-06-17",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Michel Platini",
+   "seleccion": "Francia",
+   "minuto": "15"
+  },
+  {
+   "fecha": "1986-06-17",
+   "local": "Italia",
+   "visitante": "Francia",
+   "jugador": "Yannick Stopyra",
+   "seleccion": "Francia",
+   "minuto": "57"
+  },
+  {
+   "fecha": "1986-06-17",
+   "local": "Marruecos",
+   "visitante": "Alemania Federal",
+   "jugador": "Lothar Matthäus",
+   "seleccion": "Alemania Federal",
+   "minuto": "87"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Inglaterra",
+   "visitante": "Paraguay",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "31"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Inglaterra",
+   "visitante": "Paraguay",
+   "jugador": "Peter Beardsley",
+   "seleccion": "Inglaterra",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Inglaterra",
+   "visitante": "Paraguay",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Jesper Olsen",
+   "seleccion": "Dinamarca",
+   "minuto": "33",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Emilio Butragueño",
+   "seleccion": "España",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Emilio Butragueño",
+   "seleccion": "España",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Andoni Goikoetxea",
+   "seleccion": "España",
+   "minuto": "68",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Emilio Butragueño",
+   "seleccion": "España",
+   "minuto": "80"
+  },
+  {
+   "fecha": "1986-06-18",
+   "local": "Dinamarca",
+   "visitante": "España",
+   "jugador": "Emilio Butragueño",
+   "seleccion": "España",
+   "minuto": "88",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-21",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Careca",
+   "seleccion": "Brasil",
+   "minuto": "17"
+  },
+  {
+   "fecha": "1986-06-21",
+   "local": "Brasil",
+   "visitante": "Francia",
+   "jugador": "Michel Platini",
+   "seleccion": "Francia",
+   "minuto": "40"
+  },
+  {
+   "fecha": "1986-06-22",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1986-06-22",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "55"
+  },
+  {
+   "fecha": "1986-06-22",
+   "local": "Argentina",
+   "visitante": "Inglaterra",
+   "jugador": "Gary Lineker",
+   "seleccion": "Inglaterra",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1986-06-22",
+   "local": "España",
+   "visitante": "Bélgica",
+   "jugador": "Jan Ceulemans",
+   "seleccion": "Bélgica",
+   "minuto": "35"
+  },
+  {
+   "fecha": "1986-06-22",
+   "local": "España",
+   "visitante": "Bélgica",
+   "jugador": "Juan Antonio Señor",
+   "seleccion": "España",
+   "minuto": "85"
+  },
+  {
+   "fecha": "1986-06-25",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Andreas Brehme",
+   "seleccion": "Alemania Federal",
+   "minuto": "9"
+  },
+  {
+   "fecha": "1986-06-25",
+   "local": "Francia",
+   "visitante": "Alemania Federal",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "90"
+  },
+  {
+   "fecha": "1986-06-25",
+   "local": "Argentina",
+   "visitante": "Bélgica",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "51"
+  },
+  {
+   "fecha": "1986-06-25",
+   "local": "Argentina",
+   "visitante": "Bélgica",
+   "jugador": "Diego Maradona",
+   "seleccion": "Argentina",
+   "minuto": "63"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Jan Ceulemans",
+   "seleccion": "Bélgica",
+   "minuto": "11"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Jean-Marc Ferreri",
+   "seleccion": "Francia",
+   "minuto": "27"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Jean-Pierre Papin",
+   "seleccion": "Francia",
+   "minuto": "43"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Nico Claesen",
+   "seleccion": "Bélgica",
+   "minuto": "73"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Bernard Genghini",
+   "seleccion": "Francia",
+   "minuto": "104"
+  },
+  {
+   "fecha": "1986-06-28",
+   "local": "Bélgica",
+   "visitante": "Francia",
+   "jugador": "Manuel Amoros",
+   "seleccion": "Francia",
+   "minuto": "111",
+   "tipo": "penalti"
+  },
+  {
+   "fecha": "1986-06-29",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "José Luis Brown",
+   "seleccion": "Argentina",
+   "minuto": "23"
+  },
+  {
+   "fecha": "1986-06-29",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Jorge Valdano",
+   "seleccion": "Argentina",
+   "minuto": "56"
+  },
+  {
+   "fecha": "1986-06-29",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Karl-Heinz Rummenigge",
+   "seleccion": "Alemania Federal",
+   "minuto": "74"
+  },
+  {
+   "fecha": "1986-06-29",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Rudi Völler",
+   "seleccion": "Alemania Federal",
+   "minuto": "81"
+  },
+  {
+   "fecha": "1986-06-29",
+   "local": "Argentina",
+   "visitante": "Alemania Federal",
+   "jugador": "Jorge Burruchaga",
+   "seleccion": "Argentina",
+   "minuto": "84"
+  }
+ ]
+}
