@@ -222,6 +222,9 @@ TEXTOS = {
     "Récords del Mundial": {"pt": "Recordes da Copa", "en": "World Cup records"},
     "Mayor goleada": {"pt": "Maior goleada", "en": "Biggest win"},
     "{n} goles de diferencia": {"pt": "{n} gols de diferença", "en": "{n}-goal margin"},
+    # La de una selección, cuando fue por un solo gol: un 1-0 no es una goleada
+    "Mayor victoria": {"pt": "Maior vitória", "en": "Biggest win"},
+    "{n} gol de diferencia": {"pt": "{n} gol de diferença", "en": "{n}-goal margin"},
     "Partido con más goles": {"pt": "Jogo com mais gols", "en": "Highest-scoring match"},
     "Ningún partido": {"pt": "Nenhum jogo", "en": "No match"},
     "se decidió en los penaltis": {"pt": "foi decidido nos pênaltis", "en": "was decided on penalties"},

@@ -162,19 +162,23 @@ def goles_por_ronda(partidos):
     return [{**fila, "media": fila["goles"] / fila["partidos"]} for fila in rondas.values()]
 
 
+def mayor_goleada(partidos):
+    """La mayor diferencia de goles y sus partidos: si dos empatan, salen los dos."""
+    def diferencia(p):
+        return abs(p["golesLocal"] - p["golesVisitante"])
+
+    mayor = max(diferencia(p) for p in partidos)
+    return {"diferencia": mayor, "partidos": [p for p in partidos if diferencia(p) == mayor]}
+
+
 def records(partidos):
     """Los récords del Mundial. Si dos partidos empatan en un récord, salen los dos."""
     def goles(p):
         return p["golesLocal"] + p["golesVisitante"]
 
-    def diferencia(p):
-        return abs(p["golesLocal"] - p["golesVisitante"])
-
-    mayor_diferencia = max(diferencia(p) for p in partidos)
     mas_goles = max(goles(p) for p in partidos)
     return {
-        "mayor_goleada": {"diferencia": mayor_diferencia,
-                          "partidos": [p for p in partidos if diferencia(p) == mayor_diferencia]},
+        "mayor_goleada": mayor_goleada(partidos),
         "mas_goles": {"goles": mas_goles, "partidos": [p for p in partidos if goles(p) == mas_goles]},
         "penaltis": [p for p in partidos if p.get("penaltis")],
         # Los de penaltis también tuvieron prórroga: aquí solo los que se decidieron en ella
@@ -564,9 +568,12 @@ def historial(mundiales):
     for año, m in sorted(mundiales.items()):
         for nombre in m["selecciones"]:
             c = camino(m, nombre)
-            h = selecciones.setdefault(actual(nombre), {"nombre": actual(nombre), "participaciones": [], "goles": {}})
+            h = selecciones.setdefault(actual(nombre), {"nombre": actual(nombre), "participaciones": [], "goles": {},
+                                                         "ganados": []})
             h["participaciones"].append({"año": año, "como": nombre, "hasta_donde": c["hasta_donde"],
                                          **resumen_de_partidos(c["partidos"], {nombre})})
+            # Los que ganó por goles (una tanda de penaltis no es una goleada), cada uno con su año para enlazarlo
+            h["ganados"] += [{**p, "año": año} for p in c["partidos"] if p["resultado"] == "V" and not p.get("penaltis")]
         for g in m["goles"]:
             if g.get("tipo") != "propia":
                 selecciones[actual(g["seleccion"])]["goles"].setdefault(año, []).append(g)
@@ -581,6 +588,9 @@ def historial(mundiales):
         # Sus máximos goleadores de todos los Mundiales (los 5 primeros y los empatados con el quinto)
         goles = h.pop("goles")
         h["goleadores"] = goleadores_historicos(goles, cuantos=5) if goles else []
+        # Su mayor goleada, o None si nunca ha ganado por goles
+        ganados = h.pop("ganados")
+        h["mayor_goleada"] = mayor_goleada(ganados) if ganados else None
     return selecciones
 
 
