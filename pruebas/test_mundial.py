@@ -454,6 +454,35 @@ def test_el_mejor_resultado(historial):
     assert historial["Indonesia"]["goleadores"] == []          # 1938: perdió 6-0 y no marcó
 
 
+@pytest.mark.parametrize("seleccion, diferencia, partidos", [
+    ("Alemania", 8, [(2002, "Alemania 8-0 Arabia Saudí")]),
+    ("Serbia", 9, [(1974, "Yugoslavia 9-0 Zaire")]),              # con el nombre de entonces
+    ("Francia", 4, [(1958, "Francia 7-3 Paraguay"), (1958, "Francia 4-0 Irlanda del Norte"),
+                    (1998, "Francia 4-0 Arabia Saudí")]),         # empatadas: salen todas, de la más antigua a la más reciente
+    ("Camerún", 1, [(1990, "Argentina 0-1 Camerún"), (1990, "Camerún 2-1 Rumania"),
+                    (1990, "Camerún 2-1 Colombia (prór.)"), (2002, "Camerún 1-0 Arabia Saudí"),
+                    (2022, "Camerún 1-0 Brasil")]),               # nunca ganó por más de uno
+])
+def test_mayor_goleada_de_una_seleccion(historial, seleccion, diferencia, partidos):
+    mayor = historial[seleccion]["mayor_goleada"]
+    assert mayor["diferencia"] == diferencia
+    assert [(p["año"], mundial.texto_partido(p)) for p in mayor["partidos"]] == partidos
+
+
+def test_selecciones_que_nunca_han_ganado_por_goles(historial):
+    assert historial["Bolivia"]["mayor_goleada"] is None
+    assert sum(h["mayor_goleada"] is None for h in historial.values()) == 21
+
+
+def test_las_mayores_goleadas_son_victorias_por_goles(historial):
+    """De todas las selecciones: cada partido lo ganó ella, con esa diferencia y sin penaltis."""
+    for h in historial.values():
+        mayor = h["mayor_goleada"] or {"partidos": []}
+        for p in mayor["partidos"]:
+            assert mundial.actual(mundial.ganador_de(p)) == h["nombre"] and not p.get("penaltis")
+            assert abs(p["golesLocal"] - p["golesVisitante"]) == mayor["diferencia"] > 0
+
+
 def test_partidos_entre_dos_selecciones(todos):
     entre = mundial.partidos_entre(todos, "Argentina", "Alemania")
     assert [p["año"] for p in entre] == [1958, 1966, 1986, 1990, 2006, 2010, 2014]

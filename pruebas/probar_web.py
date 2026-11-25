@@ -501,6 +501,8 @@ def probar_selecciones(navegador, raiz, errores):
     pulsar(pagina, "tbody a >> text=Alemania")
     comprobar("Alemania tiene sus 21 Mundiales (con los de Alemania Federal)",
               pagina.locator("#mundiales tbody tr").count() == 21)
+    comprobar("su mayor goleada es el 8-0 a Arabia Saudí",
+              pagina.locator("#goleada li a").all_inner_texts() == ["Alemania 8-0 Arabia Saudí"])
     pagina.select_option("#selector-contra", "Argentina")
     pulsar(pagina, "#contra .boton")
     comprobar("contra Argentina salen sus 7 partidos", pagina.locator("#contra .lista-partidos li").count() == 7)
@@ -513,6 +515,8 @@ def probar_selecciones(navegador, raiz, errores):
     comprobar("en inglés, la página de Alemania es la de Germany, con sus 7 partidos contra Argentina",
               pagina.inner_text("h1").upper() == "GERMANY" and "contra=Argentina" in pagina.url
               and pagina.locator("#contra .lista-partidos li").count() == 7)
+    comprobar("en inglés, su mayor goleada también está traducida",
+              pagina.locator("#goleada li a").all_inner_texts() == ["Germany 8-0 Saudi Arabia"])
     revisar_accesibilidad(pagina, "la página de Alemania en inglés")
     pagina.close()
 

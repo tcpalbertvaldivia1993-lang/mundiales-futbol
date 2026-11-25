@@ -459,6 +459,36 @@ def test_la_pagina_de_una_seleccion(cliente):
     assert '<th scope="row">Miroslav Klose</th>' in pagina
 
 
+def test_la_mayor_goleada_de_una_seleccion(cliente):
+    pagina = html(cliente.get("/seleccion/Alemania"))
+    assert "<h2>Mayor goleada</h2>" in pagina and "8 goles de diferencia" in pagina
+    assert 'href="/2002/partido/3">Alemania 8-0 Arabia Saudí</a>' in pagina
+
+
+def test_una_victoria_por_un_gol_no_es_una_goleada(cliente):
+    pagina = html(cliente.get("/seleccion/Camerún"))
+    assert "<h2>Mayor victoria</h2>" in pagina and "1 gol de diferencia" in pagina
+    assert "Mayor goleada" not in pagina
+
+
+def test_una_seleccion_que_nunca_gano_no_tiene_goleada(cliente):
+    assert 'id="goleada"' not in html(cliente.get("/seleccion/Bolivia"))
+
+
+@pytest.mark.parametrize("idioma, goleada, victoria", [
+    ("pt", ["<h2>Maior goleada</h2>", "8 gols de diferença", "Alemanha 8-0 Arábia Saudita</a>"],
+           ["<h2>Maior vitória</h2>", "1 gol de diferença", "Oitavas de final", "Camarões 2-1 Colômbia", "(prorr.)"]),
+    ("en", ["<h2>Biggest win</h2>", "8-goal margin", "Germany 8-0 Saudi Arabia</a>"],
+           ["<h2>Biggest win</h2>", "1-goal margin", "Round of 16", "Cameroon 2-1 Colombia", "(a.e.t.)"]),
+])
+def test_la_mayor_goleada_en_otros_idiomas(cliente, idioma, goleada, victoria):
+    cliente.post("/idioma", data={"idioma": idioma, "volver": "/"})
+    for seleccion, textos_esperados in (("Alemania", goleada), ("Camerún", victoria)):
+        pagina = html(cliente.get(f"/seleccion/{seleccion}"))
+        for texto in textos_esperados:
+            assert texto in pagina
+
+
 def test_contra_otra_seleccion(cliente):
     pagina = html(cliente.get("/seleccion/Alemania?contra=Argentina"))
     assert "7 partidos contra Argentina" in pagina

@@ -68,6 +68,20 @@
     </div>
   </section>
 
+  {# Las selecciones que nunca han ganado por goles no tienen esta sección #}
+  {% if h.mayor_goleada %}
+  {% set mg = h.mayor_goleada %}
+  <section id="goleada" class="seccion">
+    <h2>{{ t("Mayor victoria" if mg.diferencia == 1 else "Mayor goleada") }}</h2>
+    <p class="nota">{{ t("{n} gol de diferencia" if mg.diferencia == 1 else "{n} goles de diferencia", n=mg.diferencia) }}</p>
+    <ul class="lista-partidos">
+      {% for p in mg.partidos %}
+        <li>{{ p.año }} · {{ p.ronda | nombre }}<br><a href="{{ enlace_partido_de(p, p.año) }}">{{ p | texto_partido | abreviaturas }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   {% if h.goleadores %}
   <section id="goleadores" class="seccion">
     <h2>{{ t("Sus máximos goleadores") }}</h2>
